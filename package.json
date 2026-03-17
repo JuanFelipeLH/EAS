@@ -1,0 +1,17 @@
+{
+  "name": "eas-nuclear-alert-system",
+  "version": "1.0.0",
+  "description": "Serverless nuclear event monitoring system using GitHub Actions + ESP32",
+  "main": "src/monitor.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/monitor.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

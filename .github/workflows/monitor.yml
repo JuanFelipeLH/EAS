@@ -1,0 +1,47 @@
+name: nuclear-monitor
+
+on:
+  schedule:
+    # Runs every 5 minutes
+    - cron: "*/5 * * * *"
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    # Write permission is required to push status.json back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git push works correctly
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run nuclear monitor
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+        run: node src/monitor.js
+
+      - name: Commit and push status update
+        run: |
+          git config --global user.name "nuclear-monitor-bot"
+          git config --global user.email "bot@nuclear-monitor.local"
+          git add data/status.json data/history.json data/processing_log.json
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: update status [skip ci]"
+          git push
