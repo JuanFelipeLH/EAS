@@ -9,7 +9,8 @@
     "test": "node --experimental-vm-modules node_modules/.bin/jest"
   },
   "dependencies": {
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "rss-parser": "^3.13.0"
   },
   "engines": {
     "node": ">=18.0.0"

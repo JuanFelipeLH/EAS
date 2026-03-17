@@ -14,6 +14,9 @@ const LOG_MAX_AGE_HOURS = 48;
 
 const AI_CONFIDENCE_THRESHOLD = 0.9;
 
+// NewsData.io is called at most once every 10 minutes to stay within the 200 req/day free limit
+const NEWSDATA_INTERVAL_MS = 10 * 60 * 1000;
+
 /**
  * Reads and parses a JSON file. Returns a default value if the file is missing.
  * @template T
@@ -102,12 +105,21 @@ async function run() {
     sources: [],
     last_checked: null,
     last_updated: null,
+    last_newsdata_check: null,
   });
 
   // ── Step 1: Fetch news ──────────────────────────────────────────────────────
+  const useNewsData =
+    !!process.env.NEWSDATA_API_KEY &&
+    (!previous.last_newsdata_check ||
+      Date.now() - new Date(previous.last_newsdata_check).getTime() >= NEWSDATA_INTERVAL_MS);
+
+  if (useNewsData) console.log("[Monitor] NewsData.io: will be queried this run.");
+  else console.log("[Monitor] NewsData.io: skipped (< 10 min since last call).");
+
   let allArticles;
   try {
-    allArticles = await fetchNuclearNews();
+    allArticles = await fetchNuclearNews({ useNewsData });
     console.log(`[Monitor] Fetched ${allArticles.length} articles.`);
   } catch (err) {
     console.error("[Monitor] Failed to fetch news:", err.message);
@@ -163,6 +175,7 @@ async function run() {
       sources: [],
       last_checked: now,
       last_updated: previous.status !== "NONE" ? now : previous.last_updated,
+      last_newsdata_check: useNewsData ? now : previous.last_newsdata_check,
     });
     process.exit(0);
   }
@@ -217,6 +230,7 @@ async function run() {
     sources: sourceNames,
     last_checked: now,
     last_updated: newStatus !== previous.status ? now : previous.last_updated,
+    last_newsdata_check: useNewsData ? now : previous.last_newsdata_check,
   };
 
   // ── Step 8: Save processing log ────────────────────────────────────────────

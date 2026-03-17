@@ -34,6 +34,7 @@ jobs:
       - name: Run nuclear monitor
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
         run: node src/monitor.js

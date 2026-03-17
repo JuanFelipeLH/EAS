@@ -13,6 +13,7 @@ export const TRUSTED_SOURCES = [
   "The Times of India",
   // Tier 2 — major TV/web outlets
   "ABC News",
+  "Abcnews.com",
   "NBC News",
   "CBS News",
   "Fox News",
