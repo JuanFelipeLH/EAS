@@ -2,9 +2,10 @@ name: nuclear-monitor
 
 on:
   schedule:
-    # Runs every 5 minutes
-    - cron: "*/5 * * * *"
-  # Allow manual trigger for testing
+    # Fallback: GitHub's built-in cron is unreliable at 5-min intervals.
+    # Primary trigger is cron-job.org via workflow_dispatch (see README).
+    - cron: "0 * * * *"
+  # Primary trigger — called every 5 min by cron-job.org via GitHub API
   workflow_dispatch:
 
 jobs:
