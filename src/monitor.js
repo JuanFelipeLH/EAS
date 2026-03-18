@@ -10,7 +10,7 @@ const HISTORY_PATH = "data/history.json";
 const LOG_PATH = "data/processing_log.json";
 
 // Log entries older than this are purged automatically
-const LOG_MAX_AGE_HOURS = 48;
+const LOG_MAX_AGE_HOURS = 24;
 
 const AI_CONFIDENCE_THRESHOLD = 0.9;
 
