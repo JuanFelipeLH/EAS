@@ -8,6 +8,11 @@ on:
   # Primary trigger — called every 5 min by cron-job.org via GitHub API
   workflow_dispatch:
 
+# Cancel any in-progress run when a new one is triggered
+concurrency:
+  group: nuclear-monitor
+  cancel-in-progress: true
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
