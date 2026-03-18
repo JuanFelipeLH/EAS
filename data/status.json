@@ -1,8 +1,10 @@
 {
   "status": "NONE",
-  "confidence": 0,
-  "sources": [],
-  "last_checked": "2026-03-18T09:50:54.107Z",
+  "confidence": 0.1,
+  "sources": [
+    "Al Jazeera English"
+  ],
+  "last_checked": "2026-03-18T09:55:10.376Z",
   "last_updated": null,
   "last_newsdata_check": "2026-03-18T09:50:54.107Z"
 }
