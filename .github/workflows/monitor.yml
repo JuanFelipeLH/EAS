@@ -8,14 +8,17 @@ on:
   # Primary trigger — called every 5 min by cron-job.org via GitHub API
   workflow_dispatch:
 
-# Cancel any in-progress run when a new one is triggered
+# If a run is in progress, queue the next one instead of cancelling it.
+# At most 1 running + 1 queued will exist at any time.
 concurrency:
   group: nuclear-monitor
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    # Hard limit: kill the job if it exceeds 4 minutes so it never blocks the next run
+    timeout-minutes: 4
 
     # Write permission is required to push status.json back to the repo
     permissions:
