@@ -6,3 +6,6 @@ node_modules/
 
 # macOS
 .DS_Store
+
+# Mac client — local config contains real API keys
+mac/config.sh

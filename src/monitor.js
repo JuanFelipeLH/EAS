@@ -17,6 +17,25 @@ const AI_CONFIDENCE_THRESHOLD = 0.9;
 // NewsData.io is called at most once every 10 minutes to stay within the 200 req/day free limit
 const NEWSDATA_INTERVAL_MS = 10 * 60 * 1000;
 
+/** English display message and Spanish voice message keyed by status. */
+const STATUS_MESSAGES = {
+  NONE: {
+    message: "System normal — No nuclear threats detected.",
+    voice_message: "Sistema en estado normal. No se detectaron amenazas nucleares.",
+  },
+  SUSPECTED: {
+    message: "WARNING: Possible nuclear event detected. Stay alert and monitor official channels.",
+    voice_message:
+      "Advertencia: posible evento nuclear detectado. Permanezca alerta y monitoree los canales oficiales.",
+  },
+  CONFIRMED: {
+    message:
+      "EMERGENCY ALERT: Nuclear event confirmed. Seek immediate shelter. Follow civil defense instructions.",
+    voice_message:
+      "Alerta de emergencia: evento nuclear confirmado. Búsquese refugio inmediatamente. Siga las instrucciones de defensa civil.",
+  },
+};
+
 /**
  * Reads and parses a JSON file. Returns a default value if the file is missing.
  * @template T
@@ -173,6 +192,7 @@ async function run() {
       status: "NONE",
       confidence: 0,
       sources: [],
+      ...STATUS_MESSAGES.NONE,
       last_checked: now,
       last_updated: previous.status !== "NONE" ? now : previous.last_updated,
       last_newsdata_check: useNewsData ? now : previous.last_newsdata_check,
@@ -228,6 +248,7 @@ async function run() {
     status: newStatus,
     confidence: aiResult.confidence,
     sources: sourceNames,
+    ...STATUS_MESSAGES[newStatus],
     last_checked: now,
     last_updated: newStatus !== previous.status ? now : previous.last_updated,
     last_newsdata_check: useNewsData ? now : previous.last_newsdata_check,
