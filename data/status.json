@@ -2,12 +2,11 @@
   "status": "NONE",
   "confidence": 0.1,
   "sources": [
-    "BBC News",
-    "Al Jazeera English"
+    "BBC News"
   ],
   "message": "System normal — No nuclear threats detected.",
   "voice_message": "Sistema en estado normal. No se detectaron amenazas nucleares.",
-  "last_checked": "2026-03-23T03:40:12.275Z",
+  "last_checked": "2026-03-23T09:35:13.983Z",
   "last_updated": null,
-  "last_newsdata_check": "2026-03-23T03:30:14.561Z"
+  "last_newsdata_check": "2026-03-23T09:35:13.983Z"
 }
