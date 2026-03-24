@@ -1,5 +1,375 @@
 [
   {
+    "run_at": "2026-03-24T03:55:12.708Z",
+    "discarded_untrusted": [
+      {
+        "title": "Iranian oil purchase to depend on techno-commercial feasibility, payments route unclear",
+        "source": "economictimes_indiatimes",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iranian-oil-purchase-to-depend-on-techno-commercial-feasibility-payments-route-unclear/articleshow/129756988.cms"
+      },
+      {
+        "title": "US said planning weeks-long operation to reopen Hormuz Strait; IDF strikes Tehran overnight",
+        "source": "digitpatrox",
+        "url": "https://digitpatrox.com/us-said-planning-weeks-long-operation-to-reopen-hormuz-strait-idf-strikes-tehran-overnight/"
+      },
+      {
+        "title": "What's happening on US-Iran ‘talks’ as Trump makes big claim but Tehran denies | Explained",
+        "source": "hindustantimes",
+        "url": "https://www.hindustantimes.com/world-news/whats-happening-on-us-iran-talks-as-trump-makes-big-claim-but-tehran-denies-explained-101774277704641.html"
+      },
+      {
+        "title": "As Trump Floats Truce Talks Balloon, Does He Have An Eye On MAGA Supporters?",
+        "source": "outlookindia",
+        "url": "https://www.outlookindia.com/international/as-trump-floats-truce-talks-balloon-does-he-have-an-eye-on-maga-supporters"
+      },
+      {
+        "title": "Trump delays threat to bomb Iran power sites, cites ‘very good, productive’ negotiations",
+        "source": "theshillongtimes",
+        "url": "https://theshillongtimes.com/2026/03/23/trump-delays-threat-to-bomb-iran-power-sites-cites-very-good-productive-negotiations/"
+      },
+      {
+        "title": "More than a Trump card: How the war could really end",
+        "source": "economictimes_indiatimes",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/more-than-a-trump-card-how-the-war-could-really-end/articleshow/129756791.cms"
+      },
+      {
+        "title": "'Bomb our little hearts out': Trump sets 5-day window for 15-point Iran deal — what he said",
+        "source": "toi",
+        "url": "https://timesofindia.indiatimes.com/world/us/bomb-our-little-hearts-out-trump-sets-5-day-window-for-15-point-iran-deal-what-he-said/articleshow/129756818.cms"
+      },
+      {
+        "title": "Live updates: Trump says Iran wants a deal to end the war as Tehran denies negotiating",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/live-updates-trump-says-iran-wants-a-deal-to-end-the-war-81350882"
+      },
+      {
+        "title": "Trump delays strikes on Iranian power plants after ‘very good’ talks on ending war",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/trump-delays-strikes-on-iranian-power-plants-after-very-81350917"
+      },
+      {
+        "title": "Trump slams reporter's 'crazy question' on US troops in Iran",
+        "source": "dailymailuk",
+        "url": "https://www.dailymail.co.uk/galleries/article-15671887/Trump-slams-reporters-crazy-question-US-troops-Iran.html"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Colombian military plane crash kills at least 66",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Referendum defeat leaves Italy's Meloni looking more vulnerable",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crl1ne8dj1eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Slovenia becomes first EU country to introduce fuel rationing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Senate confirms Markwayne Mullin as homeland security chief",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98kd9x705eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US bans new foreign-made consumer internet routers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jury orders Cosby to pay $19m to ex-waitress after finding he abused her in 1972",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1eq7v91n4xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Blast that injured two was 'terrorist attack', Ukrainian authorities say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crl1n0pn3e9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "ICE agents deploy to major US airports as security queues stretch for hours",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx298j7xg0yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "OnlyFans owner Leonid Radvinsky dies at 43",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c33le6yv7pno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigerian police arrest 15 after viral videos of alleged sexual assault at festival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "HK police can now demand phone passwords under new national security rules",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kenyan ex-foreign minister arrested and accused of staging his disappearance",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BTS agency shares drop after comeback show turnout falls short",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France's former Socialist Prime Minister Lionel Jospin dies at 88",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp861v8mj8mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia's ABC staff to go on strike for first time in 20 years",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c248597nqn8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "National blackout hits Cuba for second time in a week",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK universities flock to India - but will they succeed? ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c93w2pw3y0no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US' and Iran's options for ending war narrow the longer it goes on",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Could Iranian missiles reach London and Paris?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly73y5e788o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US weight-loss drugmakers slash prices in fight to win customers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Germany has a shortage of workers - so it's turning to India for help",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How the deadly LaGuardia Airport crash unfolded",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Inside Palestinian homes attacked by settlers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd9vnznv075o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is Israel targeting Lebanon's bridges?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'A direct hit' - BBC visits Israeli town after Iranian strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c3v6k0l631vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Large pro-government rallies held in Tehran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/large-pro-government-rallies-held-in-tehran?traffic_source=rss"
+      },
+      {
+        "title": "‘Israel has been given a licence to torture Palestinians’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-has-been-given-a-licence-to-torture?traffic_source=rss"
+      },
+      {
+        "title": "Texas oil refinery in flames after explosion",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/texas-oil-refinery-in-flames-after-explosion?traffic_source=rss"
+      },
+      {
+        "title": "Survivors pulled from wreckage of Colombian air force plane",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/survivors-pulled-from-wreckage-of-colombian-air-force-plane?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-settlers-vandalise-school-raise-israeli-flag-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran says Trump’s peace talk claims are ‘fake news’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/3/24/iran-war-live-tehran-says-trumps-claims-of-peace-talks-fake?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran ‘wants peace’ after US military did ‘great job’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-says-iran-wants-peace-after-us-military-did-great?traffic_source=rss"
+      },
+      {
+        "title": "Macron says Lebanon’s fight is ‘just’ amid escalating attacks by Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/macron-says-lebanons-fight-is-just-amid-escalating-attacks-by-israel?traffic_source=rss"
+      },
+      {
+        "title": "UN expert says world has given Israel ‘licence to torture Palestinians’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/23/un-expert-says-world-has-given-israel-licence-to-torture-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "Have Israel, the US and Iran violated international law?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/3/23/have-israel-the-us-and-iran-violated-international-law?traffic_source=rss"
+      },
+      {
+        "title": "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/23/smotrich-urges-israel-to-annex-southern-lebanon-as-assault-intensifies?traffic_source=rss"
+      },
+      {
+        "title": "Iranian officials dismiss claims of US talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/iranian-officials-dismiss-claims-of-us-talks?traffic_source=rss"
+      },
+      {
+        "title": "Moment missile strikes shortly after Israeli president’s visit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine strikes key Russian oil port and refinery",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/ukraine-strikes-key-russian-oil-port-and-refinery?traffic_source=rss"
+      },
+      {
+        "title": "What Trump said about Iran after postponing military strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss"
+      },
+      {
+        "title": "Tehran residents express distrust over Trump’s war diplomacy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss"
+      },
+      {
+        "title": "Colombian military plane crash kills at least 34, wounds dozens",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss"
+      },
+      {
+        "title": "‘Stop, stop, stop’: Moment Air Canada plane crashes into truck",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/stop-stop-stop-moment-air-canada-plane-crashes-into-truck?traffic_source=rss"
+      },
+      {
+        "title": "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/23/italys-meloni-concedes-referendum-defeat-calling-it-a-lost-opportunity?traffic_source=rss"
+      },
+      {
+        "title": "EU calls for clarification after Hungary accused of leaking info to Russia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/23/eu-calls-for-clarification-after-hungary-accused-of-leaking-info-to-russia?traffic_source=rss"
+      },
+      {
+        "title": "Iran denies any talks with US after Trump claims ‘productive’ discussions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions?traffic_source=rss"
+      },
+      {
+        "title": "Why the oil and gas price shock from the Iran war won’t just fade away",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away?traffic_source=rss"
+      },
+      {
+        "title": "How the Iran war is about to hit your wallet",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/3/23/aje-onl-tt_irn_gasfields_av_v2-230326?traffic_source=rss"
+      },
+      {
+        "title": "Trump can declare victory in Iran – and he should",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [
+      {
+        "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "ai_result": {
+      "is_real_event": false,
+      "confidence": 0.1,
+      "ambiguity": true
+    },
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-03-24T03:50:12.410Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
