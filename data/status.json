@@ -1,12 +1,10 @@
 {
   "status": "NONE",
-  "confidence": 0.95,
-  "sources": [
-    "cnn"
-  ],
+  "confidence": 0,
+  "sources": [],
   "message": "System normal — No nuclear threats detected.",
   "voice_message": "Sistema en estado normal. No se detectaron amenazas nucleares.",
-  "last_checked": "2026-03-25T18:50:13.342Z",
+  "last_checked": "2026-03-25T18:55:12.079Z",
   "last_updated": null,
   "last_newsdata_check": "2026-03-25T18:50:13.342Z"
 }
