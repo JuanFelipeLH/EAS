@@ -1,12 +1,12 @@
 {
   "status": "NONE",
-  "confidence": 0.95,
+  "confidence": 0,
   "sources": [
     "Fox News"
   ],
   "message": "System normal — No nuclear threats detected.",
   "voice_message": "Sistema en estado normal. No se detectaron amenazas nucleares.",
-  "last_checked": "2026-03-25T12:05:14.288Z",
+  "last_checked": "2026-03-25T12:10:11.885Z",
   "last_updated": null,
   "last_newsdata_check": "2026-03-25T12:05:14.288Z"
 }
