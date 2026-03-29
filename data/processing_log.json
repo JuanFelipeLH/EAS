@@ -1,5 +1,384 @@
 [
   {
+    "run_at": "2026-03-29T21:50:18.483Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iranian attacks across Gulf continue as major industrial sites hit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three arrested in Paris after attempted bomb attack outside Bank of America",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9v234j2v7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Renoir, Cézanne and Matisse paintings stolen in Italian job",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "African football chief resigns following row over Morocco-Senegal final",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two Australian states offer free public transport as war pushes up fuel prices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c937n0yxggeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada's New Democratic Party elects Avi Lewis as its leader",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czd74q2nqp0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "No Kings protests draw large crowds to rally against Donald Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0rxz7ggv8go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Twenty-two migrants die off Greek coast after six days at sea",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnv8z1lvn8ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bank of America to pay out $72.5m over Epstein lawsuit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0wjgwvp2ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gaza peace doubts deepen as attention shifts to Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62lx8ek9x9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Looksmaxxing influencer Clavicular arrested on battery charge in Florida",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr513g72vqgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "House Republicans reject Senate deal, prolonging partial US government shutdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tiger Woods released on bail after DUI arrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Maldives tells UK it does not recognise Chagos Islands deal with Mauritius",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c74vedxjq8zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two Cuba-bound aid ships found days after disappearing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clye4w10g22o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Austria becomes latest to propose social media ban for children",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyv70de9exo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spanish woman who died through euthanasia failed by state, say critics",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One ant for $220: The new frontier of wildlife trafficking",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How deepfake porn scandal surrounding TV star rocked Germany",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9vlm4j47e2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Think Love Island is bad? Wait until you see the AI fruit version",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India restoring a centuries-old royal kitchen that never stopped serving food",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj0vj36yd12o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Potential Houthi threat to Red Sea shipping could further damage global economy",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "I escaped North Korea with my mum. Now I'm terrified she might be sent back",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c239n93ejm8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We're having a moment' - fear and denial in Silicon Valley over social media addiction trial",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c86e3eglv2go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Memory of a generation': China mourns the sudden death of a controversial education influencer",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three charts that are warning signs flashing for Trump on Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Russia's threat has seen Germany become Europe's most important army",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Expectant mothers in Cuba struggle under fuel blockade",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is it so hard to pass through the Strait of Hormuz?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC journalist caught in travel chaos at Houston Airport",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czx9822w8vko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli police bar priest from Jerusalem’s Holy Sepulchre on Palm Sunday",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/israeli-police-bar-priest-from-jerusalems-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+      },
+      {
+        "title": "A premature ceasefire risks ‘another round of conflict’ in future",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/quotable/2026/3/29/a-premature-ceasefire-risks-another-round-of-conflict-in-future?traffic_source=rss"
+      },
+      {
+        "title": "IRGC spokesperson says Trump ‘only understands the language of force’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/irgc-spokesperson-says-trump-only-understands-the-language-of?traffic_source=rss"
+      },
+      {
+        "title": "Qatari TV station hit in Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss"
+      },
+      {
+        "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss"
+      },
+      {
+        "title": "Cuba is not alone, deputy FM says as US threats grow",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/3/29/cuba-is-not-alone-deputy-fm-says-as-us-threats-grow?traffic_source=rss"
+      },
+      {
+        "title": "Republican Mace says Congress must approve any US troop deployment to Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/republican-mace-says-congress-must-approve-any-us-troop-deployment-to-iran?traffic_source=rss"
+      },
+      {
+        "title": "Zelenskyy arrives in Jordan to bolster security ties",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/zelenskyy-arrives-in-jordan-to-bolster-security-ties?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu orders military to expand invasion of southern Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "‘We can insure the ship, but we cannot insure a human life.’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/we-can-insure-the-ship-but-we-cannot-insure-a-human-life?traffic_source=rss"
+      },
+      {
+        "title": "Houthis open new front against Israel, is Red Sea shipping at risk?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/houthis-open-new-front-against-israel-is-red-sea-shipping-at-risk?traffic_source=rss"
+      },
+      {
+        "title": "Iran hits industrial zone in southern Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss"
+      },
+      {
+        "title": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+      },
+      {
+        "title": "Funeral held for Lebanese journalists killed in Israeli strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/funeral-held-for-lebanese-journalists-killed-in-israeli-strike?traffic_source=rss"
+      },
+      {
+        "title": "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/houthis-open-new-front-in-iran-war-will-yemeni-group-block-bab-al-mandeb?traffic_source=rss"
+      },
+      {
+        "title": "African football chief will ‘respect’ CAS decision on AFCON final row",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/african-football-chief-will-respect-cas-decision-on-afcon-final-row?traffic_source=rss"
+      },
+      {
+        "title": "How the US memeifies its war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/digital-dilemma/2026/3/29/how-the-us-memeifies-its-war-on?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss"
+      },
+      {
+        "title": "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/longform/2026/3/29/nowhere-is-really-safe-iranian-dissidents-grapple-with-us-war-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "Israeli footballer’s role in assault on southern Lebanon sparks outrage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/3/29/israeli-footballers-role-in-assault-on-southern-lebanon-sparks-outrage?traffic_source=rss"
+      },
+      {
+        "title": "Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/29/iran-hits-us-awacs-air-tankers-what-else-has-it-targeted-in-past-month?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese family launches mobile aid initiative for displaced",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/lebanese-family-launches-mobile-aid-initiative-for-displaced?traffic_source=rss"
+      },
+      {
+        "title": "ICC states should not ignore judicial experts’ conclusions in Khan’s case",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/3/29/icc-states-should-not-ignore-judicial-experts-conclusions-in-khans-case?traffic_source=rss"
+      },
+      {
+        "title": "The US-Israeli war on humanity",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/3/29/the-us-israeli-war-on-humanity?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-03-29T21:45:13.996Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
