@@ -1,5 +1,390 @@
 [
   {
+    "run_at": "2026-03-31T13:20:17.667Z",
+    "discarded_untrusted": [
+      {
+        "title": "George Stephanopoulos Grills Marco Rubio on Who Trump’s Negotiating With in Iran: ‘You Call Them Lunatics’",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/tv/george-stephanopoulos-grills-marco-rubio-on-who-trumps-negotiating-with-in-iran-you-call-them-lunatics/"
+      },
+      {
+        "title": "NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments",
+        "source": "Nist.gov",
+        "url": "https://www.nist.gov/news-events/news/2026/03/nist-researchers-develop-photonic-chip-packaging-can-withstand-extreme"
+      },
+      {
+        "title": "North Korea-Russia axis bolstered by Belarus",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/north-korea-russia-axis-bolstered-by-belarus/a-76591502"
+      },
+      {
+        "title": "How North Korea is using Belarus to deepen ties with Russia",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/how-north-korea-is-using-belarus-to-deepen-ties-with-russia/a-76591502"
+      },
+      {
+        "title": "CERN scientists achieve first-ever transport of antimatter",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/news/science/cern-scientists-achieve-first-ever-transport-of-antimatter/article70802397.ece"
+      },
+      {
+        "title": "Holy Week Miscellany, 2026",
+        "source": "Patheos",
+        "url": "https://www.patheos.com/blogs/geneveith/2026/03/holy-week-miscellany-2026/"
+      },
+      {
+        "title": "Ben Lerner’s Transcription Is a Labyrinth of Allusions",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/article/207373/ben-lerner-transcription-labyrinth-allusions"
+      },
+      {
+        "title": "Stephen Buckle: Bold Break from the Mundane",
+        "source": "Landezine.com",
+        "url": "https://landezine.com/stephen-buckle-bold-break-from-the-mundane/"
+      },
+      {
+        "title": "Putin Is Not Trapped: Why Regime Survival Does Not Depend on Victory",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/2026/03/putin-is-not-trapped-why-regime-survival-does-not-depend-on-victory/"
+      },
+      {
+        "title": "Getting started with measuring AI’s carbon footprint",
+        "source": "ComputerWeekly.com",
+        "url": "https://www.computerweekly.com/feature/Getting-started-with-measuring-AIs-carbon-footprint"
+      },
+      {
+        "title": "Vivek Katju at Idea Exchange: ‘Can’t imagine Netanyahu bucking Trump if Trump lays the law. He may turn and twist but he will listen’",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/idea-exchange/vivek-katju-at-idea-exchange-cant-imagine-netanyahu-bucking-trump-if-trump-lays-the-law-he-may-turn-and-twist-but-he-will-listen-10608635/"
+      },
+      {
+        "title": "Pulsar Fusion Ignites Plasma in Nuclear Rocket Test",
+        "source": "Next Big Future",
+        "url": "https://www.nextbigfuture.com/2026/03/pulsar-fusion-ignites-plasma-in-nuclear-rocket-test.html"
+      },
+      {
+        "title": "A war without accountability: why the Middle East crisis is also a legal quagmire",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/a-war-without-accountability-why-the-middle-east-crisis-is-also-a-legal-quagmire-279199"
+      },
+      {
+        "title": "North Korea conducts engine test for missile capable of reaching U.S. mainland",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/north-korea-conducts-engine-test-for-missile-capable-of-reaching-u-s-mainland"
+      },
+      {
+        "title": "Australian fears about Iran war run deeper than an anti-Trump attitude",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-03-30/australian-fears-about-iran-war-and-fuel-shortages/106508802"
+      },
+      {
+        "title": "Decade-old decisions come home to roost, leaving a different oil shock",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-03-30/how-australia-became-hostage-to-fuel-imports/106508520"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Nishikant Dubey defends his remarks on Biju Patnaik, says 'BJP has always stood by Biju Babu when Congress did injustice'",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/nishikant-dubey-defends-his-remarks-on-biju-patnaik-says-bjp-has-always-stood-by-biju-babu-when-congress-did-injustice/articleshow/129897213.cms"
+      },
+      {
+        "title": "Why are Chinese flights to North Korea resuming?",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/why-are-chinese-flights-to-north-korea-resuming/articleshow/129892368.cms"
+      },
+      {
+        "title": "Middle East war raise legal questions with no clear forum for justice",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-war-legal-accountability-international-law-war-crimes-icc-limits-middle-east-conflict/articleshow/129891360.cms"
+      },
+      {
+        "title": "China bans storing cremated remains in empty 'bone ash apartments'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wolf bites woman in shock German attack in Hamburg shopping street ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian oil tanker docks in Cuba ending near-total blockade",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyx1lrv0w5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Eurovision Song Contest launches first-ever Asia edition",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 16 killed, thousands displaced by gang attack in rural Haiti",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kissing a woman's hand can be sexual assault, Spanish court finds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2w6239p64o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Teen cyclist killed at Road World Championships not found for 82 minutes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/cycling/articles/cnv85v7r22ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Congressman writes to King Charles urging him to meet Epstein victims during US visit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kid Rock sparks US Army probe after helicopter flyby at his mansion",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdrmgvzm62no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who are the Artemis II astronauts heading to the Moon?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "After sex abuse claims, activists and lawmakers rethink Cesar Chavez Day ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crm17m2gzl2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside the cockpit of RAF tanker during defensive mission against Iranian drones",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdrmg6x2rgxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Long queues in Myanmar as Iran war fuel crisis deepens",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn08w9ye38yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How the US could try to seize Iran's Kharg Island",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c937gd1vq7xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fuel rations and free buses: How countries are responding to rising oil prices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Chinese tech companies are racing to set up in Hong Kong",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Photos show heavily damaged US radar jet at Saudi base",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One ant for $220: The new frontier of wildlife trafficking",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgknq28nlko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Australia’s seven-month-long manhunt came to an end",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Expectant mothers in Cuba struggle under fuel blockade",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c8dl9n7gvdgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Our home is gone': BBC speaks to displaced families in Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clyr530yry5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is it so hard to pass through the Strait of Hormuz?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What’s Israel’s death penalty law that only applies to Palestinians?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/whats-israels-death-penalty-law-that-only-applies-to-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "Are ICE detention deaths caused by systemic failures?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/are-ice-detention-deaths-caused-by-systemic-failures?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan cricketer Fakhar Zaman handed two-match PSL ban for ball tampering",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/3/31/pakistan-cricketer-fakhar-zaman-handed-two-match-psl-ban-for-ball-tampering?traffic_source=rss"
+      },
+      {
+        "title": "Three Indonesian peacekeepers killed by Israeli attacks in Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/three-indonesian-peacekeepers-killed-by-israeli-attacks-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Iranian rescuers save two civilians from rubble after US-Israeli strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/iranian-rescuers-save-two-civilians-from-rubble-after-us-israeli-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Hundreds rally in West Bank against Israeli death penalty for Palestinians",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/hundreds-rally-in-west-bank-against-israeli-death-penalty-for-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "‘AI helped pick the first thousand targets in Iran’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/quotable/2026/3/31/ai-helped-pick-the-first-thousand-targets-in?traffic_source=rss"
+      },
+      {
+        "title": "Drones strike Russia’s Ust-Luga port again as EU officials visit Ukraine",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/drones-strike-russias-ust-luga-port-again-as-eu-officials-visit-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "A Gaza mother waits in agony: Did Israel kill her daughter, or arrest her?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/gaza-disappeared-malak-abu-mady?traffic_source=rss"
+      },
+      {
+        "title": "Italy denies the US military use of its air bases to attack Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss"
+      },
+      {
+        "title": "Caster Semenya pledges to fight against Olympic gender-testing policy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/3/31/caster-semenya-pledges-to-fight-against-olympic-gender-testing-policy?traffic_source=rss"
+      },
+      {
+        "title": "Gaza families reunite years after babies evacuated amid Israel’s war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/gaza-families-reunite-years-after-babies-evacuated-amid-israels-war?traffic_source=rss"
+      },
+      {
+        "title": "‘Iranians don’t consider Trump’s 15-point plan as beginning of diplomacy’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/quotable/2026/3/31/iranians-dont-consider-trumps-15-point-plan-as-beginning-of-a-diplomatic?traffic_source=rss"
+      },
+      {
+        "title": "PCB slaps hefty fine on Naseem Shah for social media post on Maryam Nawaz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/3/31/pcb-slaps-hefty-fine-on-naseem-shah-for-social-media-post-on-maryam-nawaz?traffic_source=rss"
+      },
+      {
+        "title": "Sudan war ‘being fought on women’s bodies’: Survivors detail sexual assault",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/sudan-war-being-fought-on-womens-bodies-survivors-detail-sexual-assault?traffic_source=rss"
+      },
+      {
+        "title": "Palestine weekly wrap: Holy sites remain closed as deadly violence spreads",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/palestine-weekly-wrap-holy-sites-remain-closed-as-deadly-violence-spreads?traffic_source=rss"
+      },
+      {
+        "title": "Video: Newborns evacuated from Gaza return as toddlers over two years later",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/video-newborns-evacuated-from-gaza-return-as-toddlers-over-two-years-later?traffic_source=rss"
+      },
+      {
+        "title": "Somali army takes over key city in Southwest as state leader resigns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/somali-army-takes-over-key-city-in-southwest-as-state-leader-resigns?traffic_source=rss"
+      },
+      {
+        "title": "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/3/31/iran-war-wipes-120bn-off-dubai-abu-dhabi-stock-markets?traffic_source=rss"
+      },
+      {
+        "title": "Mexico’s President welcomes FIFA Chief",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/mexicos-president-welcomes-fifa-chief?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 32 of US-Israel attacks?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/iran-war-what-is-happening-on-day-32-of-us-israel-attacks?traffic_source=rss"
+      },
+      {
+        "title": "US says Cuba policy unchanged despite allowing Russian tanker",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/us-says-cuba-policy-unchanged-despite-allowing-russian-tanker?traffic_source=rss"
+      },
+      {
+        "title": "Israel says four soldiers killed as army pushes deeper into south Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/3/31/israel-says-four-soldiers-killed-as-army-pushes-deeper-into-south-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Ghana fires football head coach ⁠Otto Addo 72 days before World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/3/31/ghana-fires-football-head-coach-%e2%81%a0otto-addo-72-days-before-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Three scenarios for the Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/3/31/three-scenarios-for-the-strait-of-hormuz?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-03-31T13:16:31.103Z",
     "discarded_untrusted": [
       {
