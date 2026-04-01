@@ -1,5 +1,319 @@
 [
   {
+    "run_at": "2026-04-01T16:50:15.994Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Families cram into Greek court for trial into deadliest train crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Peter Magyar, the former Orban ally vying for power in Hungary",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Devastated Italians reckon with 'third apocalypse' of World Cup failure",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj943rmkkm4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian military plane crash kills 29 in occupied Crimea",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump to give primetime address on war as questions swirl over his next move",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c74vqd8k3g1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Explosions at Burundi ammunition depot kill civilians, witnesses say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y7x7qre0zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil judge blocks Sugarloaf Mountain zipline",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx29e3wljj2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South African army arrive in crime hotspots to help tackle gangs",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2e78yk09no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran war economic shocks will last 'months', says Australia's PM",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg4nre8nl9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "DR Congo declares national holiday after reaching World Cup for first time in 52 years",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Divorced couples in Japan can now share custody of their children",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'My six-year-old has nosebleeds': Chiang Mai air pollution sparks health fears",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0le03ne05ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands lose their jobs in deep cuts at tech giant Oracle ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge temporarily halts construction of Trump's White House ballroom",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7056exw78xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'You're no longer my sister' - rows erupt as war divides Iranian families",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9mvzpvr7xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China is trying to play peacemaker in the Iran war - will it work?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Moonshots' and merch - what it's like to be on Florida's Space Coast ahead of Artemis launch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Billion-plus people, three million officials, 33 questions - India begins huge census",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7vqnpqrgy3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'A million things could go wrong' - why seizing Iran's uranium would be so risky for the US",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvglv5v4yvpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Asia's migrant workers debate if Gulf jobs are worth deadly risk of Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0kr8lrpekmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who are the Artemis II astronauts heading to the Moon?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Pakistan won over Trump to become an unlikely mediator in the Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy91vrzxn34o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "After sex abuse claims, activists and lawmakers rethink Cesar Chavez Day ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crm17m2gzl2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shock, sadness and relief in town at centre of Australia's seven-month manhunt for Dezi Freeman",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq59wj31vl4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's phenomenal!': Excitement in Florida ahead of Artemis launch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c3w3d9lqg2xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgknq28nlko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Australia’s seven-month-long manhunt came to an end",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cjw8vqnlzxvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds in Beirut mourn journalists killed in Israeli strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce354d73v2ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "History’s biggest census: Why India’s new population count is controversial",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss"
+      },
+      {
+        "title": "UK to host meeting of 35 countries on reopening Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/uk-to-host-meeting-of-35-countries-on-reopening-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "What can nations do to make up for the ongoing energy shortfall?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/what-can-nations-do-to-make-up-for-the-ongoing-energy-shortfall?traffic_source=rss"
+      },
+      {
+        "title": "Russia says will continue helping Cuba after first oil shipment arrives",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/russia-to-continue-helping-cuba-after-first-oil-shipment-arrives-diplomat?traffic_source=rss"
+      },
+      {
+        "title": "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/1/mojtaba-khameneis-rumoured-injury-or-death-wont-change-irans-trajectory?traffic_source=rss"
+      },
+      {
+        "title": "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-a-marine-expeditionary-unit-is-and-other-us-military-terms?traffic_source=rss"
+      },
+      {
+        "title": "Iran denies Trump’s claim Iranian president requested ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/iran-denies-trumps-claim-iranian-president-requested-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Ali Zafar wins defamation case against Meesha Shafi: Why it matters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/ali-zafar-wins-defamation-case-against-meesha-shafi-why-it-matters?traffic_source=rss"
+      },
+      {
+        "title": "Can Russia help fill the global energy gap?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/1/can-russia-help-fill-the-global-energy-gap?traffic_source=rss"
+      },
+      {
+        "title": "Russia claims to take full control of Ukraine’s Luhansk region",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/russia-claims-to-take-full-control-of-ukraines-luhansk-region?traffic_source=rss"
+      },
+      {
+        "title": "French President Macron visits Japan to discuss the energy crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/french-president-macron-visits-japan-to-discuss-the-energy-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Russia imposing ban on all gasoline exports due to Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/russia-imposing-ban-on-all-gasoline-exports-due-to-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "‘The World Cup curse’: Outcry as Italy miss out for third time in a row",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/1/the-world-cup-curse-outcry-as-italy-miss-out-for-third-time-in-a-row?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon faces growing displacement crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/lebanon-faces-growing-displacement-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Minerals for aid: Are new US health deals ‘exploiting’ African countries?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/minerals-for-aid-are-new-us-health-deals-exploiting-african-countries?traffic_source=rss"
+      },
+      {
+        "title": "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/1/irans-minister-civilisational-identity-under-fire-in-unprecedented-war?traffic_source=rss"
+      },
+      {
+        "title": "UK finds pro-Palestine protest organisers guilty of breaching police rules",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/pro-palestine-civil-leaders-convicted-for-breaching-protest-rules-in-london?traffic_source=rss"
+      },
+      {
+        "title": "How are NATO allies pushing back against Trump’s Iran war demands?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/how-are-nato-allies-pushing-back-against-trumps-iran-war-demands?traffic_source=rss"
+      },
+      {
+        "title": "UK PM says war on Iran will impact Britain’s future",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/uk-pm-says-iran-war-will-impact-britains-future?traffic_source=rss"
+      },
+      {
+        "title": "West Bank strikes over Palestinian-only death penalty",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/west-bank-strikes-over-palestinian-only-death-penalty?traffic_source=rss"
+      },
+      {
+        "title": "US Supreme Court to hear constitutional test of birthright citizenship",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/1/us-supreme-court-to-hear-constitutional-test-of-birthright-citizenship?traffic_source=rss"
+      },
+      {
+        "title": "Iraq celebrates qualification for FIFA World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/4/1/iraqis-celebrate-in-the-streets-after-qualifying-for-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Assaulted, robbed: Refugees abused on Bosnia-Croatia border",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/1/on-bosnian-croatian-border-migrants-face-untold?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-01T16:45:15.877Z",
     "discarded_untrusted": [
       {
