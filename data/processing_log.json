@@ -1,5 +1,340 @@
 [
   {
+    "run_at": "2026-04-02T21:36:41.148Z",
+    "discarded_untrusted": [
+      {
+        "title": "Iran war Day 34 | ‘Back to the Stone Age’: Trump sets 2-week deadline to ‘finish’ Tehran as missiles hit Israel",
+        "source": "indianexpress",
+        "url": "https://indianexpress.com/article/world/us-israel-iran-middle-east-trump-speech-day-34-war-updates-10615191/"
+      },
+      {
+        "title": "Trump’s threat to bomb Iran ‘back to the Stone Age’ unacceptable – Irish premier",
+        "source": "kilkennypeople",
+        "url": "https://www.kilkennypeople.ie/news/national-news/2053117/trumps-threat-to-bomb-iran-back-to-the-stone-age-unacceptable-irish-premier.html"
+      },
+      {
+        "title": "Trump touts gains against Iran but gives no timeline to end war",
+        "source": "pakistantimesusa_net",
+        "url": "https://pakistantimesusa.net/?p=3372"
+      },
+      {
+        "title": "Trump threatens to bomb Iran into stone age in two to three weeks: Asean badly impacted by such rhetoric — Phar Kim Beng",
+        "source": "malaymail",
+        "url": "https://www.malaymail.com/news/what-you-think/2026/04/02/trump-threatens-to-bomb-iran-into-stone-age-in-two-to-three-weeks-asean-badly-impacted-by-such-rhetoric-phar-kim-beng/214837"
+      },
+      {
+        "title": "Iran will take ‘necessary actions’ to block military use of Strait of Hormuz: foreign ministry spox",
+        "source": "pakistantimesusa_net",
+        "url": "https://pakistantimesusa.net/?p=3361"
+      },
+      {
+        "title": "Iran army chief warns against US invasion",
+        "source": "dtnext",
+        "url": "https://www.dtnext.in/news/world/iran-army-chief-warns-against-us-invasion"
+      },
+      {
+        "title": "Top Trump Goon Melts Down at CNN Host Who Was Mean About His War Rant",
+        "source": "thedailybeast",
+        "url": "https://www.thedailybeast.com/white-house-goon-melts-down-at-cnn-host-over-trumps-rambling-iran-speech/"
+      },
+      {
+        "title": "Iran army chief warns against US invasion",
+        "source": "theweek_in",
+        "url": "https://www.theweek.in/wire-updates/international/2026/04/02/iran-army-chief-warns-against-us-invasion.html"
+      },
+      {
+        "title": "The Latest: Trump says Iran will be hit hard for next 2 or 3 weeks",
+        "source": "thenewsminute",
+        "url": "https://www.thenewsminute.com/news/the-latest-trump-says-iran-will-be-hit-hard-for-next-2-or-3-weeks"
+      },
+      {
+        "title": "U.S. Defense Secretary Pete Hegseth Echoes President Trump’s Warning: Iran Faces “Stone Age” Bombing if Demands Are Ignored",
+        "source": "zambianobserver",
+        "url": "https://zambianobserver.com/u-s-defense-secretary-pete-hegseth-echoes-president-trumps-warning-iran-faces-stone-age-bombing-if-demands-are-ignored/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran's two largest steel plants shut down due to air strikes, companies say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump removes US Attorney General Pam Bondi ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil grants joint custody over pets in new law for separated couples",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ancient golden helmet recovered more than a year after Dutch heist",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpvxj4jzvvvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Baby shot dead in pram in New York City, police say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c203w57pkn3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man dies in storm near Athens as Saharan dust shrouds Crete",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four toddlers stabbed to death at Ugandan nursery school",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Elon Musk's SpaceX set to be worth $1 trillion with planned public listing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia to crack down on gambling ads after years of criticism",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62492e925lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Over 1,800 killed since junta seized power in Burkina Faso, rights group says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Utah teen identified as victim of serial killer Ted Bundy",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0lendp6390o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court appears sceptical of Trump plan to limit birthright citizenship",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Alleged Bondi gunman loses court bid to suppress names of his family",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4glrnv3qlvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What nearly went wrong on Nasa's space mission - and what still could",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c36rxe9w97zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran's focus on survival means same regime still firmly in place",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Peter Magyar, the former Orban ally vying for power in Hungary",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78l7vyylgqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why isn't Artemis II landing on the Moon?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Trump's shifting deadlines for ending Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch the moment Artemis II blasts into space on historic mission",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgknq28nlko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil shock triggers global price spikes as Iran war drags on",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/oil-shock-triggers-global-price-spikes-as-iran-war-drags-on?traffic_source=rss"
+      },
+      {
+        "title": "Iran says army forces are ready to repel US-Israeli attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-says-army-forces-are-ready-to-repel-us-israeli-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Russia sending second ship with oil to Cuba amid US blockade",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss"
+      },
+      {
+        "title": "At least 43 people killed in ADF attack in northeast DR Congo, army says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/at-least-43-people-killed-in-adf-attack-in-northeast-dr-congo-army-says?traffic_source=rss"
+      },
+      {
+        "title": "As war drags on, US reiterates Trump open to diplomacy with Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/as-war-drags-on-us-reiterates-trump-open-to-diplomacy-with-iran?traffic_source=rss"
+      },
+      {
+        "title": "Legal groups condemn arrival of a dozen deportees from US to Uganda",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/legal-groups-condemn-arrival-of-a-dozen-deportees-from-us-to-uganda?traffic_source=rss"
+      },
+      {
+        "title": "Planning commission approves Trump’s White House ballroom plans",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/planning-commission-approves-trumps-white-house-ballroom-plans?traffic_source=rss"
+      },
+      {
+        "title": "‘It’s the beginning of the end’ of the American security order",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/its-the-beginning-of-the-end-of-the-american-security-order?traffic_source=rss"
+      },
+      {
+        "title": "What might end Israel’s war on Iran?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/4/2/what-might-end-israels-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Yamal slams anti-Muslim fan chants as Spain’s World Cup final hopes tainted",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/yamal-slams-anti-muslim-fan-chants-as-spains-world-cup-final-hopes-tainted?traffic_source=rss"
+      },
+      {
+        "title": "Barcelona thump Real Madrid 6-0 to reach women’s Champions League semifinal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/barcelona-thump-real-madrid-6-0-to-reach-champions-league-final?traffic_source=rss"
+      },
+      {
+        "title": "Iranians celebrate New Year in parks despite ongoing attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iranians-celebrate-new-year-in-parks-despite-ongoing-attacks?traffic_source=rss"
+      },
+      {
+        "title": "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/gcc-chief-urges-un-to-halt-iranian-attacks-protect-gulf-waterways?traffic_source=rss"
+      },
+      {
+        "title": "Can Russia help fill the global energy gap?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/2/can-russia-help-fill-the-global-energy-gap?traffic_source=rss"
+      },
+      {
+        "title": "Children’s hospital in Tehran keeps hopes and smiles alive during war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/childrens-hospital-in-tehran-keeps-hopes-and-smiles-alive-during-war?traffic_source=rss"
+      },
+      {
+        "title": "Videos capture projectile falling in central Israel after Iran strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/videos-capture-projectile-falling-in-central-israel-after-iran-strike?traffic_source=rss"
+      },
+      {
+        "title": "UN experts urge investigation into Israel’s killing of Lebanese journalists",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/un-experts-urge-investigation-into-israels-killing-of-lebanese-journalists?traffic_source=rss"
+      },
+      {
+        "title": "Pastor’s White House prayer claims Iranians seek death of all Jews",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pastors-white-house-prayer-claims-iranians-seek-death-of-all-jews?traffic_source=rss"
+      },
+      {
+        "title": "Mohamed Salah: Football, Faith & Changing Perceptions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/game-theory/2026/4/2/aje-onl-salaheffect_v6-020426?traffic_source=rss"
+      },
+      {
+        "title": "US Homeland Security shutdown to stretch on, despite Senate passing funding",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/us-homeland-security-shutdown-to-stretch-on-despite-senate-passing-funding?traffic_source=rss"
+      },
+      {
+        "title": "Trump fires Pam Bondi as US attorney general, elevates Todd Blanche",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/trump-says-pam-bondi-out-as-attorney-general?traffic_source=rss"
+      },
+      {
+        "title": "Argentina expels Iranian diplomat amid rift over blacklisting IRGC",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/2/argentina-expels-iranian-diplomat-amid-rift-over-blacklisting-irgc?traffic_source=rss"
+      },
+      {
+        "title": "World Cup 2026: Iran and Infantino talks progressing as war darkens US trip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/2/world-cup-2026-iran-and-infantino-talks-progressing-as-war-darkens-us-trip?traffic_source=rss"
+      },
+      {
+        "title": "US-Israeli strike hits newly opened B1 bridge near Tehran, killing two",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/2026/4/2/us-israeli-strike-hits-newly-opened-b1-bridge-near-tehran-killing-two?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [
+      {
+        "title": "State Department claims Iran ‘continually’ pursuing nuclear weapon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/state-department-claims-iran-continually-pursuing-nuclear-weapon?traffic_source=rss"
+      }
+    ],
+    "ai_result": {
+      "is_real_event": false,
+      "confidence": 0.95,
+      "ambiguity": true
+    },
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-02T21:35:12.066Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
