@@ -1,5 +1,289 @@
 [
   {
+    "run_at": "2026-04-03T17:33:36.687Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Burkina Faso must 'forget' about democracy, military leader says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France's Muslim gathering ban overturned by courts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rapper Gucci Mane kidnapped and robbed by fellow artist, prosecutors say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c937kezj03vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italy part company with manager after failing to qualify for World Cup",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump removes US Attorney General Pam Bondi ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US deports eight people 'of African origin' to Uganda",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8ej43z8yw4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pete Hegseth asks US Army's top general to step down",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Myanmar's coup leader who set off a brutal civil war becomes president",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "International law experts allege violations in Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US jobs surge unexpectedly in March despite Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crk165g4vv3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fears cost of water and beer to soar as India's scorching summer hits",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Arlo Parks: 'I got out of my head and into my body'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq8wzkyxyyyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "When will the Iran war end? Tracing the Trump administration's timelines",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Researchers spent years interviewing 160 Bigfoot hunters - this is what they learnt",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg58ydn4jpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who is Christopher LaNeve, set to lead the US Army?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Artemis II's journey so far as it leaves Earth's orbit ... in 85 seconds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpqxn8zx8ydo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Artemis II astronauts speak from space",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What to know about Acting Attorney General Todd Blanche",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c747w0zejzmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why isn't Artemis II landing on the Moon?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Trump's shifting deadlines for ending Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ros Atkins on…the cost of the Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch the moment Artemis II blasts into space on historic mission",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French-owned container ship transits Hormuz Strait in first since Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Drone footage shows a factory in Israel damaged by Iranian missile debris",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/drone-footage-shows-a-factory-in-israel-damaged-by-iranian-missile-debris?traffic_source=rss"
+      },
+      {
+        "title": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss"
+      },
+      {
+        "title": "Iranian forces launch search for crew of downed US fighter jet",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/iranian-forces-launch-search-for-pilot-of-downed-us-fighter-jet?traffic_source=rss"
+      },
+      {
+        "title": "Trump says with more time, US can ‘take the oil’ in Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/trump-says-with-more-time-us-can-take-the-oil-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "Panama Papers: 10 years on",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/panama-papers-10-years-on?traffic_source=rss"
+      },
+      {
+        "title": "Red Crescent supply warehouse attacked in southwest Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/red-crescent-supply-warehouse-attacked-in-southwest-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iran release videos of US aircraft searching for pilots shot down in Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-release-videos-of-us-aircraft-searching-for-pilots-shot-down-in-iran?traffic_source=rss"
+      },
+      {
+        "title": "Israel threatens to destroy more Lebanon bridges as crisis mounts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts?traffic_source=rss"
+      },
+      {
+        "title": "What’s happening to Christians in their Holy Land?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/whats-happening-to-christians-in-their-holy-land?traffic_source=rss"
+      },
+      {
+        "title": "Gattuso out as Italy’s coach after failure to qualify for 2026 World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/gattuso-out-as-italys-coach-after-failure-to-qualify-for-2026-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "How the US and Israel are waging war on Iran’s medicines, vaccines",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/how-the-us-and-israel-are-waging-war-on-irans-medicines-vaccines?traffic_source=rss"
+      },
+      {
+        "title": "Real Madrid coach insists Spain ‘not racist’ despite Islamophobic chant",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/real-madrid-coach-insists-spain-is-not-racist-despite-islamaphobic-chant?traffic_source=rss"
+      },
+      {
+        "title": "War crimes are no longer shameful. That should terrify you",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/3/war-crimes-are-no-longer-shameful-that-should-terrify-you?traffic_source=rss"
+      },
+      {
+        "title": "‘I don’t know how we’ll emerge from this’: How much more can Israelis take?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/i-dont-know-how-well-emerge-from-this-how-much-more-can-israelis-take?traffic_source=rss"
+      },
+      {
+        "title": "Burkina Faso military leader Traore says ‘forget democracy’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/burkina-faso-military-leader-traore-says-forget-democracy?traffic_source=rss"
+      },
+      {
+        "title": "Rubble, mud and hair: How to rebuild a home in Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/3/rubble-mud-and-hair-how-to-rebuild-a-home-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss"
+      },
+      {
+        "title": "Artemis II mission fires up engines in next step of moon mission",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss"
+      },
+      {
+        "title": "Ten years since Panama Papers: What did they reveal, did anything change?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/ten-years-since-panama-papers-what-did-they-reveal-did-anything-change?traffic_source=rss"
+      },
+      {
+        "title": "Cuba to pardon more than 2,000 prisoners amid US pressure",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/cuba-to-pardon-more-than-2000-prisoners-amid-us-pressure?traffic_source=rss"
+      },
+      {
+        "title": "Kuwait desalination plant, oil refinery hit by missile and drone strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/3/kuwait-desalination-plant-oil-refinery-hit-by-missile-and-drone-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Tiger Woods told police after car crash he was ‘talking to the president’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/tiger-woods-told-police-after-car-crash-he-was-talking-to-the-president?traffic_source=rss"
+      },
+      {
+        "title": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/3/man-city-vs-liverpool-fa-cup-quarterfinal-preview-team-news-start?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-03T17:30:14.008Z",
     "discarded_untrusted": [
       {
