@@ -1,5 +1,440 @@
 [
   {
+    "run_at": "2026-04-08T07:18:08.133Z",
+    "discarded_untrusted": [
+      {
+        "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+        "source": "Science Daily",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm"
+      },
+      {
+        "title": "Kalpakkam fast breeder reactor attains criticality: why this is a ‘defining step’ in India’s 3-stage n-programme",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/explained/india-fast-breeder-reactor-kalpakkam-criticality-10623094/"
+      },
+      {
+        "title": "Time for the White (jacket) Men",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/david_stockman/2026/04/06/time-for-the-white-jacket-men/"
+      },
+      {
+        "title": "High-content CRISPR activation screens identify synthetically lethal RNA-based mechanisms to sensitize cancer cells to targeted T cell cytotoxicity",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41588-026-02561-7"
+      },
+      {
+        "title": "Show HN: Luminus, real-time European and UK electricity grid data via MCP",
+        "source": "Github.com",
+        "url": "https://github.com/kitfunso/luminus"
+      },
+      {
+        "title": "Why Trump’s latest threat against Iran could be a war crime",
+        "source": "Vox",
+        "url": "https://www.vox.com/politics/484932/trump-threat-war-crimes-electricity-bridges"
+      },
+      {
+        "title": "Why Iran is becoming Trump’s ‘forever war’",
+        "source": "RT",
+        "url": "https://www.rt.com/news/637481-iran-trump-forever-war/"
+      },
+      {
+        "title": "Black-Hole Islands and Desert Bunkers: 7 Strange Things People Found on Google Earth",
+        "source": "Mental Floss",
+        "url": "https://www.mentalfloss.com/geography/wanderlust/strange-things-people-found-google-earth"
+      },
+      {
+        "title": "Experiments refute dark matter claim",
+        "source": "Yale.edu",
+        "url": "https://wlab.yale.edu/posts/2026-03-31-experiments-refute-dark-matter-claim"
+      },
+      {
+        "title": "The unholy alliance: Moscow and Beijing’s invisible shield over Tehran",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/04/unholy-alliance-moscow-beijings-invisible-shield-tehran/"
+      },
+      {
+        "title": "Adenovirus phagocytosis by neutrophils triggers a pro-inflammatory response",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013504"
+      },
+      {
+        "title": "Association between chronic stress and the epigenome: Exploration of psychological and biological stress",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346517"
+      },
+      {
+        "title": "The non-vesicular cholesterol transporter GRAMD1C is a pan-coronavirus antiviral target",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003736"
+      },
+      {
+        "title": "What is CREC and how does it shape Pete Hegseth’s religious rhetoric?",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/what-is-crec-and-how-does-it-shape-pete-hegseths-religious-rhetoric-279637"
+      },
+      {
+        "title": "The End of Strategic Monopoly: War, Energy, and the Fragmentation of Global Power in 2026",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/war-energy-fragmentation-global-power-2026/5921346"
+      },
+      {
+        "title": "The Pay-It-Forward Threshold",
+        "source": "Ssir.org",
+        "url": "https://ssir.org/articles/entry/pay-it-forward-threshold"
+      },
+      {
+        "title": "Palmer defends Iran 'war' in talk to 7 area chambers of commerce",
+        "source": "vestaviavoice",
+        "url": "https://vestaviavoice.com/news/palmer-defends-iran-war-in-talk-to-7-area-chambers-of-commer/"
+      },
+      {
+        "title": "With Trump Threatening a Genocide, Military Must Disobey His Orders, Former Pentagon Officials Say",
+        "source": "theintercept",
+        "url": "https://theintercept.com/2026/04/07/trump-iran-civilian-power-plants-bridges/"
+      },
+      {
+        "title": "Trump signals no end to US, Iran war",
+        "source": "paisano_online",
+        "url": "https://paisano-online.com/52529/news/trump-signals-no-end-to-us-iran-war/"
+      },
+      {
+        "title": "Trump’s Iran Threats Prompt Democrats, Former Allies To Call for Invoking the 25th Amendment",
+        "source": "nysun",
+        "url": "https://www.nysun.com/article/trumps-iran-threats-prompt-democrats-former-allies-to-call-for-invoking-the-25th-amendment"
+      },
+      {
+        "title": "US-Israeli strikes hit Iran’s oil, rail and bridges ahead of Trump deadline",
+        "source": "tribtoday",
+        "url": "https://www.tribtoday.com/news/international-news-apwire/2026/04/us-israeli-strikes-hit-irans-oil-rail-and-bridges-ahead-of-trump-deadline/"
+      },
+      {
+        "title": "Iran calls on young people to form human chains around power plants as Trump deadline looms",
+        "source": "tbsnews_net",
+        "url": "https://www.tbsnews.net/worldbiz/middle-east/iran-calls-young-people-form-human-chains-around-power-plants-trump-deadline"
+      },
+      {
+        "title": "Trump Faces Backlash Over Threats Against Iran Amid Strait of Hormuz Tensions",
+        "source": "gyanhigyan",
+        "url": "https://gyanhigyan.com/international/trump-faces-backlash-over-threats-against-iran-amid-strait/cid18480941.htm"
+      },
+      {
+        "title": "U.S. Intel’s Sobering Assessment of Iran’s War Resilience",
+        "source": "thecipherbrief",
+        "url": "https://www.thecipherbrief.com/sobering-assessment-of-irans-resilience"
+      },
+      {
+        "title": "Trump says ‘a whole civilization will die’ as Iran freezes talks",
+        "source": "nny360",
+        "url": "https://www.nny360.com/top_stories/trump-says-a-whole-civilization-will-die-as-iran-freezes-talks/article_bc62d15b-80d9-5178-aedc-1eea518ee6fd.html"
+      },
+      {
+        "title": "Far-right figures call for Trump’s removal amid his threats against Iran: ‘We are beyond madness’",
+        "source": "bostonglobe",
+        "url": "https://www.bostonglobe.com/2026/04/07/nation/trump-iran-war-threat-today/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/tech/technology/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access/articleshow/130073752.cms"
+      },
+      {
+        "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/business/nvidia-acquisition-schedmd-sparks-worry-among-ai-specialists-about-software-access-6039596"
+      },
+      {
+        "title": "'Credible intelligence' reveals North Korea's successor to Kim Jong Un, South Korea says",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/credible-intelligence-reveals-north-koreas-successor-kim-jong-un-south-korea-says"
+      },
+      {
+        "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we know about the two-week ceasefire between the US and Iran ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g8pzpw2g2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French couple leave Iran after more than three years in jail",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "JD Vance backs Orbán's re-election bid in Budapest visit and hits out at EU",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One dead as train travelling 99mph collides with lorry in France",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia's most-decorated living soldier charged over alleged war crimes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bahamas police search for US woman who reportedly fell off boat ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg9yxpdxlgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rapper Offset in hospital after being shot in Florida ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w4lnjej4do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Carnival fever hits Lagos as locals celebrate Afro-Brazilian heritage",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp84ye86ly3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Little sign of breakthrough as Trump's Iran deadline nears ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China is winning one AI race, the US another - but either might pull ahead",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Artemis's stunning Moon pictures - science or holiday photos?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iranians form human chains at bridges and power plants",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g5j33p6vno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we know so far about the search for missing US airman in Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Yemen’s teachers pushed to the brink as salaries collapse",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/8/yemens-teachers-pushed-to-the-brink-as-salaries-collapse?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 40 of US-Israeli attacks?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/iran-war-what-is-happening-on-day-40-of-us-israeli-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump announces truce, Tehran agrees safe transit in Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/8/iran-war-live-trump-announces-truce-tehran-agrees-safe-transit-in-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "‘Fearless’ teen sensation Sooryavanshi aces Bumrah test in IPL blitz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/8/fearless-teen-sensation-sooryavanshi-aces-bumrah-test-in-ipl-blitz?traffic_source=rss"
+      },
+      {
+        "title": "In Strait of Hormuz, Iran and China take aim at US dollar hegemony",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/8/in-strait-of-hormuz-iran-and-china-take-aim-at-us-dollar-hegemony?traffic_source=rss"
+      },
+      {
+        "title": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss"
+      },
+      {
+        "title": "US politicians react to Trump’s Iran ceasefire with caution, relief",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss"
+      },
+      {
+        "title": "Iranians commemorate victims of Minab school strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss"
+      },
+      {
+        "title": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/world-welcomes-us-iran-ceasefire-urges-lasting-peace-in-the-middle-east?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/netanyahu-says-us-iran-ceasefire-does-not-include-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Is Arteta’s intensity Arsenal’s Premier and Champions League hope, or fear?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/8/is-artetas-intensity-arsenals-premier-and-champions-league-hope-or-fear?traffic_source=rss"
+      },
+      {
+        "title": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iraqis-celebrates-us-iran-ceasefire-as-two-week-halt-in-war-begins?traffic_source=rss"
+      },
+      {
+        "title": "Climate activist Greta Thunberg slams Trump’s threats against Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/climate-activist-greta-thunberg-slams-trumps-threats-against-iran?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration reaffirms plans to deport Abrego Garcia to Liberia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-reaffirms-plans-to-deport-abrego-garcia-to-liberia?traffic_source=rss"
+      },
+      {
+        "title": "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/oil-prices-slide-stocks-surge-as-trump-announces-two-week-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/iran-says-talks-with-us-will-begin-in-pakistans-islamabad-on-friday?traffic_source=rss"
+      },
+      {
+        "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "White House confirms two-week suspension of strikes on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/white-house-confirms-two-week-suspension-of-strikes-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trump-agrees-to-pause-attacks-on-iran-if-strait-of-hormuz-opens?traffic_source=rss"
+      },
+      {
+        "title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss"
+      },
+      {
+        "title": "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss"
+      },
+      {
+        "title": "What we know about Pakistan’s proposed Iran war pause",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/what-we-know-about-pakistans-proposed-iran-war-pause?traffic_source=rss"
+      },
+      {
+        "title": "Iranian musician stages protest at power station over Trump threats",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iranian-musician-stages-protest-at-power-station-over-trump-threats?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal beat Sporting with late Havertz goal in Champions League quarters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/7/arsenal-beat-sporting-with-late-havertz-goal-in-champions-league-quarters?traffic_source=rss"
+      },
+      {
+        "title": "Djibouti and the Horn of Africa: new front in the war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/2026/4/7/djibouti-and-the-horn-of-africa-new-front-in-the-war-on-iran?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-08T07:15:10.821Z",
     "discarded_untrusted": [
       {
@@ -56348,426 +56783,6 @@
     ],
     "passed_filters": [],
     "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-04-07T07:15:12.594Z",
-    "discarded_untrusted": [
-      {
-        "title": "Emotion Concepts and their Function in a Large Language Model",
-        "source": "Transformer-circuits.pub",
-        "url": "https://transformer-circuits.pub/2026/emotions/index.html"
-      },
-      {
-        "title": "How the German Right Sees Iran",
-        "source": "The American Conservative",
-        "url": "https://www.theamericanconservative.com/how-the-german-right-sees-iran/"
-      },
-      {
-        "title": "Viral X Post Slams Anthropic's 'Woke' AI Safety as Singularity Nears, Sparking Industry Reckoning",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/viral-x-post-slams-anthropics-woke-ai-safety-singularity-nears-sparking-industry-reckoning-1865504"
-      },
-      {
-        "title": "US Air Force breaks ground on next-gen nuclear missile silo",
-        "source": "New Atlas",
-        "url": "https://newatlas.com/military/us-air-force-breaks-ground-next-gen-nuclear-missile-silo/"
-      },
-      {
-        "title": "A Reminder for Trump’s Critics: Years of Diplomacy Ended in a Nuclear North Korea",
-        "source": "Legalinsurrection.com",
-        "url": "https://legalinsurrection.com/2026/04/a-reminder-for-trumps-critics-years-of-diplomacy-ended-in-a-nuclear-north-korea/"
-      },
-      {
-        "title": "Sign Of The Times",
-        "source": "Substack.com",
-        "url": "https://chinaarticles.substack.com/p/sign-of-the-times"
-      },
-      {
-        "title": "Moving Inter and Cross-Domain Advances from Decades to Days",
-        "source": "Danielmiessler.com",
-        "url": "https://danielmiessler.com/blog/moving-inter-and-cross-domain-advances-from-decades-to-days"
-      },
-      {
-        "title": "UK intelligence censored report on global warming and homeland security",
-        "source": "Substack.com",
-        "url": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security"
-      },
-      {
-        "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-        "source": "Internet",
-        "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html"
-      },
-      {
-        "title": "A brief history of the Israeli nuclear program, the open secret at the heart of the Iran war",
-        "source": "Mondoweiss",
-        "url": "https://mondoweiss.net/2026/04/a-brief-history-of-the-israeli-nuclear-program-the-open-secret-at-the-heart-of-the-iran-war/"
-      },
-      {
-        "title": "Pulsar Fusion Achieves Initial Pulse Experiments and Targets Orbital Test in 2027 and Production Fusion Rocket in Early 2030s",
-        "source": "Next Big Future",
-        "url": "https://www.nextbigfuture.com/2026/04/pulsar-fusion.html"
-      },
-      {
-        "title": "Multipolarity As World Government 3.0 & Its Pied Pipers",
-        "source": "Activistpost.com",
-        "url": "https://www.activistpost.com/multipolarity-as-world-government-3-0-its-pied-pipers/"
-      },
-      {
-        "title": "NASA Answers Your Most Pressing Artemis II Questions",
-        "source": "NASA",
-        "url": "https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/"
-      },
-      {
-        "title": "Stocking Items for Barter, by Big John",
-        "source": "Survivalblog.com",
-        "url": "https://survivalblog.com/2026/04/05/items-for-barter-by-big-john/"
-      },
-      {
-        "title": "Trump reiterates threats to bomb Iran's power plants and bridges",
-        "source": "gpb_org",
-        "url": "https://www.gpb.org/news/2026/04/06/trump-reiterates-threats-bomb-irans-power-plants-and-bridges"
-      },
-      {
-        "title": "When North Korea Can Strike America: A Dangerous Policy Gap",
-        "source": "menafn",
-        "url": "https://menafn.com/1110949032/When-North-Korea-Can-Strike-America-A-Dangerous-Policy-Gap"
-      },
-      {
-        "title": "Nuclear Security News and Member Updates Roundup, March 2026",
-        "source": "stimson",
-        "url": "https://www.stimson.org/2026/nuclear-security-news-and-member-updates-roundup-march-2026/"
-      },
-      {
-        "title": "Trump Goes Nuclear: I Can Wipe Out Iran In One Day",
-        "source": "crooksandliars",
-        "url": "https://crooksandliars.com/2026/04/trump-goes-nuclear-i-can-wipe-out-iran-one"
-      },
-      {
-        "title": "US to destroy every bridge, power plant in Iran by tonight if no deal, warns Trump",
-        "source": "nation_pk",
-        "url": "https://www.nation.com.pk/07-Apr-2026/us-destroy-every-bridge-power-plant-iran-tonight-deal-warns-trump"
-      },
-      {
-        "title": "How A Dusty Strip Deep In Iran Can Be Turned Into A U.S. Special Operations Base In Hours",
-        "source": "twz",
-        "url": "https://www.twz.com/news-features/how-a-dusty-stri-deep-in-iran-can-be-turned-into-a-u-s-special-operations-base-in-hours"
-      },
-      {
-        "title": "The War Israel Long Dreamed of: A Squandered Opportunity?",
-        "source": "stimson",
-        "url": "https://www.stimson.org/2026/the-war-israel-long-dreamed-of-a-squandered-opportunity/"
-      },
-      {
-        "title": "Iran urges youths to protect power plants and Saudi Arabia closes bridge as Trump's deadline nears",
-        "source": "durangoherald",
-        "url": "https://www.durangoherald.com/articles/iran-urges-youths-to-protect-power-plants-and-saudi-arabia-closes-bridge-as-trumps-deadline-nears/"
-      },
-      {
-        "title": "‘You’re Fake!’ Trump Dresses Down New York Times Reporter in Testy Exchange",
-        "source": "yahoo",
-        "url": "https://www.yahoo.com/news/articles/fake-trump-dresses-down-york-184016919.html"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "Commentary: What South Korea’s belated participation in the ‘Hormuz coalition’ reveals",
-        "source": "CNA",
-        "url": "https://www.channelnewsasia.com/commentary/south-korea-japan-us-allies-strait-hormuz-iran-war-6033971"
-      },
-      {
-        "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 5, 2026",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-05-2026/"
-      },
-      {
-        "title": "NASA chief Jared Isaacman says Artemis II would not be possible 'if it wasn't for President Trump'",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/science/nasa-chief-jared-isaacman-says-artemis-ii-would-possible-wasnt-president-trump"
-      },
-      {
-        "title": "Transcript: NASA's Jared Isaacman on \"Face the Nation with Margaret Brennan,\" April 5, 2026",
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/nasa-administrator-jared-isaacman-face-the-nation-transcript-04-05-2026/"
-      },
-      {
-        "title": "Grey Market: India is ageing faster than its care systems can keep up. A new wave of startups is trying to bridge that gap",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/grey-market-india-is-ageing-faster-than-its-care-systems-can-keep-up-a-new-wave-of-startups-is-trying-to-bridge-that-gap/articleshow/130032555.cms"
-      },
-      {
-        "title": "Little sign of breakthrough as Trump's Iran deadline nears ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "JD Vance due in Hungary to back Orban's re-election bid",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Taiwan opposition leader makes first China visit since 2016",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nine policemen sentenced to death in India over Covid custody killings",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce8l0md9gl1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Lil Nas X assault case to be dismissed if he completes mental health programme",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cew7nqn5rqgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Seven Eritrean players fail to return home after international match",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c747037e2kgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ladysmith Black Mambazo's 'wise elder' dies aged 77",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx2r5g7x25yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Young gray whale dies after swimming up river in Washington state",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "DR Congo agrees to take deportees from the US ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c20d35eejxgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US Secret Service investigates reports of gunfire near White House",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cge0213dyj5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Locals dispute Nigerian army claim of 31 rescued after Easter attack",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "China is winning one AI race, the US another - but either might pull ahead",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How rescue of US airman in remote part of Iran unfolded",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Artemis's stunning Moon pictures - science or holiday photos?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'I adore her now': Mother learns to cope with child's autism in a country with little help",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cj608n98z1jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Absolutely spectacular': Artemis II crew see first glimpse of far side of Moon",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What we know so far about the search for missing US airman in Iran",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Artemis II's journey so far as it leaves Earth orbit... in 85 seconds",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cpqxn8zx8ydo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australia arrests ex-soldier Roberts-Smith over alleged Afghan war crimes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes?traffic_source=rss"
-      },
-      {
-        "title": "Iran says US-Israeli projectile has struck a synagogue in Tehran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/iran-says-us-israeli-projectile-has-struck-a-synagogue-in-tehran?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s threat to strike Iran’s power plants looms",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
-      },
-      {
-        "title": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
-      },
-      {
-        "title": "Artemis II astronauts break record for farthest human travel from Earth",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss"
-      },
-      {
-        "title": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures?traffic_source=rss"
-      },
-      {
-        "title": "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/7/vance-heads-to-budapest-to-shore-up-orbans-support-before-sunday-vote?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss"
-      },
-      {
-        "title": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss"
-      },
-      {
-        "title": "Protesters swarm US embassy in Tel Aviv, demanding end of wars",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/protesters-swarm-us-embassy-in-tel-aviv-demanding-end-of-wars?traffic_source=rss"
-      },
-      {
-        "title": "Israeli soldiers fire tear gas at Palestinian youth during raid in Hebron",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/israeli-soldiers-fire-tear-gas-at-palestinian-youth-during-raid-in-hebron?traffic_source=rss"
-      },
-      {
-        "title": "Russia jails former Kursk governor in Ukraine incursion-linked graft probe",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss"
-      },
-      {
-        "title": "Israeli air strike kills at least 10 Palestinians near Gaza school",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/6/israeli-air-strike-kills-at-least-10-palestinians-near-gaza-school?traffic_source=rss"
-      },
-      {
-        "title": "US Supreme Court clears path for Steve Bannon criminal case dismissal",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss"
-      },
-      {
-        "title": "Trump claims Iranians begging US to keep bombing Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/trump-claims-iranians-begging-us-to-keep-bombing-iran?traffic_source=rss"
-      },
-      {
-        "title": "Video: Trump threatens to jail reporter over Iran airman rescue leak",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss"
-      },
-      {
-        "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss"
-      },
-      {
-        "title": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss"
-      },
-      {
-        "title": "Rescuers search for survivors after strikes hit homes in Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/rescuers-search-for-survivors-after-strikes-hit-homes-in-iran?traffic_source=rss"
-      },
-      {
-        "title": "North Korea keeping Iran at arm’s length, reports Seoul",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/6/north-korea-keeping-iran-at-arms-length-reports-seoul?traffic_source=rss"
-      },
-      {
-        "title": "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/hegseth-says-strikes-on-iran-increasing-as-hormuz-deadline-looms?traffic_source=rss"
-      },
-      {
-        "title": "Video: Iran’s top university hit in US-Israeli strikes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-irans-top-university-hit-in-us-israeli-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Artemis II breaks Apollo 13 record for farthest human travel from Earth",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/6/artemis-ii-breaks-record-for-the-furthest-human-travel-from-earth?traffic_source=rss"
-      },
-      {
-        "title": "Trump’s many threats of possible war crimes reach a crescendo in Iran",
-        "source": "cnn",
-        "url": "https://www.cnn.com/2026/04/06/politics/war-crimes-trump-iran"
-      }
-    ],
-    "passed_filters": [
-      {
-        "title": "North Korea working on carbon-fibre ICBM for multi-warhead delivery, Seoul says",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/north-korea-working-on-carbon-fibre-icbm-for-multi-warhead-delivery-seoul-says/articleshow/130052071.cms"
-      },
-      {
-        "title": "Why is Iran’s Bushehr nuclear power plant being attacked?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/4/6/why-is-irans-bushehr-nuclear-power-plant-being?traffic_source=rss"
-      }
-    ],
-    "ai_result": {
-      "is_real_event": false,
-      "confidence": 0.1,
-      "ambiguity": true
-    },
     "final_status": "NONE"
   }
 ]
