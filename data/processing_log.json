@@ -1,5 +1,430 @@
 [
   {
+    "run_at": "2026-04-09T06:50:10.961Z",
+    "discarded_untrusted": [
+      {
+        "title": "Las Vegas: The City That Shouldn’t Exist",
+        "source": "Everything-everywhere.com",
+        "url": "https://everything-everywhere.com/las-vegas-the-city-that-shouldnt-exist/"
+      },
+      {
+        "title": "Russia, China Veto UN Resolution on Strait of Hormuz, Citing Escalation Risk",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-04-08-russia-china-veto-un-resolution-on-hormuz.html"
+      },
+      {
+        "title": "Trump Strait of Hormuz Threats 2026: 'Hell' Warnings Lead to Iran Ceasefire Deal as Oil Routes Reopen",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-strait-hormuz-threats-2026-hell-warnings-lead-iran-ceasefire-deal-oil-routes-reopen-1865734"
+      },
+      {
+        "title": "US-Iran two-week ceasefire: How Trump stepped back from the brink, and what comes next",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/explained/explained-global/us-iran-ceasefire-explained-10624667/"
+      },
+      {
+        "title": "High-precision calculation of the quark–gluon coupling from lattice QCD",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41586-026-10339-4"
+      },
+      {
+        "title": "Synthetic super-enhancers enable precision viral immunotherapy",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41586-026-10329-6"
+      },
+      {
+        "title": "Elizabeth Economy: Amanpour And Company",
+        "source": "PBS",
+        "url": "https://www.pbs.org/video/april-7-2026-nfsxep/"
+      },
+      {
+        "title": "America heads back to the Moon. But there’s a big problem",
+        "source": "RT",
+        "url": "https://www.rt.com/news/637625-america-heads-back-to-moon/"
+      },
+      {
+        "title": "Trump’s Genocidal Threats on Iran Are Enabled by a Vast Apparatus of Destruction",
+        "source": "Truthout",
+        "url": "https://truthout.org/articles/trumps-genocidal-threats-on-iran-are-enabled-by-a-vast-apparatus-of-destruction/"
+      },
+      {
+        "title": "100 Masterpieces to See at the Art Institute of Chicago",
+        "source": "ARTnews",
+        "url": "https://www.artnews.com/list/art-news/news/must-see-art-institute-of-chicago-artworks-1234779275/"
+      },
+      {
+        "title": "The Blocked Silos: Why Iran Can No Longer Fire Its Most Dangerous Missiles",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4373996/posts"
+      },
+      {
+        "title": "BREAKING: Trump Warns 'Whole Civilization Will Die Tonight' as Iran Faces 8 PM Deadline on Strait of Hormuz",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/breaking-trump-warns-whole-civilization-will-die-tonight-iran-faces-8-pm-deadline-strait-1865705"
+      },
+      {
+        "title": "Preventing an Iranian Bomb Is Only Getting Harder",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/04/07/iran-bomb-nuclear-trump-war-ayatollah-khamenei/"
+      },
+      {
+        "title": "Effects of controversial contexts on opinion changes through discussion and evaluation of decisions: A group decision experiment regarding the issue of removed soil in Fukushima",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346574"
+      },
+      {
+        "title": "Multifaceted bioactivity of brown seaweed-derived fucoidan from the Indian Coastline: A natural health product candidate",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346712"
+      },
+      {
+        "title": "Metformin attenuates TBHP-induced oxidative injury in human lens epithelial cells and is associated with SIRT1/FOXO1-related autophagy",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346822"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Crude oil price fall, markets rally: Anurag Singh says 'worst is behind us' after Iran talks",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/crude-oil-price-fall-markets-rally-anurag-singh-says-worst-is-behind-us-after-iran-talks/articleshow/130104033.cms"
+      },
+      {
+        "title": "India’s PFBR achieves criticality, marks entry into stage-II nuclear programme",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/indias-pfbr-achieves-criticality-marks-entry-into-stage-ii-nuclear-programme/articleshow/130095906.cms"
+      },
+      {
+        "title": "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts"
+      },
+      {
+        "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we know about the two-week ceasefire between the US and Iran ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Prosecutors seek Tiger Woods' prescription drug records after Florida arrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c77mz26ed80o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Greece to ban social media for under-15s from next year",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Germany suspends military approval for long stays abroad for men under 45",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgx103wkl1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran Strait of Hormuz warning adds to shipping uncertainty",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria begins mass trial of 500 terrorism suspects",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cameroon 'military contractors' killed in Russia-Ukraine war - BBC confirms leaked message",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0v5gy01go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gambia appoints British barrister to prosecute gruesome Jammeh-era crimes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjr90wyw09wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Newlywed wife of US soldier freed by ICE after detention at military base",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man fined after breaking into viral hippo Moo Deng's enclosure",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce84zpdx101o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Top Australian soldier charged with war crimes to remain in jail on remand",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1l9qemvgppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US journalist Shelly Kittleson released after kidnap in Iraq, officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crm1xjp08k3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French couple leave Iran after more than three years in jail",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyxk5640wko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Is BTS losing its K-pop identity as it aims for a bigger world stage?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg73dnz0l1xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The US refinery now processing Venezuelan oil",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian migrant workers hit by cooking gas shortages are leaving cities",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20d10980e9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China is winning one AI race, the US another - but either might pull ahead",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Artemis's stunning Moon pictures - science or holiday photos?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: BBC asks Artemis II crew a question in space",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cgk0e12y1kgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Pope Leo XIV spins basketball on his finger, with help from Harlem Globetrotters",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cdrmnj7rz42o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Everything you need to know about BTS's comeback tour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c0mjxk2mz8zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Fire damages roof of Rio's Olympic velodrome",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn430515jzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "For Gulf states, Hormuz uncertainty casts shadow over fragile US-Iran truce",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/9/for-gulf-states-hormuz-uncertainty-casts-shadow-over-fragile-us-iran-truce?traffic_source=rss"
+      },
+      {
+        "title": "Man rescued after two weeks trapped in collapsed Mexico mine",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss"
+      },
+      {
+        "title": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
+      },
+      {
+        "title": "13-year-old girl captures terrifying moment Israel bombed Beirut",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss"
+      },
+      {
+        "title": "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/turkish-convoy-condemns-lawless-aggression-of-the-us-and-israel?traffic_source=rss"
+      },
+      {
+        "title": "Protesters outside Israeli embassy in London condemn assault on Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/protesters-outside-israeli-embassy-in-london-condemn-assault-on-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/us-vp-jd-vance-says-lebanon-is-not-part-of-the-us-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump threatens action if Tehran fails to comply with deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "‘Israel must be restrained for US-Iran ceasefire to hold’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/israel-must-be-restrained-for-us-iran-ceasefire-to?traffic_source=rss"
+      },
+      {
+        "title": "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/woman-given-15-years-for-role-supplying-drugs-linked-to-matthew-perry-death?traffic_source=rss"
+      },
+      {
+        "title": "Americans question Trump’s instinct on Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/americans-question-trumps-instinct-on-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/jd-vance-says-iran-would-be-dumb-to-let-talks-collapse-over-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Prosecutors move to subpoena Tiger Woods’ prescription drug records",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration signals it is mulling NATO withdrawal after Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/trump-administration-says-it-is-mulling-nato-withdrawal-after-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/macron-welcomes-us-iran-ceasefire-and-urges-lebanons-inclusion?traffic_source=rss"
+      },
+      {
+        "title": "Trump threatens 50% tariffs on countries that supply Iran with weapons",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/8/trump-threatens-50-tariffs-on-countries-that-supply-iran-with-weapons?traffic_source=rss"
+      },
+      {
+        "title": "Devastation in Beirut after Israeli strikes reduce homes to rubble",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/devastation-in-beirut-after-israeli-strikes-reduce-homes-to-rubble?traffic_source=rss"
+      },
+      {
+        "title": "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/8/atletico-madrid-shock-10-man-barcelona-2-0-in-champions-league-quarterfinal?traffic_source=rss"
+      },
+      {
+        "title": "What to know about Israel’s strikes on Lebanon amid US-Iran ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Trump has found his Iran off-ramp – but at what cost?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/4/8/trump-has-found-his-iran-off-ramp-but-at-what-cost?traffic_source=rss"
+      },
+      {
+        "title": "PSG beat Liverpool as Champions League defence maintains pace",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/8/psg-beat-liverpool-as-champions-league-defence-maintains-pace?traffic_source=rss"
+      },
+      {
+        "title": "‘People are afraid’: Lebanese reeling after Israel’s devastating attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/8/people-are-afraid-lebanese-reeling-after-israels-devastating-attacks?traffic_source=rss"
+      },
+      {
+        "title": "‘Heinous crime’: Al Jazeera condemns Israeli killing of journalist",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/heinous-crime-al-jazeera-condemns-israeli-killing-of-journalist?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu: A ‘ceasefire with Iran will not include Hezbollah’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/netanyahu-a-ceasefire-with-iran-will-not-include?traffic_source=rss"
+      },
+      {
+        "title": "NASA releases picture of ‘Earthset’ shot by Artemis crew",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/4/8/nasa-releases-picture-of-earthset-shot-by-artemis-crew?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [
+      {
+        "title": "North Korea fires missiles toward sea after ridiculing South's hopes for better ties",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/north-korea-fires-missiles-sea-after-ridiculing-souths-131820652"
+      }
+    ],
+    "ai_result": {
+      "is_real_event": false,
+      "confidence": 0.9,
+      "ambiguity": true
+    },
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-09T06:45:14.514Z",
     "discarded_untrusted": [
       {
