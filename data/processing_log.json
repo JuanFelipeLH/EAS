@@ -1,5 +1,320 @@
 [
   {
+    "run_at": "2026-04-13T12:02:03.716Z",
+    "discarded_untrusted": [
+      {
+        "title": "Godzilla: The Kaiju That Remembers",
+        "source": "metropolisjapan",
+        "url": "https://metropolisjapan.com/godzilla/"
+      },
+      {
+        "title": "The Biggest Mistake by a President",
+        "source": "politicalwire",
+        "url": "https://politicalwire.com/2026/04/12/the-biggest-mistake-by-a-president/"
+      },
+      {
+        "title": "The day Healesville was hit by an atomic bomb",
+        "source": "ferntreegully",
+        "url": "https://ferntreegully.mailcommunity.com.au/news/2026-04-13/the-day-healesville-was-hit-by-an-atomic-bomb/"
+      },
+      {
+        "title": "The day Healesville was hit by an atomic bomb",
+        "source": "rangestrader_au",
+        "url": "https://rangestrader.mailcommunity.com.au/news/2026-04-13/the-day-healesville-was-hit-by-an-atomic-bomb/"
+      },
+      {
+        "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
+        "source": "cnbc",
+        "url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html"
+      },
+      {
+        "title": "Middle East crisis live: Iranian negotiator says ‘we will not bow to any threats’ as Trump says US navy will blockade strait of Hormuz | US-Israel war on Iran",
+        "source": "digitpatrox",
+        "url": "https://digitpatrox.com/middle-east-crisis-live-iranian-negotiator-says-we-will-not-bow-to-any-threats-as-trump-says-us-navy-will-blockade-strait-of-hormuz-us-israel-war-on-iran/"
+      },
+      {
+        "title": "10 Sci-Fi Movies That Are Amazing From Start to Finish",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/10-sci-fi-movies-that-are-amazing-from-start-to-finish-82139424"
+      },
+      {
+        "title": "10 Sci-Fi Movies That Are Amazing From Start to Finish",
+        "source": "screenrant",
+        "url": "https://screenrant.com/sci-fi-movies-amazing-start-to-finish/"
+      },
+      {
+        "title": "Time to talk about Israel's future",
+        "source": "dailysabah",
+        "url": "https://www.dailysabah.com/opinion/columns/time-to-talk-about-israels-future"
+      },
+      {
+        "title": "U.K. Will Not Help in Blockade of Strait of Hormuz",
+        "source": "politicalwire",
+        "url": "https://politicalwire.com/2026/04/12/u-k-will-not-help-in-blockade-of-strait-of-hormuz/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Britney Spears goes into rehab after driving under the influence arrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Carney on verge of Liberal majority government as votes cast in three by-elections",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Dutch village at risk of being demolished",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Crowds gather ahead of Bollywood legend Asha Bhosle's funeral",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Leading candidate quits California governor race amid sexual misconduct claims",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Eight to be awarded for bravery in Bondi Junction stabbing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria Air Force orders investigation after dozens killed in airstrike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pope prioritises world's fastest-growing Catholic region in major Africa tour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 30 feared dead in crush at Haitian tourist site",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's threat raises risks and leaves predicaments unchanged",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Frostbite is least of worries for Canada forces grappling with new Arctic reality",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Political turmoil in Indian border state as nine million lose voting rights",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We need real peace': Ukrainians have little faith in Easter truce",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Celebrities and fans pay tributes to Asha Bhosle",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgeljpk4v9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'A truly historic moment': Hungarian opposition wins election landslide",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Hungary's knife-edge election could impact the US and Russia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Still in shock, Beirut tries to heal after deadly Israeli attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c0rx4ve0klyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tear gas fired at India workers demanding higher wages as living costs rise",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/tear-gas-fired-at-indian-workers-demanding-higher-wage-as-living-costs-rise?traffic_source=rss"
+      },
+      {
+        "title": "How the US-Iran talks in Islamabad unfolded",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss"
+      },
+      {
+        "title": "Who is Peter Magyar, Hungary’s new leader who trounced Viktor Orban?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/who-is-peter-magyar-hungarys-new-leader-who-trounced-viktor-orban?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces fire tear gas near Palestinian schoolchildren",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israeli-forces-fire-tear-gas-near-palestinian-schoolchildren?traffic_source=rss"
+      },
+      {
+        "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "How a UK military college sought to distance itself from ban on Israelis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/how-a-uk-military-college-sought-to-distance-itself-from-ban-on-israelis?traffic_source=rss"
+      },
+      {
+        "title": "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/millions-in-war-ravaged-sudan-surviving-on-one-meal-a-day-say-ngos?traffic_source=rss"
+      },
+      {
+        "title": "US blockade of Iran would worsen global energy crisis, analysts say",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/us-blockade-of-iran-would-worsen-global-energy-crisis-analysts-say?traffic_source=rss"
+      },
+      {
+        "title": "Protesters rally in Paris against ‘liberty-killing’ anti-Semitism bill",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/protesters-rally-in-paris-against-liberty-killing-anti-semitism-bill?traffic_source=rss"
+      },
+      {
+        "title": "What Iran is saying about US plan to blockade ports",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-iran-is-saying-about-us-plan-to-blockade-ports?traffic_source=rss"
+      },
+      {
+        "title": "Cuba sent doctors. Washington sent a destroyer.",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/13/cuba-sent-doctors-washington-sent-a-destroyer?traffic_source=rss"
+      },
+      {
+        "title": "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/13/refugee-in-my-own-city-surviving-tehrans-bombing-with-my-cat-for-company?traffic_source=rss"
+      },
+      {
+        "title": "Ghanaian footballer Dominic Frimpong killed in armed attack on team bus",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/13/ghanaian-footballer-dominic-frimpong-killed-in-armed-attack-on-team-bus?traffic_source=rss"
+      },
+      {
+        "title": "Australia appoints female army chief for the first time in history",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/australia-appoints-female-army-chief-for-the-first-time-in-history?traffic_source=rss"
+      },
+      {
+        "title": "Why oil prices aren’t what you think – and what it means for global supply",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/13/why-oil-prices-arent-what-you-think-and-what-it-means-for-global-supply?traffic_source=rss"
+      },
+      {
+        "title": "Celebrations in Hungary after Orban ousted in landmark election",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/celebrations-in-hungary-after-orban-ousted-in-landmark-election?traffic_source=rss"
+      },
+      {
+        "title": "Pope Leo lands in Algeria for historic visit as he starts Africa tour",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/pope-leo-heads-to-algeria-as-he-starts-four-country-africa-tour?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What is happening on day 45 of the US-Iran conflict?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss"
+      },
+      {
+        "title": "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/who-is-israels-us-envoy-leading-negotiations-with-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Sinner beats Alcaraz in straight sets to win Monte Carlo, reclaim No 1 spot",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/13/sinner-beats-alcaraz-in-straight-sets-to-win-monte-carlo-reclaim-no-1-spot?traffic_source=rss"
+      },
+      {
+        "title": "Pope Leo says he does not fear Trump after attack over Iran peace appeal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss"
+      },
+      {
+        "title": "Viktor Orban swept from power after 16 years ruling Hungary",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss"
+      },
+      {
+        "title": "Rory McIlroy wins Masters to become fourth back-to-back champion",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/13/rory-mcilroy-wins-masters-to-become-fourth-back-to-back-champion?traffic_source=rss"
+      },
+      {
+        "title": "Oil prices surge past $103 a barrel after US announces blockade of Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-13T12:00:15.415Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
