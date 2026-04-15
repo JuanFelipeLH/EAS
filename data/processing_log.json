@@ -1,5 +1,410 @@
 [
   {
+    "run_at": "2026-04-15T00:35:11.572Z",
+    "discarded_untrusted": [
+      {
+        "title": "Mystery of baby boy found wrapped in 1910 newspaper under floorboards deepens",
+        "source": "mirroruk",
+        "url": "https://www.mirror.co.uk/news/uk-news/baby-newspaper-floorboards-bishop-auckland-37010745"
+      },
+      {
+        "title": "Middle East war: Hormuz tensions dominate latest developments",
+        "source": "nst",
+        "url": "https://www.nst.com.my/world/world/2026/04/1417812/middle-east-war-hormuz-tensions-dominate-latest-developments"
+      },
+      {
+        "title": "Iran’s president says deal will be reached if US abandons ‘totalitarianism’",
+        "source": "digitpatrox",
+        "url": "https://digitpatrox.com/irans-president-says-deal-will-be-reached-if-us-abandons-totalitarianism/"
+      },
+      {
+        "title": "Red Lines in Islamabad: Why a US-Iran Deal Remains Elusive",
+        "source": "newsable_asianetnews",
+        "url": "https://newsable.asianetnews.com/india/us-iran-nuclear-talks-stall-after-20-hours-key-issues-unresolved-why-us-iran-deal-remains-elusive-articleshow-2hwwex2"
+      },
+      {
+        "title": "Exclusive: Former American & Iranian Negotiators on Ceasefire Talks & How War Could End",
+        "source": "democracynow",
+        "url": "http://www.democracynow.org/2026/4/14/iran_blockade"
+      },
+      {
+        "title": "Baby boy's skeleton was found by workers under floorboards wrapped in 1910 newspaper, inquest hears",
+        "source": "chroniclelive_co_uk",
+        "url": "https://www.chroniclelive.co.uk/news/north-east-news/baby-boys-skeleton-found-workers-33767621"
+      },
+      {
+        "title": "LIZ PEEK: Do Democrats hate President Trump more than they love America?",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/liz-peek-do-democrats-hate-president-trump-more-than-they-82202320"
+      },
+      {
+        "title": "'Tawakkul al-Allah': Meet Sheikh Moussa, The Man Israel Can't Move",
+        "source": "ndtv",
+        "url": "https://www.ndtv.com/world-news/tawakkul-al-allah-meet-sheikh-moussa-the-man-israel-cannot-move-11355812"
+      },
+      {
+        "title": "'Iran willing to engage in economic terrorism,' says JD Vance as US blocks Hormuz",
+        "source": "catchnews",
+        "url": "https://www.catchnews.com/international-news/iran-willing-to-engage-in-economic-terrorism-says-jd-vance-as-us-blocks-hormuz-258392.html"
+      },
+      {
+        "title": "Outlook Exclusive: ‘Israel Today Is Not Faithful To The Ideas Of 1948’, Says Analyst Yonatan Touval",
+        "source": "outlookindia",
+        "url": "https://www.outlookindia.com/international/outlook-exclusive-israel-today-is-not-faithful-to-the-ideas-of-1948-says-analyst-yonatan-touval"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US blockade of Iran ports irresponsible and dangerous, China says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Retrial over death of Argentina legend Maradona begins",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French woman, 86, held by ICE after moving to US to reunite with long-lost love",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd0rre4d9k0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Partner of US influencer who died in Zanzibar speaking to police as witness",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx299rxk0ngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What are Harry and Meghan doing in Australia? ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c70dd4975r2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'They are striking everywhere' - Paramedics in Lebanon speak to BBC after Israeli strikes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sixteen injured after ex-student opens fire at high school in Turkey",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2k33xk24nyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cameroon separatists to pause fighting ahead of Pope visit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1d993116q6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police officers among seven arrested over deadly Haiti stampede",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Korea jails 90-year-old woman for laundering son's drug money",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c70554w89rlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spanish PM's wife charged with corruption after two-year probe",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8ejg3wk81no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Eric Swalwell to resign from Congress after sexual misconduct claims",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyd8rj1ylro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bongbong Marcos fights ill-health rumours with star jumps",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj3775edd11o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran carried out highest number of executions in decades",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-Nigerian oil minister denies taking bribes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Peru election drags into second day after ballot delivery fiasco",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Britney Spears goes into rehab after driving under the influence arrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mourners sing Asha Bhosle hit as iconic Indian singer cremated",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Dutch village at risk of being demolished",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Can this man broaden the appeal of a South African party seen by some as 'too white'?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj948p84jjxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Quantum computing: A tech race Europe could win?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Democrats were already scrambling in California's governor race. Then Swalwell dropped out",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cje419peejxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The US blockade of Iran is a gamble. Will it work?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's threat raises risks and leaves predicaments unchanged",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "On patrol with Canadian forces securing the Arctic as global threats grow",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Political turmoil in Indian border state as nine million lose voting rights",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US blockade of Iranian ports explained in two minutes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Celebrities and fans pay tributes to Asha Bhosle",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgeljpk4v9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hungarian voters celebrate 'much-needed' change",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c0q93vgkxnzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US drivers head to Native American lands for cheaper gas",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran war live: Trump hints at talks; US blockade in Hormuz enters 2nd day",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "French police arrest students protesting anti-Semitism law",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/french-police-arrest-students-protesting-anti-semitism-law?traffic_source=rss"
+      },
+      {
+        "title": "Delcy Rodriguez calls for a ‘Venezuela free of sanctions’ amid US detente",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/delcy-rodriguez-calls-for-a-venezuela-free-of-sanctions-amid-us-detente?traffic_source=rss"
+      },
+      {
+        "title": "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/israel-and-lebanon-hold-rare-talks-in-washington-dc-amid-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "The Take: Who is keeping the fight alive in Sudan’s war?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/4/14/aje-onl-sdn_anniversary26_av_v2-140426?traffic_source=rss"
+      },
+      {
+        "title": "Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss"
+      },
+      {
+        "title": "Atletico edge Barcelona on aggregate to reach Champions League semifinal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/14/atletico-edge-barcelona-on-aggregate-to-reach-champions-league-semifinal?traffic_source=rss"
+      },
+      {
+        "title": "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/canada-faces-calls-to-rescind-planned-cuts-to-refugee-healthcare-scheme?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attack kills several people in Gaza refugee camp",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-attack-kills-several-people-in-gaza-refugee-camp?traffic_source=rss"
+      },
+      {
+        "title": "Spain’s Bangladeshi community cheers migrant amnesty programme",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/spains-bangladeshi-community-cheers-migrant-amnesty-programme?traffic_source=rss"
+      },
+      {
+        "title": "Hundreds missing after Rohingya boat capsizes in Andaman Sea: UN",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/hundreds-missing-after-rohingya-boat-capsizes-in-andaman-sea-un?traffic_source=rss"
+      },
+      {
+        "title": "US appeals court blocks contempt case over Trump deportation flights",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/us-appeals-court-blocks-contempt-case-over-trump-deportation-flights?traffic_source=rss"
+      },
+      {
+        "title": "How US blockade on Iran will worsen energy crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/how-us-blockade-on-iran-will-worsen-energy-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Spanish government approves amnesty programme for undocumented immigrants",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/spanish-government-approves-amnesty-programme-for-undocumented-immigrants-2?traffic_source=rss"
+      },
+      {
+        "title": "FIFA faces pressure to call on Trump to stop ICE raids at 2026 World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/fifa-faces-pressure-to-call-on-trump-to-stop-ice-raids-at-2026-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Why are global views of the US getting worse?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-stream/2026/4/14/why-are-global-views-of-the-us-getting-worse?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan PM headed to Riyadh and Ankara amid prospect of new US-Iran talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/pakistan-pm-headed-to-saudi-and-turkiye-amid-prospect-of-new-us-iran-talks?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike on Gaza police car kills child",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-strike-on-gaza-police-car-kills-child?traffic_source=rss"
+      },
+      {
+        "title": "IMF cuts global growth forecast during Hormuz blockade",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss"
+      },
+      {
+        "title": "The process of justice must be observed in ICC Prosecutor Karim Khan’s case",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/14/the-process-of-justice-must-be-observed-in-icc-prosecutor-karim-khans-case?traffic_source=rss"
+      },
+      {
+        "title": "Fed nominee Warsh’s financial disclosures point to assets well over $100m",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/14/fed-nominee-warshs-financial-disclosures-point-to-assets-well-over-100m?traffic_source=rss"
+      },
+      {
+        "title": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/14/israeli-ambassador-lebanon-wants-to-be-liberated-from-hezbollah?traffic_source=rss"
+      },
+      {
+        "title": "Aid groups bidding to boost relief shipments into Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/aid-groups-bidding-to-boost-relief-shipments-into-iran?traffic_source=rss"
+      },
+      {
+        "title": "Over-sold and under-delivered: Israel’s Netanyahu faces ceasefire backlash",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/over-sold-and-under-delivered-israels-netanyahu-faces-ceasefire-backlash?traffic_source=rss"
+      },
+      {
+        "title": "Drones, Iran war escalating horror as Sudan war enters fourth year",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/14/drones-iran-war-escalating-horror-as-sudan-war-enters-fourth-year?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-15T00:30:12.571Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
@@ -121753,436 +122158,6 @@
         "title": "Starmer announces talks to address the Strait of Hormuz crisis",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-04-14T00:30:20.567Z",
-    "discarded_untrusted": [
-      {
-        "title": "Airpower, Attrition, and Great-Power Competition",
-        "source": "Khabarhub.com",
-        "url": "https://english.khabarhub.com/2026/13/543788/"
-      },
-      {
-        "title": "Rethinking ovarian cancer III: the past decade and future directions",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41568-026-00916-0"
-      },
-      {
-        "title": "Inside the U.S-Iran Negotiations: Iran Failed to Meet U.S. on 6 Key Red Lines",
-        "source": "Breitbart News",
-        "url": "https://www.breitbart.com/politics/2026/04/12/inside-the-u-s-iran-negotiations-iran-failed-to-meet-u-s-on-6-key-red-lines/"
-      },
-      {
-        "title": "Vance, US negotiators depart meeting with Iran, Pakistan delegation after peace talks fail - Fox News",
-        "source": "Slashdot.org",
-        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181654504"
-      },
-      {
-        "title": "After Talks Fail, List of US Options Isn't Long",
-        "source": "Newser",
-        "url": "https://www.newser.com/story/387164/after-talks-fail-list-of-us-options-isnt-long.html"
-      },
-      {
-        "title": "The 'extraordinary' rise of Kim Jong Un's mysterious teenage daughter",
-        "source": "ABC News (AU)",
-        "url": "https://www.abc.net.au/news/2026-04-13/north-korea-leader-kim-jong-un-daughter-kim-ju-ae/106548846"
-      },
-      {
-        "title": "Trump Orders Hormuz Blockade After Iran Talks Collapse: U.S. Navy to Halt Ships Paying Tehran Tolls",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/trump-orders-hormuz-blockade-after-iran-talks-collapse-us-navy-halt-ships-paying-tehran-tolls-1866283"
-      },
-      {
-        "title": "Here’s why the Iran talks were doomed to fail",
-        "source": "RT",
-        "url": "https://www.rt.com/news/638211-iran-talks-doomed-fail/"
-      },
-      {
-        "title": "US-Iran talks: What prevented a deal and what's next?",
-        "source": "DW (English)",
-        "url": "https://www.dw.com/en/us-iran-talks-what-prevented-a-deal-and-whats-next/a-76755660"
-      },
-      {
-        "title": "Slightly Autistic",
-        "source": "Seobook.com",
-        "url": "http://www.seobook.com/slightly-autistic"
-      },
-      {
-        "title": "Strait of Hormuz Transit Remains Limited to Iran-Aligned Vessels; Tankers Gather Near Entrance",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-04-12-hormuz-strait-transit-remains-limited-iran-vessels.html"
-      },
-      {
-        "title": "The Family Protection Act: Is it time to curb judges’ power to rewrite your will? – David Harvey",
-        "source": "New Zealand Herald",
-        "url": "https://www.nzherald.co.nz/business/the-family-protection-act-is-it-time-to-curb-judges-power-to-rewrite-your-will-david-harvey/premium/DLNFQ4PIVBFQHKPYQGQMS3ZEGQ/"
-      },
-      {
-        "title": "Fallout’s Most Iconic Prop Took A Shocking Amount Of Time To Make, Reveals Lead",
-        "source": "Screen Rant",
-        "url": "https://screenrant.com/fallout-t-60-power-armor-time-prime-video/"
-      },
-      {
-        "title": "Trump downplays talks for ceasefire deal with Iran, claiming military victory. ‘It doesn’t matter. From the standpoint of America, we win’",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/04/11/trump-iran-war-ceasefire-talks-deal-military-victory-jd-vance/"
-      },
-      {
-        "title": "10 Underrated 90s Action Movies Nobody Remembers Today",
-        "source": "Screen Rant",
-        "url": "https://screenrant.com/underrated-action-movies-1990s/"
-      },
-      {
-        "title": "UPSC Weekly Current Affairs Quiz (April 05 to 11, 2026) : 15 key questions with detailed answers for Prelims 2026",
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-weekly-current-affairs-quiz-april-05-to-11-2026-10631532/"
-      },
-      {
-        "title": "Pak Peace Talks Flop, Iran Jabs Trump, US With Ghost Of Obama Nuke Deal",
-        "source": "ndtv",
-        "url": "https://www.ndtv.com/world-news/us-iran-war-us-iran-ceasefire-peace-talks-pakistan-islamabad-nuclear-deal-jcpoa-11351215"
-      },
-      {
-        "title": "Iran Parliament Speaker Ghalibaf issues Hormuz warning to US using mathematical formula: Here's what it means",
-        "source": "livemint",
-        "url": "https://www.livemint.com/news/world/us-iran-conflict-ghalibaf-donald-trump-strait-of-hormuz-mathematical-formula-blockade-us-navy-11776079000853.html"
-      },
-      {
-        "title": "Understanding the Limitations of Nuclear Weapons Development",
-        "source": "gyanhigyan",
-        "url": "https://gyanhigyan.com/national/understanding-the-limitations-of-nuclear-weapons/cid18508004.htm"
-      },
-      {
-        "title": "Donald Trump's nuclear bomb dilemma just went from bad to worse",
-        "source": "gbnews",
-        "url": "https://www.gbnews.com/politics/donald-trump-iran-hormuz-nuclear"
-      },
-      {
-        "title": "Iran says train service resumed on routes damaged by strikes during war",
-        "source": "timesofisrael",
-        "url": "https://www.timesofisrael.com/iran-says-train-service-resumed-on-routes-damaged-by-strikes-during-war/"
-      },
-      {
-        "title": "US-Iran war has paused, not ended: What that means for the global order | Point Blank with Shishir Gupta",
-        "source": "hindustantimes",
-        "url": "https://www.hindustantimes.com/world-news/iran-war-has-paused-not-ended-what-that-means-for-the-global-order-point-blank-with-shishir-gupta-101776079211802.html"
-      },
-      {
-        "title": "First Thing: Trump says US will blockade strait of Hormuz after Iran peace talks fail",
-        "source": "theguardian",
-        "url": "https://www.theguardian.com/us-news/2026/apr/13/first-thing-trump-us-blockade-strait-of-hormuz-iran-peace-talks-fail"
-      },
-      {
-        "title": "100 best video game quotes of all time",
-        "source": "polygon",
-        "url": "https://www.polygon.com/best-video-game-quotes/"
-      },
-      {
-        "title": "Baghdad’s decline two decades after the war: a mirror for Tehran",
-        "source": "elpais",
-        "url": "https://english.elpais.com/international/2026-04-13/baghdads-decline-two-decades-after-the-war-a-mirror-for-tehran.html"
-      },
-      {
-        "title": "Opinion: Analysis: Islamic NATO Or Europe - Is Gulf Rethinking Its Options After Trump's 'Betrayal'?",
-        "source": "ndtv",
-        "url": "https://www.ndtv.com/opinion/us-israel-iran-war-islamic-nato-or-europe-partnership-is-gulf-rethinking-its-options-11350872"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "'We will teach you a greater lesson': Qalibaf warns Trump not to test Iran's resolve again",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260412-presstv06.htm"
-      },
-      {
-        "title": "Fragile ceasefire in effect but maximalist US demands cast shadow over talks in Islamabad",
-        "source": "Globalsecurity.org",
-        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260412-presstv02.htm"
-      },
-      {
-        "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Britney Spears goes into rehab after driving under the influence arrest",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckgw8dy08m9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ex-Nigerian oil minister denies taking bribes",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Peru election drags into second day after ballot delivery fiasco",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Spanish PM's wife charged with corruption after two-year probe",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c8ejg3wk81no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Leo becomes first Pope to visit Algeria at start of major Africa tour",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvg0jyx4qq7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran carried out highest number of executions in decades",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cly9ggzy3ngo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mourners sing Asha Bhosle hit as iconic Indian singer cremated",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce8jw46p2x4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The Dutch village at risk of being demolished",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cm2k8v027k0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Leading candidate quits California governor race amid sexual misconduct claims",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nigeria Air Force orders investigation after dozens killed in airstrike",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Eight to be awarded for bravery in Bondi Junction stabbing",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c1w4539z0y9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "At least 30 feared dead in crush at Haitian tourist site",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The US blockade of Iran is a gamble. Will it work?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump's threat raises risks and leaves predicaments unchanged",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "On patrol with Canadian forces securing the Arctic as global threats grow",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwyj8jjkl78o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Political turmoil in Indian border state as nine million lose voting rights",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cy51qg00dezo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We need real peace': Ukrainians have little faith in Easter truce",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US blockade of Iranian ports explained in two minutes",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Celebrities and fans pay tributes to Asha Bhosle",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ckgeljpk4v9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hungarian voters celebrate 'much-needed' change",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c0q93vgkxnzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US drivers head to Native American lands for cheaper gas",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/hezbollah-leader-urges-lebanon-government-to-pull-out-of-israel-talks?traffic_source=rss"
-      },
-      {
-        "title": "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/un-urges-all-parties-to-respect-navigation-in-strait-of-hormuz?traffic_source=rss"
-      },
-      {
-        "title": "Energy prices rise despite Jones Act suspension by Trump",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/13/energy-prices-rise-despite-jones-act-suspension-by-trump?traffic_source=rss"
-      },
-      {
-        "title": "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/un-experts-slam-attacks-on-gaza-shelters-forced-displacement-in-west-bank?traffic_source=rss"
-      },
-      {
-        "title": "New White House report has plans to fix US housing shortage of 10 million",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/13/new-white-house-report-has-plans-to-fix-us-housing-shortage-of-10-million?traffic_source=rss"
-      },
-      {
-        "title": "What’s behind Viktor Orban’s defeat in Hungary’s election?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/4/13/whats-behind-viktor-orbans-defeat?traffic_source=rss"
-      },
-      {
-        "title": "French cement giant Lafarge guilty of financing ISIL in Syria",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/french-cement-giant-lafarge-guilty-of-financing-isil-in-syria?traffic_source=rss"
-      },
-      {
-        "title": "Government candidate Wadagni on course to win Benin presidential election",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills three Palestinians in separate Gaza strikes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss"
-      },
-      {
-        "title": "Philippines accuses China of using cyanide to poison South China Sea atoll",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll?traffic_source=rss"
-      },
-      {
-        "title": "Bernie Sanders vows to push resolution to block US weapons to Israel",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/bernie-sanders-vows-to-push-resolution-to-block-us-weapons-to-israel?traffic_source=rss"
-      },
-      {
-        "title": "Brazil’s fugitive ex-intel chief detained by US immigration authorities",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/brazilian-ex-intelligence-chief-detained-by-us-immigration-authorities?traffic_source=rss"
-      },
-      {
-        "title": "Colombia to cull up to 80 hippos linked to drug lord Pablo Escobar",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/colombia-to-cull-hippo-population-founded-by-drug-lord?traffic_source=rss"
-      },
-      {
-        "title": "Trump deletes image of himself as Jesus-like saviour after backlash",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/trump-draws-backlash-over-posting-image-depicting-him-as-jesus-like-saviour?traffic_source=rss"
-      },
-      {
-        "title": "Hezbollah rejects Lebanon’s direct negotiations with Israel",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/hezbollah-rejects-lebanons-direct-negotiations-with-israel?traffic_source=rss"
-      },
-      {
-        "title": "Trump doubles down in Pope feud, refuses to apologise",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/trump-doubles-down-in-pope-feud-refuses-to-apologise?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran wants ‘peace deal’ but insists on ‘no nukes’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/trump-says-iran-wants-peace-deal-but-insists-on-no?traffic_source=rss"
-      },
-      {
-        "title": "Is Magyar’s election win the end of the EU’s troubles with Hungary?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/is-magyars-election-win-the-end-of-the-eus-troubles-with-hungary?traffic_source=rss"
-      },
-      {
-        "title": "Orban was defeated in Hungary, but Orbanism lives on",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/4/13/orban-was-defeated-in-hungary-but-orbanism-lives-on?traffic_source=rss"
-      },
-      {
-        "title": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism?traffic_source=rss"
-      },
-      {
-        "title": "Flag, anthem restrictions dropped for Russian, Belarusian swimmers",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/13/flag-anthem-restrictions-dropped-for-russian-belarusian-swimmers?traffic_source=rss"
-      },
-      {
-        "title": "Waist-deep floodwaters force hundreds to evacuate Java, Indonesia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/waist-deep-floodwaters-force-hundreds-to-evacuate-java-indonesia?traffic_source=rss"
-      },
-      {
-        "title": "Indian workers protest over rising living cost",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/indian-workers-protest-over-rising-living-cost?traffic_source=rss"
-      },
-      {
-        "title": "Starmer announces talks to address the Strait of Hormuz crisis",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/starmer-announces-talks-to-address-the-strait-of-hormuz-crisis?traffic_source=rss"
-      },
-      {
-        "title": "EU: No peace possible while “Lebanon is in flames”",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/eu-no-peace-possible-while-lebanon-is-in?traffic_source=rss"
       }
     ],
     "passed_filters": [],
