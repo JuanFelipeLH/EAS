@@ -1,5 +1,360 @@
 [
   {
+    "run_at": "2026-04-16T21:40:12.048Z",
+    "discarded_untrusted": [
+      {
+        "title": "Magyar’s Big Plans for Budapest",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/04/15/hungary-peter-magyar-tisza-fidesz-orban-election-sulyok-resign-reforms-russia/"
+      },
+      {
+        "title": "7 Unsolved TV Show Mysteries That Still Haunt Us Years Later",
+        "source": "ComicBook.com",
+        "url": "http://comicbook.com/tv-shows/list/7-unsolved-tv-show-mysteries-that-still-haunt-us-years-later/"
+      },
+      {
+        "title": "WATCH LIVE: Senate Republicans again reject resolution to rein in Trump's Iran war",
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-senate-republicans-again-reject-resolution-to-rein-in-trumps-iran-war"
+      },
+      {
+        "title": "The US Air Force just offered a fresh look at its new B-21 stealth bomber",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/us-air-force-new-b21-raider-bomber-photos-aerial-refueling-2026-4"
+      },
+      {
+        "title": "Is Anybody Actually Winning Trump’s Iran War?",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/podcasts/2026/04/david-frum-show-matt-pottinger-trumps-iran-war/686818/"
+      },
+      {
+        "title": "Tucker Carlson’s Biggest Conspiracy Theory Yet",
+        "source": "Mother Jones",
+        "url": "https://www.motherjones.com/politics/2026/04/tucker-carlsons-biggest-conspiracy-theory-yet-donald-trump-iran-israel-nuclear-weapons/"
+      },
+      {
+        "title": "NASA needs nuclear power for its moon base. Here’s the White House plan to get it",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/nasa-needs-nuclear-power-for-its-moon-base-heres-the-white-house-plan-to-get-it/"
+      },
+      {
+        "title": "Weather Prediction Markets Are Booming, but Can They Improve Forecasts?",
+        "source": "Insurance Journal",
+        "url": "https://www.insurancejournal.com/news/national/2026/04/15/866011.htm"
+      },
+      {
+        "title": "No rules: Where could the next war erupt?",
+        "source": "RT",
+        "url": "https://www.rt.com/news/638456-world-without-rules-next-war/"
+      },
+      {
+        "title": "Xanthan gum intake modifies the colon microbiota profile and causes mild colon inflammation in rats",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347232"
+      },
+      {
+        "title": "Planting time shapes fall armyworm infestation dynamics and associated yield loss of maize in Bangladesh",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347125"
+      },
+      {
+        "title": "Noninvasive detection of audiovisual superadditivity in rat brain by miniaturized SERF magnetometer",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347319"
+      },
+      {
+        "title": "NSUN4-mediated m5C RNA methylation protects retinal cells against excitotoxic injury via the SHH signaling pathway",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347414"
+      },
+      {
+        "title": "Alkyl gallates disrupt Trypanosoma brucei lipid droplets",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347099"
+      },
+      {
+        "title": "When Sorrows Come in Battalions: War, AI and the Feedback Loop That Will Eat Itself — Part 2",
+        "source": "Fair Observer",
+        "url": "https://www.fairobserver.com/world-news/when-sorrows-come-in-battalions-war-ai-and-the-feedback-loop-that-will-eat-itself-part-2/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "WATCH: Ex-NATO chief draws red line as Trump fumes alliance abandoned US during Iran war",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/watch-ex-nato-chief-draws-red-line-trump-fumes-alliance-abandoned-us-during-iran-war"
+      },
+      {
+        "title": "Despite Trump's naval blockade, Iran has not run out of cards",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/despite-trumps-naval-blockade-iran-has-not-run-out-of-cards/articleshow/130288712.cms"
+      },
+      {
+        "title": "Ghost Shark, Ghost Bat: Australia accelerates autonomous warfare amid rising tensions; check their features",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/ghost-shark-ghost-bat-australia-accelerates-autonomous-warfare-amid-rising-tensions-check-their-features/articleshow/130287918.cms"
+      },
+      {
+        "title": "Defence prepares for new National Defence Strategy",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260415-audod02.htm"
+      },
+      {
+        "title": "Israel and Lebanon agree 10-day ceasefire, Trump says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8x7w1w9gd2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Turkish police detain 162 people over online posts about school shootings",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm29plylqnvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil's former spy chief released from ICE detention",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvglz72rjl2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Naples bank robbers hold 25 people hostage then vanish through tunnel",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c05d216rj85o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rescuers to use air cushions in latest effort to save stranded whale",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2082pljyk1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-Virginia deputy governor kills wife and himself in murder-suicide, police say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy0124xel35o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lawmakers clash with RFK Jr as he shifts focus away from vaccines",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South African opposition figure Malema sentenced to five years in prison for firing a gun",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9wqeggd27yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pope lashes out at foreigners who exploit Africa",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yj796plqmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Unprecedented' fire at Australian oil refinery to affect nation's petrol supplies",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wanted activist arrested in South Africa over support for Benin coup plot",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm29p64z77go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Back to books - Sweden's schools cutting back on digital learning",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly0vk77vdko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India pushes for women's quota bill as row over parliamentary seats intensifies ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgeel8g27po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Howl recordings and an AI image: Inside South Korea's long hunt for an escaped wolf",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c24882dem6po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Artemis II crew describes Moon mission and splashdown moment",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clyxpn98w55o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How did a wolf become a fugitive in South Korea?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c70dv9jy50no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Rising prices threaten Minnesota's meat raffles",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cp86pj0eppro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meghan: 'I was the most trolled person in the entire world'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwyj271eg81o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Winner of €1m Picasso 'thought it was a scam', organiser tells BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c98mr589g8do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pope Leo urges peace in visit to Cameroon’s conflict-hit northwest",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pope-leo-urges-peace-in-visit-to-cameroons-conflict-hit-northwest?traffic_source=rss"
+      },
+      {
+        "title": "What is tailgating, and has FIFA banned it at World Cup stadiums in the US?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/what-is-tailgating-and-has-fifa-banned-it-at-world-cup-stadiums-in-the-us?traffic_source=rss"
+      },
+      {
+        "title": "A ceasefire in Lebanon — will it hold?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-aj_tt_leb_wartalks_full_v1-160426?traffic_source=rss"
+      },
+      {
+        "title": "Ex-NBA player Damon Jones to be first to plead guilty in US gambling case",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/ex-nba-player-damon-jones-to-be-first-to-plead-guilty-in-us-gambling-case?traffic_source=rss"
+      },
+      {
+        "title": "Qatar hosts talks aimed at putting Iran peace process back on track",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/qatar-hosts-talks-aimed-at-putting-iran-peace-process-back-on-track?traffic_source=rss"
+      },
+      {
+        "title": "Who is keeping the fight alive in Sudan’s war?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-sdn_anniversary26_av_v2-1404266?traffic_source=rss"
+      },
+      {
+        "title": "More than $5 trillion in US taxes. Who gets it?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/4/16/aje-onl-tt_usa_taxday_v3_soundmix-150426?traffic_source=rss"
+      },
+      {
+        "title": "AOC, Boebert join calls for sexual misconduct accountability in Congress",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/aoc-boebert-join-calls-for-sexual-misconduct-accountability-in-congress?traffic_source=rss"
+      },
+      {
+        "title": "What role is China playing in the Iran war and how is it affected?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/4/16/what-role-is-china-playing-in-the-iran-war-and-how-is-it-affected?traffic_source=rss"
+      },
+      {
+        "title": "UK’s Starmer under fire over report Mandelson failed security vetting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting?traffic_source=rss"
+      },
+      {
+        "title": "Displaced Lebanese in Beirut uncertain if they can trust ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/displaced-lebanese-in-beirut-uncertain-if-they-can-trust-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Sectarian fears increase as a Beirut area says no to displacement centre",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/sectarian-fears-increase-as-a-beirut-area-says-no-to-displacement-centre?traffic_source=rss"
+      },
+      {
+        "title": "Senate vote on arms sale shows ‘massive cracks’ in US support for Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/senate-vote-on-arms-sale-shows-massive-cracks-in-us-support-for-israel?traffic_source=rss"
+      },
+      {
+        "title": "Cuban president defiant amid US pressure and energy blockade threats",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/cuban-president-defiant-amid-us-pressure-and-energy-blockade-threats?traffic_source=rss"
+      },
+      {
+        "title": "Hezbollah strikes north Israel ahead of Lebanon ceasefire announcement",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/hezbollah-strikes-north-israel-ahead-of-lebanon-ceasefire-announcement?traffic_source=rss"
+      },
+      {
+        "title": "Lionel Messi buys Barcelona-based Spanish football club Cornella",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/lionel-messi-buys-barcelona-based-spanish-club-cornella?traffic_source=rss"
+      },
+      {
+        "title": "World Cup 2026: Football fans outraged by United States transit prices",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/world-cup-2026-football-fans-outraged-by-united-states-transit-prices?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Netanyahu, Aoun may meet at White House",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-says-netanyahu-aoun-may-meet-at-white-house?traffic_source=rss"
+      },
+      {
+        "title": "US House votes down latest effort to curtail Trump’s power to wage Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/us-house-votes-down-latest-effort-to-curtail-trumps-power-to-wage-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Ex-Arsenal and Liverpool keeper Manninger killed in car crash with train",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/former-arsenal-and-juventus-keeper-killed-in-austria-car-crash-with-train?traffic_source=rss"
+      },
+      {
+        "title": "Barcelona appeal to UEFA over Laws of Game failure in Champions League exit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/16/barcelona-appeal-to-uefa-over-laws-of-game-failure-in-champions-league-exit?traffic_source=rss"
+      },
+      {
+        "title": "Gaza’s new generation of journalists face challenges, but stay resilient",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/gazas-new-generation-of-journalists-face-challenges-but-stay-resilient?traffic_source=rss"
+      },
+      {
+        "title": "Virginia ex-lieutenant governor Justin Fairfax kills wife, himself: Police",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/former-lieutenant-governor-of-virginia-kills-wife-and-himself-police-say?traffic_source=rss"
+      },
+      {
+        "title": "‘Endless grief’: Turkiye mourns victims of second school shooting in a week",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/endless-grief-turkey-mourns-victims-of-second-school-shooting-in-a-week?traffic_source=rss"
+      },
+      {
+        "title": "‘Whose is he?’: A Gaza father’s fight for a child who might not be his",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/16/whose-is-he-a-gaza-fathers-fight-for-a-child-who-might-not-be-his?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-16T21:35:16.516Z",
     "discarded_untrusted": [
       {
