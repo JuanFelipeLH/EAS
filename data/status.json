@@ -1,12 +1,12 @@
 {
   "status": "NONE",
-  "confidence": 0.9,
+  "confidence": 0.1,
   "sources": [
     "Al Jazeera English"
   ],
   "message": "System normal — No nuclear threats detected.",
   "voice_message": "Sistema en estado normal. No se detectaron amenazas nucleares.",
-  "last_checked": "2026-04-19T04:35:12.943Z",
+  "last_checked": "2026-04-19T04:40:14.179Z",
   "last_updated": null,
   "last_newsdata_check": "2026-04-19T04:30:15.224Z"
 }
