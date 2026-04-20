@@ -1,13 +1,10 @@
 {
   "status": "NONE",
-  "confidence": 0.95,
-  "sources": [
-    "The Times of India",
-    "Al Jazeera English"
-  ],
+  "confidence": 0,
+  "sources": [],
   "message": "System normal — No nuclear threats detected.",
   "voice_message": "Sistema en estado normal. No se detectaron amenazas nucleares.",
-  "last_checked": "2026-04-20T04:30:20.480Z",
+  "last_checked": "2026-04-20T14:45:17.904Z",
   "last_updated": null,
-  "last_newsdata_check": "2026-04-20T04:30:20.480Z"
+  "last_newsdata_check": "2026-04-20T14:45:17.904Z"
 }
