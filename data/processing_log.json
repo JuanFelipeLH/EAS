@@ -1,5 +1,375 @@
 [
   {
+    "run_at": "2026-04-22T10:00:19.454Z",
+    "discarded_untrusted": [
+      {
+        "title": "The Wayfinders",
+        "source": "Longreads.com",
+        "url": "http://longreads.com/2026/04/21/marshall-islands-soccer-team/"
+      },
+      {
+        "title": "Russia’s Grip on Bulgaria Will Test New Leader’s Anti-Graft Push",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/russias-grip-on-bulgaria-will-test-new-leaders-anti-graft-push"
+      },
+      {
+        "title": "Chernobyl first responder says few survive 40 years on",
+        "source": "Independent.ie",
+        "url": "https://www.independent.ie/world-news/europe/chernobyl-first-responder-says-few-survive-40-years-on/a887696380.html"
+      },
+      {
+        "title": "I’m Sorry, Dave. I’m Afraid I Can’t De-escalate: On (AI) Wargaming and Nuclear War",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/im-sorry-dave-im-afraid-i-cant-de-escalate-on-ai-wargaming-and-nuclear-war/"
+      },
+      {
+        "title": "What the War Against Iran Means for the U.S.-South Korean Alliance",
+        "source": "War on the Rocks",
+        "url": "https://warontherocks.com/what-the-war-against-iran-means-for-the-u-s-south-korean-alliance/"
+      },
+      {
+        "title": "Trump Says Ceasefire Extension “Highly Unlikely” Ahead of Pakistan Talks",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-04-21-trump-says-iran-ceasefire-extension-highly-unlikely.html"
+      },
+      {
+        "title": "Gulf Worries U.S.-Iran Talks May Cement Tehran's 'Golden' Grip On Hormuz",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/gulf-worries-us-iran-talks-cement-tehran-hormuz_n_69e6f548e4b0555d213dea5a"
+      },
+      {
+        "title": "Trump on extending ceasefire: 'Highly unlikely'",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4375784/posts"
+      },
+      {
+        "title": "Nano-iron-modified pomegranate peel powder for rapid and recyclable removal of acetaminophen",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41598-026-48146-6"
+      },
+      {
+        "title": "AI doom warnings are getting louder. Are they realistic?",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/d41586-026-01257-6"
+      },
+      {
+        "title": "Advancing AI for multi-omics and clinical data integration in basic and translational cancer research",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41568-026-00922-2"
+      },
+      {
+        "title": "Forty years after Chernobyl, more nuclear disasters are inevitable — plan for them",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/d41586-026-01255-8"
+      },
+      {
+        "title": "Prof. Schlevogt’s Compass No. 55: Fortification via the V-Strategy – The Poisoned Chalice Equation",
+        "source": "RT",
+        "url": "https://www.rt.com/news/638788-v-strategy-poisoned-chalice/"
+      },
+      {
+        "title": "How Likely Are U.S.-Iran Peace Talks in Islamabad?",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/04/20/us-iran-peace-talks-islamabad-strait-hormuz-seizure-vance-trump/"
+      },
+      {
+        "title": "Printed Neurons That Mimic Brain Cells Could Slash AI’s Energy Bill",
+        "source": "Singularity Hub",
+        "url": "https://singularityhub.com/2026/04/20/printed-neurons-that-mimic-brain-cells-could-slash-ais-energy-bill/#article"
+      },
+      {
+        "title": "‘Critical’: Ex-NATO Leader Praises Trump for Seizing Iranian Ship",
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/tv/critical-ex-nato-leader-praises-trump-for-seizing-iranian-ship/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Gulf worries US-Iran talks may cement Tehran's 'golden' grip on Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/gulf-worries-us-iran-talks-may-cement-tehrans-golden-grip-on-hormuz/articleshow/130409883.cms"
+      },
+      {
+        "title": "Gulf worries US-Iran talks may cement Tehran's 'golden' grip on Strait of Hormuz",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/gulf-worries-us-iran-talks-may-cement-tehrans-golden-grip-on-strait-of-hormuz/articleshow/130407108.cms"
+      },
+      {
+        "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "EU decides on key €90bn Ukraine loan after pipeline deadlock ends",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Taiwan president cancels trip after African countries revoke flight permits",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thirteen killed in second India fireworks blast in three days ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meta to track workers' clicks and keystrokes to train AI",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran sees mass redundancies from war with US and Israel",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Domestic workers legally recognised in Indonesia after '22-year struggle'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1mkvjkg10no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mass trial for 486 alleged gang members begins in El Salvador",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce9mernj0gko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Madonna offers reward for return of missing Coachella costume",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Role of US officials killed in crash in Mexico under scrutiny",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c86expy881qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why police are seeking to arrest billionaire K-pop mogul behind BTS",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz78zj74548o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A Kashmir tourist hotspot became a bloodbath. A year on, the pain remains unbearable",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8ej3wl130yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How will Apple change under 'product guy' John Ternus?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The insider trading suspicions looming over Trump's presidency",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hot air balloon makes emergency landing in California backyard",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c15d1enqgl3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Are insider traders making millions from the Iran war?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Victory slips away as marathon runner celebrates too soon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvg09900zx5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US releases video of forces seizing Iranian ship",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran’s gunboat fires on container ship off Oman coast",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/22/iranian-gunboat-fires-on-container-ship-off-oman-coast?traffic_source=rss"
+      },
+      {
+        "title": "Virginia redistricting election results: Key takeaways from Democrats’ win",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/22/virginia-redistricting-election-results-key-takeaways-from-democrats-win?traffic_source=rss"
+      },
+      {
+        "title": "Russia strikes Ukraine’s Odesa port, kills railway worker in Zaporizhia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/22/russian-drone-attacks-in-ukraine-strike-odesa-port-and-kill-railway-worker?traffic_source=rss"
+      },
+      {
+        "title": "Israel attacks mosque in Lebanon in another ceasefire violation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israel-attacks-mosque-in-lebanon-in-another-ceasefire-violation?traffic_source=rss"
+      },
+      {
+        "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss"
+      },
+      {
+        "title": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/22/lebron-james-nets-28-lakers-grab-2-0-lead-on-rockets-in-nba-playoff-series?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s ‘digital occupation’ of south Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/digital-dilemma/2026/4/22/israels-digital-occupation-of-south-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "How China is gaining from Iran war by showing it is different from US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s UN ambassador responds to US ceasefire extension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss"
+      },
+      {
+        "title": "US halts shipment of Iraq’s oil dollars to curb Iran-linked groups: WSJ",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss"
+      },
+      {
+        "title": "World Cup host Mexico pledges security at tourist sites after shooting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/22/world-cup-host-mexico-pledges-security-at-tourist-sites-after-shooting?traffic_source=rss"
+      },
+      {
+        "title": "Is Bangladesh killing reforms introduced after student-led protests?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/22/is-bangladesh-killing-reforms-introduced-after-student-led-protests?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "FBI chief denies allegations of drinking and negligence",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/fbi-chief-denies-allegations-of-drinking-and-negligence?traffic_source=rss"
+      },
+      {
+        "title": "Video of Anne Hathaway saying ‘Inshallah’ goes viral",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/video-of-anne-hathaway-saying-inshallah-goes-viral?traffic_source=rss"
+      },
+      {
+        "title": "FIFA unlocks more World Cup tickets and adds new, more expensive categories",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/22/fifa-unlocks-more-world-cup-tickets-and-adds-new-more-expensive-categories?traffic_source=rss"
+      },
+      {
+        "title": "Tehran held military parades as ceasefire was set to end",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/tehran-held-military-parades-as-ceasefire-was-set-to-end?traffic_source=rss"
+      },
+      {
+        "title": "Argentina’s Milei sings and lights torch for Israeli national day",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/argentinas-milei-sings-and-lights-torch-for-israeli-national-day?traffic_source=rss"
+      },
+      {
+        "title": "Trump extends ceasefire and hopes for ‘unified proposal’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss"
+      },
+      {
+        "title": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss"
+      },
+      {
+        "title": "Paraguay plans to accept 25 third-country migrant deportees from US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration sues Southern Poverty Law Center on fraud charges",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/21/trump-administration-sues-southern-poverty-law-center-on-fraud-charges?traffic_source=rss"
+      },
+      {
+        "title": "Peru’s election chief steps down amid frustration over long vote count",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss"
+      },
+      {
+        "title": "Real Madrid close on Barcelona as Mbappe and Vinicius net against Alaves",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/21/real-madrid-close-on-barcelona-as-mbappe-and-vinicius-net-against-alaves?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-22T09:55:12.660Z",
     "discarded_untrusted": [
       {
