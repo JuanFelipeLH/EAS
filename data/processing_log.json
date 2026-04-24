@@ -1,5 +1,319 @@
 [
   {
+    "run_at": "2026-04-24T15:15:14.599Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Poisoning suspected in deaths of 18 wolves in Italian national park",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Epstein housed abuse victims in London flats, BBC reveals",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Woman trapped in poo for three hours after outback toilet collapses",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK biobank data incident caused by 'a few bad apples', boss says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge dismisses Smokey Robinson's defamation claim against rape accusers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0e70e4wr00o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "British conwoman who claimed to be royalty hit with new charges in Singapore",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Aboriginal children's book pulled over illustrator's Bondi attack comments",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87wzv3lv1vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ringo Starr: 'I made all my mistakes on stage'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Singer D4vd had 'significant amount' of child sex abuse images when arrested, prosecutors say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn53vg3y574o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meta to cut one in 10 jobs after spending billions on AI",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "White House memo claims mass AI theft by Chinese firms",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Woman killed by bear in Polish forest, son and local government say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20qrg4dyr3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US government watchdog to investigate Epstein files release",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0rkvjlvvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Relatives of 10 scientists who died or vanished grapple with impact of wild speculation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyw9rpdl4po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Headscarf with a beret: Muslim designers showcase floral dresses and boxy streetwear in Paris",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx23zmxd2z3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A rumour, a lynching in India and a long wait for justice",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly07kk2pm2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "In pictures: North India braces for heatwaves as temperatures cross 40C",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0666d0xjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'A dangerous standoff' as Strait of Hormuz blockade continues",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Powerful tornadoes barrel through northern Oklahoma",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c30re0j9q7jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "My five-minute phone call with President Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c624yr5p3kpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds of wildfires burn across Florida and Georgia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwyw9wezygzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC visits migrant camp in northern France as new deal announced",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cgrl891xkpvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iranians bring music to sites devastated by US-Israeli attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/iranians-bring-music-to-sites-devastated-by-us-israeli-attacks?traffic_source=rss"
+      },
+      {
+        "title": "UK to end project tracking potential Israeli violations: Report",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report?traffic_source=rss"
+      },
+      {
+        "title": "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/us-navy-authorised-to-target-iranian-fast-boats-in-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "UEFA bans Benfica’s Prestianni for six games for verbally abusing Vinicius",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/uefa-bans-benficas-prestianni-for-six-games-for-verbally-abusing-vinicius?traffic_source=rss"
+      },
+      {
+        "title": "‘Silent suffering’: Why children in Gaza are losing their ability to speak",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/24/silent-suffering-why-children-in-gaza-are-losing-their-ability-to-speak?traffic_source=rss"
+      },
+      {
+        "title": "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pro-palestinian-activists-break-into-suspected-elbit-systems-drone-factory?traffic_source=rss"
+      },
+      {
+        "title": "Negotiations that enable Israel’s land-grabs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/24/negotiations-that-enable-israels-land-grabs?traffic_source=rss"
+      },
+      {
+        "title": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss"
+      },
+      {
+        "title": "What’s been happening during the Lebanon ceasefire?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Syria arrests main suspect in civil war Tadamon massacre",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/syria-arrests-main-suspect-in-civil-war-tadamon-massacre?traffic_source=rss"
+      },
+      {
+        "title": "Syrian authorities arrest main suspect in 2013 Tadamon massacre",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/main-suspect-in-tadamon-massacre-arrested-in-operation?traffic_source=rss"
+      },
+      {
+        "title": "Boston marathoner reflects on helping collapsed runner as video goes viral",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/boston-marathoner-reflects-on-helping-collapsed-runner-as-video-goes-viral?traffic_source=rss"
+      },
+      {
+        "title": "With 3,000 containers stuck in Pakistan, Iran explores more land routes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/with-3000-containers-stuck-in-pakistan-iran-explores-more-land-routes?traffic_source=rss"
+      },
+      {
+        "title": "Russian troops, warships in India soon? Why their new military pact matters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters?traffic_source=rss"
+      },
+      {
+        "title": "Turkiye’s Istanbul to host F1 Grand Prix for at least five years from 2027",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/24/turkiyes-istanbul-park-to-host-f1-for-at-least-five-years-from-2027?traffic_source=rss"
+      },
+      {
+        "title": "How long can Iran survive the US’s Hormuz blockade?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss"
+      },
+      {
+        "title": "US considers suspending Spain from NATO, reported internal email suggests",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss"
+      },
+      {
+        "title": "Explosions by Israeli forces in south Lebanon despite ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Environmental crisis in Russian city after drone attack on refinery",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss"
+      },
+      {
+        "title": "India denounces ‘hellhole’ remark shared by Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/india-denounces-hellhole-remark-shared-by?traffic_source=rss"
+      },
+      {
+        "title": "Global hunger report warns of rising malnutrition and famine risks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks?traffic_source=rss"
+      },
+      {
+        "title": "Why is there a political deadlock in Lebanon?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Baby twins attend their father’s funeral after Israeli settler attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/baby-twins-attend-their-fathers-funeral-after-israeli-settler-attack?traffic_source=rss"
+      },
+      {
+        "title": "Gold is unaffordable so South Asian brides turn to one gram substitutes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/south-asias-gold-obsession-faces-soaring-price-challenges-at-weddings?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-24T15:10:15.845Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
