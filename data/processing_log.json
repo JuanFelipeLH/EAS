@@ -1,5 +1,375 @@
 [
   {
+    "run_at": "2026-04-25T20:35:11.621Z",
+    "discarded_untrusted": [
+      {
+        "title": "Live Updates: Hegseth urges Iran to make deal, touts US blockade in Strait of Hormuz",
+        "source": "digitpatrox",
+        "url": "https://digitpatrox.com/live-updates-hegseth-urges-iran-to-make-deal-touts-us-blockade-in-strait-of-hormuz/"
+      },
+      {
+        "title": "The dawn of a new world order",
+        "source": "orlandoecho",
+        "url": "https://www.jwire.com.au/the-dawn-of-a-new-world-order/"
+      },
+      {
+        "title": "US sharpens stance on Iran, expands naval blockade in Gulf",
+        "source": "mid_day",
+        "url": "https://www.mid-day.com/news/world-news/article/us-escalates-rhetoric-against-iran-as-blockade-pressure-intensifies-23627433"
+      },
+      {
+        "title": "The World's Largest Air Forces By Number Of Bombers",
+        "source": "simpleflying",
+        "url": "https://simpleflying.com/worlds-largest-air-forces-number-bombers/"
+      },
+      {
+        "title": "Chernobyl 2.0: Here’s where nuclear disaster could happen next",
+        "source": "rt",
+        "url": "https://www.rt.com/news/639024-chernobyl-lessons-nuclear-safety/"
+      },
+      {
+        "title": "Chernobyl 2.0: Heres where nuclear disaster could happen next",
+        "source": "russiaherald",
+        "url": "http://russiaherald.com/news/279010538/chernobyl-20-heres-where-nuclear-disaster-could-happen-next"
+      },
+      {
+        "title": "Chernobyl 2.0: Heres where nuclear disaster could happen next",
+        "source": "northkoreatimes",
+        "url": "http://northkoreatimes.com/news/279010538/chernobyl-20-heres-where-nuclear-disaster-could-happen-next"
+      },
+      {
+        "title": "Chernobyl 2.0: Heres where nuclear disaster could happen next",
+        "source": "bahrainnews",
+        "url": "http://bahrainnews.net/news/279010538/chernobyl-20-heres-where-nuclear-disaster-could-happen-next"
+      },
+      {
+        "title": "US escalates rhetoric against Iran as blockade pressure intensifies",
+        "source": "business-standard",
+        "url": "https://www.business-standard.com/world-news/us-escalates-rhetoric-against-iran-as-blockade-pressure-intensifies-126042500102_1.html"
+      },
+      {
+        "title": "World News | US Escalates Rhetoric Against Iran as Blockade Pressure Intensifies",
+        "source": "latestly",
+        "url": "https://www.latestly.com/agency-news/world-news-us-escalates-rhetoric-against-iran-as-blockade-pressure-intensifies-7406542.html"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thirty-one sloths die in Florida before opening of attraction",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Seven dead in major Russian attack on Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US to allow firing squads, gas and electrocution for federal executions",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US justice department drops probe into Fed chairman Jerome Powell",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China car giant BYD says it can thrive without US",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pirates hijack oil tanker off the coast of Somalia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mandelson under formal investigation by EU's anti-fraud office",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Poisoning suspected in deaths of 18 wolves in Italian national park",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Epstein housed abuse victims in London flats, BBC reveals",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We cried together': Trump's deportation drive forces tough decisions for couples",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meet the men calling out 'masculinity' trends",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4grw1rnynxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A nation built on pan-African principles faces questions about racism",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5700w7zx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Kashmir town trying to win back tourists after a deadly attack ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnv80130zyro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who is making decisions in Iran?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Heated Rivalry, The Housemaid and Fourth Wing: TikTok launches BookTok bestseller list",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yxmy5gnd0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: How one orangutan braved new bridge to unite his split community",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgerdnvm2xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hope in Gaza as 300 couples get married at one time",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Epstein survivor: Meeting the King would be a 'grand step' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is this game only legal across Australia one day a year?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran’s authorities project hardened stance with more talks on horizon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
+      },
+      {
+        "title": "Police arrest demonstrators at pro-Palestine rally in Berlin",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss"
+      },
+      {
+        "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
+      },
+      {
+        "title": "Barcelona on the brink of defending La Liga title after beating Getafe",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/25/barcelona-on-the-brink-of-defending-la-liga-title-after-beating-getafe?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal narrowly beat Newcastle to regain Premier League lead over Man City",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/25/arsenal-narrowly-beat-newcastle-to-regain-premier-league-lead-over-man-city?traffic_source=rss"
+      },
+      {
+        "title": "France defends abstention on UN slave trade resolution",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/france-defends-abstention-on-un-slave-trade-resolution?traffic_source=rss"
+      },
+      {
+        "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
+      },
+      {
+        "title": "CIA agents reported killed in Mexico were not authorised to operate: Gov’t",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss"
+      },
+      {
+        "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss"
+      },
+      {
+        "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss"
+      },
+      {
+        "title": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss"
+      },
+      {
+        "title": "After years of avoidance, Trump to attend first White House press dinner",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner?traffic_source=rss"
+      },
+      {
+        "title": "African governments need to take urgent action on fertiliser shortages",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/25/african-governments-need-to-take-urgent-action-on-fertiliser-shortages?traffic_source=rss"
+      },
+      {
+        "title": "Deporting soldiers? Why immigrant veterans fear removal from the US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks kill four in southern Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal 1-0 Newcastle: Premier League – as it happened",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/4/25/live-arsenal-vs-newcastle-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "‘Scale and coordination of Mali attacks appear unprecedented’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/scale-and-coordination-of-mali-attacks-appear-unprecedented?traffic_source=rss"
+      },
+      {
+        "title": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Flights resume at Tehran airport as US-Iran ceasefire holds",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss"
+      },
+      {
+        "title": "Armed groups stage simultaneous attacks across Mali",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/armed-groups-stage-simultaneous-attacks-across-mali?traffic_source=rss"
+      },
+      {
+        "title": "Iran resumes commercial flights from Tehran airport",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/iran-resumes-commercial-flights-from-tehran-airport?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s Infowar: Lego, AI and ever tightening control",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss"
+      },
+      {
+        "title": "Mali attacks updates: Coordinated attacks in Bamako, Kidal and elsewhere",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss"
+      },
+      {
+        "title": "Gunmen stage simultaneous attacks across Mali, army says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-25T20:30:14.469Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
