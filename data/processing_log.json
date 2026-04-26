@@ -1,5 +1,395 @@
 [
   {
+    "run_at": "2026-04-26T08:15:09.848Z",
+    "discarded_untrusted": [
+      {
+        "title": "From radiation to invasion: a Chernobyl worker’s two wars",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/world/from-radiation-to-invasion-a-chernobyl-workers-two-wars/article"
+      },
+      {
+        "title": "The new Texas town backed by Ivanka Trump's billionaire brother-in-law quietly becoming new frontier of tech elite",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15763991/The-new-Texas-town-backed-Ivanka-Trumps-billionaire-brother-law-quietly-new-frontier-tech-elite.html"
+      },
+      {
+        "title": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded",
+        "source": "Yahoo Entertainment",
+        "url": "https://www.yahoo.com/news/articles/ukrainians-thought-had-reduced-risks-010344368.html"
+      },
+      {
+        "title": "Ex-DHS aide warns 'erratic' Trump took US to brink of nuclear war — and he's getting worse",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/miles-taylor-2676812895/"
+      },
+      {
+        "title": "X-Energy’s failed $1 billion SPAC became a $1 billion IPO. The reactor did not change. The market did.",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/x-energy-ipo-billion-nuclear-ai-data-centres/"
+      },
+      {
+        "title": "Is a mysterious “fifth force” hiding out in the depths our solar system?",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/tech-science/is-a-mysterious-fifth-force-hiding-out-in-the-depths-our-solar-system/article"
+      },
+      {
+        "title": "What it's like to holiday in Chernobyl - with abandoned hotels, tours requiring radiation testing, and dogs who've turned blue",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/travel/article-15762165/holiday-Chernobyl-abandoned-hotel-radioactive-dogs-blue.html"
+      },
+      {
+        "title": "NASA scientist says a \"fifth force\" may be hiding in our solar system",
+        "source": "Science Daily",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260423031528.htm"
+      },
+      {
+        "title": "Mass casualty incident preparedness and response: A desk review of the Code Orange Plan and Assessment of Healthcare Workers’ Knowledge, Attitudes, and Practices in a Lebanese Tertiary Government Hospital",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348176"
+      },
+      {
+        "title": "Nebivolol suppresses glioblastoma progression via dual modulation of mitochondrial metabolism and AKT/mTOR/4EBP1 signaling axis",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012120"
+      },
+      {
+        "title": "The transcription factor TaWRKY58 coordinates growth and drought sensitivity in wheat by repressing TaLRR and TaBCS1",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012124"
+      },
+      {
+        "title": "Reappraisal of profibrotic phenotype and cell-cycle state of renal tubular epithelium after ischemia–reperfusion injury",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347835"
+      },
+      {
+        "title": "MCL1 promotes porcine epidemic diarrhea virus replication by modulating arachidonic acid metabolic pathway",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014170"
+      },
+      {
+        "title": "Chernobyl 1986: Five key facts about world’s worst nuclear crisis",
+        "source": "The Punch",
+        "url": "https://punchng.com/chernobyl-1986-five-key-facts-about-worlds-worst-nuclear-crisis/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Ukrainians thought they had reduced the risks at Chernobyl. Then Russia invaded",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/ukrainians-thought-reduced-risks-chernobyl-russia-invaded-132368484"
+      },
+      {
+        "title": "Mike Minogue heads to Mass GOP convention ready to take on Maura Healey: 'She's bankrupting our state'",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/mike-minogue-heads-mass-gop-convention-ready-take-maura-healey-shes-bankrupting-state"
+      },
+      {
+        "title": "In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/baltic-skies-nato-russian-pilots-size-warily-tilt-132337721"
+      },
+      {
+        "title": "Japan builds up its ‘southern shield’ as faith in US security cover falters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/24/japan-builds-up-its-southern-shield-as-faith-in-us-security-cover-falters"
+      },
+      {
+        "title": "What it was like in the room as shots rang out at correspondents' dinner",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thirty-one sloths die in Florida before opening of attraction",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Seven dead in major Russian attack on Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US to allow firing squads, gas and electrocution for federal executions",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US justice department drops probe into Fed chairman Jerome Powell",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China car giant BYD says it can thrive without US",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pirates hijack oil tanker off the coast of Somalia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mandelson under formal investigation by EU's anti-fraud office",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We cried together': Trump's deportation drive forces tough decisions for couples",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meet the men calling out 'masculinity' trends",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4grw1rnynxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A nation built on pan-African principles faces questions about racism",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5700w7zx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Kashmir town trying to win back tourists after a deadly attack ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnv80130zyro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who is making decisions in Iran?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Heated Rivalry, The Housemaid and Fourth Wing: TikTok launches BookTok bestseller list",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yxmy5gnd0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Video shows correspondents' dinner suspect charge checkpoint",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'You just didn't know': Gary O'Donoghue describes confusion and fears at correspondents' dinner",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c8dldp2mdego?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: How one orangutan braved new bridge to unite his split community",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgerdnvm2xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hope in Gaza as 300 couples get married at one time",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Epstein survivor: Meeting the King would be a 'grand step' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss"
+      },
+      {
+        "title": "We can make sure another Chornobyl disaster does not happen, here is how",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss"
+      },
+      {
+        "title": "Washington shooting: Is Trump safe? What we know so far",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/26/washington-shooting-is-trump-safe-what-we-know-so-far?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss"
+      },
+      {
+        "title": "Injured Salah has played his last game for Liverpool: Egypt team official",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/26/injured-salah-has-played-his-last-game-for-liverpool-egypt-team-official?traffic_source=rss"
+      },
+      {
+        "title": "Trump confirms officer shot at White House Correspondents’ gala",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/trump-confirms-officer-shot-at-white-house-correspondents-gala?traffic_source=rss"
+      },
+      {
+        "title": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss"
+      },
+      {
+        "title": "Trump updates: Suspect arrested after shooting at correspondents’ dinner",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/trump-live-us-president-safe-after-shots-fired-at-correspondents-dinner?traffic_source=rss"
+      },
+      {
+        "title": "Hundreds of Israelis rally as US-Iran peace talks stall",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss"
+      },
+      {
+        "title": "Dramatic scenes as Trump rushed from White House gala",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/dramatic-scenes-as-trump-rushed-from-white-house-gala?traffic_source=rss"
+      },
+      {
+        "title": "Trump unhurt after shots fired at White House correspondents’ dinner",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss"
+      },
+      {
+        "title": "Protesters stage Epstein protest before White House Correspondents’ Dinner",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protesters-stage-epstein-protest-before-white-house-correspondents-dinner?traffic_source=rss"
+      },
+      {
+        "title": "Explosion in southwest Colombia kills at least 14, state governor says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss"
+      },
+      {
+        "title": "How serious is the rift in NATO?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/4/25/how-serious-is-the-rift-in-nato?traffic_source=rss"
+      },
+      {
+        "title": "Family longest held in US immigration detention re-arrested after release",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/family-longest-held-in-us-immigration-detention-re-arrested-after-release?traffic_source=rss"
+      },
+      {
+        "title": "Trump puts onus on Iran’s authorities as they project hardened stance",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/irans-authorities-project-hardened-stance-with-more-talks-on-horizon?traffic_source=rss"
+      },
+      {
+        "title": "Police arrest demonstrators at pro-Palestine rally in Berlin",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/police-arrest-demonstrators-at-pro-palestine-rally-in-berlin?traffic_source=rss"
+      },
+      {
+        "title": "Protestor depicts Israeli minister Ben Gvir covered in blood in Stockholm",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protestor-depicts-israeli-minister-ben-gvir-covered-in-blood-in-stockholm?traffic_source=rss"
+      },
+      {
+        "title": "Barcelona on the brink of defending La Liga title after beating Getafe",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/25/barcelona-on-the-brink-of-defending-la-liga-title-after-beating-getafe?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal narrowly beat Newcastle to regain Premier League lead over Man City",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/25/arsenal-narrowly-beat-newcastle-to-regain-premier-league-lead-over-man-city?traffic_source=rss"
+      },
+      {
+        "title": "France defends abstention on UN slave trade resolution",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/france-defends-abstention-on-un-slave-trade-resolution?traffic_source=rss"
+      },
+      {
+        "title": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/trump-cancels-envoys-trip-to-pakistan-after-irans-araghchi-leaves-country?traffic_source=rss"
+      },
+      {
+        "title": "CIA agents reported killed in Mexico were not authorised to operate: Gov’t",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss"
+      },
+      {
+        "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-26T08:10:11.218Z",
     "discarded_untrusted": [
       {
@@ -116383,446 +116773,6 @@
         "title": "Killing of Calgary-born scientist tied to mysterious U.S. deaths, disappearances despite quick arrest",
         "source": "CBC News",
         "url": "https://www.cbc.ca/news/world/missing-scientists-grillmair-9.7173081"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "Japan builds up its ‘southern shield’ as faith in US security cover falters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/japan-builds-up-its-southern-shield-as-faith-in-us-security-cover-falters"
-      },
-      {
-        "title": "Pakistan tests Taimur anti-ship missile with 600-km range: How it could be part of PAF’s plan to target Indian Navy ships",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/defence/pakistan-tests-taimur-anti-ship-missile-with-600-km-range-how-it-could-be-part-of-pafs-plan-to-target-indian-navy-ships/articleshow/130484852.cms"
-      },
-      {
-        "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Epstein survivor: Meeting the King would be a 'grand step' ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "China car giant BYD says it can thrive without US",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "31 sloths die in Florida before opening of attraction ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US justice department drops probe into Fed chairman Jerome Powell",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US to allow firing squads, gas, and electrocution for federal executions",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israeli police investigate after officers 'cut Palestinian flag' from skullcap",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cz67qjn48eqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Pirates hijack oil tanker off the coast of Somalia",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mandelson under formal investigation by EU's anti-fraud office",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c77m242z2j8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Three Kosovo Serbs jailed over deadly gun battle and monastery siege",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/crr1gwnx4e8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Poisoning suspected in deaths of 18 wolves in Italian national park",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0mjederzwdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckgw72lrvn3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Epstein housed abuse victims in London flats, BBC reveals",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "South Africa's top envoy to Ghana summoned over attacks on foreigners",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp38e5jgxqyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "I moved 1,500 miles to be with my deported husband",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Meet the men calling out 'masculinity' trends",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4grw1rnynxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The Kashmir town trying to win back tourists after a deadly attack ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cnv80130zyro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "A nation built on pan-African principles faces questions about racism",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cq5700w7zx7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Who is making decisions in Iran?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Heated Rivalry, The Housemaid and Fourth Wing: TikTok launches BookTok bestseller list",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c5yxmy5gnd0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: 20,000 teddy bears highlight plight of missing Ukrainian children",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c0mjd1z08ero?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why is this game only legal across Australia one day a year?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How the Kremlin's internet crackdown is frustrating Russians",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c75kpx2w452o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'A dangerous standoff' as Strait of Hormuz blockade continues",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "West Bank scepticism as Palestinians doubt local elections will change much",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss"
-      },
-      {
-        "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss"
-      },
-      {
-        "title": "Brazil and Chelsea star Estevao’s World Cup hopes in doubt after injury",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/4/25/brazil-and-chelsea-star-estevaos-world-cup-hopes-in-doubt-after-injury?traffic_source=rss"
-      },
-      {
-        "title": "Capture of ships by US, Iran violates international law, shipping body says",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says?traffic_source=rss"
-      },
-      {
-        "title": "Lakers down Rockets in overtime for 3-0 series lead, Celtics beat Sixers",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/4/25/lakers-down-rockets-in-overtime-for-3-0-series-lead-celtics-beat-sixers?traffic_source=rss"
-      },
-      {
-        "title": "Elections without sovereignty: What Palestine’s local vote really represent",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/opinions/2026/4/25/elections-without-sovereignty-what-palestines-local-vote-really-represent?traffic_source=rss"
-      },
-      {
-        "title": "What’s at stake for Iran and the US in Islamabad?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss"
-      },
-      {
-        "title": "Israel escalates attacks in Gaza, killing 12 people",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss"
-      },
-      {
-        "title": "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/25/iran-war-whats-happening-on-day-57-as-us-envoys-head-to-pakistan?traffic_source=rss"
-      },
-      {
-        "title": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss"
-      },
-      {
-        "title": "Police raid Peru’s election authorities after outcry over slow vote count",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss"
-      },
-      {
-        "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Real Madrid stunned at Betis as Barcelona have chance to move 11 clear",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss"
-      },
-      {
-        "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss"
-      },
-      {
-        "title": "Mass wedding for 300 brides and grooms in central Gaza",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Who’s in control of AI?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/4/24/whos-in-control-of-ai?traffic_source=rss"
-      },
-      {
-        "title": "Israel continues attacks on Lebanon despite extension of ceasefire",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss"
-      },
-      {
-        "title": "Trump to again end legal status of people who entered US with CBP One app",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/trump-to-again-end-legal-status-of-people-who-entered-us-with-cbp-one-app?traffic_source=rss"
-      },
-      {
-        "title": "Petro becomes first president to visit Venezuela since Maduro abduction",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss"
-      },
-      {
-        "title": "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss"
-      },
-      {
-        "title": "Can Europe help the Middle East resolve the war on Iran?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Trump government extends Jones Act waiver by 90 days to dampen oil prices",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss"
-      },
-      {
-        "title": "UK assisted dying bill fails after delays but advocates vow to try again",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/uk-bill-allowing-terminally-ill-to-end-their-own-lives-obstructed?traffic_source=rss"
-      },
-      {
-        "title": "Israeli attacks on Lebanon may violate international law, UN warns",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-04-25T08:10:21.104Z",
-    "discarded_untrusted": [
-      {
-        "title": "Chernobyl 1986: Five key facts about world’s worst nuclear crisis",
-        "source": "The Punch",
-        "url": "https://punchng.com/chernobyl-1986-five-key-facts-about-worlds-worst-nuclear-crisis/"
-      },
-      {
-        "title": "Presence or Capacity? The Coast Guard Can Have Both Through Small Boat Stations",
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/presence-or-capacity-the-coast-guard-can-have-both-through-small-boat-stations/"
-      },
-      {
-        "title": "In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war",
-        "source": "Yahoo Entertainment",
-        "url": "https://www.yahoo.com/news/articles/baltic-skies-nato-russian-pilots-060416858.html"
-      },
-      {
-        "title": "Putin sends warship through English channel to mock Great Britain’s sanctions",
-        "source": "Naturalnews.com",
-        "url": "https://www.naturalnews.com/2026-04-24-putin-sends-warship-through-english-channel.html"
-      },
-      {
-        "title": "Remembering Chornobyl",
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/04/24/remembering-chornobyl/"
-      },
-      {
-        "title": "Israel-Lebanon ceasefire extended by three weeks, says Trump",
-        "source": "The Irish Times",
-        "url": "https://www.irishtimes.com/world/middle-east/2026/04/24/us-iran-war-live-updates-israel-lebanon-trump/"
-      },
-      {
-        "title": "Why Not Venus?",
-        "source": "Substack.com",
-        "url": "https://mceglowski.substack.com/p/why-not-venus"
-      },
-      {
-        "title": "The Latest: Trump orders US military to shoot Iranian boats as Hormuz tensions escalate",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/news/world/the-latest-trump-orders-us-military-to-shoot-iranian-boats-as-hormuz-tensions-escalate/article70900127.ece"
-      },
-      {
-        "title": "TOM LEONARD: These scientists worked for top secret nuclear and space programmes. Now they are all missing or dead",
-        "source": "Dailymail.com",
-        "url": "https://www.dailymail.com/news/article-15760551/scientists-secret-missing-dead.html"
-      },
-      {
-        "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/d41586-026-01294-1"
-      },
-      {
-        "title": "The proteomic landscape and temporal dynamics of human and mouse gastruloid development",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41556-026-01937-5"
-      },
-      {
-        "title": "Electrophilic compound screening identifies GPX4-dependent ferroptosis as a senescence vulnerability",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41556-026-01921-z"
-      },
-      {
-        "title": "Some Dogs at Chernobyl Have Turned Blue (But Not for the Reason You Think)",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4376176/posts"
-      },
-      {
-        "title": "Two Cheers for Abundance Liberalism",
-        "source": "Reason",
-        "url": "https://reason.com/volokh/2026/04/23/two-cheers-for-abundance-liberalism/"
-      },
-      {
-        "title": "Has the Strait of Hormuz emerged as Iran’s most powerful form of deterrence?",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/has-the-strait-of-hormuz-emerged-as-irans-most-powerful-form-of-deterrence-281284"
-      },
-      {
-        "title": "Sea urchin eggs contain a plastid-derived structure that contributes to their development",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003705"
-      },
-      {
-        "title": "Killing of Calgary-born scientist tied to mysterious U.S. deaths, disappearances despite quick arrest",
-        "source": "CBC News",
-        "url": "https://www.cbc.ca/news/world/missing-scientists-grillmair-9.7173081"
-      },
-      {
-        "title": "Gold Rebounds as Iran-US Deal Hopes Drive Upside: Expert Analysis",
-        "source": "bitcoinworld",
-        "url": "https://bitcoinworld.co.in/gold-rebounds-iran-us-deal/"
-      },
-      {
-        "title": "A look back at nuclear fallout shelters in New York",
-        "source": "spectrumlocalnews",
-        "url": "http://www.spectrumlocalnews.com/nys/buffalo/news/2026/04/24/a-look-back-at-nuclear-fallout-shelters-in-new-york"
-      },
-      {
-        "title": "Great Salt Lake Crisis Gains Presidential Attention",
-        "source": "headtopics",
-        "url": "https://us.headtopics.com/news/great-salt-lake-crisis-gains-presidential-attention-82643092"
-      },
-      {
-        "title": "Joe Rogan slams Trump on Iran war days after White House lovefest",
-        "source": "express",
-        "url": "https://www.the-express.com/news/politics/205683/joe-rogan-slams-trump-iran"
-      },
-      {
-        "title": "Musk and Silicon Valley Aren’t Libertarian. They Want to Fuse With the State.",
-        "source": "truthout",
-        "url": "https://truthout.org/video/musk-and-silicon-valley-arent-libertarian-they-want-to-fuse-with-the-state/"
-      },
-      {
-        "title": "Ending, not starting, war",
-        "source": "dailyherald",
-        "url": "https://www.dailyherald.com/20260424/letters-to-the-editor/ending-not-starting-war/"
-      },
-      {
-        "title": "NY Post: Islamabad II Turns Into Impotence Boogaloo",
-        "source": "hotair",
-        "url": "https://hotair.com/ed-morrissey/2026/04/24/ny-post-islamabad-ii-turns-into-impotence-boogaloo-n3814250"
-      },
-      {
-        "title": "The Iranian people are not waiting to thank Trump",
-        "source": "naijaonpoint_ng",
-        "url": "https://naijaonpoint.com.ng/the-iranian-people-are-not-waiting-to-thank-trump/"
-      },
-      {
-        "title": "The Iranian people are not waiting to thank Trump",
-        "source": "middleeastmonitor",
-        "url": "https://www.middleeastmonitor.com/20260424-the-iranian-people-are-not-waiting-to-thank-trump/"
-      },
-      {
-        "title": "Investments in nuclear weapons production surge – report",
-        "source": "manilatimes",
-        "url": "https://www.manilatimes.net/2026/04/25/world/americas-emea/investments-in-nuclear-weapons-production-surge-report/2328146"
       }
     ],
     "discarded_no_keywords": [
