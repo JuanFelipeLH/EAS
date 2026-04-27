@@ -1,5 +1,289 @@
 [
   {
+    "run_at": "2026-04-27T23:30:12.983Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says King will be 'very safe' during US visit after security talks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pakistan accused of attacking Afghan university",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Venice opera house drops incoming music director after nepotism remarks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least four killed and dozens injured in Indonesia train crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gunmen raid Nigerian orphanage and kidnap children",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Michael Jackson biopic smashes box office record",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 42 killed in Chad after water well dispute escalates",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr717plvxvgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French coastguard rescues more than 100 migrants crossing Channel",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3v6v4qd7qqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Plane crash in South Sudan kills all 15 on board",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg737x2pe4ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sri Lankan monks arrested after 110kg of cannabis discovered in their luggage",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4v4nzwj94o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French teen who licked vending machine straw faces jail in Singapore",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjw8w849g6go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pirates seize another vessel off Somali coast as threat level increased",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn7871n27nlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Archbishop praises Pope's anti-war comments during Vatican visit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yjyzrnl16o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Missing 5-year-old girl likely abducted from Outback home, police say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgrlr18e29ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we're learning about suspected Washington press dinner gunman",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Chinese sports brand taking on Nike and Adidas",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Remembering Raghu Rai: The photographer who showed India to itself",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crk1k8n1j4do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Performer describes locking eyes with Trump as they ducked for cover during shooting",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjwj8wgymro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Did Trump save eight Iranian women from execution?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Video shows correspondents' dinner suspect charge checkpoint",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj0v0484dmmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czjwrdgp98wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: How one orangutan braved new bridge to unite his split community",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgerdnvm2xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hope in Gaza as 300 couples get married at one time",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court reinstates Republican-favoured Texas electoral map",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map?traffic_source=rss"
+      },
+      {
+        "title": "Bahrain strips 69 people of citizenship over Iran support",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss"
+      },
+      {
+        "title": "Leavitt blames democrats for ‘cult of hatred’ against Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/leavitt-blames-democrats-for-cult-of-hatred-against-trump?traffic_source=rss"
+      },
+      {
+        "title": "Will vote make a difference to Palestinians under Israeli occupation?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/4/27/will-vote-make-a-difference-to-palestinians-under-israeli-occupation?traffic_source=rss"
+      },
+      {
+        "title": "Who holds the cards in Iran-US talks?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss"
+      },
+      {
+        "title": "Iran FM in Russia says US has offered new round of talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss"
+      },
+      {
+        "title": "China seeks to block US tech giant Meta from AI acquisition",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss"
+      },
+      {
+        "title": "King Charles and Queen Camilla arrive for high-profile US state visit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss"
+      },
+      {
+        "title": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss"
+      },
+      {
+        "title": "Elon Musk trial against Sam Altman to reveal OpenAI power struggle",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/27/elon-musk-trial-against-sam-altman-to-reveal-openai-power-struggle?traffic_source=rss"
+      },
+      {
+        "title": "Thousands held by paramilitary RSF in Sudan’s el-Fasher: NGO",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/thousands-reportedly-held-by-paramilitary-rsf-in-sudans-el-fasher?traffic_source=rss"
+      },
+      {
+        "title": "What people in Beirut think about the Lebanon-Israel negotiations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/what-people-in-beirut-think-about-the-lebanon-israel-negotiations?traffic_source=rss"
+      },
+      {
+        "title": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss"
+      },
+      {
+        "title": "Timeline: The highs and lows of the US-UK ‘special relationship’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/timeline-the-highs-and-lows-of-the-us-uk-special-relationship?traffic_source=rss"
+      },
+      {
+        "title": "US press gala shooting suspect charged with attempting to kill Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss"
+      },
+      {
+        "title": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/ceasefire-at-risk-as-pakistan-and-afghanistan-report-cross-border-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Gunmen kidnap 23 children from Nigerian orphanage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage?traffic_source=rss"
+      },
+      {
+        "title": "Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/melania-trump-blasts-kimmel-calls-on-abc-to-take-stand-against-comedian?traffic_source=rss"
+      },
+      {
+        "title": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss"
+      },
+      {
+        "title": "Suspected pirates steer cargo vessel towards Somalia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia?traffic_source=rss"
+      },
+      {
+        "title": "Will the Iran war push millions back into poverty?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss"
+      },
+      {
+        "title": "What does the US dinner shooting mean for Trump?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/4/27/what-does-the-us-dinner-shooting-mean-for-trump?traffic_source=rss"
+      },
+      {
+        "title": "DR Congo to establish US-backed paramilitary guard for mines",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/dr-congo-to-establish-us-uae-backed-paramilitary-guard-for-mines?traffic_source=rss"
+      },
+      {
+        "title": "Canada’s Carney announces a sovereign wealth fund",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/canadas-carney-announces-a-sovereign-wealth-fund?traffic_source=rss"
+      },
+      {
+        "title": "Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/27/iran-offers-hormuz-deal-without-nuclear-talks-as-it-seeks-broader-buy-in?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-27T23:25:12.702Z",
     "discarded_untrusted": [
       {
