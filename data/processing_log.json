@@ -1,5 +1,455 @@
 [
   {
+    "run_at": "2026-04-29T15:20:21.951Z",
+    "discarded_untrusted": [
+      {
+        "title": "(PR) Nuclear-Powered Space Combat Simulator In The Black Launches May 5",
+        "source": "Techpowerup.com",
+        "url": "https://www.techpowerup.com/348600/nuclear-powered-space-combat-simulator-in-the-black-launches-may-5"
+      },
+      {
+        "title": "The RCAR12-CAP1-OST1 module controls ABA-mediated stomatal closure in Arabidopsis",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012092"
+      },
+      {
+        "title": "MsgaBpred: A B-cell epitope predictor integrating AlphaFold3-predicted structures with multi-scale GCNs and pre-trained language model ESM-C",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014195"
+      },
+      {
+        "title": "Ulinastatin attenuates capillary leakage and suppresses FoxO1-dependent angiopoietin-2 in sepsis-associated acute lung injury via PI3K pathway",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348261"
+      },
+      {
+        "title": "Rebuilding Britain for the new world: Liz Kendall’s speech at the Royal United Services Institute",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/speeches/rebuilding-britain-for-the-new-world-liz-kendalls-speech-at-the-royal-united-services-institute"
+      },
+      {
+        "title": "Tuesday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/04/28/tuesday-hili-dialogue-577/"
+      },
+      {
+        "title": "No Way Out: Why Permanent Damage to Persian Gulf Oil Wells Begins Now",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-04-28-permanent-damage-persian-gulf-oil-wells-begins.html"
+      },
+      {
+        "title": "For US Commentators on Iran, Mass Murder Is Magic",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/04/commentators-murder-magic.html"
+      },
+      {
+        "title": "Six from MIT awarded 2026 Paul and Daisy Soros Fellowships for New Americans",
+        "source": "Mit.edu",
+        "url": "https://news.mit.edu/2026/paul-daisy-soros-fellows-0428"
+      },
+      {
+        "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 27th April 2026",
+        "source": "Iasbaba.com",
+        "url": "https://iasbaba.com/2026/04/daily-current-affairs-ias-upsc-prelims-and-mains-exam-27th-april-2026/"
+      },
+      {
+        "title": "Massive Utah data center to generate—and consume—more energy than entire state",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-bloggers/4376663/posts"
+      },
+      {
+        "title": "Nuclear Weapons Didn’t Save Lives in 1945. They Wouldn’t Today Either",
+        "source": "Antiwar.com",
+        "url": "https://original.antiwar.com/ivana_nikolic_hughes/2026/04/27/nuclear-weapons-didnt-save-lives-in-1945-they-wouldnt-today-either/"
+      },
+      {
+        "title": "Evaluating effects of tissue type, preservation method, and decomposition on DNA quality to support genetic sampling in stranded small cetaceans",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41598-026-41686-x"
+      },
+      {
+        "title": "Space diplomacy: bridging the operating gaps between myriad missions",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/d41586-026-01298-x"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "USS Dwight D. Eisenhower completes Planned Incremental Availability at Norfolk Naval Shipyard",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-usnpr01.htm"
+      },
+      {
+        "title": "King Charles set for historic address to Congress in first US visit as monarch and more top headlines",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/us/king-charles-set-historic-address-congress-first-us-visit-monarch-more-top-headlines"
+      },
+      {
+        "title": "Trump squeezes Iran with maximum pressure — why it hasn’t forced a breakthrough",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/trump-squeezes-iran-maximum-pressure-why-hasnt-forced-breakthrough"
+      },
+      {
+        "title": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea"
+      },
+      {
+        "title": "Global Market Today: Asian shares hold near eight-week high",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-hold-near-eight-week-high/articleshow/130566911.cms"
+      },
+      {
+        "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France urges citizens to leave Mali after rebel attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court limits use of race in drawing electoral maps",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France investigates reappearance of website linked to Pelicot crimes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Global forest loss slows but El Niño fires could threaten progress",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Comey charged with threatening Trump's life in Instagram post",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Irish government announces further fuel supports after protests",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzd22w5ewo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian paramilitary carried out air strikes in Mali as rebels advanced, footage shows",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two dead after small plane crashes into Australia airport hangar",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's face to feature on commemorative US passports",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tupac's family files wrongful death lawsuit in LA",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0l28d517gjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan zoo staffer allegedly dumps wife's body inside incinerator",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Outrage after Indian man carries his sister's skeleton to a bank to prove her death",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypl5jrjqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian billionaire's son offers to save Escobar's hippos",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr7prm4ke8do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Path cleared for Everest climbers after huge ice block",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0p2xp18yko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Suspected gunman aged 89 held in Greece after five wounded",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Will King's US visit lead to lasting reset in relations with UK?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2xyvx109o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fashion, billionaires and jokes: Inside the White House state dinner for the King and Queen",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr7pr1e3p1do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What next for Mali's military leaders after shock of rebel offensive?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A faraway conflict threatens livelihoods in India's glass hub",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five takeaways from the King's historic address to Congress",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's bizarre': Californians grapple with revelation that suspected Trump gunman was neighbour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c392knk3w2jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Performer describes locking eyes with Trump as they ducked for cover during shooting",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjwj8wgymro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'If it wasn't for us, you'd be speaking French': King and Trump joke at dinner",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c332ng27x1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why has the UAE left Opec - and why does this matter?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cz92wdvwek8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Should Jimmy Kimmel be fired for telling a joke?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c87qg28rx8jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside Tehran’s main airport as more flights take off during ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/inside-tehrans-main-airport-as-more-flights-take-off-during-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Young Palestinian artists from Gaza exhibit work shaped by war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/young-palestinian-artists-from-gaza-exhibit-work-shaped-by-war?traffic_source=rss"
+      },
+      {
+        "title": "‘We saw terrible things’: Mali refugees tell of atrocities amid attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/29/we-saw-terrible-things-mali-refugees-tell-of-atrocities-amid-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Suspect arrested after two Jewish people stabbed in London",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/suspect-arrested-after-two-jewish-people-stabbed-in-london?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike kills five family members in Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israeli-strike-kills-five-family-members-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "World Boxing allows Russian, Belarusian boxers to compete as neutrals",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/world-boxing-allows-russian-belarusian-boxers-to-compete-as-neutrals?traffic_source=rss"
+      },
+      {
+        "title": "Sri Lanka’s government ‘temporarily’ takes over cricket board",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/sri-lanka-cricket-board-quits-at-governments-request-officials?traffic_source=rss"
+      },
+      {
+        "title": "Rains revive Iraq’s wetlands after years of drought",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/4/29/iraqs-marshes-revived-long-awaited-rains-bring-life-back-to-wetlands?traffic_source=rss"
+      },
+      {
+        "title": "Is Iran’s oil storage nearly full – and will it have to cut production?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/29/is-irans-oil-storage-nearly-full-and-will-it-have-to-cut-production?traffic_source=rss"
+      },
+      {
+        "title": "How Hezbollah’s fibre optic drones test Israel’s sophisticated radar system",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/how-hezbollahs-fibre-optic-drones-test-israels-sophisticated-radar-system?traffic_source=rss"
+      },
+      {
+        "title": "‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/no-more-mr-nice-guy-trump-threatens-iran-to-get-smart-in-peace-talks?traffic_source=rss"
+      },
+      {
+        "title": "At least three killed, more than 10 injured in Russian attacks on Ukraine",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/at-least-three-killed-more-than-10-injured-in-russian-attacks-on-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "What role has Russia played in Mali’s security and the Sahel region?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/what-role-has-russia-played-in-malis-security-and-the-sahel-region?traffic_source=rss"
+      },
+      {
+        "title": "Qatar to host FIFA Under-17 World Cup 2026 in November–December",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/qatar-to-host-fifa-under-17-world-cup-2026-in-november?traffic_source=rss"
+      },
+      {
+        "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions?traffic_source=rss"
+      },
+      {
+        "title": "Iranian officials absent from pre-World Cup football events in Canada",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/iranian-officials-absent-from-pre-world-cup-football-events-in-canada?traffic_source=rss"
+      },
+      {
+        "title": "The UAE’s OPEC exit is not about oil; it is the end of Gulf solidarity",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/4/29/the-uaes-opec-exit-is-not-about-oil-it-is-the-end-of-gulf-solidarity?traffic_source=rss"
+      },
+      {
+        "title": "Five charts that show the rise of global militarisation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/five-charts-that-show-the-rise-of-global-militarisation?traffic_source=rss"
+      },
+      {
+        "title": "FIFA confirms new World Cup rule on yellow cards to reduce suspensions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/fifa-confirms-new-world-cup-rule-on-yellow-cards-to-reduce-suspensions?traffic_source=rss"
+      },
+      {
+        "title": "European Commission president calls for diplomacy to end Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/european-commission-president-calls-for-diplomacy-to-end-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Germany arrests Kazakhstan citizen accused of spying for Russia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/kazakh-man-accused-of-spying-for-russia-arrested-in-germany?traffic_source=rss"
+      },
+      {
+        "title": "Afghan women’s refugee team allowed to play in FIFA tournaments",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/afghan-womens-refugee-team-allowed-to-play-in-fifa-tournaments?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian football body appeals FIFA ruling on Israel at top sports court",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/palestinian-football-body-appeals-fifa-ruling-on-israel-at-top-sports-court?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss"
+      },
+      {
+        "title": "3-year-old rescued after falling into 18-metre-deep well in Syria",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/3-year-old-rescued-after-falling-into-18-metre-deep-well-in-syria?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-29T15:15:15.487Z",
     "discarded_untrusted": [
       {
