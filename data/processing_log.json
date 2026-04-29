@@ -1,5 +1,485 @@
 [
   {
+    "run_at": "2026-04-29T20:55:22.675Z",
+    "discarded_untrusted": [
+      {
+        "title": "NASA chief Jared Isaacman hints at campaign to make Pluto a planet again",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/nasa-chief-jared-isaacman-hints-at-campaign-to-make-pluto-a-planet-again/"
+      },
+      {
+        "title": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/humanity-may-be-doomed-to-die-in-nuclear-war-unless-we-act-soon-physicist-david-gross-says/"
+      },
+      {
+        "title": "Coffee Break: Armed Madhouse – The U.S. Navy Adrift",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/?p=309471"
+      },
+      {
+        "title": "Japan and China Are Edging Dangerously Close to Conflict",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/"
+      },
+      {
+        "title": "Fusion energy company Commonwealth applies to join a U.S. power grid—a first",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/fusion-energy-company-commonwealth-applies-to-join-a-u-s-power-grid-a-first/"
+      },
+      {
+        "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
+        "source": "NASA",
+        "url": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/"
+      },
+      {
+        "title": "(PR) Nuclear-Powered Space Combat Simulator In The Black Launches May 5",
+        "source": "Techpowerup.com",
+        "url": "https://www.techpowerup.com/348600/nuclear-powered-space-combat-simulator-in-the-black-launches-may-5"
+      },
+      {
+        "title": "The RCAR12-CAP1-OST1 module controls ABA-mediated stomatal closure in Arabidopsis",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012092"
+      },
+      {
+        "title": "MsgaBpred: A B-cell epitope predictor integrating AlphaFold3-predicted structures with multi-scale GCNs and pre-trained language model ESM-C",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014195"
+      },
+      {
+        "title": "Ulinastatin attenuates capillary leakage and suppresses FoxO1-dependent angiopoietin-2 in sepsis-associated acute lung injury via PI3K pathway",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348261"
+      },
+      {
+        "title": "Rebuilding Britain for the new world: Liz Kendall’s speech at the Royal United Services Institute",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/speeches/rebuilding-britain-for-the-new-world-liz-kendalls-speech-at-the-royal-united-services-institute"
+      },
+      {
+        "title": "Tuesday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/04/28/tuesday-hili-dialogue-577/"
+      },
+      {
+        "title": "No Way Out: Why Permanent Damage to Persian Gulf Oil Wells Begins Now",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-04-28-permanent-damage-persian-gulf-oil-wells-begins.html"
+      },
+      {
+        "title": "For US Commentators on Iran, Mass Murder Is Magic",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/04/commentators-murder-magic.html"
+      },
+      {
+        "title": "Karachi residents store gas in balloons amid fuel shortages, says report",
+        "source": "firstpost",
+        "url": "https://www.firstpost.com/world/karachi-residents-store-gas-in-balloons-amid-fuel-shortages-says-report-ws-e-14005646.html"
+      },
+      {
+        "title": "Portable Emergency Shelter Market Size Accelerating at 9.8% CAGR | By Key Players: ShelterBox, HDT Global, Alaska Structures, Weatherhaven, Rubb USA, Big Top Manufacturing",
+        "source": "openpr",
+        "url": "https://www.openpr.com/news/4494308/portable-emergency-shelter-market-size-accelerating-at-9-8"
+      },
+      {
+        "title": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends",
+        "source": "dnews",
+        "url": "https://www.dnews.com/99-things-to-do/iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends-d3b6298c"
+      },
+      {
+        "title": "US War With Iran Has Cost $25 Billion, Says Pentagon",
+        "source": "chinanationalnews",
+        "url": "http://chinanationalnews.com/news/279019616/us-war-with-iran-has-cost-25-billion-says-pentagon"
+      },
+      {
+        "title": "Iran offers to reopen Strait of Hormuz if U.S. lifts its blockade and the war ends",
+        "source": "lmtribune",
+        "url": "https://www.lmtribune.com/wire/iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends-d3b6298c"
+      },
+      {
+        "title": "UAE OPEC exit: Asian stocks gain, oil prices decline",
+        "source": "siasat",
+        "url": "https://www.siasat.com/uae-opec-exit-asian-stocks-gain-oil-prices-decline-3461942/"
+      },
+      {
+        "title": "Hosting British king, Trump says Charles agrees Iran cannot have nuclear bomb",
+        "source": "timesofisrael",
+        "url": "https://www.timesofisrael.com/hosting-british-king-trump-says-charles-agrees-iran-cannot-have-nuclear-bomb/"
+      },
+      {
+        "title": "Live updates: Talks to end the war in Iran stall as economies feel the impact of rising energy costs",
+        "source": "nbcdfw",
+        "url": "https://www.nbcdfw.com/news/national-international/live-updates-iran-war-us-israel-middle-east-april-29/4017346/"
+      },
+      {
+        "title": "Iran proposes phased plan to reopen Strait of Hormuz in return for end to US blockade: Report",
+        "source": "cnbctv18",
+        "url": "https://www.cnbctv18.com/world/iran-proposes-phased-plan-to-reopen-strait-of-hormuz-in-return-for-end-to-us-blockade-report-ws-l-19895490.htm"
+      },
+      {
+        "title": "Nuclear “Rogue States”: Why U.S. is Hell-Bent To Kill Iran’s Nuke Program More Than Pakistan or North Korea? OPED",
+        "source": "eurasiantimes",
+        "url": "https://www.eurasiantimes.com/irans-nuke-program-than-pakistan-or-north-korea/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Runway-to-Space Challenge brings spaceflight closer",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/tech/runway-space-challenge-brings-spaceflight-closer"
+      },
+      {
+        "title": "USS Dwight D. Eisenhower completes Planned Incremental Availability at Norfolk Naval Shipyard",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-usnpr01.htm"
+      },
+      {
+        "title": "King Charles set for historic address to Congress in first US visit as monarch and more top headlines",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/us/king-charles-set-historic-address-congress-first-us-visit-monarch-more-top-headlines"
+      },
+      {
+        "title": "Trump squeezes Iran with maximum pressure — why it hasn’t forced a breakthrough",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/trump-squeezes-iran-maximum-pressure-why-hasnt-forced-breakthrough"
+      },
+      {
+        "title": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea"
+      },
+      {
+        "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New images show suspect taking selfies before Washington press dinner shooting",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Madagascar detains French national over alleged plot to stir unrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Stranded whale ferried out of German waters in barge",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France urges citizens to leave Mali after rebel attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France investigates reappearance of website linked to Pelicot crimes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court limits use of race in drawing electoral maps",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Global forest loss slows but El Niño fires could threaten progress",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Comey charged with threatening Trump's life in Instagram post",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Irish government announces further fuel supports after protests",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzd22w5ewo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two dead after small plane crashes into Australia airport hangar",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's face to feature on commemorative US passports",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tupac's family files wrongful death lawsuit in LA",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0l28d517gjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan zoo staffer allegedly dumps wife's body inside incinerator",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Outrage after Indian man carries his sister's skeleton to a bank to prove her death",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypl5jrjqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four key takeaways from Jerome Powell's last rate decision as Fed chair",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Syria trial seen as first step on long road for Assad's victims",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian paramilitaries carried out air strikes in Mali as rebels advanced, footage shows",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A faraway conflict threatens livelihoods in India's glass hub",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five takeaways from the King's historic address to Congress",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'If it wasn't for us, you'd be speaking French': King and Trump joke at dinner",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c332ng27x1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why has the UAE left Opec - and why does this matter?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cz92wdvwek8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Should Jimmy Kimmel be fired for telling a joke?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c87qg28rx8jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
+      },
+      {
+        "title": "Musk accuses Altman of betraying OpenAI’s nonprofit founding mission",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/29/musk-accuses-altman-of-betraying-openais-nonprofit-founding-mission?traffic_source=rss"
+      },
+      {
+        "title": "Mali’s Tuareg rebels say Russian fighters must withdraw from country",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/malis-tuareg-rebels-say-russian-fighters-must-withdraw-from-country?traffic_source=rss"
+      },
+      {
+        "title": "Ex-FBI chief Comey appears in court over alleged Trump threat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/ex-fbi-chief-comey-appears-in-court-over-alleged-trump-threat?traffic_source=rss"
+      },
+      {
+        "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss"
+      },
+      {
+        "title": "Two Jewish men stabbed in London ‘terrorist attack’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
+      },
+      {
+        "title": "Indonesian soldiers on trial after acid attack on activist",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss"
+      },
+      {
+        "title": "‘Trump’s Justice Department is on a revenge tour’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/quotable/2026/4/29/trumps-justice-department-is-on-a-revenge-tour?traffic_source=rss"
+      },
+      {
+        "title": "CCTV footage shows moment Israeli strike targets Palestinians",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/cctv-footage-shows-moment-israeli-strike-targets-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "Britain’s King Charles visits 9/11 Memorial in New York",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/britains-king-charles-visits-9-11-memorial-in-new?traffic_source=rss"
+      },
+      {
+        "title": "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss"
+      },
+      {
+        "title": "UK’s ‘terrorism’ laws risk overreach, watchdog warns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/uks-terrorism-laws-risk-overreach-watchdog-warns?traffic_source=rss"
+      },
+      {
+        "title": "South Africa to deport Robert Mugabe’s son over firearm offence",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/south-africa-to-deport-robert-mugabes-son-over-firearm-offence?traffic_source=rss"
+      },
+      {
+        "title": "Is the US forcing Zambia to trade minerals for lives?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/2026/4/29/is-the-us-forcing-zambia-to-trade-minerals-for-lives?traffic_source=rss"
+      },
+      {
+        "title": "US Fed holds rates steady, Powell to remain on its board",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/29/us-fed-holds-rates-steady-in-powells-final-meeting-as-fed-chair?traffic_source=rss"
+      },
+      {
+        "title": "UAE quits OPEC: What that means for the Gulf, energy markets and beyond",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/uae-quits-opec-what-that-means-for-the-gulf-energy-markets-and-beyond?traffic_source=rss"
+      },
+      {
+        "title": "US top court voids Louisiana voting map amid national redistricting fight",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/us-top-court-voids-louisiana-voting-map-amid-national-redistricting-fight?traffic_source=rss"
+      },
+      {
+        "title": "Trump admin probe into ABC amid Kimmel row sparks US free speech concerns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/trump-admin-probe-into-abc-amid-kimmel-row-sparks-us-free-speech-concerns?traffic_source=rss"
+      },
+      {
+        "title": "Families sue OpenAI, alleging chatbot aided in Canadian school shooting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/29/families-sue-openai-alleging-chatbot-aided-in-canadian-school-shooting?traffic_source=rss"
+      },
+      {
+        "title": "A 48-team World Cup is Panini sticker collectors’ biggest challenge yet",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/a-48-team-world-cup-is-panini-sticker-collectors-biggest-challenge-yet?traffic_source=rss"
+      },
+      {
+        "title": "Man carries deceased sister into Indian bank amid paperwork difficulty",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/man-carries-deceased-sister-into-indian-bank-amid-paperwork-difficulty?traffic_source=rss"
+      },
+      {
+        "title": "What does Chornobyl look like 40 years later?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/4/29/what-does-chornobyl-look-like-40-years-later?traffic_source=rss"
+      },
+      {
+        "title": "Madagascar detains French ex-serviceman over alleged destabilisation plot",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/madagascar-detains-french-ex-serviceman-over-alleged-destabilisation-plot?traffic_source=rss"
+      },
+      {
+        "title": "Hungary’s new PM races to unlock EU’s frozen funds",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/hungarys-new-pm-races-to-unlock-eus-frozen-funds?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-29T20:50:24.331Z",
     "discarded_untrusted": [
       {
