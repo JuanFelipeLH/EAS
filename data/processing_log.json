@@ -1,5 +1,400 @@
 [
   {
+    "run_at": "2026-04-29T08:50:13.228Z",
+    "discarded_untrusted": [
+      {
+        "title": "Ending the Iran war the right way",
+        "source": "washingtontimes",
+        "url": "https://www.washingtontimes.com/news/2026/apr/28/ending-iran-war-right-way/"
+      },
+      {
+        "title": "As Trump’s Narrative on Negotiations Flails, Iran Is Setting Its Own Terms for Ending the War",
+        "source": "digitpatrox",
+        "url": "https://digitpatrox.com/as-trumps-narrative-on-negotiations-flails-iran-is-setting-its-own-terms-for-ending-the-war/"
+      },
+      {
+        "title": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
+        "source": "scientificamerican",
+        "url": "https://www.scientificamerican.com/article/humanity-may-be-doomed-to-die-in-nuclear-war-unless-we-act-soon-physicist-david-gross-says/"
+      },
+      {
+        "title": "Trump, unhappy with latest peace proposal, says Iran trying to ‘figure out’ its leadership",
+        "source": "irishtimes",
+        "url": "https://www.irishtimes.com/world/middle-east/2026/04/28/trump-unhappy-with-latest-peace-proposal-says-iran-trying-to-figure-out-its-leadership/"
+      },
+      {
+        "title": "The dangerous and corrupt worlds of billionaires and military millionaires – Part 2",
+        "source": "rabble",
+        "url": "https://rabble.ca/politics/canadian-politics/the-dangerous-and-corrupt-worlds-of-billionaires-and-military-millionaires-part-2/"
+      },
+      {
+        "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say",
+        "source": "religionnews",
+        "url": "https://religionnews.com/2026/04/28/iran-offers-to-reopen-strait-of-hormuz-if-us-lifts-its-blockade-and-the-war-ends-officials-say/"
+      },
+      {
+        "title": "Semi Mania Backtracks On OpenAI Missing Targets; Oil Rises Awaiting Trump; UAE Quits OPEC",
+        "source": "benzinga",
+        "url": "https://www.benzinga.com/Opinion/26/04/52103847/semi-mania-backtracks-on-openai-missing-targets-oil-rises-awaiting-trump-uae-quits-opec"
+      },
+      {
+        "title": "Older People Who've Lived Through Major Geopolitical Tensions Are Explaining What Younger Generations Don't Understand About \"Times Like These,\" And It's A Lot",
+        "source": "buzzfeeduk",
+        "url": "https://www.buzzfeed.com/dannicaramirez/older-adults-geopolitical-tensions-stories-young-people"
+      },
+      {
+        "title": "Despite his public bravado, Trump is desperate for a deal with Iran",
+        "source": "mondoweiss",
+        "url": "https://mondoweiss.net/2026/04/despite-his-public-bravado-trump-is-desperate-for-a-deal-with-iran/"
+      },
+      {
+        "title": "Trump says King Charles agrees Iran cannot have nuclear bomb",
+        "source": "dw",
+        "url": "https://www.dw.com/en/trump-says-king-charles-agrees-iran-cannot-have-nuclear-bomb/live-76968757?maca=en-rss-en-top-1022-rdf"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Five takeaways from the King's historic address to Congress",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Comey charged with threatening Trump's life in Instagram post",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Weeks of silence over Iran school strike highly unusual, former US officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's face to feature on commemorative US passports",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan zoo staffer allegedly dumps wife's body inside incinerator",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian billionaire's son offers to save Escobar's hippos",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr7prm4ke8do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Path cleared for Everest climbers after huge ice block",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0p2xp18yko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-TV showgirl's pardon at centre of widening Italian scandal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9pdkeekkzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Suspected gunman aged 89 held in Greece after five wounded",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv2pmz2v86o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine accuses Israel of receiving shipments of grain 'stolen' by Russia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqjplqgd1r2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Suspect charged with attempted assassination of Trump at Washington dinner ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rescuers race to free survivors trapped inside train after fatal Indonesia crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgegg8r0v1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-actor Nathan Chasing Horse jailed for at least 37 years for sexual assault",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx218vkdvpgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan Airlines trials humanoid robots as ground handlers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpwp87j1llvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "IS says it was behind deadly Nigeria attack on football pitch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Venice opera house drops incoming music director after nepotism remarks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2d2ennv95o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pakistan accused of attacking Afghan university",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fashion, billionaires and jokes: Inside the White House state dinner for the King and Queen",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr7pr1e3p1do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A faraway conflict threatens livelihoods in India's glass hub",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8pdv86359o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What next for Mali's military leaders after shock of rebel offensive?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy818zdv831o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's bizarre': Californians grapple with revelation that suspected Trump gunman was neighbour",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c392knk3w2jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Performer describes locking eyes with Trump as they ducked for cover during shooting",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czjwj8wgymro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Should Jimmy Kimmel be fired for telling a joke?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c87qg28rx8jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Flying cars and 5-minute charges: China's EV industry sees opportunity in Iran crisis",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Will Mexico City's airport be ready for the World Cup?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What happened when Rebel Wilson gave evidence in court?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwy27njv3wvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I jumped around the house': Sabastian Sawe's parents celebrate marathon record",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn0pl57xlppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC reports from scene of fatal Indonesia train crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g0zep6yl9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How the Iran war is hitting the UK",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk?traffic_source=rss"
+      },
+      {
+        "title": "Red card for players covering their mouths in World Cup matches",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/red-card-for-players-covering-their-mouths-in-world-cup-matches?traffic_source=rss"
+      },
+      {
+        "title": "‘Encouraging’: Global rainforest loss slows in 2025 after record year",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/tropical-forest-loss-slows-in-2025-after-record-year-report?traffic_source=rss"
+      },
+      {
+        "title": "Is India’s Chabahar dream in Iran dead?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/29/is-indias-chabahar-dream-in-iran-dead?traffic_source=rss"
+      },
+      {
+        "title": "Two Kashmir brothers: One killed by rebels, another by army 26 years later",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/two-kashmir-brothers-one-killed-by-rebels-another-by-army-26-years-later?traffic_source=rss"
+      },
+      {
+        "title": "Life in limbo: How Iranians navigate a state of ‘no war, no peace’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/29/life-in-limbo-how-iranians-navigate-a-state-of-no-war-no-peace?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What’s happening on day 61 as UAE exits OPEC?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec?traffic_source=rss"
+      },
+      {
+        "title": "PSG vs Bayern Munich: Football players, fans react to Champions League semi",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/psg-vs-bayern-munich-football-experts-fans-react-to-champions-league-semi?traffic_source=rss"
+      },
+      {
+        "title": "Europe named ‘fastest-warming continent’ in latest climate change report",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/europe-named-fastest-warming-continent-in-latest-climate-change-report?traffic_source=rss"
+      },
+      {
+        "title": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade?traffic_source=rss"
+      },
+      {
+        "title": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss"
+      },
+      {
+        "title": "Afghan students recount harrowing university strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/afghan-students-recount-harrowing-university-strike?traffic_source=rss"
+      },
+      {
+        "title": "US Senate blocks bid to stop Trump using military against Cuba",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss"
+      },
+      {
+        "title": "UN aid chief says situation in Somalia worsened by US war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/un-aid-chief-says-situation-in-somalia-worsened-by-us-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "US, Latin America countries criticise China’s retaliation over Panama Canal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/us-latin-america-countries-criticise-chinas-retaliation-over-panama-canal?traffic_source=rss"
+      },
+      {
+        "title": "Trump to feature on limited-edition US passports for 250th anniversary",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/trump-to-feature-on-limited-edition-us-passports-for-250th-anniversary?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s PM slams Israel’s ‘war crimes’ as attack kills 3 rescue workers",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers?traffic_source=rss"
+      },
+      {
+        "title": "UAE quits OPEC as oil cartel takes blow during war on Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec-as-oil-cartel-takes-blow-during-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Mali’s military leader emerges after alleged coup attempt",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt?traffic_source=rss"
+      },
+      {
+        "title": "US appeals court rejects Trump’s immigration detention policy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/29/us-appeals-court-rejects-trumps-immigration-detention-policy?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump says Tehran wants end to blockade; Israel kills medics",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss"
+      },
+      {
+        "title": "Israeli soldier shows Gaza’s Beit Hanoon completely flattened",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/israeli-soldier-shows-gazas-beit-hanoon-completely-flattened?traffic_source=rss"
+      },
+      {
+        "title": "Musk testifies at OpenAI trial it’s not OK to ‘loot a charity’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/28/musk-testifies-at-openai-trial-its-not-ok-to-loot-a-charity?traffic_source=rss"
+      },
+      {
+        "title": "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/28/as-us-iran-talks-remain-stalled-experts-warn-of-long-term-disruptions?traffic_source=rss"
+      },
+      {
+        "title": "Former FBI director Comey again indicted by US Justice Department",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/28/former-fbi-director-comey-again-indicted-by-us-justice-department?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-04-29T08:45:19.343Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
