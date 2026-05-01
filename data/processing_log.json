@@ -1,5 +1,410 @@
 [
   {
+    "run_at": "2026-05-01T04:50:16.018Z",
+    "discarded_untrusted": [
+      {
+        "title": "Nuclear Test Legacies Haunt Non-Proliferation Review Conference",
+        "source": "UN News",
+        "url": "https://press.un.org/en/2026/dc3910.doc.htm"
+      },
+      {
+        "title": "USS Thresher Mystery FINALLY Solved—And It's Worse Than Anyone Imagine",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4376967/posts"
+      },
+      {
+        "title": "The fanatics hellbent on tearing the UK apart forever: Abolish prisons, ban homework and throw open borders... why many fear next week's poll could forge an unholy alliance",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15777267/The-fanatics-hellbent-tearing-UK-apart-forever-Abolish-prisons-ban-homework-throw-open-borders-fear-weeks-poll-forge-unholy-alliance.html"
+      },
+      {
+        "title": "Characterizing the metabolomes of microglia, astrocytes and neurons in ageing and Alzheimer’s brains",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41556-026-01910-2"
+      },
+      {
+        "title": "Data-driven prioritization of high-risk individuals for weight loss interventions",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41591-026-04353-2"
+      },
+      {
+        "title": "The local mechanostructural properties of protein cargoes regulate nucleocytoplasmic transport",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41567-026-03242-2"
+      },
+      {
+        "title": "Resolving sensitivity, specificity and signal contamination in Xenium spatial transcriptomics",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41592-026-03089-8"
+      },
+      {
+        "title": "Mountain Horse Solutions Wins Drone Dominance Lethality Prize Challenge",
+        "source": "Soldiersystems.net",
+        "url": "https://soldiersystems.net/2026/04/29/mountain-horse-solutions-wins-drone-dominance-lethality-prize-challenge/"
+      },
+      {
+        "title": "Skeptical Democrats confront Hegseth about Iran war for first time since conflict started",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/hegseth-will-be-grilled-by-congress-for-the-first-time-since-the-iran-war-began"
+      },
+      {
+        "title": "'The storm is here': Why you and your neighbors may be paying multibillion-dollar bill for AI data centers right now — but that may not last long as more US states join revolt against unjust 'socialist' approach to electricity bills",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/the-storm-is-here-why-you-and-your-neighbors-may-be-paying-multibillion-dollar-bill-for-ai-data-centers-right-now-but-that-may-not-last-long-as-more-us-states-join-revolt-against-unjust-socialist-approach-to-electricity-bills"
+      },
+      {
+        "title": "‘A strategic blunder’: Democrats confront Hegseth as the Iran war’s price tag hits $25 billion",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/04/29/congress-democrats-confront-pete-hegseth-iran-war-25-billion/"
+      },
+      {
+        "title": "USAF Revives AGM-183 ARRW Hypersonic Missile with $345 Million Budget Request",
+        "source": "Theaviationist.com",
+        "url": "https://theaviationist.com/2026/04/29/usaf-revives-agm-183-arrw-hypersonic-missile/"
+      },
+      {
+        "title": "Africana Philosophy",
+        "source": "Stanford.edu",
+        "url": "https://plato.stanford.edu/entries/africana/"
+      },
+      {
+        "title": "Air Cargo Demand Slid Nearly 5 Percent in Iran War’s First Month",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/air-cargo-demand-iran-war-strait-of-hormuz-freight-rates-jet-fuel-costs-oil-prices-supply-disruptions-1238933908/"
+      },
+      {
+        "title": "NASA Ignites Prototype Thruster Designed to Put Humans on Mars",
+        "source": "Hot Hardware",
+        "url": "https://hothardware.com/news/nasa-ignites-prototype-thruster-designed-to-put-humans-on-mars"
+      },
+      {
+        "title": "B-1B Seen Carrying ARRW Hypersonic Missile For The First Time",
+        "source": "twz",
+        "url": "https://www.twz.com/air/b-1b-seen-carrying-arrw-hypersonic-missile-for-the-first-time"
+      },
+      {
+        "title": "Smog in Phoenix and Salt Lake City? The E.P.A. Is Blaming Asia.",
+        "source": "newspub_live",
+        "url": "https://newspub.live/science/smog-in-phoenix-and-salt-lake-city-the-e-p-a-is-blaming-asia/"
+      },
+      {
+        "title": "With mass evacuation warnings, Israel upends lives and reshapes south Lebanon",
+        "source": "canoncitydailyrecord",
+        "url": "https://www.canoncitydailyrecord.com/2026/04/30/south-lebanon-mass-evacuation-warnings-israel/"
+      },
+      {
+        "title": "With mass evacuation warnings, Israel upends lives and reshapes south Lebanon",
+        "source": "troyrecord",
+        "url": "https://www.troyrecord.com/2026/04/30/south-lebanon-mass-evacuation-warnings-israel/"
+      },
+      {
+        "title": "With mass evacuation warnings, Israel upends lives and reshapes south Lebanon",
+        "source": "fortmorgantimes",
+        "url": "https://www.fortmorgantimes.com/2026/04/30/south-lebanon-mass-evacuation-warnings-israel/"
+      },
+      {
+        "title": "Israel Military Action Against Iran Threatens Imminent Escalation, Defense Minister Warns",
+        "source": "bitcoinworld",
+        "url": "https://bitcoinworld.co.in/israel-military-action-iran-threat/"
+      },
+      {
+        "title": "Report: Trump presented with secret Iran plan using US ground troops",
+        "source": "dailymailuk",
+        "url": "https://www.dailymail.com/galleries/article-15779849/Report-Trump-presented-secret-Iran-plan-using-US-ground-troops.html"
+      },
+      {
+        "title": "Fragile Nuclear Order Faces Its Toughest Test In Decades",
+        "source": "menafn",
+        "url": "https://menafn.com/1111055688/Fragile-Nuclear-Order-Faces-Its-Toughest-Test-In-Decades"
+      },
+      {
+        "title": "‘No credibility’: Obama’s top Iran negotiator torched by State Department after ripping Trump war plan",
+        "source": "foxnews",
+        "url": "https://www.foxnews.com/world/no-credibility-obamas-top-iran-negotiator-torched-state-department-after-ripping-trump-war-plan"
+      },
+      {
+        "title": "‘No credibility’: Obama’s top Iran negotiator torched by State Department after ripping Trump war plan",
+        "source": "democraticaccent",
+        "url": "https://www.democraticaccent.com/no-credibility-obamas-top-iran-negotiator-torched-by-state-department-after-ripping-trump-war-plan/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Global Market Today: US stock futures gain on tech earnings; Asian shares fall",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-us-stock-futures-gain-on-tech-earnings-asian-shares-fall/articleshow/130620680.cms"
+      },
+      {
+        "title": "WATCH: Dog owners test out new medicine hack",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/132511252/"
+      },
+      {
+        "title": "Enough with mythologies: India needs new state-sponsored AI entities to create essential strategic capability",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/enough-with-mythologies-india-needs-new-state-sponsored-ai-entities-to-create-essential-strategic-capability/articleshow/130614665.cms"
+      },
+      {
+        "title": "Democrats confront Hegseth for the first time since start of Iran war",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-defence-secretary-pete-hegseth-democrats-iran-war-hearing-6089966"
+      },
+      {
+        "title": "Violence in Australian town after arrest of man over girl's murder",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Venice Biennale jury resigns days before start of exhibition",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Britney Spears charged in California with driving under influence ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China scraps tariffs for all but one African nation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trainee driver crashes bus into River Seine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Belgium plans to nationalise nuclear power plants",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump signs bill to end record shutdown over immigration enforcement",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man sentenced to death for murder of toddlers at Ugandan nursery",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The sub-Arctic town pitching itself as Canada's gateway to Europe",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indians lost $2.5bn to digital fraud in 2025 - now its central bank is fighting back",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp3l3p7lzppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three takeaways from Hegseth's clash with lawmakers over Iran war ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is China banning drone sales in Beijing?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czd21r472nmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Joy as record-breaking runner Sawe returns home",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New Banksy sculpture appears to show politician blinded by his own flag",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/new-banksy-sculpture-appears-to-show-politician-blinded-by-his-own-flag?traffic_source=rss"
+      },
+      {
+        "title": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss"
+      },
+      {
+        "title": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss"
+      },
+      {
+        "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss"
+      },
+      {
+        "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians mourn football loving teenager killed by Israeli army",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss"
+      },
+      {
+        "title": "Kenya’s Sawe hailed at State House after historic marathon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/kenyas-sawe-hailed-at-state-house-after-historic-marathon?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian journalist released from Israeli prison unrecognisable",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinian-journalist-released-from-israeli-prison-unrecognisable?traffic_source=rss"
+      },
+      {
+        "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss"
+      },
+      {
+        "title": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss"
+      },
+      {
+        "title": "How is Israel replicating its Gaza tactics in Lebanon?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran can play at World Cup in US after FIFA confirmation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss"
+      },
+      {
+        "title": "US-Venezuela direct flights resume after seven-year suspension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/us-venezuela-direct-flights-resume-after-seven-year-suspension?traffic_source=rss"
+      },
+      {
+        "title": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss"
+      },
+      {
+        "title": "US passes law to resume DHS funding and end partial government shutdown",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown?traffic_source=rss"
+      },
+      {
+        "title": "Uganda court sentences man to death for killing four children at nursery",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/uganda-court-sentences-man-to-death-for-killing-four-children-at-nursery?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling?traffic_source=rss"
+      },
+      {
+        "title": "Mexico’s Sheinbaum questions US claims of drug ties to Sinaloa governor",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/mexico-sheinbaum?traffic_source=rss"
+      },
+      {
+        "title": "Iran will play World Cup games in US according to FIFA chief Infantino",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss"
+      },
+      {
+        "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese girl mourns paramedic father killed in Israeli strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss"
+      },
+      {
+        "title": "Myanmar’s former leader Aung San Suu Kyi moved to house arrest",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/myanmars-former-leader-aung-san-suu-kyi-moved-from-prison-to-house-arrest?traffic_source=rss"
+      },
+      {
+        "title": "UN chief calls for immediate reopening of the Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/un-chief-calls-for-immediate-reopening-of-the-strait-of-hormuz?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-01T04:45:10.892Z",
     "discarded_untrusted": [
       {
@@ -107909,896 +108314,6 @@
         "title": "Indonesian soldiers on trial after acid attack on activist",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-04-30T04:50:13.542Z",
-    "discarded_untrusted": [
-      {
-        "title": "JPL Team Ignites High-Power Lithium-Fed Electric Thruster Aimed at Human Mars Flights",
-        "source": "Spacewar.com",
-        "url": "https://www.spacewar.com/reports/JPL_Team_Ignites_High_Power_Lithium_Fed_Electric_Thruster_Aimed_at_Human_Mars_Flights_999.html"
-      },
-      {
-        "title": "Bibi’s Big Lie and Why Pluto Didn’t Bark In Tehran",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/david_stockman/2026/04/28/bibis-big-lie-and-why-pluto-didnt-bark-in-tehran/"
-      },
-      {
-        "title": "mRNA vaccine immunity is enhanced by hepatocyte detargeting and not dependent on dendritic cell expression",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41587-026-03099-z"
-      },
-      {
-        "title": "Cytoplasmic competition between separate parental pronuclei in zygotes",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41586-026-10417-7"
-      },
-      {
-        "title": "Scaling and self-similarity in the formation of the embryonic epigenome",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41567-026-03263-x"
-      },
-      {
-        "title": "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41586-026-10363-4"
-      },
-      {
-        "title": "Pervasive and programmed nucleosome distortion on single chromatin fibres",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41586-026-10418-6"
-      },
-      {
-        "title": "An agentic framework for autonomous scientific discovery in cancer pathology",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41591-026-04357-y"
-      },
-      {
-        "title": "NASA chief Jared Isaacman hints at campaign to make Pluto a planet again",
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/nasa-chief-jared-isaacman-hints-at-campaign-to-make-pluto-a-planet-again/"
-      },
-      {
-        "title": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/humanity-may-be-doomed-to-die-in-nuclear-war-unless-we-act-soon-physicist-david-gross-says/"
-      },
-      {
-        "title": "Coffee Break: Armed Madhouse – The U.S. Navy Adrift",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/?p=309471"
-      },
-      {
-        "title": "Japan and China Are Edging Dangerously Close to Conflict",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/"
-      },
-      {
-        "title": "Fusion energy company Commonwealth applies to join a U.S. power grid—a first",
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/fusion-energy-company-commonwealth-applies-to-join-a-u-s-power-grid-a-first/"
-      },
-      {
-        "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
-        "source": "NASA",
-        "url": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/"
-      },
-      {
-        "title": "(PR) Nuclear-Powered Space Combat Simulator In The Black Launches May 5",
-        "source": "Techpowerup.com",
-        "url": "https://www.techpowerup.com/348600/nuclear-powered-space-combat-simulator-in-the-black-launches-may-5"
-      },
-      {
-        "title": "The RCAR12-CAP1-OST1 module controls ABA-mediated stomatal closure in Arabidopsis",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012092"
-      },
-      {
-        "title": "MsgaBpred: A B-cell epitope predictor integrating AlphaFold3-predicted structures with multi-scale GCNs and pre-trained language model ESM-C",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014195"
-      },
-      {
-        "title": "Ulinastatin attenuates capillary leakage and suppresses FoxO1-dependent angiopoietin-2 in sepsis-associated acute lung injury via PI3K pathway",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348261"
-      },
-      {
-        "title": "Rebuilding Britain for the new world: Liz Kendall’s speech at the Royal United Services Institute",
-        "source": "Www.gov.uk",
-        "url": "https://www.gov.uk/government/speeches/rebuilding-britain-for-the-new-world-liz-kendalls-speech-at-the-royal-united-services-institute"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "Runway-to-Space Challenge brings spaceflight closer",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/tech/runway-space-challenge-brings-spaceflight-closer"
-      },
-      {
-        "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Christchurch mass killer loses bid to overturn conviction",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hungary's next PM says frozen EU funds will be paid out soon",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "New images show suspect taking selfies before Washington press dinner shooting",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Florida lawmakers approve new voting maps to favour Republicans ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c5y9wvl0gkno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Stranded whale ferried out of German waters in barge",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Madagascar detains French national over alleged plot to stir unrest",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "France urges citizens to leave Mali after rebel attacks",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "France investigates reappearance of website linked to Pelicot crimes",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US Supreme Court limits use of race in drawing electoral maps",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Global forest loss slows but El Niño fires could threaten progress",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Comey charged with threatening Trump's life in Instagram post",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Irish government announces further fuel supports after protests",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgzd22w5ewo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two dead after small plane crashes into Australia airport hangar",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The 'Polar Bear Capital' with Arctic gateway ambitions",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Indians lost $2.5bn to digital fraud in 2025 - now its central bank is fighting back",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp3l3p7lzppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Syria trial seen as first step on long road for Assad's victims",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russian paramilitaries carried out air strikes in Mali as rebels advanced, footage shows",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Joy as record-breaking runner Sawe returns home",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "London police release bodycam of arrest after two Jewish men stabbed",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/london-police-release-bodycam-of-arrest-after-two-jewish-men-stabbed?traffic_source=rss"
-      },
-      {
-        "title": "Video emerges of heavy firefight in Mali",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss"
-      },
-      {
-        "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss"
-      },
-      {
-        "title": "US indicts Sinaloa governor, 9 others over Mexican drug cartel links",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss"
-      },
-      {
-        "title": "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/israel-seizes-global-sumud-flotilla-boats-1000km-away-from-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Pro-government rally in Tehran demands end to US threats",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss"
-      },
-      {
-        "title": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss"
-      },
-      {
-        "title": "Chile police blast water cannons at student protesters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/chile-police-blast-water-cannons-at-student-protesters?traffic_source=rss"
-      },
-      {
-        "title": "Carney ‘strong’ in year one, now must deliver on promises in Canada",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss"
-      },
-      {
-        "title": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces raid Global Sumud Flotilla boats in international waters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss"
-      },
-      {
-        "title": "UAE quits OPEC",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss"
-      },
-      {
-        "title": "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/4/29/arsenal-cruelly-denied-penalty-by-var-in-champions-league-tie-at-atletico?traffic_source=rss"
-      },
-      {
-        "title": "New Florida map boosts Republican seats amid national redistricting fight",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/new-florida-map-boosts-republican-seats-amid-national-redistricting-fight?traffic_source=rss"
-      },
-      {
-        "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss"
-      },
-      {
-        "title": "Why is the UAE quitting OPEC – and what’s the impact?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss"
-      },
-      {
-        "title": "What’s behind Israel’s plan to move the Bnei Menashe?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
-      },
-      {
-        "title": "Musk accuses Altman of betraying OpenAI’s nonprofit founding mission",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/29/musk-accuses-altman-of-betraying-openais-nonprofit-founding-mission?traffic_source=rss"
-      },
-      {
-        "title": "Mali’s Tuareg rebels say Russian fighters must withdraw from country",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/malis-tuareg-rebels-say-russian-fighters-must-withdraw-from-country?traffic_source=rss"
-      },
-      {
-        "title": "Ex-FBI chief Comey appears in court over alleged Trump threat",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/ex-fbi-chief-comey-appears-in-court-over-alleged-trump-threat?traffic_source=rss"
-      },
-      {
-        "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss"
-      },
-      {
-        "title": "Two Jewish men stabbed in London ‘terrorist attack’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-04-30T04:45:20.646Z",
-    "discarded_untrusted": [
-      {
-        "title": "JPL Team Ignites High-Power Lithium-Fed Electric Thruster Aimed at Human Mars Flights",
-        "source": "Spacewar.com",
-        "url": "https://www.spacewar.com/reports/JPL_Team_Ignites_High_Power_Lithium_Fed_Electric_Thruster_Aimed_at_Human_Mars_Flights_999.html"
-      },
-      {
-        "title": "Bibi’s Big Lie and Why Pluto Didn’t Bark In Tehran",
-        "source": "Antiwar.com",
-        "url": "https://original.antiwar.com/david_stockman/2026/04/28/bibis-big-lie-and-why-pluto-didnt-bark-in-tehran/"
-      },
-      {
-        "title": "mRNA vaccine immunity is enhanced by hepatocyte detargeting and not dependent on dendritic cell expression",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41587-026-03099-z"
-      },
-      {
-        "title": "Cytoplasmic competition between separate parental pronuclei in zygotes",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41586-026-10417-7"
-      },
-      {
-        "title": "Scaling and self-similarity in the formation of the embryonic epigenome",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41567-026-03263-x"
-      },
-      {
-        "title": "Spatial atlas of diabetic kidney disease reveals a B cell-rich subgroup",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41586-026-10363-4"
-      },
-      {
-        "title": "Pervasive and programmed nucleosome distortion on single chromatin fibres",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41586-026-10418-6"
-      },
-      {
-        "title": "An agentic framework for autonomous scientific discovery in cancer pathology",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41591-026-04357-y"
-      },
-      {
-        "title": "NASA chief Jared Isaacman hints at campaign to make Pluto a planet again",
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/nasa-chief-jared-isaacman-hints-at-campaign-to-make-pluto-a-planet-again/"
-      },
-      {
-        "title": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/humanity-may-be-doomed-to-die-in-nuclear-war-unless-we-act-soon-physicist-david-gross-says/"
-      },
-      {
-        "title": "Coffee Break: Armed Madhouse – The U.S. Navy Adrift",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/?p=309471"
-      },
-      {
-        "title": "Japan and China Are Edging Dangerously Close to Conflict",
-        "source": "Foreign Policy",
-        "url": "http://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/"
-      },
-      {
-        "title": "Fusion energy company Commonwealth applies to join a U.S. power grid—a first",
-        "source": "Scientific American",
-        "url": "https://www.scientificamerican.com/article/fusion-energy-company-commonwealth-applies-to-join-a-u-s-power-grid-a-first/"
-      },
-      {
-        "title": "NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars",
-        "source": "NASA",
-        "url": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/"
-      },
-      {
-        "title": "(PR) Nuclear-Powered Space Combat Simulator In The Black Launches May 5",
-        "source": "Techpowerup.com",
-        "url": "https://www.techpowerup.com/348600/nuclear-powered-space-combat-simulator-in-the-black-launches-may-5"
-      },
-      {
-        "title": "The RCAR12-CAP1-OST1 module controls ABA-mediated stomatal closure in Arabidopsis",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012092"
-      },
-      {
-        "title": "MsgaBpred: A B-cell epitope predictor integrating AlphaFold3-predicted structures with multi-scale GCNs and pre-trained language model ESM-C",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014195"
-      },
-      {
-        "title": "Ulinastatin attenuates capillary leakage and suppresses FoxO1-dependent angiopoietin-2 in sepsis-associated acute lung injury via PI3K pathway",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348261"
-      },
-      {
-        "title": "Rebuilding Britain for the new world: Liz Kendall’s speech at the Royal United Services Institute",
-        "source": "Www.gov.uk",
-        "url": "https://www.gov.uk/government/speeches/rebuilding-britain-for-the-new-world-liz-kendalls-speech-at-the-royal-united-services-institute"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "Runway-to-Space Challenge brings spaceflight closer",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/tech/runway-space-challenge-brings-spaceflight-closer"
-      },
-      {
-        "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Christchurch mass killer loses bid to overturn conviction",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cg5p6zq19npo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hungary's next PM says frozen EU funds will be paid out soon",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US charges Mexican governor and other leaders with aiding drug cartel",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "New images show suspect taking selfies before Washington press dinner shooting",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Florida lawmakers approve new voting maps to favour Republicans ",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c5y9wvl0gkno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Stranded whale ferried out of German waters in barge",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyp559l06no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Madagascar detains French national over alleged plot to stir unrest",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "France urges citizens to leave Mali after rebel attacks",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "France investigates reappearance of website linked to Pelicot crimes",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0m2ndp2042o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US Supreme Court limits use of race in drawing electoral maps",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyw3p7xv4wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Global forest loss slows but El Niño fires could threaten progress",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israeli 'double-tap' strike kills three rescue workers in Lebanon, officials say",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgz5rgv4n3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Comey charged with threatening Trump's life in Instagram post",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Irish government announces further fuel supports after protests",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgzd22w5ewo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Robert Mugabe's son to be deported from South Africa over firearms offence",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/czx2lxevvljo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kim Jong Un praises troops who 'self-blasted' to avoid capture by Ukraine",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cddp7pzqdvjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Two dead after small plane crashes into Australia airport hangar",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce9pzlvyvejo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The 'Polar Bear Capital' with Arctic gateway ambitions",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Indians lost $2.5bn to digital fraud in 2025 - now its central bank is fighting back",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp3l3p7lzppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Comey's seashell post got him indicted. But experts are sceptical the government can win",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Syria trial seen as first step on long road for Assad's victims",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn5pzw4gn1no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russian paramilitaries carried out air strikes in Mali as rebels advanced, footage shows",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cvgz409r5l3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Joy as record-breaking runner Sawe returns home",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: There's a ceasefire in Lebanon - but the fighting hasn't stopped",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cpdpql7d839o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss"
-      },
-      {
-        "title": "US charges Sinaloa state governor, 9 others over Mexican drug cartel links",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss"
-      },
-      {
-        "title": "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/israel-seizes-global-sumud-flotilla-boats-1000km-away-from-gaza?traffic_source=rss"
-      },
-      {
-        "title": "Pro-government rally in Tehran demands end to US threats",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats?traffic_source=rss"
-      },
-      {
-        "title": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss"
-      },
-      {
-        "title": "Chile police blast water cannons at student protesters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/chile-police-blast-water-cannons-at-student-protesters?traffic_source=rss"
-      },
-      {
-        "title": "Carney ‘strong’ in year one, now must deliver on promises in Canada",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss"
-      },
-      {
-        "title": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss"
-      },
-      {
-        "title": "Israeli forces raid Global Sumud Flotilla boats in international waters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss"
-      },
-      {
-        "title": "UAE quits OPEC",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/uae-quits-opec?traffic_source=rss"
-      },
-      {
-        "title": "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/4/29/arsenal-cruelly-denied-penalty-by-var-in-champions-league-tie-at-atletico?traffic_source=rss"
-      },
-      {
-        "title": "New Florida map boosts Republican seats amid national redistricting fight",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/new-florida-map-boosts-republican-seats-amid-national-redistricting-fight?traffic_source=rss"
-      },
-      {
-        "title": "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/trump-putin-offered-to-help-settle-iranian-nuclear-enrichment-impasse?traffic_source=rss"
-      },
-      {
-        "title": "Why is the UAE quitting OPEC – and what’s the impact?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/4/29/why-is-the-uae-quitting-opec-and-whats-the-impact?traffic_source=rss"
-      },
-      {
-        "title": "What’s behind Israel’s plan to move the Bnei Menashe?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/whats-behind-israels-plan-to-move-the-bnei-menashe?traffic_source=rss"
-      },
-      {
-        "title": "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/ukraine-asks-israel-to-seize-ship-carrying-stolen-russian-grain?traffic_source=rss"
-      },
-      {
-        "title": "Musk accuses Altman of betraying OpenAI’s nonprofit founding mission",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/4/29/musk-accuses-altman-of-betraying-openais-nonprofit-founding-mission?traffic_source=rss"
-      },
-      {
-        "title": "Mali’s Tuareg rebels say Russian fighters must withdraw from country",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/malis-tuareg-rebels-say-russian-fighters-must-withdraw-from-country?traffic_source=rss"
-      },
-      {
-        "title": "Ex-FBI chief Comey appears in court over alleged Trump threat",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/ex-fbi-chief-comey-appears-in-court-over-alleged-trump-threat?traffic_source=rss"
-      },
-      {
-        "title": "US lawmakers question Pete Hegseth over budget for war on Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/4/29/pentagon-chief-hegseth-first-public-hearing-on-iran-war-key-takeaways?traffic_source=rss"
-      },
-      {
-        "title": "Two Jewish men stabbed in London ‘terrorist attack’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/two-jewish-men-stabbed-in-london-terrorist?traffic_source=rss"
-      },
-      {
-        "title": "Indonesian soldiers on trial after acid attack on activist",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/indonesian-soldiers-on-trial-after-acid-attack-on-activist?traffic_source=rss"
-      },
-      {
-        "title": "‘Trump’s Justice Department is on a revenge tour’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/quotable/2026/4/29/trumps-justice-department-is-on-a-revenge-tour?traffic_source=rss"
       }
     ],
     "passed_filters": [],
