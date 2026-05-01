@@ -1,5 +1,365 @@
 [
   {
+    "run_at": "2026-05-01T01:35:10.308Z",
+    "discarded_untrusted": [
+      {
+        "title": "Nuclear Test Legacies Haunt Non-Proliferation Review Conference",
+        "source": "UN News",
+        "url": "https://press.un.org/en/2026/dc3910.doc.htm"
+      },
+      {
+        "title": "USS Thresher Mystery FINALLY Solved—And It's Worse Than Anyone Imagine",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4376967/posts"
+      },
+      {
+        "title": "The fanatics hellbent on tearing the UK apart forever: Abolish prisons, ban homework and throw open borders... why many fear next week's poll could forge an unholy alliance",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15777267/The-fanatics-hellbent-tearing-UK-apart-forever-Abolish-prisons-ban-homework-throw-open-borders-fear-weeks-poll-forge-unholy-alliance.html"
+      },
+      {
+        "title": "Characterizing the metabolomes of microglia, astrocytes and neurons in ageing and Alzheimer’s brains",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41556-026-01910-2"
+      },
+      {
+        "title": "Data-driven prioritization of high-risk individuals for weight loss interventions",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41591-026-04353-2"
+      },
+      {
+        "title": "Resolving sensitivity, specificity and signal contamination in Xenium spatial transcriptomics",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41592-026-03089-8"
+      },
+      {
+        "title": "The local mechanostructural properties of protein cargoes regulate nucleocytoplasmic transport",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41567-026-03242-2"
+      },
+      {
+        "title": "Mountain Horse Solutions Wins Drone Dominance Lethality Prize Challenge",
+        "source": "Soldiersystems.net",
+        "url": "https://soldiersystems.net/2026/04/29/mountain-horse-solutions-wins-drone-dominance-lethality-prize-challenge/"
+      },
+      {
+        "title": "Skeptical Democrats confront Hegseth about Iran war for first time since conflict started",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/hegseth-will-be-grilled-by-congress-for-the-first-time-since-the-iran-war-began"
+      },
+      {
+        "title": "'The storm is here': Why you and your neighbors may be paying multibillion-dollar bill for AI data centers right now — but that may not last long as more US states join revolt against unjust 'socialist' approach to electricity bills",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/the-storm-is-here-why-you-and-your-neighbors-may-be-paying-multibillion-dollar-bill-for-ai-data-centers-right-now-but-that-may-not-last-long-as-more-us-states-join-revolt-against-unjust-socialist-approach-to-electricity-bills"
+      },
+      {
+        "title": "‘A strategic blunder’: Democrats confront Hegseth as the Iran war’s price tag hits $25 billion",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/04/29/congress-democrats-confront-pete-hegseth-iran-war-25-billion/"
+      },
+      {
+        "title": "USAF Revives AGM-183 ARRW Hypersonic Missile with $345 Million Budget Request",
+        "source": "Theaviationist.com",
+        "url": "https://theaviationist.com/2026/04/29/usaf-revives-agm-183-arrw-hypersonic-missile/"
+      },
+      {
+        "title": "Africana Philosophy",
+        "source": "Stanford.edu",
+        "url": "https://plato.stanford.edu/entries/africana/"
+      },
+      {
+        "title": "Air Cargo Demand Slid Nearly 5 Percent in Iran War’s First Month",
+        "source": "WWD",
+        "url": "http://wwd.com/sourcing-journal/logistics/air-cargo-demand-iran-war-strait-of-hormuz-freight-rates-jet-fuel-costs-oil-prices-supply-disruptions-1238933908/"
+      },
+      {
+        "title": "NASA Ignites Prototype Thruster Designed to Put Humans on Mars",
+        "source": "Hot Hardware",
+        "url": "https://hothardware.com/news/nasa-ignites-prototype-thruster-designed-to-put-humans-on-mars"
+      },
+      {
+        "title": "US pledges $100m toward restoring Chernobyl protection",
+        "source": "The Punch",
+        "url": "https://punchng.com/us-pledges-100m-toward-restoring-chernobyl-protection/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Global Market Today: US stock futures gain on tech earnings; Asian shares fall",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-us-stock-futures-gain-on-tech-earnings-asian-shares-fall/articleshow/130620680.cms"
+      },
+      {
+        "title": "WATCH: Dog owners test out new medicine hack",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/132511252/"
+      },
+      {
+        "title": "Enough with mythologies: India needs new state-sponsored AI entities to create essential strategic capability",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/enough-with-mythologies-india-needs-new-state-sponsored-ai-entities-to-create-essential-strategic-capability/articleshow/130614665.cms"
+      },
+      {
+        "title": "Democrats confront Hegseth for the first time since start of Iran war",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/us-defence-secretary-pete-hegseth-democrats-iran-war-hearing-6089966"
+      },
+      {
+        "title": "Violence in Australian town after arrest of man over girl's murder",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Venice Biennale jury resigns days before start of exhibition",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Britney Spears charged in California with driving under influence ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China scraps tariffs for all but one African nation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trainee driver crashes bus into River Seine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Belgium plans to nationalise nuclear power plants",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g05jg87wko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US House votes to end record shutdown over immigration enforcement",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man sentenced to death for murder of toddlers at Ugandan nursery",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3d2vzmgekjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The sub-Arctic town pitching itself as Canada's gateway to Europe",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indians lost $2.5bn to digital fraud in 2025 - now its central bank is fighting back",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp3l3p7lzppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three takeaways from Hegseth's clash with lawmakers over Iran war ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "In five charts - How UAE's exit could affect Opec's influence over the oil price",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is China banning drone sales in Beijing?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czd21r472nmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Joy as record-breaking runner Sawe returns home",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cglpkexdye1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The King and Queen in the Big Apple: What the royals did on their third day in the US",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Aerial video shows destruction after tornado strikes small Texas town",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgzlpzglx2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal vs Fulham: Premier League – teams, start, lineups, title race",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/arsenal-vs-fulham-premier-league-teams-start-lineups-title-race?traffic_source=rss"
+      },
+      {
+        "title": "Palestine FA chief hits out at Israel federation VP at FIFA Congress",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/palestine-fa-chief-hits-out-at-israel-federation-vp-at-fifa-congress?traffic_source=rss"
+      },
+      {
+        "title": "First US-Venezuela flight lands in Caracas after seven-year suspension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss"
+      },
+      {
+        "title": "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-gas-reaches-4-30-per-gallon-trump-says-prices-will-drop-after-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "Palestinians mourn football loving teenager killed by Israeli army",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinians-mourn-football-loving-teenager-killed-by-israeli-army?traffic_source=rss"
+      },
+      {
+        "title": "Kenya’s Sawe hailed at State House after historic marathon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/kenyas-sawe-hailed-at-state-house-after-historic-marathon?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian journalist released from Israeli prison unrecognisable",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/palestinian-journalist-released-from-israeli-prison-unrecognisable?traffic_source=rss"
+      },
+      {
+        "title": "Hegseth testifies on Iran war before Senate committee: Key takeaways",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/hegseth-testifies-on-iran-war-before-senate-committee-key-takeaways?traffic_source=rss"
+      },
+      {
+        "title": "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/flotilla-activist-israels-brutal-attack-will-not-deter-us?traffic_source=rss"
+      },
+      {
+        "title": "How is Israel replicating its Gaza tactics in Lebanon?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran can play at World Cup in US after FIFA confirmation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/trumps-says-iran-can-play-at-world-cup-in-us-after-fifa-confirmation?traffic_source=rss"
+      },
+      {
+        "title": "US-Venezuela direct flights resume after seven-year suspension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/us-venezuela-direct-flights-resume-after-seven-year-suspension?traffic_source=rss"
+      },
+      {
+        "title": "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/rsf-condemns-kidnapping-of-three-journalists-on-board-gaza-aid-flotilla?traffic_source=rss"
+      },
+      {
+        "title": "US passes law to resume DHS funding and end partial government shutdown",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-congress-passes-bill-to-resume-funding-for-dhs-and-end-partial-shutdown?traffic_source=rss"
+      },
+      {
+        "title": "Uganda court sentences man to death for killing four children at nursery",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/uganda-court-sentences-man-to-death-for-killing-four-children-at-nursery?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/trump-says-tennessee-next-to-redistrict-after-us-voting-rights-act-ruling?traffic_source=rss"
+      },
+      {
+        "title": "Mexico’s Sheinbaum questions US claims of drug ties to Sinaloa governor",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/mexico-sheinbaum?traffic_source=rss"
+      },
+      {
+        "title": "Iran will play World Cup games in US according to FIFA chief Infantino",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/4/30/iran-confirmed-to-play-at-world-cup-according-by-fifa-chief-infantino?traffic_source=rss"
+      },
+      {
+        "title": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese girl mourns paramedic father killed in Israeli strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss"
+      },
+      {
+        "title": "Myanmar’s former leader Aung San Suu Kyi moved to house arrest",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/myanmars-former-leader-aung-san-suu-kyi-moved-from-prison-to-house-arrest?traffic_source=rss"
+      },
+      {
+        "title": "UN chief calls for immediate reopening of the Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/un-chief-calls-for-immediate-reopening-of-the-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "UAE exit signals OPEC’s declining grip on oil markets",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/quotable/2026/4/30/uae-exit-signals-opecs-declining-grip-on-oil-markets?traffic_source=rss"
+      },
+      {
+        "title": "US falls to ‘historic low’ in press freedom tracker: RSF",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/4/30/us-falls-to-historic-low-in-press-freedom-tracker-rsf?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-01T01:30:13.217Z",
     "discarded_untrusted": [
       {
