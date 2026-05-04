@@ -1,5 +1,430 @@
 [
   {
+    "run_at": "2026-05-04T15:10:14.099Z",
+    "discarded_untrusted": [
+      {
+        "title": "Opinion - Fresh off the heights of Artemis II, Trump wants a lower NASA budget",
+        "source": "The Hill",
+        "url": "https://thehill.com/opinion/technology/5859869-trump-administration-cuts-nasa-budget/"
+      },
+      {
+        "title": "US is oil supplier of last resort as Hormuz disruptions worsen",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/us-oil-supplier-last-resort-133000501.html"
+      },
+      {
+        "title": "Royal Navy chief backs drones, autonomous weapons in ‘Hybrid Navy’",
+        "source": "Theregister.com",
+        "url": "https://www.theregister.com/2026/05/03/future_royal_navy_drones_high_tech/"
+      },
+      {
+        "title": "Global Geopolitics Reshaping After the Iran War (Interactive Map)",
+        "source": "Blogspot.com",
+        "url": "https://i-epikaira.blogspot.com/2026/05/global-geopolitics-reshaping-after-iran.html"
+      },
+      {
+        "title": "Iran juggles oil cuts and storage strain to resist U.S. blockade",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/02/iran-oil-production-cuts-crude-storage-limits-tank-tops-us-naval-blockade-hormuz/"
+      },
+      {
+        "title": "Why Russia's Northern Sea Route is a risky bet for global trade",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/why-russias-northern-sea-route-is-a-risky-bet-for-global-trade/a-76987400"
+      },
+      {
+        "title": "Why Russia’s Northern Sea Route remains a risky bet for global shipping",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/why-russias-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400"
+      },
+      {
+        "title": "Why Russia's Northern Sea Route, the shortest maritime route between Asia and Europe, is a risk for global trade — and the environment",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/why-russias-northern-sea-route-the-shortest-maritime-route-between-asia-and-europe-is-a-risk-for-global-trade-and-the-environment/a-76987400"
+      },
+      {
+        "title": "Why Russia's Northern Sea Route, the shortest maritime route between Asia and Europe, is a risk for global trade — and the environment",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/why-russias-northern-sea-route-is-a-risk-for-global-trade/a-76987400"
+      },
+      {
+        "title": "Solar doesn’t need subsidies any longer",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/05/solar-doesnt-need-subsidies-any-longer/"
+      },
+      {
+        "title": "Welcome to Hell Developer",
+        "source": "Noahclements.com",
+        "url": "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/"
+      },
+      {
+        "title": "The Next-Generation Of Nuclear Power Is About To Take A Big Step Forward",
+        "source": "BGR",
+        "url": "https://www.bgr.com/2162387/first-non-nuclear-lead-cooled-reactor-newcleo-precursor-installation/"
+      },
+      {
+        "title": "5 Mountains That Are Totally Off-Limits (And Why)",
+        "source": "Mental Floss",
+        "url": "https://www.mentalfloss.com/geography/mountains-you-cant-climb"
+      },
+      {
+        "title": "Narrative Control",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/narrative-control/"
+      },
+      {
+        "title": "Beijing's Trojan Horse: The NGO Network Quietly Strangling American Data Centers & Ai",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4377363/posts"
+      },
+      {
+        "title": "I tested the MSI Cyborg 14 gaming laptop by carrying it for 105 miles through the mountains of Wales",
+        "source": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/i-tested-the-msi-cyborg-14-gaming-laptop-by-carrying-it-for-105-miles-through-the-mountains-of-wales"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "NEET-UG Ranchi: Prohibitory Orders, Security Deployed for 10,000 Candidates at 21 Exam Centres",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/ranchi/neet-ug-ranchi-prohibitory-orders-security-deployed-for-10000-candidates-at-21-exam-centres/articleshow/130722974.cms"
+      },
+      {
+        "title": "Jharkhand Governor Orders JPSC Probe Amid Exam Irregularities",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-governor-orders-jpsc-probe-amid-exam-irregularities/articleshow/130722926.cms"
+      },
+      {
+        "title": "Iran juggles oil cuts and storage strain to resist US blockade",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-juggles-oil-cuts-and-storage-strain-to-resist-us-blockade/articleshow/130717259.cms"
+      },
+      {
+        "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "European leaders converge on Armenia as Russia looks on",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Antisemitism 'allowed to come into the open' says Bondi victim's daughter",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "North Korean side to make rare trip to South Korea",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/cx216122kv1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New alliances shakes up Nigerian political landscape",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police officer lowered into crocodile-infested river to recover human remains",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Amsterdam bans public adverts for meat and fossil fuels",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two US service members reported missing in Morocco, officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man charged with murder of 5-year-old Australian girl",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria plans to repatriate nationals willing to leave South Africa after attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court asked to restore abortion pill access",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who shot a Secret Service officer at the Trump press dinner?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC uncovers the scammers exploiting dogs to elicit donations from animal lovers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g9l74wvd7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Met Gala 2026: How to watch, the price of tickets and this year's theme",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdrm7gp5er3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kenya battles to stop the 'goons and guns' as fears of political violence grow",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9qdz0p0x5qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Voters will judge Trump on the economy - how is it doing?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Laufey on making jazz cool again (and the fish that brought out her inner rage)",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The world wants to eliminate cervical cancer - how Australian scientists led the way",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'This tree was planted by my ancestor hundreds of years ago and my family settled here'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9pz3grkjeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands of 'lost Canadians' have applied for dual citizenship - is Canada ready?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8pmnlejgro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge crowd attends free Shakira Copacabana beach concert",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How we reported in -30C temperatures in Canada's Arctic",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgz3pnn1ppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New CCTV footage appears to shows when shots were fired at Washington press dinner",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy02lz849kdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is China banning drone sales in Beijing?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czd21r472nmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India loses its last left-wing government after five decades",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/india-loses-its-last-left-wing-government-after-five-decades?traffic_source=rss"
+      },
+      {
+        "title": "Armenia hosts major EU summits in pivot away from Russia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/armenia-hosts-major-eu-summits-in-pivot-away-from-russia?traffic_source=rss"
+      },
+      {
+        "title": "Modi’s party poised for big wins in Indian state elections",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/modis-party-poised-for-big-wins-in-indian-state-elections?traffic_source=rss"
+      },
+      {
+        "title": "Formula One plans return to V8 engines as electrical revolution loses spark",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/4/formula-one-plans-return-to-v8-engines-as-electrical-revolution-loses-spark?traffic_source=rss"
+      },
+      {
+        "title": "Five people killed in Russian missile attack on Ukraine’s Kharkiv region",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/five-people-killed-in-russian-missile-attack-on-ukraines-kharkiv-region?traffic_source=rss"
+      },
+      {
+        "title": "Which Premier League teams can still qualify for the Champions League?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/4/which-premier-league-teams-can-still-qualify-for-the-champions-league?traffic_source=rss"
+      },
+      {
+        "title": "What is hantavirus, suspected in deaths of three people on cruise ship?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/what-is-hantavirus-suspected-in-deaths-of-three-people-on-cruise-ship?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal vs Atletico Madrid: Champions League – team news, start and lineups",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/4/arsenal-vs-atletico-madrid-champions-league-preview-team-news-start-lineups?traffic_source=rss"
+      },
+      {
+        "title": "War preparations under way in Iran as Hormuz tensions with US escalate",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s ‘Project Freedom’: Can US navy ‘guide’ stuck ships out of Hormuz?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/trumps-project-freedom-can-us-navy-guide-stuck-ships-out-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "‘Hegemonic power’: How Modi’s BJP won India’s Bengal for the first time",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/4/hegemonic-power-how-modis-bjp-won-indias-bengal-for-the-first-time?traffic_source=rss"
+      },
+      {
+        "title": "Car show turns to tragedy as monster truck drives into crowd in Colombia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/car-show-turns-to-tragedy-as-monster-truck-drives-into-crowd-in-colombia?traffic_source=rss"
+      },
+      {
+        "title": "‘Israel is not implementing the ceasefire agreement in Gaza’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/israel-is-not-implementing-the-ceasefire-agreement-in?traffic_source=rss"
+      },
+      {
+        "title": "Tennis stars Sinner, Sabalenka and Gauff criticise Roland Garros prize money",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/4/tennis-stars-sinner-sabalenka-and-gauff-criticise-roland-garros-prize-money?traffic_source=rss"
+      },
+      {
+        "title": "What is the Ukrainian anti-drone system Sky Map being used in the Gulf?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/what-is-the-ukrainian-anti-drone-system-sky-map-being-used-in-the-gulf?traffic_source=rss"
+      },
+      {
+        "title": "Winning peace in Lebanon is harder than winning war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss"
+      },
+      {
+        "title": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-says-it-fired-missiles-at-us-warship-to-prevent-it-entering-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/nato-chief-says-europeans-have-gotten-the-message-from-trump-on-defence?traffic_source=rss"
+      },
+      {
+        "title": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/i-cant-feel-my-leg-israeli-gunfire-disables-teenagers-in-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
+      },
+      {
+        "title": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss"
+      },
+      {
+        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss"
+      },
+      {
+        "title": "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/seized-iranian-ships-crew-repatriated-to-pakistan-says-foreign-ministry?traffic_source=rss"
+      },
+      {
+        "title": "Former NYC Mayor Giuliani hospitalised in ‘critical condition’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss"
+      },
+      {
+        "title": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-04T15:05:17.512Z",
     "discarded_untrusted": [
       {
