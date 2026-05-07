@@ -1,5 +1,450 @@
 [
   {
+    "run_at": "2026-05-07T00:55:09.688Z",
+    "discarded_untrusted": [
+      {
+        "title": "Synthesis of aryl-fused bicyclo[3.1.1]heptanes and validation as naphthyl bioisosteres",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41557-026-02129-2"
+      },
+      {
+        "title": "Extreme galaxy-scale outflows are frequent among luminous early quasars",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41586-026-10477-9"
+      },
+      {
+        "title": "'What The….?': Trump Gathered Children in the Oval Office for a Fitness Award — Then Told Them They’d All Be Wiped Out Right Now If It Weren’t for Him",
+        "source": "Atlanta Black Star",
+        "url": "https://atlantablackstar.com/2026/05/05/trump-gathered-children-in-the-oval-office-for-a-fitness-award-then-told-them-theyd-all-be-wiped-out-right-now-if-it-werent-for-him/"
+      },
+      {
+        "title": "Democrats want Trump to lift lid on Israeli nukes",
+        "source": "RT",
+        "url": "https://www.rt.com/news/639499-democrats-trump-israeli-nukes/"
+      },
+      {
+        "title": "Trump Puts On Disgusting Display While Hosting KIDS At The White House",
+        "source": "Crooksandliars.com",
+        "url": "https://crooksandliars.com/2026/05/trumps-disgusting-display-while-hosting"
+      },
+      {
+        "title": "Trump Slammed Over 'Completely Irresponsible' Gun Discussion In Front Of Children",
+        "source": "HuffPost",
+        "url": "https://www.huffpost.com/entry/trump-iran-guns-kids-children-presidential-fitness-test_n_69fa2f29e4b002c4c49fea6c"
+      },
+      {
+        "title": "Samsung showcases massive floating data center ship model that could house OpenAI's future ChatGPT as its Dallas-based partner claims 'speed to power is the new moat' and promises 1.5 GW of capacity within 36 months",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/pro/samsung-showcases-massive-floating-data-center-ship-model-that-could-house-openais-future-chatgpt-as-its-dallas-based-partner-claims-speed-to-power-is-the-new-moat-and-promises-1-5-gw-of-capacity-within-36-months"
+      },
+      {
+        "title": "A Theory of Deep Learning",
+        "source": "Elonlit.com",
+        "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/"
+      },
+      {
+        "title": "Trump Rants About Iran War and Trans Athletes to Children in Oval Office",
+        "source": "Rolling Stone",
+        "url": "http://www.rollingstone.com/politics/politics-news/trump-rants-children-iran-war-trans-athletes-1235558037/"
+      },
+      {
+        "title": "Trump, 79, Falls Asleep After Bragging to Kids About Iran War Plans",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/209963/trump-falls-asleep-white-house-kids-iran-war-plans"
+      },
+      {
+        "title": "Latest test confirms Donald Trump’s dementia still technically sub-clinical",
+        "source": "Lawyersgunsmoneyblog.com",
+        "url": "https://www.lawyersgunsmoneyblog.com/2026/05/latest-test-confirms-donald-trumps-dementia-still-technically-sub-clinical"
+      },
+      {
+        "title": "Observers taken aback by 'insane' Trump event with kids: 'Is RFK checking his cell phone?'",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/donald-trump-children-2676853308/"
+      },
+      {
+        "title": "Trump pitches war to child: 'You might be too young for this'",
+        "source": "Raw Story",
+        "url": "https://www.rawstory.com/trump-2676853375/"
+      },
+      {
+        "title": "North Korea’s Strongwoman-in-Waiting",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/05/05/north-korea-kim-jong-un-succession-daughter-ju-ae-maternal-statecraft/"
+      },
+      {
+        "title": "Testosterone reduces uterine contractions in vivo: Evidence for non-genomic action in rats",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348344"
+      },
+      {
+        "title": "Cryptococcus neoformans adapts to host CO2 concentrations via metabolic and stress-response remodeling",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003561"
+      },
+      {
+        "title": "Synthetic data enables human-grade microtubule analysis with foundation models for segmentation",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013901"
+      },
+      {
+        "title": "An orthoflavivirus inhibitor targeting multifunctional NS2A protein, a previously unidentified target",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014190"
+      },
+      {
+        "title": "Plasma small-extracellular vesicles’ proteomic signature in neoadjuvant chemotherapy–naïve breast cancer patients",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348500"
+      },
+      {
+        "title": "CCTE Successfully Concludes Thorium Fuel Irradiation, Surpasses 60GWd/MTU Burnup in INL Reactor",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/ccte-successfully-concludes-thorium-fuel-irradiation-surpasses-60gwd-mtu-burnup-in-inl-reactor"
+      },
+      {
+        "title": "Can a peace deal be agreed between Iran and US?",
+        "source": "theweek",
+        "url": "https://theweek.com/politics/trump-peace-deal--iran-the-us-hormuz"
+      },
+      {
+        "title": "US and Iran closing in on memo to end war, sources say",
+        "source": "detroitnews",
+        "url": "https://www.detroitnews.com/story/news/world/2026/05/06/us-iran-closing-in-on-memo-end-war-sources-say/89958902007/"
+      },
+      {
+        "title": "The Latest: US military fires on Iranian-flagged oil tanker as Trump presses for deal to end war",
+        "source": "newsday",
+        "url": "https://www.newsday.com/news/nation/trump-iran-deal-elections-epstein-o06661"
+      },
+      {
+        "title": "In today’s Democratic Party, calling Israel a genocidal pariah is a vote winner",
+        "source": "thejc",
+        "url": "https://www.thejc.com/opinion/in-todays-democratic-party-calling-israel-a-genocidal-pariah-is-a-vote-winner-ahlkkrbc"
+      },
+      {
+        "title": "Fire Point fiasco: Did Zelenskys cronies scam the Europeans",
+        "source": "russiaherald",
+        "url": "http://russiaherald.com/news/279033842/fire-point-fiasco-did-zelenskys-cronies-scam-the-europeans"
+      },
+      {
+        "title": "Fire Point fiasco: Did Zelenskys cronies scam the Europeans",
+        "source": "theuknews",
+        "url": "http://theuknews.com/news/279033842/fire-point-fiasco-did-zelenskys-cronies-scam-the-europeans"
+      },
+      {
+        "title": "Fire Point fiasco: Did Zelensky’s cronies scam the Europeans?",
+        "source": "rt",
+        "url": "https://www.rt.com/russia/639472-fire-point-zelensky-scam/"
+      },
+      {
+        "title": "Pope Leo rejects Trump’s suggestion he supports Iran’s nuclear ambitions",
+        "source": "naijaonpoint_ng",
+        "url": "https://naijaonpoint.com.ng/pope-leo-rejects-trumps-suggestion-he-supports-irans-nuclear-ambitions/"
+      },
+      {
+        "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
+        "source": "darkreading",
+        "url": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber"
+      },
+      {
+        "title": "Donald Trump vows to bomb Iran 'at much higher intensity' if no deal agreed",
+        "source": "mirroruk",
+        "url": "https://www.mirror.co.uk/news/us-news/donald-trump-iran-deal-bombing-37117973"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Iran considering US proposal to end war, official says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's hopes for an Iran peace deal come with caveats",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hantavirus-hit cruise ship leaves Cape Verde after three evacuated",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "German tourist wins payout after losing sun lounger race",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Massive Alaska megatsunami was second largest ever recorded",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Orphaned baby hippo to be hand-reared by keepers at Kenya sanctuary",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "German police raid neo-Nazi criminal youth groups",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia ignores Ukraine's unilateral ceasefire and attacks kindergarten",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I had to stick to the plan': Officer describes retrieving crocodile with human remains inside",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8pqz63808o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "IS families in Syria have booked tickets home to Australia, minister says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Romanian PM ousted in no-confidence vote",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgkpjz2638ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gas tax: How beer fuelled a debate on Australia's energy giants",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy02pzxd4y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India's fiercest female politician faces a fight for survival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202p14qwr5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Passengers evacuated from virus-hit cruise ship off Cape Verde",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgpyn2plx1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Do viruses spread more easily on cruise ships?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cdxpn5r2nlgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Moment Indonesian river overflows from heavy rain",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgpyel2n0eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police arrest protester after five-days atop Washington bridge",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/police-arrest-protester-after-five-days-atop-washington-bridge?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump says deal with Tehran ‘possible’; Israel bombs Beirut",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/7/iran-war-live-trump-says-deal-with-tehran-possible-israel-bombs-beirut?traffic_source=rss"
+      },
+      {
+        "title": "What are China’s surprise gains in the war on Iran?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/what-are-chinas-surprise-gains-in-the-war-on-iran?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes kill five Palestinians across Gaza in one day",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israeli-strikes-kill-five-palestinians-across-gaza-in-one-day?traffic_source=rss"
+      },
+      {
+        "title": "Argentina investigates link to deadly hantavirus outbreak on cruise ship",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/argentina-investigates-link-to-deadly-hantavirus-outbreak-on-cruise-ship?traffic_source=rss"
+      },
+      {
+        "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability?traffic_source=rss"
+      },
+      {
+        "title": "Russia tells diplomats to leave Kyiv in case Moscow launches mass strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/russia-tells-diplomats-to-leave-kyiv-in-case-moscow-launches-mass-strikes?traffic_source=rss"
+      },
+      {
+        "title": "SpaceX backs Anthropic with data centre deal amidst Musk’s OpenAI lawsuit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/6/spacex-backs-anthropic-with-data-centre-deal-amidst-musks-openai-lawsuit?traffic_source=rss"
+      },
+      {
+        "title": "Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss"
+      },
+      {
+        "title": "Holders PSG beat Bayern Munich to reach Champions League final with Arsenal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/6/holders-psg-beat-bayern-munich-to-reach-champions-league-final-with-arsenal?traffic_source=rss"
+      },
+      {
+        "title": "What’s behind the secessionist movement in the Canadian province Alberta?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta?traffic_source=rss"
+      },
+      {
+        "title": "Israel bombs Beirut’s southern suburbs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/israel-bombs-beiruts-southern-suburbs-2?traffic_source=rss"
+      },
+      {
+        "title": "Russia cuts mobile internet in Moscow citing drone security concerns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russia-cuts-mobile-internet-in-moscow-citing-drone-security-concerns?traffic_source=rss"
+      },
+      {
+        "title": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss"
+      },
+      {
+        "title": "Infected passengers evacuated from hantavirus cruise ship",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/infected-passengers-evacuated-from-hantavirus-cruise-ship?traffic_source=rss"
+      },
+      {
+        "title": "What does the BJP’s victory in West Bengal mean for India’s democracy?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/6/what-does-the-bjps-victory-in-west-bengal-mean-for-indias-democracy?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss"
+      },
+      {
+        "title": "Indiana, Ohio primaries draw midterm battle lines, reinforce Trump’s pull",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/indiana-ohio-primaries-draw-midterm-battle-lines-reinforce-trumps-pull?traffic_source=rss"
+      },
+      {
+        "title": "Why are Pentagon officials talking about Iran’s ‘deadly dolphins’?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/why-are-pentagon-officials-talking-about-irans-deadly?traffic_source=rss"
+      },
+      {
+        "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard?traffic_source=rss"
+      },
+      {
+        "title": "Iran ‘has attained an elevated international standing’ says FM",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iran-has-attained-an-elevated-international-standing-says-fm?traffic_source=rss"
+      },
+      {
+        "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss"
+      },
+      {
+        "title": "UN demands Israel immediately releases flotilla activists",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
+      },
+      {
+        "title": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
+      },
+      {
+        "title": "The anti-Semitism smear that ruined Corbyn’s Labour now targets the Greens",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/6/the-anti-semitism-smear-that-ruined-corbyns-labour-now-targets-the-greens?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-07T00:50:16.796Z",
     "discarded_untrusted": [
       {
