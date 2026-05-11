@@ -1,5 +1,360 @@
 [
   {
+    "run_at": "2026-05-11T05:40:13.291Z",
+    "discarded_untrusted": [
+      {
+        "title": "1994 World Cup",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/1994-world-cup-83194472"
+      },
+      {
+        "title": "'Blow Them Up': Donald Trump Issues Explosive Warning Over Iran's Uranium",
+        "source": "ibtimes",
+        "url": "https://www.ibtimes.co.uk/trump-threatens-iran-uranium-1796040"
+      },
+      {
+        "title": "Trump says US will not allow Iran to reach enriched uranium",
+        "source": "yahoo",
+        "url": "https://ca.news.yahoo.com/trump-says-us-not-allow-172218917.html"
+      },
+      {
+        "title": "Trump says US will not allow Iran to reach enriched uranium",
+        "source": "aljazeera_us",
+        "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium"
+      },
+      {
+        "title": "Culver City’s Wende Museum of the Cold War announces major expansion in Hawthorne",
+        "source": "newspub_live",
+        "url": "https://newspub.live/entertainment/culver-citys-wende-museum-of-the-cold-war-announces-major-expansion-in-hawthorne/"
+      },
+      {
+        "title": "DAVID MARCUS: New York Times announces the end of the climate change hoax",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/david-marcus-new-york-times-announces-the-end-of-the-83193083"
+      },
+      {
+        "title": "DAVID MARCUS: New York Times announces the end of the climate change hoax",
+        "source": "foxnews",
+        "url": "https://www.foxnews.com/opinion/david-marcus-new-york-times-announces-end-climate-change-hoax"
+      },
+      {
+        "title": "Trump: ‘We an go back to bombing Iran at any moment’",
+        "source": "worldisraelnews",
+        "url": "https://worldisraelnews.com/trump-we-an-go-back-to-bombing-iran-at-any-moment/"
+      },
+      {
+        "title": "Mothers for peace",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/mothers-for-peace-83191015"
+      },
+      {
+        "title": "Plane strikes pedestrian",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/plane-strikes-pedestrian-83191011"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French national shows symptoms on return from hantavirus-hit ship",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ailing Iran Nobel laureate given bail and hospital transfer",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dua Lipa sues Samsung for $15m over use of her image on TV boxes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9pvp210zdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia's right-wing One Nation party scores historic parliamentary win ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dress made from 500 loaves stuns African film awards",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0d3d5zn4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Suspected boat explosion injures 11 in Miami",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanon says Israeli strikes killed 39 ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Eurovision's fallout over Israel may change the competition forever",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99l17m2ep9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Another year, another controversy for Eurovision - but fans are sticking by it",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How could extreme weather affect World Cup 2026?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian model's understated Met Gala debut revives debate on cultural representation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cre13zeql51o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Return of IS-linked families sparks debate in terror-traumatised Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Move over matcha. Hojicha is coming to a cafe near you",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8pmrv2p1mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC speaks with civilians inside Iran struggling with impact of war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Return of Palestine Marathon attracts thousands of runners",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cm2p4n000pko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge plumes of ash rise as Indonesia's Mount Dukono erupts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c5y7gmmp8pdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marco Rubio meets Pope Leo amid tensions with Trump over Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cq8py99p2jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Crowds cheer China's new snooker star on return from championship win",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How operation to disembark passengers on virus-hit cruise will work",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx218zp9897o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Who is Kumanjayi Little Baby and why has her death caused outrage in Australia?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czr2n44pknxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump calls Iran response “totally unacceptable”",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss"
+      },
+      {
+        "title": "Risks and rewards in France-Kenya partnership",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/11/risks-and-rewards-in-france-kenya-partnership?traffic_source=rss"
+      },
+      {
+        "title": "Russia and Ukraine accuse the other of ceasefire violations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/russia-and-ukraine-accuse-the-other-of-ceasefire-violations?traffic_source=rss"
+      },
+      {
+        "title": "Thailand’s Thaksin Shinawatra released from prison",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/11/thailands-thaksin-shinawatra-released-from-prison?traffic_source=rss"
+      },
+      {
+        "title": "Gaza documentary dropped by the BBC wins BAFTA",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/gaza-documentary-dropped-by-the-bbc-wins-bafta?traffic_source=rss"
+      },
+      {
+        "title": "What next for Real Madrid after Barcelona’s La Liga and Clasico triumph?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/11/what-next-for-real-madrid-after-barcelonas-la-liga-and-clasico-triumph?traffic_source=rss"
+      },
+      {
+        "title": "Somalis rally against government-ordered evictions in Mogadishu",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/somalis-rally-against-government-ordered-evictions-in-mogadishu?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/10/barcelona-beat-real-madrid-2-0-in-el-clasico-to-retain-la-liga-title?traffic_source=rss"
+      },
+      {
+        "title": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss"
+      },
+      {
+        "title": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss"
+      },
+      {
+        "title": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/us-jewish-leader-israel-advocate-abe-foxman-dies-at-86?traffic_source=rss"
+      },
+      {
+        "title": "Indian film star Vijay becomes chief minister of Tamil Nadu",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/indian-film-star-vijay-becomes-chief-minister-of-tamil-nadu-2?traffic_source=rss"
+      },
+      {
+        "title": "South Korea says ship was struck by ‘unidentified flying objects’ in Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/south-korea-says-ship-was-struck-by-unidentified-flying-objects-in-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Trossard scores late as Arsenal beats West Ham, moves closer to title",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/10/trossard-scores-late-as-arsenal-beats-west-ham-moves-closer-to-title?traffic_source=rss"
+      },
+      {
+        "title": "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss"
+      },
+      {
+        "title": "Medics among 51 killed in Israeli attacks on Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss"
+      },
+      {
+        "title": "Iran may ‘give assurances on the use of nuclear facilities’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-may-give-assurances-on-the-use-of-nuclear?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US will not allow Iran to reach enriched uranium",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss"
+      },
+      {
+        "title": "Food inflation hammers households in war-hit Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss"
+      },
+      {
+        "title": "Barcelona vs Real Madrid 2-0: El Clasico La Liga – as it happened",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/5/10/live-barcelona-vs-real-madrid-el-clasico-la-liga?traffic_source=rss"
+      },
+      {
+        "title": "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/russia-kills-three-ukrainians-in-24-hours-accuses-kyiv-of-violating-truce?traffic_source=rss"
+      },
+      {
+        "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss"
+      },
+      {
+        "title": "With food benefit cuts looming in the US, Californians eye billionaire tax",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/10/with-food-benefit-cuts-looming-in-the-us-californians-eye-billionaire?traffic_source=rss"
+      },
+      {
+        "title": "Iran sends response to US ceasefire proposal via Pakistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-11T05:35:12.596Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
