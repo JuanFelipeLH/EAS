@@ -1,5 +1,404 @@
 [
   {
+    "run_at": "2026-05-14T20:45:13.197Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Floating armoury' ship reportedly seized by Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Giant new dinosaur identified from fossils in Thailand",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cuba tells US to lift blockade instead of offering aid as energy crisis worsens",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Latvian PM resigns after row over stray Ukrainian drones",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We didn't die': Pilot recounts crash landing in Atlantic with 10 aboard",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "War criminal Ratko Mladić's jail release request denied",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Passengers allowed to leave norovirus-hit cruise ship ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What to know as Trump visits Xi in China",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Climbers clear path to Everest summit past giant chunk of ice",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigerian film star Alexx Ekubo dies from cancer aged 40",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c74d1j2ew0yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What happened on day one of Trump's China visit?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "In pictures: Trump hosted by Xi Jinping in Beijing on two-day summit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdxp0g4q3q2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A decade on, Trump returns to a stronger and more assertive China",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gaza sisters win prize for turning rubble into reusable bricks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "I led hikers up an Indonesian volcano - and then it erupted",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz623qjqjd6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why welfare isn't winning elections in India like it used to",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's China visit set to test fragile truce",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Eurovision's fallout over Israel may change the competition forever",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgkpgm6vk48o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How hotels are stopping the 'dawn dash' for sunbeds after man wins payout",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99l17m2ep9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Canada is seeing its biggest military recruitment surge in 30 years",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Another year, another controversy for Eurovision - but fans are sticking by it",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqxp4959nwro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How could extreme weather affect World Cup 2026?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian model's understated Met Gala debut revives debate on cultural representation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cre13zeql51o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Return of IS-linked families sparks debate in terror-traumatised Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Warning of record global temperatures",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Kabul rehab centre hit by deadly Pakistani strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC speaks with civilians inside Iran struggling with impact of war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c2429dq0j4mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rosenberg: Scaled-back Victory Parade in Moscow's Red Square",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgp541p5ndo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Palestinian President Abbas pledges elections, reform at Fatah conference",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss"
+      },
+      {
+        "title": "Mbappe and Dembele head up star-studded France World Cup squad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/mbappe-and-dembele-head-up-star-studded-france-world-cup-squad?traffic_source=rss"
+      },
+      {
+        "title": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss"
+      },
+      {
+        "title": "US Air Force rescues 11 after plane crashes into waters off Florida coast",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss"
+      },
+      {
+        "title": "What does the US hope to achieve from Lebanon-Israel talks?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss"
+      },
+      {
+        "title": "Iran expands tiered internet access amid continued online blackout",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss"
+      },
+      {
+        "title": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss"
+      },
+      {
+        "title": "FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss"
+      },
+      {
+        "title": "Jerome Powell: Steering the US Fed through COVID-19 and political pressures",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration pledges $1.8bn in additional humanitarian aid to UN",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/trump-administration-pledges-1-8bn-in-additional-humanitarian-aid-to-un?traffic_source=rss"
+      },
+      {
+        "title": "Acute hunger grips nearly 20 million people in war-battered Sudan, says IPC",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss"
+      },
+      {
+        "title": "Cuba plunged deeper into fuel crisis amid 22-hour blackouts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/cuba-plunged-deeper-into-fuel-crisis-amid-22-hour-blackouts?traffic_source=rss"
+      },
+      {
+        "title": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss"
+      },
+      {
+        "title": "The Palestinian game fighting to exist",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/the-palestinian-game-fighting-to-exist?traffic_source=rss"
+      },
+      {
+        "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss"
+      },
+      {
+        "title": "Iraq’s parliament approves new Ali al-Zaidi government",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss"
+      },
+      {
+        "title": "‘Absolutely no fuel’: Cuba hit by blackouts, protests amid power outages",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/absolutely-no-fuel-cuba-hit-by-blackouts-protests-amid-power-outages?traffic_source=rss"
+      },
+      {
+        "title": "Yemen gov’t, Houthis to release more than 1,600 POWs in ‘largest’ swap",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/yemen-govt-houthis-to-release-more-than-1600-pows-in-largest-swap?traffic_source=rss"
+      },
+      {
+        "title": "Lamine Yamal divides opinion with Palestinian flag gesture",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/lamine-yamal-divides-opinion-with-palestinian-flag-gesture?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Netanyahu says suing New York Times over Palestinian rape article",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/14/israels-netanyahu-says-suing-new-york-times-over-palestinian-rape-article?traffic_source=rss"
+      },
+      {
+        "title": "Latvian PM resigns over handling of stray Ukrainian drones",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/latvian-pm-resigns-over-handling-of-stray-ukrainian-drones?traffic_source=rss"
+      },
+      {
+        "title": "No Exit From El Fasher",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/fault-lines/2026/5/14/no-exit-from-el-fasher?traffic_source=rss"
+      },
+      {
+        "title": "‘The world is sounding an alarm’: Why big tech is the new colonist",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/14/the-world-is-sounding-an-alarm-why-big-tech-is-the-new-colonist?traffic_source=rss"
+      },
+      {
+        "title": "What to expect from the 48-team format at the World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-world-cup-2026-what-to-expect-from-the-48-team-format?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-14T20:40:19.786Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
