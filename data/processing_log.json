@@ -1,5 +1,385 @@
 [
   {
+    "run_at": "2026-05-16T11:24:20.091Z",
+    "discarded_untrusted": [
+      {
+        "title": "Trump Secures Clear Edge Over Xi in Beijing Summit with Major Trade and Energy Wins",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-china-summit-economic-wins-1868893"
+      },
+      {
+        "title": "Global shares drop as bond yields jump on inflation worries",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html"
+      },
+      {
+        "title": "The U.S. has 1,200 AI bills and no good test for any of them",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/"
+      },
+      {
+        "title": "India Is Building The Electric Economy Without The Fossil Detour",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/we-dont-have-time/2026/05/15/india-is-building-the-electric-economy-without-the-fossil-detour/"
+      },
+      {
+        "title": "A long-read human pangenome initiative for comprehensive interpretation of nuclear-embedded mitochondrial DNA",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41467-026-71348-5"
+      },
+      {
+        "title": "Population-scale genomic medicine with the Hong Kong Genome Project",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41591-026-04410-w"
+      },
+      {
+        "title": "How the Hormuz Crisis Is Threatening Taiwan’s Power Grid",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Natural-Gas/How-the-Hormuz-Crisis-Is-Threatening-Taiwans-Power-Grid.html"
+      },
+      {
+        "title": "AMG Critical Materials N.V. Announces Strategic Acquisition of Zinnwald Lithium Adding Optionality in Critical Materials in the Heart of Europe",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/14/3295233/0/en/AMG-Critical-Materials-N-V-Announces-Strategic-Acquisition-of-Zinnwald-Lithium-Adding-Optionality-in-Critical-Materials-in-the-Heart-of-Europe.html"
+      },
+      {
+        "title": "Can helium-3 create a ‘gold rush’ on the moon?",
+        "source": "Scientific American",
+        "url": "https://www.scientificamerican.com/article/can-helium-3-create-a-gold-rush-on-the-moon/"
+      },
+      {
+        "title": "Terrestrial Energy Q1 Earnings Call Highlights",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/instant-alerts/terrestrial-energy-q1-earnings-call-highlights-2026-05-14/?utm_source=yahoofinance&amp;utm_medium=yahoofinance"
+      },
+      {
+        "title": "The Hypersonic Test Bottleneck Is Real — And Five Companies Are Building the Infrastructure to Fix It",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/the-hypersonic-test-bottleneck-is-real-and-five-companies-are-building-the-infrastructure-to-fix-it"
+      },
+      {
+        "title": "The Hypersonic Test Bottleneck Is Real — And Five Companies Are Building the Infrastructure to Fix It",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/05/14/3295155/0/en/The-Hypersonic-Test-Bottleneck-Is-Real-And-Five-Companies-Are-Building-the-Infrastructure-to-Fix-It.html"
+      },
+      {
+        "title": "[¹⁸F]PSMA-1007 PET/CT in biochemical recurrence after radical prostatectomy: A single-center experience of detection rate and lesion distribution",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349397"
+      },
+      {
+        "title": "Identification of CAND1 as a DNA-dependent protein kinase-regulated coactivator of androgen receptor and the ARv7 splice variant",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349130"
+      },
+      {
+        "title": "Uncovering core stemness biomarkers in HBV-HCC through integrated multi-omics",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349171"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump wraps visit with Xi Jinping and CIA director meets with Cuban officials: Morning Rundown",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/trump-xi-jinping-cia-director-cuba-morning-rundown-rcna345264"
+      },
+      {
+        "title": "Can the US and China avoid ‘Thucydides’ Trap’? Harvard scholar who popularised term weighs in",
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/trump-xi-summit-thucydides-trap-usa-china-graham-allison-6123436"
+      },
+      {
+        "title": "Fetterman defends Erika Kirk's emotional response to WHCA Dinner shooting: 'What’s wrong with people?’",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/fetterman-defends-erika-kirks-emotional-response-whca-dinner-shooting-whats-wrong-people"
+      },
+      {
+        "title": "Pakistan is shaping up an idea that can worry India",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/islamic-nato-pakistan-saudi-pact-qatar-turkey-muslim-military-alliance-gulf-security-india-risks-middle-east-bloc-2026/articleshow/131097893.cms"
+      },
+      {
+        "title": "China’s Iran ties complicate Trump-Xi summit as tensions test US leverage",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/chinas-iran-ties-complicate-trump-xi-summit-tensions-test-us-leverage"
+      },
+      {
+        "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man killed by 13ft great white shark in Western Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Palestinian leaders hold rare party meeting as polls show rising discontent",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hamas confirms top commander killed in Israeli air strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five Italians die during cave scuba dive in Maldives",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New York Times defends journalist after Israel threatens to sue",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "CIA chief visits Cuba as energy crisis worsens",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What China critics in Maga movement make of Trump's Beijing trip",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Alleged murder of Aboriginal girl highlights Australia's deep inequalities",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq6p57mnz9lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is Ireland not taking part in this year's Eurovision?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What did we learn from Trump's visit to China?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Warning of record global temperatures",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Kabul rehab centre hit by deadly Pakistani strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "LIVE: Chelsea vs Manchester City – FA Cup final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "At least eight killed, 25 injured as train hits bus in Bangkok",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss"
+      },
+      {
+        "title": "How Kansas City became unlikely 2026 World Cup hosts for the US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/how-kansas-city-became-unlikely-2026-world-cup-hosts-for-the-us?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Britain is losing the ability to tell anti-Semitism from dissent",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss"
+      },
+      {
+        "title": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss"
+      },
+      {
+        "title": "Russia’s Putin to visit China following Trump’s trip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss"
+      },
+      {
+        "title": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss"
+      },
+      {
+        "title": "Spain PM defends Eurovision boycott over Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss"
+      },
+      {
+        "title": "Man killed in great white shark attack in western Australia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss"
+      },
+      {
+        "title": "Aston Villa trounce Liverpool 4-2 to seal Champions League place",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss"
+      },
+      {
+        "title": "Where did Eurovision go wrong?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong?traffic_source=rss"
+      },
+      {
+        "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss"
+      },
+      {
+        "title": "Wembanyama’s Spurs reach Western finals, Pistons stay alive in NBA playoffs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/wembanyamas-spurs-reach-western-finals-pistons-stay-alive-in-nba-playoffs?traffic_source=rss"
+      },
+      {
+        "title": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss"
+      },
+      {
+        "title": "Israel launches deadly air strikes on Gaza City apartment building",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"
+      },
+      {
+        "title": "UK artist defends ‘Drawings Against Genocide’ after show cancelled",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/uk-artist-defends-drawings-against-genocide-after-show-cancelled?traffic_source=rss"
+      },
+      {
+        "title": "Gaza aid convoy in Libya prepares to head to Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
+      },
+      {
+        "title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss"
+      },
+      {
+        "title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss"
+      },
+      {
+        "title": "What are World Cup 2026 national team base camps and their locations?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-16T11:20:18.129Z",
     "discarded_untrusted": [
       {
