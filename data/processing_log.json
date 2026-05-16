@@ -1,5 +1,315 @@
 [
   {
+    "run_at": "2026-05-16T07:45:15.090Z",
+    "discarded_untrusted": [
+      {
+        "title": "Trump says Iran uranium hunt for optics",
+        "source": "tribune",
+        "url": "https://tribune.net.ph/2026/05/15/trump-says-iran-uranium-hunt-for-optics"
+      },
+      {
+        "title": "Ghada Karmi: How Gaza shattered the myth of coexistence",
+        "source": "therealnews",
+        "url": "https://therealnews.com/ghada-karmi-how-gaza-shattered-the-myth-of-coexistence"
+      },
+      {
+        "title": "‘US willing to continue talks to end impasse’",
+        "source": "thedailystar",
+        "url": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/us-willing-continue-talks-end-impasse-4176841"
+      },
+      {
+        "title": "London Playbook PM: Burnham through the admin",
+        "source": "politico_eu",
+        "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-burnham-through-the-admin/"
+      },
+      {
+        "title": "Removing Irans uranium mostly about PR Trump",
+        "source": "bahrainnews",
+        "url": "http://bahrainnews.net/news/279053476/removing-irans-uranium-mostly-about-pr-trump"
+      },
+      {
+        "title": "Removing Irans uranium mostly about PR Trump",
+        "source": "russiaherald",
+        "url": "http://russiaherald.com/news/279053476/removing-irans-uranium-mostly-about-pr-trump"
+      },
+      {
+        "title": "Removing Irans uranium mostly about PR Trump",
+        "source": "philippinetimes",
+        "url": "http://philippinetimes.com/news/279053476/removing-irans-uranium-mostly-about-pr-trump"
+      },
+      {
+        "title": "Removing Iran’s uranium mostly about ‘PR’ – Trump",
+        "source": "rt",
+        "url": "https://www.rt.com/news/640032-iran-trump-uranium-pr/"
+      },
+      {
+        "title": "Is Iran already a nuclear power?",
+        "source": "manilatimes",
+        "url": "https://www.manilatimes.net/2026/05/16/opinion/contributors/is-iran-already-a-nuclear-power/2345196"
+      },
+      {
+        "title": "Deseret News archives: Atomic bomb tests rattled Americans in the West",
+        "source": "deseret",
+        "url": "https://www.deseret.com/utah/2024/05/15/deseret-news-archives-atomic-bomb-tests-rattled-americans-in-west/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man killed by 13ft great white shark in Western Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says senior IS leader killed by US and Nigerian forces",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel says it has killed Hamas commander in Gaza air strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five Italians die during cave scuba dive in Maldives",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New York Times defends journalist after Israel threatens to sue",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9wedpk155jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "CIA chief visits Cuba as energy crisis worsens",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What China critics in Maga movement make of Trump's Beijing trip",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is Ireland not taking part in this year's Eurovision?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What did we learn from Trump's visit to China?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Warning of record global temperatures",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Kabul rehab centre hit by deadly Pakistani strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spain PM defends Eurovision boycott over Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss"
+      },
+      {
+        "title": "Man killed in great white shark attack in western Australia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss"
+      },
+      {
+        "title": "Aston Villa trounce Liverpool 4-2 to seal Champions League place",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss"
+      },
+      {
+        "title": "Where did Eurovision go wrong?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong?traffic_source=rss"
+      },
+      {
+        "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/trump-says-isil-second-in-command-abu-bilal-al-minuki-killed?traffic_source=rss"
+      },
+      {
+        "title": "Wembanyama’s Spurs reach Western finals, Pistons stay alive in NBA playoffs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/wembanyamas-spurs-reach-western-finals-pistons-stay-alive-in-nba-playoffs?traffic_source=rss"
+      },
+      {
+        "title": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss"
+      },
+      {
+        "title": "Israel launches deadly air strikes on Gaza City apartment building",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"
+      },
+      {
+        "title": "UK artist defends ‘Drawings Against Genocide’ after show cancelled",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/uk-artist-defends-drawings-against-genocide-after-show-cancelled?traffic_source=rss"
+      },
+      {
+        "title": "Gaza aid convoy in Libya prepares to head to Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
+      },
+      {
+        "title": "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss"
+      },
+      {
+        "title": "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss"
+      },
+      {
+        "title": "What are World Cup 2026 national team base camps and their locations?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss"
+      },
+      {
+        "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss"
+      },
+      {
+        "title": "What did Trump and Xi discuss during the China summit?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss"
+      },
+      {
+        "title": "Cuba hit by protests, blackouts amid oil shortage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss"
+      },
+      {
+        "title": "Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/ex-sinaloa-security-chief-in-mexico-arrested-in-us-over-alleged-cartel-ties?traffic_source=rss"
+      },
+      {
+        "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
+      },
+      {
+        "title": "Is the US dialling down its support for Taiwan?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/15/is-the-us-dialling-down-its-support-for-taiwan?traffic_source=rss"
+      },
+      {
+        "title": "WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/who-confirms-10-global-hantavirus-cases-hondius-crew-remain-symptom-free?traffic_source=rss"
+      },
+      {
+        "title": "Canada’s Carney travels to Alberta as separatists face legal setback",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/15/canadas-carney-travels-to-alberta-as-separatists-face-legal-setback?traffic_source=rss"
+      },
+      {
+        "title": "Trump says China to buy 200 Boeing planes, much lower than expected",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-16T07:40:13.239Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
