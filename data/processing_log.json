@@ -1,5 +1,365 @@
 [
   {
+    "run_at": "2026-05-16T15:50:15.336Z",
+    "discarded_untrusted": [
+      {
+        "title": "Sweeteners and the quest for the perfect alternative to sugar",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/sweeteners-and-the-quest-for-the-perfect-alternative-to-sugar-277770"
+      },
+      {
+        "title": "Sweet: the quest for a sugar alternative",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/sweet-the-quest-for-a-sugar-alternative-277770"
+      },
+      {
+        "title": "Decoupling between activation time and steady-state level in input-output responses",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014288"
+      },
+      {
+        "title": "Spatial transcriptomic-metabolic features of tumor foci and tumor capsule in microvascular invasion with hepatocellular carcinoma: A spatial multi-omics study",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004703"
+      },
+      {
+        "title": "Gender, status, and team interaction: A microdynamic exploration of wearable sensor data across 11 research groups",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349195"
+      },
+      {
+        "title": "Characterization of the virus-host RNA-RNA interactome across important human pathogenic RNA viruses",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014217"
+      },
+      {
+        "title": "What Takaichi’s Hanoi Visit Reveals About Vietnam’s Critical Minerals Strategy",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/what-takaichis-hanoi-visit-reveals-about-vietnams-critical-minerals-strategy/"
+      },
+      {
+        "title": "YTHDF1 impacts cardiomyocyte differentiation by regulating the TET2 mRNA",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349040"
+      },
+      {
+        "title": "Why is Europe reviewing US security guarantee?",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/why-is-europe-reviewing-us-security-guarantee-10691519/"
+      },
+      {
+        "title": "There is a long history of members of Congress calling out Israel’s nuclear arsenal. It is now time to take action.",
+        "source": "Mondoweiss",
+        "url": "https://mondoweiss.net/2026/05/there-is-a-long-history-of-members-of-congress-calling-out-israels-nuclear-arsenal-it-is-now-time-to-take-action/"
+      },
+      {
+        "title": "Striking New Views of the First Atomic Bomb Test",
+        "source": "Ieee.org",
+        "url": "https://spectrum.ieee.org/trinity-nuclear-test"
+      },
+      {
+        "title": "US Army Basic Training for Muscular Olds",
+        "source": "Mcsweeneys.net",
+        "url": "https://www.mcsweeneys.net/articles/us-army-basic-training-for-muscular-olds"
+      },
+      {
+        "title": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students"
+      },
+      {
+        "title": "Trump Secures Clear Edge Over Xi in Beijing Summit with Major Trade and Energy Wins",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/trump-china-summit-economic-wins-1868893"
+      },
+      {
+        "title": "Global shares drop as bond yields jump on inflation worries",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html"
+      },
+      {
+        "title": "The U.S. has 1,200 AI bills and no good test for any of them",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/"
+      },
+      {
+        "title": "India Is Building The Electric Economy Without The Fossil Detour",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/we-dont-have-time/2026/05/15/india-is-building-the-electric-economy-without-the-fossil-detour/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Former IRGC Commander Jafari Lays Out Iran's Peace Conditions",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260515-rferl02.htm"
+      },
+      {
+        "title": "Trump, Xi Strike Stabilizing Tone At Beijing Summit Shaped By Iran Conflict",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260515-rferl02.htm"
+      },
+      {
+        "title": "Trump wraps visit with Xi Jinping and CIA director meets with Cuban officials: Morning Rundown",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/trump-xi-jinping-cia-director-cuba-morning-rundown-rcna345264"
+      },
+      {
+        "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US planning to charge ex-Cuban leader Raúl Castro",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man killed by 13ft great white shark in Western Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Freight train and bus crash kills at least eight in Bangkok",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Palestinian leaders hold rare party meeting as polls show rising discontent",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hamas confirms top commander killed in Israeli air strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What China critics in Maga movement make of Trump's Beijing trip",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What is a 'safe death'? Mentally ill woman asks for assisted dying in Canada",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Alleged murder of Aboriginal girl highlights Australia's deep inequalities",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq6p57mnz9lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is Ireland not taking part in this year's Eurovision?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What did we learn from Trump's visit to China?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Warning of record global temperatures",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Kabul rehab centre hit by deadly Pakistani strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Thomas Massie came to represent Republican dissent in age of Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/how-thomas-massie-came-to-represent-republican-dissent-in-age-of-trump?traffic_source=rss"
+      },
+      {
+        "title": "Israeli army kills Palestinian man, raids homes in occupied West Bank",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/israeli-army-kills-palestinian-man-raids-homes-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Tens of thousands march in London in far-right and pro-Palestine protests",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss"
+      },
+      {
+        "title": "Zimbabwe’s diaspora reshapes real estate and farming investment trends",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss"
+      },
+      {
+        "title": "Mexico teachers threaten World Cup disruption over pay",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss"
+      },
+      {
+        "title": "Moment of deadly train crash in Bangkok",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss"
+      },
+      {
+        "title": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections?traffic_source=rss"
+      },
+      {
+        "title": "Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/16/amid-the-fertiliser-crisis-africa-has-a-chemical-free-option?traffic_source=rss"
+      },
+      {
+        "title": "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/robert-lewandowski-to-leave-barcelona-with-his-mission-complete?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Image Crisis: Becoming Too Big to Spin?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Chelsea vs Manchester City – FA Cup final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "At least eight killed, 35 injured as train hits bus in Bangkok",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss"
+      },
+      {
+        "title": "How Kansas City became unlikely 2026 World Cup hosts for the US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/how-kansas-city-became-unlikely-2026-world-cup-hosts-for-the-us?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss"
+      },
+      {
+        "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Britain is losing the ability to tell anti-Semitism from dissent",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss"
+      },
+      {
+        "title": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss"
+      },
+      {
+        "title": "Russia’s Putin to visit China following Trump’s trip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss"
+      },
+      {
+        "title": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss"
+      },
+      {
+        "title": "Spain PM defends Eurovision boycott over Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss"
+      },
+      {
+        "title": "Man killed in great white shark attack in western Australia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss"
+      },
+      {
+        "title": "Aston Villa trounce Liverpool 4-2 to seal Champions League place",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/16/aston-villa-thrash-liverpool-4-2-to-seal-champions-league-place?traffic_source=rss"
+      },
+      {
+        "title": "Where did Eurovision go wrong?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/longform/2026/5/16/where-did-eurovision-go-wrong?traffic_source=rss"
+      },
+      {
+        "title": "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-16T15:45:12.603Z",
     "discarded_untrusted": [
       {
@@ -101384,776 +101744,6 @@
         "title": "Trump and Xi move towards business-first relationship after Beijing summit",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-05-15T15:50:13.239Z",
-    "discarded_untrusted": [
-      {
-        "title": "Terrestrial Energy Q1 Earnings Call Highlights",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/terrestrial-energy-q1-earnings-call-highlights-2026-05-14/?utm_source=yahoofinance&amp;utm_medium=yahoofinance"
-      },
-      {
-        "title": "The Hypersonic Test Bottleneck Is Real — And Five Companies Are Building the Infrastructure to Fix It",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/globe-newswire/the-hypersonic-test-bottleneck-is-real-and-five-companies-are-building-the-infrastructure-to-fix-it"
-      },
-      {
-        "title": "The Hypersonic Test Bottleneck Is Real — And Five Companies Are Building the Infrastructure to Fix It",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/14/3295155/0/en/The-Hypersonic-Test-Bottleneck-Is-Real-And-Five-Companies-Are-Building-the-Infrastructure-to-Fix-It.html"
-      },
-      {
-        "title": "Identification of CAND1 as a DNA-dependent protein kinase-regulated coactivator of androgen receptor and the ARv7 splice variant",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349130"
-      },
-      {
-        "title": "[¹⁸F]PSMA-1007 PET/CT in biochemical recurrence after radical prostatectomy: A single-center experience of detection rate and lesion distribution",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349397"
-      },
-      {
-        "title": "Uncovering core stemness biomarkers in HBV-HCC through integrated multi-omics",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349171"
-      },
-      {
-        "title": "Cryptosporidium secreted proteins form a complex layered interface with the host cell",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014212"
-      },
-      {
-        "title": "Cafestol ameliorates diabetic nephropathy via Keap1-Nrf2 axis activation: A novel renoprotective mechanism independent of glycemic control",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349192"
-      },
-      {
-        "title": "Estrogen deficiency induces pelvic floor muscle atrophy via ERα/GLUT4 pathway",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349371"
-      },
-      {
-        "title": "Development of AI-based dopamine transporter (DAT) image generation technique using early phase [18F]-FP-CIT PET imaging",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349375"
-      },
-      {
-        "title": "RGFP966 inhibits activation of AIM2 inflammasomes to promote mitophagy to relieve acute gouty arthritis",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348274"
-      },
-      {
-        "title": "Trump-XI summit: in a high-stakes meeting the two leaders can’t afford to misread each other",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/trump-xi-summit-in-a-high-stakes-meeting-the-two-leaders-cant-afford-to-misread-each-other-282977"
-      },
-      {
-        "title": "NBA Draft Combine’s 7 winners and 4 losers after 2026 testing, scrimmages, and measurements",
-        "source": "SB Nation",
-        "url": "https://www.sbnation.com/nba/1114409/nba-draft-combines-winners-and-losers-morez-johnson-aday-mara-keaton-wagler"
-      },
-      {
-        "title": "Karyopharm Reports First Quarter 2026 Financial Results and Completion of Phase 3 Endometrial Cancer Trial Enrollment",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/karyopharm-reports-first-quarter-2026-financial-results-and-completion-of-phase-3-endometrial-cancer-trial-enrollment-302771689.html"
-      },
-      {
-        "title": "Iran War: Tanker War Lite as Trump Comes Even More Unglued and Real Economy Damage Becomes More Visible",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/iran-war-tanker-war-lite-as-trump-comes-even-more-unglued-and-real-economy-damage-becomes-more-visible.html"
-      },
-      {
-        "title": "Finnish startups in Nato accelerator hope to ride the dual-use tech wave",
-        "source": "YLE News",
-        "url": "https://yle.fi/a/74-20225868"
-      },
-      {
-        "title": "This memory chip works at 700 degrees Celsius. The startup behind it is already building AI chips that compute where GPUs cannot.",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/tetramem-memristor-700c-space-ai-computing/"
-      },
-      {
-        "title": "Trade wars to extended truce: Analysts expect ‘stabilization’ in U.S.-China ties as Trump-Xi meet",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-us-china-trade-taiwan-iran-nvidia.html"
-      },
-      {
-        "title": "Sci-fi or battlefield reality? Ukraine's bet on swarm drones",
-        "source": "thehindu",
-        "url": "https://www.thehindu.com/sci-tech/technology/sci-fi-or-battlefield-reality-ukraines-bet-on-swarm-drones/article70981388.ece"
-      },
-      {
-        "title": "People Who Went To School In The '60s, '70s, And '80s Are Sharing What It Was Actually Like, And It Was Wild, Unhinged, And Borderline Dangerous",
-        "source": "buzzfeeduk",
-        "url": "https://www.buzzfeed.com/victoriavouloumanos/school-experiences-60s-70s-80s-unthinkable-today"
-      },
-      {
-        "title": "MIDDLE EAST WAR TO CONTINUE: TRUMP COMMITS TO THE TOTAL DESTRUCTION OF IRANIAN MILITARY ASSETS",
-        "source": "phctelegraph",
-        "url": "https://phctelegraph.info/2026/05/15/middle-east-war-to-continue-trump-commits-to-the-total-destruction-of-iranian-military-assets/"
-      },
-      {
-        "title": "Trump Signals Limited Patience On Iran, Says Effort Underway To Reopen Hormuz",
-        "source": "ndtv",
-        "url": "https://www.ndtvprofit.com/world/trump-signals-limited-patience-on-iran-says-effort-underway-to-reopen-hormuz-11497972"
-      },
-      {
-        "title": "Not MAGA or establishment — Phil Lyman explains his pitch for Utah’s 3rd District",
-        "source": "deseret",
-        "url": "https://www.deseret.com/politics/2026/05/14/phil-lyman-running-for-utah-3rd-congressional-district-seat-against-rep-celeste-maloy/"
-      },
-      {
-        "title": "Trump suggests wants Iran uranium for optics",
-        "source": "gulfnews",
-        "url": "https://gulfnews.com/world/americas/trump-suggests-wants-iran-uranium-for-optics-1.500541154"
-      },
-      {
-        "title": "Trump suggests he wants Iran's uranium only for 'public relations'",
-        "source": "gulfnews",
-        "url": "https://gulfnews.com/world/mena/trump-suggests-wants-iran-uranium-for-optics-1.500541154"
-      },
-      {
-        "title": "Sci-fi or battlefield reality? Ukraine's bet on swarm drones",
-        "source": "bangkokpost",
-        "url": "https://www.bangkokpost.com/world/3255459/scifi-or-battlefield-reality-ukraines-bet-on-swarm-drones"
-      },
-      {
-        "title": "Sci-fi or battlefield reality? Ukraine’s bet on swarm drones",
-        "source": "straitstimes",
-        "url": "https://www.straitstimes.com/world/europe/sci-fi-or-battlefield-reality-ukraines-bet-on-swarm-drones"
-      },
-      {
-        "title": "Sci-fi or battlefield reality? Ukraine's bet on swarm drones",
-        "source": "yahoo_sg",
-        "url": "https://sg.news.yahoo.com/sci-fi-battlefield-reality-ukraines-020401489.html"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "America holds the advantage as Trump meets Xi in high-stakes summit",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-brings-power-america-china-diplomacy"
-      },
-      {
-        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war"
-      },
-      {
-        "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "CIA chief visits Cuba as energy crisis worsens",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Five Italians die during cave scuba dive in Maldives",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australia court doubles payout for trans woman in landmark discrimination case",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US Supreme Court restores abortion pill access for now",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Warning of record global temperatures as chance of very strong El Niño grows",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "War criminal Ratko Mladić's jail release request denied",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why is Ireland not taking part in this year's Eurovision?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What did we learn from Trump's visit to China?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Warning of record global temperatures",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The Kabul rehab centre hit by deadly Pakistani strike",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says he discussed Taiwan arms sale with China’s Xi Jinping",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-says-he-discussed-taiwan-arms-sale-with-chinas-xi-jinping?traffic_source=rss"
-      },
-      {
-        "title": "FA Cup final: Man City’s season a success ‘regardless of trophies’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-man-citys-season-a-success-regardless-of-trophies?traffic_source=rss"
-      },
-      {
-        "title": "Cannes Film Festival 2026: a different carpet roll-out",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cannes-film-festival-2026-a-different-carpet-roll-out?traffic_source=rss"
-      },
-      {
-        "title": "‘Half of British Muslims are under 25’: Report shows shifting demographics",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/5/15/young-and-educated-report-reveals-shifting-demographics-among-uk-muslims?traffic_source=rss"
-      },
-      {
-        "title": "Gov’t building set ablaze and several injured in Libya football violence",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/govt-building-set-ablaze-and-several-injured-in-libya-football-violence?traffic_source=rss"
-      },
-      {
-        "title": "Araghchi: Iran doubts US ‘seriousness’ about talks amid nuclear deadlock",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock?traffic_source=rss"
-      },
-      {
-        "title": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/5/15/nakba-jewish-voices-are-challenging-the-stories-israel-tells-about-itself?traffic_source=rss"
-      },
-      {
-        "title": "Historical reckoning: The push for the US to acknowledge the Nakba",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/historical-reckoning-the-push-for-the-us-to-acknowledge-the-nakba?traffic_source=rss"
-      },
-      {
-        "title": "Pressure mounts on embattled UK PM Keir Starmer as rivals circle",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/pressure-mounts-on-embattled-uk-pm-keir-starmer-as-rivals-circle?traffic_source=rss"
-      },
-      {
-        "title": "78 years later: Palestinians are still denied their right to return.",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/78-years-later-palestinians-are-still-denied-their-right-to-return?traffic_source=rss"
-      },
-      {
-        "title": "Trump-Xi summit: China, US disagree on what they agreed on",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on?traffic_source=rss"
-      },
-      {
-        "title": "Philippines vows to hand fugitive senator to ICC following shootout",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/philippines-vows-to-hand-fugitive-senator-to-icc-following-shootout?traffic_source=rss"
-      },
-      {
-        "title": "Ronaldo judged on form not age for Portugal at World Cup, says Martinez",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/ronaldo-judged-on-form-not-age-for-portugal-at-world-cup-says-martinez?traffic_source=rss"
-      },
-      {
-        "title": "Deadly attack on Pakistan outpost puts Afghanistan ceasefire at risk",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/deadly-attack-on-pakistan-outpost-puts-afghanistan-ceasefire-at-risk?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settler attacks activist during tour on settler violence",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israeli-settler-attacks-activist-during-tour-on-settler-violence?traffic_source=rss"
-      },
-      {
-        "title": "Lukaku included in Belgium’s World Cup squad despite injury-plagued season",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/lukaku-included-in-belgiums-world-cup-squad-despite-injury-plagued-season?traffic_source=rss"
-      },
-      {
-        "title": "Why the Iran conflict is becoming a problem for BRICS",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/why-the-iran-conflict-is-becoming-a-problem-for-brics?traffic_source=rss"
-      },
-      {
-        "title": "David Beckham becomes first British billionaire sportsman",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/david-beckham-becomes-first-british-billionaire-sportsman?traffic_source=rss"
-      },
-      {
-        "title": "Health officials raise alarm over new Ebola outbreak in DR Congo",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/health-officials-raise-alarm-over-new-ebola-outbreak-in-dr-congo?traffic_source=rss"
-      },
-      {
-        "title": "Finland ends drone alert amid regional fears of Ukraine war spillover",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss"
-      },
-      {
-        "title": "This is the Palestinian Nakba, measured in land taken",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss"
-      },
-      {
-        "title": "India hikes fuel prices as Iran crisis bites",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss"
-      },
-      {
-        "title": "Three years of the West Bank’s ‘third Nakba’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/5/15/three-years-of-the-west-banks-third-nakba?traffic_source=rss"
-      },
-      {
-        "title": "Trump and Xi move towards business-first relationship after Beijing summit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss"
-      },
-      {
-        "title": "How Xi-Trump summit failed to yield Iran war breakthrough",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-05-15T15:45:13.054Z",
-    "discarded_untrusted": [
-      {
-        "title": "Terrestrial Energy Q1 Earnings Call Highlights",
-        "source": "MarketBeat",
-        "url": "https://www.marketbeat.com/instant-alerts/terrestrial-energy-q1-earnings-call-highlights-2026-05-14/?utm_source=yahoofinance&amp;utm_medium=yahoofinance"
-      },
-      {
-        "title": "The Hypersonic Test Bottleneck Is Real — And Five Companies Are Building the Infrastructure to Fix It",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/globe-newswire/the-hypersonic-test-bottleneck-is-real-and-five-companies-are-building-the-infrastructure-to-fix-it"
-      },
-      {
-        "title": "The Hypersonic Test Bottleneck Is Real — And Five Companies Are Building the Infrastructure to Fix It",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/05/14/3295155/0/en/The-Hypersonic-Test-Bottleneck-Is-Real-And-Five-Companies-Are-Building-the-Infrastructure-to-Fix-It.html"
-      },
-      {
-        "title": "[¹⁸F]PSMA-1007 PET/CT in biochemical recurrence after radical prostatectomy: A single-center experience of detection rate and lesion distribution",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349397"
-      },
-      {
-        "title": "Identification of CAND1 as a DNA-dependent protein kinase-regulated coactivator of androgen receptor and the ARv7 splice variant",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349130"
-      },
-      {
-        "title": "Uncovering core stemness biomarkers in HBV-HCC through integrated multi-omics",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349171"
-      },
-      {
-        "title": "Cryptosporidium secreted proteins form a complex layered interface with the host cell",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014212"
-      },
-      {
-        "title": "Estrogen deficiency induces pelvic floor muscle atrophy via ERα/GLUT4 pathway",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349371"
-      },
-      {
-        "title": "Cafestol ameliorates diabetic nephropathy via Keap1-Nrf2 axis activation: A novel renoprotective mechanism independent of glycemic control",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349192"
-      },
-      {
-        "title": "Development of AI-based dopamine transporter (DAT) image generation technique using early phase [18F]-FP-CIT PET imaging",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349375"
-      },
-      {
-        "title": "RGFP966 inhibits activation of AIM2 inflammasomes to promote mitophagy to relieve acute gouty arthritis",
-        "source": "Plos.org",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348274"
-      },
-      {
-        "title": "Trump-XI summit: in a high-stakes meeting the two leaders can’t afford to misread each other",
-        "source": "The Conversation Africa",
-        "url": "https://theconversation.com/trump-xi-summit-in-a-high-stakes-meeting-the-two-leaders-cant-afford-to-misread-each-other-282977"
-      },
-      {
-        "title": "NBA Draft Combine’s 7 winners and 4 losers after 2026 testing, scrimmages, and measurements",
-        "source": "SB Nation",
-        "url": "https://www.sbnation.com/nba/1114409/nba-draft-combines-winners-and-losers-morez-johnson-aday-mara-keaton-wagler"
-      },
-      {
-        "title": "Karyopharm Reports First Quarter 2026 Financial Results and Completion of Phase 3 Endometrial Cancer Trial Enrollment",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/karyopharm-reports-first-quarter-2026-financial-results-and-completion-of-phase-3-endometrial-cancer-trial-enrollment-302771689.html"
-      },
-      {
-        "title": "Iran War: Tanker War Lite as Trump Comes Even More Unglued and Real Economy Damage Becomes More Visible",
-        "source": "Nakedcapitalism.com",
-        "url": "https://www.nakedcapitalism.com/2026/05/iran-war-tanker-war-lite-as-trump-comes-even-more-unglued-and-real-economy-damage-becomes-more-visible.html"
-      },
-      {
-        "title": "Finnish startups in Nato accelerator hope to ride the dual-use tech wave",
-        "source": "YLE News",
-        "url": "https://yle.fi/a/74-20225868"
-      },
-      {
-        "title": "This memory chip works at 700 degrees Celsius. The startup behind it is already building AI chips that compute where GPUs cannot.",
-        "source": "The Next Web",
-        "url": "https://thenextweb.com/news/tetramem-memristor-700c-space-ai-computing/"
-      },
-      {
-        "title": "Trade wars to extended truce: Analysts expect ‘stabilization’ in U.S.-China ties as Trump-Xi meet",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-us-china-trade-taiwan-iran-nvidia.html"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "America holds the advantage as Trump meets Xi in high-stakes summit",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-brings-power-america-china-diplomacy"
-      },
-      {
-        "title": "Trump-Xi’s China summit is a defining test for America in the new Cold War",
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/trump-xis-china-summit-defining-test-america-new-cold-war"
-      },
-      {
-        "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "CIA chief visits Cuba as energy crisis worsens",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Five Italians die during cave scuba dive in Maldives",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Boy, 15, shot dead in France as prosecutors blame drug war",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australia court doubles payout for trans woman in landmark discrimination case",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US Supreme Court restores abortion pill access for now",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Pretty miraculous' - 11 rescued after pilot ditches plane in Atlantic",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckgpj0m3wr2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Warning of record global temperatures as chance of very strong El Niño grows",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "War criminal Ratko Mladić's jail release request denied",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why is Ireland not taking part in this year's Eurovision?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US hotel owners expected a World Cup boom - so far it hasn't happened",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn0p2532xn4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What did we learn from Trump's visit to China?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Warning of record global temperatures",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "The Kabul rehab centre hit by deadly Pakistani strike",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'Total lack of respect': Macron interrupts speaker to ask for silence",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Soldier on parachuting to remote island to bring Hantavirus aid",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cgqp3xq7959o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump says he discussed Taiwan arms sale with China’s Xi Jinping",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-says-he-discussed-taiwan-arms-sale-with-chinas-xi-jinping?traffic_source=rss"
-      },
-      {
-        "title": "FA Cup final: Man City’s season a success ‘regardless of trophies’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-man-citys-season-a-success-regardless-of-trophies?traffic_source=rss"
-      },
-      {
-        "title": "Cannes Film Festival 2026: a different carpet roll-out",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cannes-film-festival-2026-a-different-carpet-roll-out?traffic_source=rss"
-      },
-      {
-        "title": "Young and educated: Report reveals shifting demographics among UK Muslims",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/5/15/young-and-educated-report-reveals-shifting-demographics-among-uk-muslims?traffic_source=rss"
-      },
-      {
-        "title": "Gov’t building set ablaze and several injured in Libya football violence",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/govt-building-set-ablaze-and-several-injured-in-libya-football-violence?traffic_source=rss"
-      },
-      {
-        "title": "Araghchi: Iran doubts US ‘seriousness’ about talks amid nuclear deadlock",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock?traffic_source=rss"
-      },
-      {
-        "title": "Nakba: Jewish voices are challenging the stories Israel tells about itself",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/5/15/nakba-jewish-voices-are-challenging-the-stories-israel-tells-about-itself?traffic_source=rss"
-      },
-      {
-        "title": "Historical reckoning: The push for the US to acknowledge the Nakba",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/historical-reckoning-the-push-for-the-us-to-acknowledge-the-nakba?traffic_source=rss"
-      },
-      {
-        "title": "Pressure mounts on embattled UK PM Keir Starmer as rivals circle",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/pressure-mounts-on-embattled-uk-pm-keir-starmer-as-rivals-circle?traffic_source=rss"
-      },
-      {
-        "title": "78 years later: Palestinians are still denied their right to return.",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/78-years-later-palestinians-are-still-denied-their-right-to-return?traffic_source=rss"
-      },
-      {
-        "title": "Trump-Xi summit: China, US disagree on what they agreed on",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on?traffic_source=rss"
-      },
-      {
-        "title": "Philippines vows to hand fugitive senator to ICC following shootout",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/philippines-vows-to-hand-fugitive-senator-to-icc-following-shootout?traffic_source=rss"
-      },
-      {
-        "title": "Ronaldo judged on form not age for Portugal at World Cup, says Martinez",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/ronaldo-judged-on-form-not-age-for-portugal-at-world-cup-says-martinez?traffic_source=rss"
-      },
-      {
-        "title": "Deadly attack on Pakistan outpost puts Afghanistan ceasefire at risk",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/deadly-attack-on-pakistan-outpost-puts-afghanistan-ceasefire-at-risk?traffic_source=rss"
-      },
-      {
-        "title": "Israeli settler attacks activist during tour on settler violence",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israeli-settler-attacks-activist-during-tour-on-settler-violence?traffic_source=rss"
-      },
-      {
-        "title": "Lukaku included in Belgium’s World Cup squad despite injury-plagued season",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/lukaku-included-in-belgiums-world-cup-squad-despite-injury-plagued-season?traffic_source=rss"
-      },
-      {
-        "title": "Why the Iran conflict is becoming a problem for BRICS",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/why-the-iran-conflict-is-becoming-a-problem-for-brics?traffic_source=rss"
-      },
-      {
-        "title": "David Beckham becomes first British billionaire sportsman",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/5/15/david-beckham-becomes-first-british-billionaire-sportsman?traffic_source=rss"
-      },
-      {
-        "title": "Health officials raise alarm over new Ebola outbreak in DR Congo",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/health-officials-raise-alarm-over-new-ebola-outbreak-in-dr-congo?traffic_source=rss"
-      },
-      {
-        "title": "Finland ends drone alert amid regional fears of Ukraine war spillover",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss"
-      },
-      {
-        "title": "This is the Palestinian Nakba, measured in land taken",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss"
-      },
-      {
-        "title": "India hikes fuel prices as Iran crisis bites",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss"
-      },
-      {
-        "title": "Three years of the West Bank’s ‘third Nakba’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/5/15/three-years-of-the-west-banks-third-nakba?traffic_source=rss"
-      },
-      {
-        "title": "Trump and Xi move towards business-first relationship after Beijing summit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss"
-      },
-      {
-        "title": "How Xi-Trump summit failed to yield Iran war breakthrough",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss"
       }
     ],
     "passed_filters": [],
