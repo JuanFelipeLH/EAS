@@ -1,5 +1,315 @@
 [
   {
+    "run_at": "2026-05-17T12:45:12.805Z",
+    "discarded_untrusted": [
+      {
+        "title": "'Neither Served A Day In Prison': 13 American History Facts Left Out Of Textbooks",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/neither-served-a-day-in-prison-13-american-history-facts-83438831"
+      },
+      {
+        "title": "\"Knelt before America, surrendered India\": Nishikant Dubey alleges Congress \"handed over\" Sir Creek, Siachen to Pakistan on US orders",
+        "source": "aninews",
+        "url": "https://www.aninews.in/news/national/politics/knelt-before-america-surrendered-india-nishikant-dubey-alleges-congress-handed-over-sir-creek-siachen-to-pakistan-on-us-orders20260517105757/"
+      },
+      {
+        "title": "'Knelt before America, surrendered India': Nishikant Dubey alleges Congress 'handed over' Sir Creek, Siachen to Pakistan on US orders",
+        "source": "inkl",
+        "url": "https://www.inkl.com/news/knelt-before-america-surrendered-india-nishikant-dubey-alleges-congress-handed-over-sir-creek-siachen-to-pakistan-on-us-orders"
+      },
+      {
+        "title": "X-Men’s 10 Most Powerful Rosters",
+        "source": "comicbook",
+        "url": "https://comicbook.com/comics/list/x-mens-10-most-powerful-rosters/"
+      },
+      {
+        "title": "13 Horrifying And Disturbing American History Facts That I Guarantee You Never Learned In School, Because They're Just THAT Dark",
+        "source": "buzzfeeduk",
+        "url": "https://www.buzzfeed.com/victoriavouloumanos/dark-american-history-facts-never-taught-school"
+      },
+      {
+        "title": "Trump's geopolitical brinkmanship has hit a wall with Iran",
+        "source": "japantoday",
+        "url": "https://japantoday.com/category/features/opinions/analysis-trump's-geopolitical-brinkmanship-has-hit-a-wall-with-iran"
+      },
+      {
+        "title": "Geopolitical brinkmanship: Trump has hit a wall with Iran",
+        "source": "thedailystar",
+        "url": "https://www.thedailystar.net/news/world/usa/news/geopolitical-brinkmanship-trump-has-hit-wall-iran-4177471"
+      },
+      {
+        "title": "Trump's geopolitical brinkmanship has hit a wall with Iran",
+        "source": "daily_sun",
+        "url": "https://www.daily-sun.com/world/875150"
+      },
+      {
+        "title": "Iran president thanks Pope Leo for stance on Iran war",
+        "source": "zambianobserver",
+        "url": "https://zambianobserver.com/iran-president-thanks-pope-leo-for-stance-on-iran-war/"
+      },
+      {
+        "title": "Nuclear Weapons Research and Development of Inhalational Anesthetic Halothane by Charles W. Suckling",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/nuclear-weapons-research-and-development-of-inhalational-83431243"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man drives car into pedestrians in Italy, injuring eight",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Taiwan insists it is independent after Trump warning",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Whale found dead near Danish island after German rescue operation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canadian from hantavirus-hit cruise ship tests positive",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US planning to charge ex-Cuban leader Raúl Castro",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Freight train and bus crash kills at least eight in Bangkok",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Foreign tourists are falling out of love with Goa - here's why",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Look Mum, one point': Why does the UK keep getting Eurovision wrong?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The girl group who've sold out venues and toured the world - without releasing a record",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz721w33ve1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What China critics in Maga movement make of Trump's Beijing trip",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What did we learn from Trump's visit to China?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC on the ground during march through Jerusalem's Old City",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds of illegal motorbikes bulldozed in New York City crime crackdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1m2p42v847o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Kabul rehab centre hit by deadly Pakistani strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel comes second at Eurovision amid boycotts and backlash",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss"
+      },
+      {
+        "title": "WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-drc-uganda-a-global-emergency-what-to-know?traffic_source=rss"
+      },
+      {
+        "title": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss"
+      },
+      {
+        "title": "Javier Bardem says condemning the Gaza genocide has led to more work",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/javier-bardem-says-condemning-the-gaza-genocide-has-led-to-more-work?traffic_source=rss"
+      },
+      {
+        "title": "The strike that changed the geometry of war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss"
+      },
+      {
+        "title": "Two Nepali Sherpa climbers break own records on Mount Everest",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/two-nepali-sherpa-climbers-break-own-records-on-mount-everest?traffic_source=rss"
+      },
+      {
+        "title": "Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss"
+      },
+      {
+        "title": "How Arsenal or Man City can clinch Premier League title with two games left",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/how-arsenal-or-man-city-can-clinch-premier-league-title-with-two-games-left?traffic_source=rss"
+      },
+      {
+        "title": "At least four killed in Ukrainian drone attacks on Russia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss"
+      },
+      {
+        "title": "Conor McGregor to fight Max Holloway in UFC return on July 11",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11?traffic_source=rss"
+      },
+      {
+        "title": "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss"
+      },
+      {
+        "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss"
+      },
+      {
+        "title": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss"
+      },
+      {
+        "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss"
+      },
+      {
+        "title": "Chelsea appoint Xabi Alonso as new manager on four-year deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/chelsea-appoint-xabi-alonso-as-new-manager-premier-league-club-says?traffic_source=rss"
+      },
+      {
+        "title": "Modest fashion’s global turn",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/17/modest-fashions-global?traffic_source=rss"
+      },
+      {
+        "title": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss"
+      },
+      {
+        "title": "Could a leadership change undo Israel’s international isolation?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/could-a-leadership-change-undo-israels-international-isolation?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss"
+      },
+      {
+        "title": "FIFA holds ‘positive’ talks with Iranian football officials on World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "‘Timmy’ the rescued humpback whale confirmed dead",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/timmy-the-rescued-humpback-whale-confirmed-dead?traffic_source=rss"
+      },
+      {
+        "title": "Ronda Rousey vs Gina Carano fight: Rousey wins with a 17-second submission",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/17/ronda-rousey-vs-gina-carano-fight-rousey-wins-with-a-17-second-submission?traffic_source=rss"
+      },
+      {
+        "title": "Algeria’s USM Alger beat Egypt’s Zamalek to win CAF Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/algerias-usm-alger-beat-egypts-zamalek-to-win-caf-cup?traffic_source=rss"
+      },
+      {
+        "title": "Activists troll far-right UK rally with giant pro-immigration clip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-led-by-donkeys-hijack-far-right-rally-160526?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-17T12:40:11.178Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
