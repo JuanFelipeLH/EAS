@@ -1,5 +1,350 @@
 [
   {
+    "run_at": "2026-05-19T19:15:19.323Z",
+    "discarded_untrusted": [
+      {
+        "title": "\"Cannot Second Guess Union's Decision,\" Supreme Court Expresses Concerns Over Plea Against Nuclear Energy Law",
+        "source": "lawbeat_in",
+        "url": "https://lawbeat.in/top-stories/cannot-second-guess-unions-decision-supreme-court-expresses-concerns-over-plea-against-nuclear-energy-law-1593071"
+      },
+      {
+        "title": "Good News in History, May 19",
+        "source": "goodnewsnetwork_org",
+        "url": "https://www.goodnewsnetwork.org/events060519/"
+      },
+      {
+        "title": "Over 300 workers displaced after Misamis Oriental steel plant raid",
+        "source": "gmanetwork_ph",
+        "url": "https://www.gmanetwork.com/news/topstories/regions/988160/over-300-workers-displaced-after-misamis-oriental-steel-plant-raid/story/"
+      },
+      {
+        "title": "BBC Reporter Suggests The Real Reason For Trump Calling Off His Latest Plans To Bomb Iran",
+        "source": "huffingtonpost",
+        "url": "https://www.huffingtonpost.co.uk/entry/bbc-reporter-suggests-the-real-reason-for-trump-calling-off-his-latest-plans-to-bomb-iran_uk_6a0bf789e4b0b4164e850488"
+      },
+      {
+        "title": "After the arrest of a Kataib Hezbollah suspect, expect more such operations against Iran's Iraqi proxies",
+        "source": "thenationalnews",
+        "url": "https://www.thenationalnews.com/opinion/comment/2026/05/19/iraq-iran-us-militias-kataib-hezbollah-donald-trump/"
+      },
+      {
+        "title": "S. Korea enhances cyber command unit amid push for ‘soft-kill’ deterrence",
+        "source": "koreaherald",
+        "url": "https://m.koreaherald.com/article/10741006"
+      },
+      {
+        "title": "There Is No Such Thing As A Deal With Iran - Articles",
+        "source": "americanthinker",
+        "url": "https://www.americanthinker.com/articles/2026/05/there_is_no_such_thing_as_a_deal_with_iran.html"
+      },
+      {
+        "title": "STEPHEN COHEN: Perhaps the most dangerous possibility yet — the imperial presidency",
+        "source": "theberkshireedge",
+        "url": "https://theberkshireedge.com/stephen-cohen-perhaps-the-most-dangerous-possibility-yet-the-imperial-presidency/"
+      },
+      {
+        "title": "Gulf allies avert US Strike on Iran as Washington weighs temporary sanctions relief",
+        "source": "newsbase",
+        "url": "https://newsbase.com/story/gulf-allies-avert-us-strike-on-iran-as-washington-weighs-temporary-sanctions-relief-443499"
+      },
+      {
+        "title": "Africa nuclear energy summit opens in Kigali",
+        "source": "newtimes",
+        "url": "https://www.newtimes.co.rw/article/35773/news/energy/africa-nuclear-energy-summit-opens-in-kigali"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Key people smuggler arrested after BBC uncovered identity",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Son of Mango boss arrested over father's fatal fall from cliff",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two bodies of missing Italians recovered from inside Maldives cave",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Uncontrolled California wildfires seen from space",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4pn0e2yp6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jackson Pollock painting sells for record $181m at auction",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two dead in Spain shooting, with babies reportedly among injured",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tasmanian government apologises over stolen body parts scandal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump says he called off new Iran attack at request of Gulf states",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump administration unveils $1.8bn fund to compensate his allies as he drops tax lawsuit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two men arrested over stunt at enclosure of famous monkey Punch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shakira wins £50m tax refund from Spanish government",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four killed in protests during Kenyan strikes over high fuel prices ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What really holds China and Russia together",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The Republican who stood up to Trump is hoping for a big win against president",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'FedEx says your parcel has drugs': The scam that trapped an Indian comedian ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cevp1lvzd8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump told Taiwan not to 'go independent' - but does it want to? ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anti-government demonstrators and police clash in Bolivia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I sold it for over £1k': Swatch launch sparks 'chaotic' scenes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cdep67ej9z2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Moment two fighter jets collide mid-air at US air show",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Eurovision winner Dara arrives to screaming fans in Bulgaria",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c2k2p8qkk58o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lights, camera, Bangaranga: Highlights from Eurovision",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj3pznr0zr4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss"
+      },
+      {
+        "title": "High prices in Iran’s stunted housing market leave tenants with few options",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s Board of Peace urges fix to ‘gap’ in funding",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss"
+      },
+      {
+        "title": "DRC prepares Ebola treatment centres as death toll rises",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/drc-prepares-ebola-treatment-centres-as-death-toll-rises?traffic_source=rss"
+      },
+      {
+        "title": "Trump backs Ken Paxton in crucial Texas Republican Senate run-off",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/trump-backs-ken-paxton-in-crucial-texas-republican-senate-run-off?traffic_source=rss"
+      },
+      {
+        "title": "Somaliland to open embassy in Jerusalem, Israel in Hargeisa: Envoy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa?traffic_source=rss"
+      },
+      {
+        "title": "Putin arrives in China for talks with Chinese leader Xi Jinping",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss"
+      },
+      {
+        "title": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s far-right Finance Minister Smotrich says ICC seeking his arrest",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss"
+      },
+      {
+        "title": "Tributes pour in for ‘hero’ guard killed in San Diego mosque shooting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/tributes-pour-in-for-hero-guard-killed-in-san-diego-mosque-shooting?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Xi assured him China would not send weapons to Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss"
+      },
+      {
+        "title": "I knew Amin Abdullah, the hero of the San Diego mosque shooting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/19/i-knew-amin-abdullah-the-hero-of-the-san-diego-mosque-shooting?traffic_source=rss"
+      },
+      {
+        "title": "How the shape of a map can determine the US midterm elections",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/longform/2026/5/19/how-the-shape-of-a-map-can-determine-the-us-midterm-elections?traffic_source=rss"
+      },
+      {
+        "title": "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry?traffic_source=rss"
+      },
+      {
+        "title": "Carlos Alcaraz withdraws from Wimbledon with wrist injury",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/19/carlos-alcaraz-withdraws-from-wimbledon-with-wrist-injury?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan sentences man to death for killing TikTok star Sana Yousaf",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/death-sentence-handed-to-man-for-killing-tiktok-star-sana-yousaf?traffic_source=rss"
+      },
+      {
+        "title": "Security guards face probe after last week’s Philippine Senate shooting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/security-guards-face-probe-after-last-weeks-philippine-senate-shooting?traffic_source=rss"
+      },
+      {
+        "title": "Qatar says US-Iran negotiations need ‘more time’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss"
+      },
+      {
+        "title": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Bournemouth vs Man City – Premier League",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/5/19/live-bournemouth-vs-manchester-city-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "Neymar is going to the World Cup: Why did Brazil name him in the squad?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/19/fifa-world-cup-2026-all-to-know-about-neymar-surprise-brazil-selection-ancelotti?traffic_source=rss"
+      },
+      {
+        "title": "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/19/flight-to-argentina-how-significant-is-it-for-israels-latam-outreach?traffic_source=rss"
+      },
+      {
+        "title": "Resistance: who gets to decide?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/doha-debates/2026/5/19/resistance-who-gets-to-decide?traffic_source=rss"
+      },
+      {
+        "title": "Why has FIFA not signed a World Cup broadcast deal in India?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/19/why-has-fifa-not-signed-a-world-cup-broadcast-deal-in-india?traffic_source=rss"
+      },
+      {
+        "title": "US extends sanctions waiver on Russian oil: Why it matters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-19T19:10:18.604Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
