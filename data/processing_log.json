@@ -1,5 +1,390 @@
 [
   {
+    "run_at": "2026-05-22T00:05:13.372Z",
+    "discarded_untrusted": [
+      {
+        "title": "Elon Musk's SpaceX plans IPO with shares to be sold as soon as June",
+        "source": "CBC News",
+        "url": "https://www.cbc.ca/news/business/elon-musk-space-ipo-plans-9.7206396"
+      },
+      {
+        "title": "Trump fawns over hunky Coast Guard graduates and grips their biceps in wild commencement speech: 'I hate good looking men'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15834995/Trump-fawns-hunky-Coast-Guard-graduates-grips-biceps-wild-commencement-speech-hate-good-looking-men.html"
+      },
+      {
+        "title": "Iran nuclear test raises tensions, impacts US-Iran deal prospects",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-nuclear-test-raises-tensions-impacts-us-iran-deal-prospects/"
+      },
+      {
+        "title": "More universities are disinviting commencement speakers who might challenge students’ ideas, unraveling an apolitical tradition",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/more-universities-are-disinviting-commencement-speakers-who-might-challenge-students-ideas-unraveling-an-apolitical-tradition-283131"
+      },
+      {
+        "title": "Phone culture is eroding teens’ basic numeracy – Bay of Plenty maths tutor Sharon McEwen",
+        "source": "New Zealand Herald",
+        "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/bay-of-plenty-maths-tutor-sharon-mcewen-phone-culture-is-eroding-teens-basic-numeracy/premium/RHXPNTL7JFAZ5INA355WEWJHFQ/"
+      },
+      {
+        "title": "Trump’s Iran War: America Loss Is China’s Win",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/podcasts/2026/05/david-frum-show-phillis-obrien-iran-war-china/687234/"
+      },
+      {
+        "title": "Validating the classics: Accurate reference gene panel for reliable RT-qPCR in Porifera",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349507"
+      },
+      {
+        "title": "The Nipah virus threat in India: Epidemiological trends, risk drivers, and lessons for pandemic preparedness",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014226"
+      },
+      {
+        "title": "An intronic variant in Ferredoxin Reductase (FDXR) creates a cryptic exon in Quarter Horses with Equine Juvenile Spinocerebellar Ataxia",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012158"
+      },
+      {
+        "title": "Multimodal data integration to determine viral and innate immune kinetics in human airway epithelium",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014248"
+      },
+      {
+        "title": "Mannose-binding lectin 2 secreted by hepatocellular carcinoma cells recruits and activates natural killer cells to reshape an immune-activated microenvironment",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003793"
+      },
+      {
+        "title": "Tripartite motif-containing 34 (TRIM34) protein interacts with the nucleocytoplasmic transport machinery and negatively modulates antiviral responses",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014142"
+      },
+      {
+        "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
+        "source": "Weblog.lol",
+        "url": "https://danieltan.weblog.lol/2026/05/americas-greatest-strategic-blunder-the-imprisonment-of-qian-xuesen"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Elon Musk’s SpaceX unveils filing for blockbuster IPO",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/20/elon-musks-spacex-unveils-filing-for-blockbuster-ipo"
+      },
+      {
+        "title": "Bound for Mars, Elon Musk's SpaceX unveils filing for blockbuster IPO",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bound-for-mars-elon-musks-spacex-unveils-filing-for-blockbuster-ipo/articleshow/131235384.cms"
+      },
+      {
+        "title": "Quote of the day by J. Robert Oppenheimer “It is a profound and necessary truth that the deep things in science are not found because they are useful; they are found because...” Learn the profound lesson on curiosity, science, discovery, and the power of an open mind from the man who changed modern history",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-j-robert-oppenheimer-it-is-a-profound-and-necessary-truth-that-the-deep-things-in-science-are-not-found-because-they-are-useful-they-are-found-because-learn-the-profound-lesson-on-curiosity-science-discovery-and-the-power-of-an-open-mind-from-the-man-who-changed-modern-history/articleshow/131227042.cms"
+      },
+      {
+        "title": "WATCH: Biggest moments from Knicks-Cavs Game 1",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133144256/"
+      },
+      {
+        "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran steps up claim to control Strait of Hormuz",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pair arrested after boys abandoned by road in Portugal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gonorrhoea and syphilis hit record levels in Europe",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jailed Vietnamese tycoon's Birkin bags sell for more than $550K",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdrp2lyx75mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Danes try to tow dead whale from island beach after failed German rescue",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nvidia's latest record earnings fail to impress investors",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Charges dismissed against official at school where six-year-old shot teacher",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lithuania's leaders take shelter during drone air alert",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Final two bodies of missing Italians recovered from inside Maldives cave",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria arrests former minister in hiding after corruption conviction",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdjpn378mvvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Samsung strike on hold as workers push for AI bonus",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we know about the San Diego mosque attack suspects",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump endorses Paxton in Texas, gambling on a challenger with baggage in a crucial race",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Why is the US going after Cuba's Raúl Castro 30 years on?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy529g5lnleo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: 'Everybody back up!' Moment car explodes in NYC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj3pvglp3vzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New video captures engine ripping off cargo plane in deadly Kentucky crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/crmplvm3vreo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Russian jets intercepting an RAF spy plane is 'serious incident'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sacred hall housing 'eternal flame' in Japan destroyed by fire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgpxp9wlqpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Could a football match soften North Korea-South Korea relations?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US says it has not changed its stance on sanctioning Francesca Albanese",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss"
+      },
+      {
+        "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss"
+      },
+      {
+        "title": "At least 16 people killed in two attacks in northern Honduras",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss"
+      },
+      {
+        "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss"
+      },
+      {
+        "title": "Ebola treatment hospital burned down in DRC as outbreak spreads",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss"
+      },
+      {
+        "title": "NYC launches lottery for $50 World Cup football tickets",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss"
+      },
+      {
+        "title": "Flotilla activists recount Israeli violence as they arrive in Turkiye",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss"
+      },
+      {
+        "title": "US sanctions elected Hezbollah MPs and Lebanese security officials",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/us-sanctions-elected-hezbollah-mps-and-lebanese-security-officials?traffic_source=rss"
+      },
+      {
+        "title": "Fans create AI-generated team songs ahead of World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/fans-create-ai-generated-team-songs-ahead-of-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/5/21/ebola-tensions-rise-as-treatment-center-torched-in-congos-ituri?traffic_source=rss"
+      },
+      {
+        "title": "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/five-key-takeaways-from-democrats-autopsy-report-on-kamala-harriss-loss?traffic_source=rss"
+      },
+      {
+        "title": "Trump shifts between diplomacy and threats in Iran standoff",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/trump-shifts-between-diplomacy-and-threats-in-iran-standoff?traffic_source=rss"
+      },
+      {
+        "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Is Islamophobia being re-packaged as feminism?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/is-islamophobia-being-re-packaged-as-feminism?traffic_source=rss"
+      },
+      {
+        "title": "UK launches ‘Great British Summer Savings’ to ease family costs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/uk-launches-great-british-summer-savings-to-ease-family-costs?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s World Cup hopes hit US visa hurdles",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/irans-world-cup-hopes-hit-us-visa-hurdles?traffic_source=rss"
+      },
+      {
+        "title": "Who are the 10 best FIFA World Cup players of all time?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/who-are-the-10-best-fifa-world-cup-players-of-all-time?traffic_source=rss"
+      },
+      {
+        "title": "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss"
+      },
+      {
+        "title": "Displaced Lebanese woman bakes 3,000 loaves daily for war-hit community",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/displaced-lebanese-woman-bakes-3000-loaves-daily-for-war-hit-community?traffic_source=rss"
+      },
+      {
+        "title": "Net migration to the UK falls by nearly 50 percent amid tighter policies",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/net-migration-to-the-uk-falls-by-nearly-50-percent-amid-tighter-policies?traffic_source=rss"
+      },
+      {
+        "title": "Mayor cuts limited World Cup tickets for New Yorkers to $50 after furore",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/mamdani-cuts-limited-world-cup-tickets-for-new-yorkers-to-50-after-furore?traffic_source=rss"
+      },
+      {
+        "title": "Shocked Maguire posts on Insta that he is not in England’s World Cup squad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/shocked-maguire-posts-on-insta-that-he-is-not-in-englands-world-cup-squad?traffic_source=rss"
+      },
+      {
+        "title": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss"
+      },
+      {
+        "title": "French Open rejects prize money change despite tennis stars’ boycott threat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/21/french-open-to-reject-prize-money-increase-despite-tennis-stars-complaints?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-22T00:00:17.815Z",
     "discarded_untrusted": [
       {
