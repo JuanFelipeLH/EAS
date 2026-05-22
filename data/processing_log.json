@@ -1,5 +1,334 @@
 [
   {
+    "run_at": "2026-05-22T13:30:17.754Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK scientists developing new Ebola vaccine that could be ready in months",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "AI used to fake evidence that ended Korean actor's career, say police",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Alberta to hold referendum on whether to remain in Canada",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Slow Food founder Carlo Petrini dies aged 76",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Africa summit in India postponed over Ebola outbreak fears",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8p1l7gp1po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Angry crowd sets Ebola hospital tents on fire in DR Congo",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Will US invade? Three ways Cuba crisis could play out now",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australian man dies after falling down ravine on hike to Machu Picchu",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202z3yz9p5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tennessee execution called off after failed lethal injection",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c93xj503kg9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran steps up claim to control Strait of Hormuz",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nascar champion Kyle Busch dies aged 41",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp2lrpxm0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pair arrested after boys abandoned by road in Portugal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gonorrhoea and syphilis hit record levels in Europe",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jailed Vietnamese tycoon's Birkin bags sell for more than $550K",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdrp2lyx75mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Danes try to tow dead whale from island beach after failed German rescue",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Samsung strike on hold as workers push for AI bonus",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What is Ebola and why is stopping the latest outbreak so difficult?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we know about the San Diego mosque attack suspects",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4pnp0gdlko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Cuban-Americans feel about Raúl Castro's indictment",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fans react to Stephen Colbert’s final show",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgz36rx755o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: 'Everybody back up!' Moment car explodes in NYC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj3pvglp3vzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "How Guardiola compares with Ferguson and other English managerial greats",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/how-guardiola-compares-with-ferguson-and-other-english-managerial-greats?traffic_source=rss"
+      },
+      {
+        "title": "What is Hindutva, and what are the roots of this political movement?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/what-is-hindutva-and-what-are-the-roots-of-this-political-movement?traffic_source=rss"
+      },
+      {
+        "title": "India is being left to die in the heat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/22/india-is-being-left-to-die-in-the-heat?traffic_source=rss"
+      },
+      {
+        "title": "Everest record holder warns of Nepal danger as two Indian mountaineers die",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/everest-record-holder-warns-of-nepal-danger-as-two-indian-mountaineers-die?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s enriched uranium stockpile: Can it be safely transferred?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred?traffic_source=rss"
+      },
+      {
+        "title": "Man City confirm Guardiola exit to end decade-long, trophy-laden spell",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/guardiola-confirms-man-city-exit-ending-17-year-trophy-laden-spell?traffic_source=rss"
+      },
+      {
+        "title": "British climber sets record with 20th Everest summit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss"
+      },
+      {
+        "title": "Gang violence kills at least 25 in Honduras",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/gang-violence-kills-at-least-25-in-honduras?traffic_source=rss"
+      },
+      {
+        "title": "Man Utd appoint Michael Carrick as permanent manager",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/man-utd-appoint-michael-carrick-as-permanent-manager?traffic_source=rss"
+      },
+      {
+        "title": "Hundreds protest Ireland’s ‘George Floyd moment’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/hundreds-protest-irelands-george-floyd?traffic_source=rss"
+      },
+      {
+        "title": "Can Venezuelan oil save India amid the Hormuz energy crisis?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss"
+      },
+      {
+        "title": "‘Something big taking place’: Why has Russia sent more nukes to Belarus?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/too-big-a-risk-why-has-russia-sent-nuclear-warheads-to-belarus?traffic_source=rss"
+      },
+      {
+        "title": "Real Madrid coach Alvaro Arbeloa says he will leave role after poor season",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/real-madrid-coach-alvaro-arbeloa-says-he-will-leave-role-after-poor-season?traffic_source=rss"
+      },
+      {
+        "title": "Tuchel leaves Palmer and Foden out of England’s 2026 World Cup squad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/tuchel-leaves-palmer-and-foden-out-of-englands-2026-world-cup-squad?traffic_source=rss"
+      },
+      {
+        "title": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss"
+      },
+      {
+        "title": "US raises threat of military action against Cuba",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss"
+      },
+      {
+        "title": "Japan’s World Cup 2026 team preview: Players to watch, group, squad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/japans-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 84: US-Iran talks advance amid mediation push",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
+      },
+      {
+        "title": "Monfils warms up for final French Open with star-studded farewell party",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/monfils-warms-up-for-final-french-open-with-star-studded-farewell-party?traffic_source=rss"
+      },
+      {
+        "title": "Two-time NASCAR champ Kyle Busch dies at 41 after ‘severe illness’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/two-time-nascar-champ-kyle-busch-dies-at-41-after-severe-illness?traffic_source=rss"
+      },
+      {
+        "title": "Knicks move two wins from the NBA Finals with 109-93 victory over the Cavs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/22/knicks-move-two-wins-from-the-nba-finals-with-109-93-victory-over-the-cavs?traffic_source=rss"
+      },
+      {
+        "title": "Thousands attend funeral prayers for San Diego mosque attack victims",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-attend-funeral-prayers-for-san-diego-mosque-attack-victims?traffic_source=rss"
+      },
+      {
+        "title": "Turkish opposition leader vows to stay after court ousts him",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/turkish-opposition-leader-vows-to-stay-after-court-ousts-him?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-22T13:25:15.512Z",
     "discarded_untrusted": [
       {
