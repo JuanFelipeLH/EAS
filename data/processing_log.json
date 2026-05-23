@@ -1,5 +1,405 @@
 [
   {
+    "run_at": "2026-05-23T18:25:10.396Z",
+    "discarded_untrusted": [
+      {
+        "title": "44 Illuminating Photos Of John F. Kennedy, From His World War II Heroism To His Marriage And Family",
+        "source": "Allthatsinteresting.com",
+        "url": "https://allthatsinteresting.com/john-f-kennedy-pictures"
+      },
+      {
+        "title": "South Korea’s Nuclear Submarine Push Is a Test of Non-nuclear Deterrence",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/south-koreas-nuclear-submarine-push-is-a-test-of-non-nuclear-deterrence/"
+      },
+      {
+        "title": "Deployable Energy Secures PDSA Approval for Unity Microreactor, Advancing Toward Demonstration",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/deployable-energy-secures-pdsa-approval-for-unity-microreactor-advancing-toward-demonstration-302780235.html"
+      },
+      {
+        "title": "China-US “Constructive and Strategically Stable Relationship” is Epoch-making",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/china-us-constructive-stable-relationship/5927192"
+      },
+      {
+        "title": "Lesson From the May 2025 India-Pakistan Crisis: No Space for Limited War",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/05/lesson-from-the-may-2025-india-pakistan-crisis-no-space-for-limited-war/"
+      },
+      {
+        "title": "Integrative transcriptomic analysis identifies immune-associated candidate genes and altered immune cell infiltration in pulmonary arterial hypertension",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350015"
+      },
+      {
+        "title": "A murine cytomegalovirus cell cycle regulator (m54.5p) evolved within the conserved viral DNA polymerase gene",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013424"
+      },
+      {
+        "title": "Dispatches from O'Reilly: The accidental orchestrator",
+        "source": "Stackoverflow.blog",
+        "url": "https://stackoverflow.blog/2026/05/22/dispatches-from-o-reilly-the-accidental-orchestrator/"
+      },
+      {
+        "title": "Comparison of dose-adjusted EPOCH-R and R-CHOP in diffuse large B-cell lymphoma with high Ki67 expression: Results from a prospective observational study",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350024"
+      },
+      {
+        "title": "UAE condemns drone attack on Barakah nuclear plant as terrorist act",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uae-barakah-nuclear-plant-drone-attack/"
+      },
+      {
+        "title": "wafpass-core 1.0.1",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/wafpass-core/"
+      },
+      {
+        "title": "Rupee plunge sees India turn to 2013 taper tantrum playbook",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-05-22/rupee-plunge-sees-india-turn-to-2013-taper-tantrum-playbook"
+      },
+      {
+        "title": "Ebola outbreak in the DRC, and Artemis III preparation",
+        "source": "The Naked Scientists",
+        "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/ebola-outbreak-drc-and-artemis-iii-preparation"
+      },
+      {
+        "title": "Russia flexes nuclear muscles as tensions rise with NATO",
+        "source": "Japan Today",
+        "url": "https://japantoday.com/category/world/russia-flexes-nuclear-muscles-as-tensions-rise-with-nato3"
+      },
+      {
+        "title": "The Paradox of AI and Climate",
+        "source": "Columbia.edu",
+        "url": "https://news.climate.columbia.edu/2026/05/21/the-paradox-of-ai-and-climate/"
+      },
+      {
+        "title": "China Reportedly Holds Pentagon Talks Hostage Over Trump’s Taiwan Arms Package",
+        "source": "The Daily Caller",
+        "url": "https://dailycaller.com/2026/05/21/china-reportedly-holds-pentagon-talks-hostage-taiwan-weapons/"
+      },
+      {
+        "title": "The Tim Ferriss Show Transcripts: Sami Inkinen of Virta Health — Reversing Type 2 Diabetes, Rowing 2,750 Miles, and Lessons from Fixing Metabolic Health in 100,000+ People (#866)",
+        "source": "Tim.blog",
+        "url": "https://tim.blog/2026/05/21/sami-inkinen-transcript/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Rupee plunge sees India turn to 2013 taper tantrum playbook",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/forex/rupee-plunge-sees-india-turn-to-2013-taper-tantrum-playbook/articleshow/131258009.cms"
+      },
+      {
+        "title": "At least 82 killed in Chinese coal mine explosion",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "SpaceX launches massive Starship V3 rocket on test flight",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Senegal's president sacks PM and former ally after months-long feud",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rubio meets Modi during India visit with energy high on agenda",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "DR Congo players told to isolate before World Cup",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/cpdp8geyqxeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "F1 great Prost 'injured as masked gang raid home'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India's parody 'cockroach party' claims website has been blocked",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddpq71866do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tulsi Gabbard to resign as US national intelligence director",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Race for French presidency sees ex-PM Philippe as early favourite to beat populists",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0410gnv5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One dead and dozens of firefighters injured in Staten Island shipyard explosion",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r814xj8pro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands evacuated in California over warning toxic chemical tank could explode or spill",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bodies of Italian divers did not have optimal equipment, says rescuer",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rubio tries to reassure Nato allies over US troop deployments",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Carney says Alberta is 'essential' to Canada as province plans vote on separation ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sabalenka cuts media short as French Open players protest ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Speed, money and compassion' - lessons from an Ebola survivor and other experts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The space race to create gym equipment for future astronauts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump is putting pressure on Cuba - why and to what end?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "An Indian bride dies. Rival claims of murder and suicide set off media frenzy",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czd2q140my1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran steps up claim to control Strait of Hormuz",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Pitches, PlayStations and protein ice cream - A look inside Brazil's World Cup base camp",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c2l2rgeyjnwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1728ypp15no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why thousands of stock trades tied to Trump are raising eyebrows",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Timelapse footage shows 'giant cave' inflating on Paris bridge",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx214kxw2y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Cuban-Americans feel about Raúl Castro's indictment",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy92ge22298o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fans react to Stephen Colbert’s final show",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgz36rx755o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: 'Everybody back up!' Moment car explodes in NYC",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj3pvglp3vzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/united-states-of-the-middle-east-trump-posts-us-flag-covering-iran?traffic_source=rss"
+      },
+      {
+        "title": "Morocco king pardons jailed Senegal football fans for humanitarian reasons",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/23/morocco-king-pardons-jailed-senegal-football-fans-for-humanitarian-reasons?traffic_source=rss"
+      },
+      {
+        "title": "Thousands march in Madrid demanding Spanish PM quit over graft allegations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss"
+      },
+      {
+        "title": "Hull beat Boro in world’s most lucrative game to reach Premier League",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/23/hull-beat-boro-in-worlds-most-lucrative-game-to-reach-premier-league?traffic_source=rss"
+      },
+      {
+        "title": "Thousands rally in Taiwan to boost defence spending amid China tensions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/thousands-rally-in-taiwan-to-boost-defence-spending-amid-china-tensions?traffic_source=rss"
+      },
+      {
+        "title": "Spanish police beat and detain Gaza flotilla activists at airport",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/spanish-police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss"
+      },
+      {
+        "title": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss"
+      },
+      {
+        "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss"
+      },
+      {
+        "title": "US Secretary of State kicks off India visit, invites Modi to White House",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss"
+      },
+      {
+        "title": "Mamelodi Sundowns vs AS FAR Rabat: CAF Champions League final preview",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/23/mamelodi-sundowns-vs-far-rabat-caf-champions-league-final-preview?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces arrest two children in occupied West Bank village",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss"
+      },
+      {
+        "title": "More than 500 children die in measles outbreak in Bangladesh",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh?traffic_source=rss"
+      },
+      {
+        "title": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss"
+      },
+      {
+        "title": "French Open has ‘positive’ meeting with players over tennis dispute",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute?traffic_source=rss"
+      },
+      {
+        "title": "Rising global costs threaten Mexico’s production costs and food stability",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/23/rising-global-costs-threaten-mexicos-production-costs-and-food-stability?traffic_source=rss"
+      },
+      {
+        "title": "Turkish and Syrian officials detain 10 individuals with alleged ISIL ties",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties?traffic_source=rss"
+      },
+      {
+        "title": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss"
+      },
+      {
+        "title": "Israeli air strike pounds southern Lebanon leaving many injured",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss"
+      },
+      {
+        "title": "The pollution that outlives war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss"
+      },
+      {
+        "title": "DR Congo will not change World Cup preparations despite US Ebola warning",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/23/dr-congo-will-not-change-world-cup-preparations-despite-us-warning?traffic_source=rss"
+      },
+      {
+        "title": "F1 legend Prost suffers head injury in alleged robbery at Swiss home",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/23/f1-legend-prost-suffers-head-injury-in-alleged-robbery-at-swiss-home?traffic_source=rss"
+      },
+      {
+        "title": "Massive fire engulfs residential area in the Philippine capital",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/massive-fire-engulfs-residential-area-in-the-philippine-capital?traffic_source=rss"
+      },
+      {
+        "title": "Cockroach Janta Party’s founder says Indian government took website down",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/cockroach-janta-partys-founder-says-indian-government-took-website-down?traffic_source=rss"
+      },
+      {
+        "title": "World Cup 2026: Haiti fans feel excluded from first tournament since 1974",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-haiti-fans-feel-excluded-from-first-tournament-since-1974?traffic_source=rss"
+      },
+      {
+        "title": "Uganda confirms 3 new Ebola cases, as 10 more countries ‘at risk’ of virus",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/23/uganda-confirms-three-new-ebola-cases-bringing-total-to-five?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-23T18:23:48.064Z",
     "discarded_untrusted": [
       {
