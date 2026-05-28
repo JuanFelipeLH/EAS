@@ -1,5 +1,320 @@
 [
   {
+    "run_at": "2026-05-28T04:15:17.161Z",
+    "discarded_untrusted": [
+      {
+        "title": "North Korea tests new multi-purpose missile launch system",
+        "source": "manilatimes",
+        "url": "https://www.manilatimes.net/2026/05/28/world/asia-oceania/north-korea-tests-new-multi-purpose-missile-launch-system/2352993"
+      },
+      {
+        "title": "Is Washington losing the war with Iran?",
+        "source": "mb",
+        "url": "https://mb.com.ph/article/10919865/opinion/is-washington-losing-the-war-with-iran"
+      },
+      {
+        "title": "Fears Rising That Trump’s New Iran Deal Could Compromise Israel’s Security",
+        "source": "yated",
+        "url": "https://yated.com/fears-rising-that-trumps-new-iran-deal-could-compromise-israels-security/"
+      },
+      {
+        "title": "RON HART: Update From Your Humble War Correspondent",
+        "source": "dailycaller",
+        "url": "https://dailycaller.com/2026/05/27/ron-hart-iran-war-donald-trump-white-house/"
+      },
+      {
+        "title": "Minister: Israel Won't Allow Trump To Make A Peace Deal With Iran",
+        "source": "menafn",
+        "url": "https://menafn.com/1111175795/Minister-Israel-Wont-Allow-Trump-To-Make-A-Peace-Deal-With-Iran"
+      },
+      {
+        "title": "Trump moves forward with plan to turn Cold War nuclear bomb material into reactor fuel",
+        "source": "independentuk",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-plutonium-cold-war-nuclear-weapon-b2984449.html"
+      },
+      {
+        "title": "Reported terms of Trump’s Iran deal would confirm the war as an epochal failure",
+        "source": "timesofisrael",
+        "url": "https://www.timesofisrael.com/reported-terms-of-trumps-iran-deal-would-confirm-the-war-as-an-epochal-failure/"
+      },
+      {
+        "title": "'Truly unstable' Trump's new 'unhinged' proposal gave Iran the upper hand: expert",
+        "source": "rawstory",
+        "url": "https://www.rawstory.com/trump-iran-gift-2676959842/"
+      },
+      {
+        "title": "Opinion: The Navy’s new battleship is a boondoggle in the making",
+        "source": "yakimaherald",
+        "url": "https://www.yakimaherald.com/opinion/opinion-the-navy-s-new-battleship-is-a-boondoggle-in-the-making/article_18a88d3d-32bf-4be4-914b-f02ed536099e.html"
+      },
+      {
+        "title": "‘The Lebanonization’ of Iraq: A Lesson that Washington Never Learned and that Tehran Mastered",
+        "source": "aawsat",
+        "url": "https://english.aawsat.com/opinion/5277737-%E2%80%98-lebanonization%E2%80%99-iraq-lesson-washington-never-learned-and-tehran-mastered"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "US strikes Iran targets for second time in three days",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel issues evacuation order for swathes of southern Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five people found alive after week trapped in flooded Laos cave ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Woman caught after 30 years on the run is jailed for armed robberies",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One killed and nine missing after chemical explosion at US paper mill",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Korea detains dissident who fled China in rubber boat",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nasa unveils next steps to build permanent Moon base",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "We analysed thousands of Trump's posts - here's what we found",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How my brother went from liberal Hollywood actor to manosphere 'messiah'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Is 'out of control' US tipping culture spreading overseas?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Paul McCartney on playing guitar with Paul Mescal: 'He knew it better than I did!'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8pjg6jp38o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The world's carmakers are struggling to compete with China",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Moment rescuers find five people trapped in Laos cave",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cewpqy948ero?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: UFC arena construction begins at White House ahead of fight",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cz7253q4g4jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Paris 'punishingly hot' as Western Europe hit by heatwave",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cy522zrkr7lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Bridge collapses and car swept away in China river",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Google employee charged with insider trading over Polymarket bets",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss"
+      },
+      {
+        "title": "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss"
+      },
+      {
+        "title": "Parisians defy swimming ban to cool off as record heat hits Europe",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss"
+      },
+      {
+        "title": "Uganda closes border with DRC in an effort to contain Ebola outbreak",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Jill Biden worried husband Joe was ‘having a stroke’ during 2024 US debate",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/jill-biden-worried-husband-joe-was-having-a-stroke-during-2024-us-debate?traffic_source=rss"
+      },
+      {
+        "title": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Markets rally amid hopes of US-Iran deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss"
+      },
+      {
+        "title": "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss"
+      },
+      {
+        "title": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Trump says no one will control Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Ghana welcomes first group fleeing South African anti-immigration protests",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/ghana-welcomes-first-group-escaping-south-african-anti-immigrant-protests?traffic_source=rss"
+      },
+      {
+        "title": "Alabama pushes US Supreme Court to approve congressional map for midterms",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/alabama-pushes-us-supreme-court-to-approve-congressional-map-for-midterms?traffic_source=rss"
+      },
+      {
+        "title": "Trump appears to threaten Oman over Strait of Hormuz impasse",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss"
+      },
+      {
+        "title": "Can the US and India repair ties over trade and China?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss"
+      },
+      {
+        "title": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss"
+      },
+      {
+        "title": "Florida’s ‘Alligator Alcatraz’ migrant detention centre to close",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/floridas-alligator-alcatraz-migrant-detention-centre-to-close?traffic_source=rss"
+      },
+      {
+        "title": "Raid on Indian opposition leader triggers violence in Kerala",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/raid-on-indian-opposition-leader-triggers-violence-in-kerala?traffic_source=rss"
+      },
+      {
+        "title": "India orders demolition drive along border as Pakistan tensions simmer",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer?traffic_source=rss"
+      },
+      {
+        "title": "Russia to task bankers with shooting down Ukrainian drones",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/russia-to-task-bankers-with-shooting-down-ukrainian-drones?traffic_source=rss"
+      },
+      {
+        "title": "EU states summon Russian envoys over Kyiv threat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/belgium-france-latest-countries-to-summon-envoys-following-russia-threats?traffic_source=rss"
+      },
+      {
+        "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss"
+      },
+      {
+        "title": "Canada chooses Swedish early warning planes rather than US model",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/27/canada-chooses-swedish-early-warning-planes-rather-than-us-model?traffic_source=rss"
+      },
+      {
+        "title": "Rescue teams find five of seven trapped in Laos cave",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/27/rescue-teams-find-five-of-seven-trapped-in-laos-cave?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-28T04:10:15.898Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
