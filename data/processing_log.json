@@ -1,5 +1,274 @@
 [
   {
+    "run_at": "2026-05-29T10:40:12.926Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70% ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c172yyvp55do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Moment Blue Origin rocket explodes during test in Florida",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italy restores lucky testicles on bull mosaic worn down by tourists ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mother-in-law of Indian bride whose death set off media frenzy arrested",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2e2lw0pv7zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgrp7y05l9do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Portugal breaks hottest May day record as Europe swelters in heatwave",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3v2yv5207xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel hits Lebanese capital in 'targeted strike'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man arrested after three injured in stabbing at Swiss train station",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Questions over safety as 16 pupils die in another Kenya school fire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia charges woman who returned from Syria with joining Islamic State",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "EU fines Temu €200m for allowing sale of illegal products",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "We analysed thousands of Trump's posts - here's what we found",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How my brother went from liberal Hollywood actor to manosphere 'messiah'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Is 'out of control' US tipping culture spreading overseas?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Duterte ICC trial to start on 30 November: What you need to know",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c363xd6p1gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Paul McCartney on playing guitar with Paul Mescal: 'He knew it better than I did!'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8pjg6jp38o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Fifa is being investigated over World Cup ticket prices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Moment 14-year-old wins US national spelling bee",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c87qnjj8x7lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How did this novel about food win a Booker Prize this year?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "In court as Matthew Perry's assistant sentenced",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckgp8mrj5ggo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss"
+      },
+      {
+        "title": "WHO chief visits DRC amidst Ebola crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran 60-day proposal: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Kenyan court suspends US Ebola quarantine facility plan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss"
+      },
+      {
+        "title": "How the end of the nuclear file could reshape Iran, and the region",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/29/how-the-end-of-the-nuclear-file-could-reshape-iran-and-the-region?traffic_source=rss"
+      },
+      {
+        "title": "A visual guide to Ethiopia’s ethnic groups and conflict areas",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/a-visual-guide-to-ethiopias-ethnic-groups-and-conflict-areas?traffic_source=rss"
+      },
+      {
+        "title": "Gaza parents brave dental dilemma: Costly treatment or food on the table?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss"
+      },
+      {
+        "title": "South Korea’s SK Hynix enters exclusive $1 trillion club",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/5/29/south-koreas-sk-hynix-enters-exclusive-1-trillion-club?traffic_source=rss"
+      },
+      {
+        "title": "NATO states slam Russia after drone crashes in Romania",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss"
+      },
+      {
+        "title": "Netherlands’ World Cup 2026 team preview: Players to watch, group, squad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/netherlands-world-cup-2026-team-preview-players-to-watch-group-squad?traffic_source=rss"
+      },
+      {
+        "title": "Israel football dispute to ‘heat up’ after protest in Ireland-Qatar match",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/israel-football-dispute-to-heat-up-further-from-ireland-qatar-protests?traffic_source=rss"
+      },
+      {
+        "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired?traffic_source=rss"
+      },
+      {
+        "title": "Blue Origin rocket explodes on launch pad during test",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/blue-origin-rocket-explodes-on-launch-pad-during-test?traffic_source=rss"
+      },
+      {
+        "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss"
+      },
+      {
+        "title": "At least six feared dead after bridge collapses in northern India",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/at-least-six-feared-dead-after-bridge-collapses-in-northern-india?traffic_source=rss"
+      },
+      {
+        "title": "Messi to captain Argentina at World Cup as Scaloni plays down injury fears",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/messi-to-captain-argentina-at-world-cup-as-scaloni-plays-down-injury-fears?traffic_source=rss"
+      },
+      {
+        "title": "State of trauma: Israel wrestles with mental aftershocks of war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war?traffic_source=rss"
+      },
+      {
+        "title": "Wembanyama and Spurs force game seven against Thunder in NBA playoffs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/wembanyama-and-spurs-force-game-seven-against-thunder-in-nba-playoffs?traffic_source=rss"
+      },
+      {
+        "title": "Senegal deny World Cup travel delay is due to coach dispute",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/29/senegal-deny-world-cup-travel-delay-is-due-to-coach-dispute?traffic_source=rss"
+      },
+      {
+        "title": "Ethiopia to vote on June 1 as Abiy’s ruling party eyes landslide victory",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/ethiopia-to-vote-on-june-1-as-abiys-ruling-party-eyes-landslide?traffic_source=rss"
+      },
+      {
+        "title": "Mexico backs amendment to annul election results over foreign interference",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/mexico-backs-amendment-to-annul-election-results-over-foreign-interference?traffic_source=rss"
+      },
+      {
+        "title": "Colombia’s voters will decide between ‘two visions for the country’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/colombias-voters-will-decide-between-two-visions-for-the?traffic_source=rss"
+      },
+      {
+        "title": "At least three dead after fire destroys Dallas apartment complex",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/at-least-three-dead-after-fire-destroys-dallas-apartment-complex?traffic_source=rss"
+      },
+      {
+        "title": "Blue Origin’s New Glenn rocket explodes on launchpad in Florida",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/29/blue-origins-new-glenn-rocket-explodes-on-launch-pad?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon Latest: Mass evacuations as Israel expands attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/lebanon-latest-mass-evacuations-as-israel-expands-attacks?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-29T10:35:13.792Z",
     "discarded_untrusted": [
       {
