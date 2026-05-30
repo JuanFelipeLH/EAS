@@ -1,5 +1,320 @@
 [
   {
+    "run_at": "2026-05-30T21:55:11.837Z",
+    "discarded_untrusted": [
+      {
+        "title": "US says it is capable to resume war with Iran as deal remains elusive",
+        "source": "yahoo",
+        "url": "https://ca.news.yahoo.com/us-says-capable-resume-war-094740463.html"
+      },
+      {
+        "title": "President Trump remains in ‘excellent health’ after annual physical examination, says physician’s memo",
+        "source": "publictv_in",
+        "url": "https://english.publictv.in/president-trump-remains-in-excellent-health-after-annual-physical-examination-says-physicians-memo/"
+      },
+      {
+        "title": "Israeli claims about an Iran 'threat' were always a lie. Now we have proof",
+        "source": "middleeasteye",
+        "url": "https://www.middleeasteye.net/opinion/israeli-claims-about-iran-threat-were-always-lie-now-we-have-proof"
+      },
+      {
+        "title": "Trump ends Situation Room meeting without announcement; WH says ceasefire deal ‘must satisfy red lines’",
+        "source": "publictv_in",
+        "url": "https://english.publictv.in/trump-ends-situation-room-meeting-without-announcement-wh-says-ceasefire-deal-must-satisfy-red-lines/"
+      },
+      {
+        "title": "US deal with Tehran remains elusive, Pentagon threatens to restart war",
+        "source": "thearabweekly",
+        "url": "http://thearabweekly.com/us-deal-tehran-remains-elusive-pentagon-threatens-restart-war"
+      },
+      {
+        "title": "Trump ponders whether to move forward with Iran deal but hasn't yet decided",
+        "source": "mb",
+        "url": "https://mb.com.ph/article/10920248/world/trump-ponders-whether-to-move-forward-with-iran-deal-but-hasnt-yet-decided"
+      },
+      {
+        "title": "Trump ends Situation Room meeting without announcement; WH says ceasefire deal must \"satisfy red lines\"",
+        "source": "thehindubusinessline",
+        "url": "https://www.thehindubusinessline.com/news/world/trump-ends-situation-room-meeting-without-announcement-wh-says-ceasefire-deal-must-satisfy-red-lines/article71040231.ece"
+      },
+      {
+        "title": "Trump says he will soon decide on Iran deal, demands reopening of Hormuz Strait",
+        "source": "tbsnews_net",
+        "url": "https://www.tbsnews.net/world/trump-says-he-will-soon-decide-iran-deal-demands-reopening-hormuz-strait-1450646"
+      },
+      {
+        "title": "Why does Trump want to transfer Cold War-era plutonium to nuclear start-ups?",
+        "source": "yahoo",
+        "url": "https://ca.news.yahoo.com/why-does-trump-want-transfer-074056651.html"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "US, UK and Australia to develop underwater drone technology",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four more men freed from flooded Laos cave after 10 days",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w21gn340xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ghana's parliament passes anti-LGBTQ+ bill",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italy restores lucky testicles on bull mosaic worn down by tourists ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's like a decaying body': Australian farmers battle mouse plague ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Gifts' from a lover and 'botched' cocaine raids: Police inquiry grips South Africa",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9p5e1jg72o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Men written by women': How ice hockey romances like Off Campus became TV's hottest new genre",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypz87rqy1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "After decades risking arrest, South Korea's tattoo artists step into the limelight",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4pwdn6130o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mumbai's famed dabbawalas fed millions for over 100 years - now they are disappearing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c202d0l92weo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How did tattoo artists become legal in South Korea?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c9we0ln71llo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Fifa is being investigated over World Cup ticket prices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Can Americans spell the National Spelling Bee’s winning words?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g8xy2n2zdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What does Blue Origin rocket mishap mean for Nasa's Moon mission?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss"
+      },
+      {
+        "title": "PSG beat Arsenal to win back-to-back Champions League titles after shootout",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss"
+      },
+      {
+        "title": "Women bear the brunt of DRC’s Ebola outbreak",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/women-bear-the-brunt-of-drcs-ebola-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "Putin says drone that crashed in Romania likely Ukrainian",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/putin-says-drone-that-crashed-in-romania-likely-ukrainian?traffic_source=rss"
+      },
+      {
+        "title": "Is the war in Ukraine entering a new phase?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss"
+      },
+      {
+        "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss"
+      },
+      {
+        "title": "Qatar says temporary charges ‘negotiable’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss"
+      },
+      {
+        "title": "Bruce Springsteen calls out Trump’s ‘reckless’ administration",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/bruce-springsteen-calls-out-trumps-reckless-administration?traffic_source=rss"
+      },
+      {
+        "title": "22 killed as truck carrying refugees overturns in Afghanistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss"
+      },
+      {
+        "title": "Voters in Malta head to polls for early elections",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/voters-in-malta-head-to-polls-for-early-elections?traffic_source=rss"
+      },
+      {
+        "title": "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Liverpool sack Arne Slot after disastrous Premier League title defence",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/liverpool-sack-arne-slot-after-disastrous-premier-league-title-defence?traffic_source=rss"
+      },
+      {
+        "title": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss"
+      },
+      {
+        "title": "‘Opposite visions’: What to know about Colombia’s presidential election",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss"
+      },
+      {
+        "title": "Indonesia’s Mount Merapi volcano erupts, spewing ash into the sky",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/indonesias-mount-merapi-volcano-erupts-spewing-ash-into-the-sky?traffic_source=rss"
+      },
+      {
+        "title": "Senior Sri Lankan monk suspended over child sex abuse allegation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss"
+      },
+      {
+        "title": "Rescuers free four more men from flooded Laos cave, two still missing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/rescuers-free-four-more-men-from-flooded-laos-cave-two-still-missing?traffic_source=rss"
+      },
+      {
+        "title": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18?traffic_source=rss"
+      },
+      {
+        "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss"
+      },
+      {
+        "title": "Violence against foreign-owned shops in South Africa",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss"
+      },
+      {
+        "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "The Iran war is dividing Muslims in the Philippines",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss"
+      },
+      {
+        "title": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss"
+      },
+      {
+        "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "PSG beat Arsenal on penalties (1-1 aet): Champions League – as it happened",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/5/30/live-psg-vs-arsenal-champions-league-final?traffic_source=rss"
+      },
+      {
+        "title": "US says it is capable to resume war with Iran as deal remains elusive",
+        "source": "euronews",
+        "url": "http://www.euronews.com/2026/05/30/us-says-it-is-capable-to-resume-war-with-iran-as-deal-remains-elusive"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-05-30T21:50:14.944Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
