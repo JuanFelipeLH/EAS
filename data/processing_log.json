@@ -1,5 +1,365 @@
 [
   {
+    "run_at": "2026-06-01T03:35:12.367Z",
+    "discarded_untrusted": [
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "themercury",
+        "url": "https://themercury.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_70f61fc5-8b7a-5ba1-8396-938c27798949.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "newsargus",
+        "url": "https://www.newsargus.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_770bd0e3-a1e0-5292-878f-a6152fbca76c.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "ttownmedia",
+        "url": "https://www.ttownmedia.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_494836ed-5784-5621-9796-709383f01edc.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "themountainpress",
+        "url": "https://www.themountainpress.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_7cbfec98-a8c7-5025-99d7-7aa63f37d8fa.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "hendersondispatch",
+        "url": "https://www.hendersondispatch.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_9bb43715-eda8-5e77-8245-30d2307ff694.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "communitynewspapergroup",
+        "url": "https://www.communitynewspapergroup.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_a5e31e9d-c035-5cc4-8678-160f8bcc68f5.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "news_daily",
+        "url": "https://www.news-daily.com/features/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_12e34bc1-1778-5378-8206-95ab7fe88ffb.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "laconiadailysun",
+        "url": "https://www.laconiadailysun.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_3d848dba-8b86-56ee-99d2-2328a6ffb64a.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "griffindailynews",
+        "url": "https://www.griffindailynews.com/lifestyles/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_c47a7281-c6a7-501c-be82-79feeeb80bf2.html"
+      },
+      {
+        "title": "Dolph Lundgren Talks ‘History’s Greatest Machines’ & His Brother’s Very Different Life",
+        "source": "guampdn",
+        "url": "https://www.guampdn.com/lifestyle/entertainment/dolph-lundgren-talks-history-s-greatest-machines-his-brother-s-very-different-life/article_2f1dc015-7cfe-5490-af30-3e7d4204aa91.html"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump seeking edits to US-Iran deal, US media report",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa made to look like fools over World Cup visa issues, says minister",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dead whale towed ashore in Denmark ahead of autopsy",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nicaraguan indigenous leader dies after three years in prison",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Laos cave survivors help with plan to find last two missing men",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil monitors two patients for possible Ebola infection  ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigerian retired general abducted with his wife in the north-west",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US, UK and Australia to develop underwater drone technology",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four more men freed from flooded Laos cave after 10 days",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A year of grief and waiting: What remains when a plane falls from the sky",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The drivers risking death on Ukraine's most dangerous bus routes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Caribbean hot sauce producers warn of shortages and higher prices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Putin became master of the image",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's like a decaying body': Australian farmers battle mouse plague ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Between celebration and confrontation: Paris after PSG victory",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How did tattoo artists become legal in South Korea?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c9we0ln71llo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Fifa is being investigated over World Cup ticket prices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx2164ldp0ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Can Americans spell the National Spelling Bee’s winning words?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g8xy2n2zdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What does Blue Origin rocket mishap mean for Nasa's Moon mission?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cg4pd3n30w6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china?traffic_source=rss"
+      },
+      {
+        "title": "‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/1/before-the-land-sustained-us-who-benefits-from-guineas-bauxite-wealth?traffic_source=rss"
+      },
+      {
+        "title": "Colombia’s outsider candidate defied the polls",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_qt_guest-jorge-restrepo_colombia-elections-310526?traffic_source=rss"
+      },
+      {
+        "title": "Donated milk reaches Cuba amid deepening shortages",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/donated-milk-reaches-cuba-amid-deepening-shortages?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss"
+      },
+      {
+        "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss"
+      },
+      {
+        "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss"
+      },
+      {
+        "title": "Can AI cure loneliness? South Korea’s robot companions for seniors",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/can-ai-cure-loneliness-south-koreas-robot-companions-for-seniors?traffic_source=rss"
+      },
+      {
+        "title": "New Jersey orders curfew after immigration protests escalate",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/new-jersey-orders-curfew-after-immigration-protests-escalate?traffic_source=rss"
+      },
+      {
+        "title": "Ethiopia to vote in first elections since Tigray peace deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/ethiopia-to-vote-in-first-elections-since-tigray-peace-deal?traffic_source=rss"
+      },
+      {
+        "title": "Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/5/31/kohli-powers-bengaluru-to-stuff-of-dreams-back-to-back-ipl-titles?traffic_source=rss"
+      },
+      {
+        "title": "As Ethiopia votes, its deepening human rights crisis must be addressed",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss"
+      },
+      {
+        "title": "Ethiopia’s election is about affirming national commitment to democracy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss"
+      },
+      {
+        "title": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss"
+      },
+      {
+        "title": "What’s at stake in Ethiopia’s elections?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/5/31/whats-at-stake-in-ethiopias-elections?traffic_source=rss"
+      },
+      {
+        "title": "Explosives store blast kills dozens in Myanmar village",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/explosives-store-blast-kills-dozens-in-myanmar-village?traffic_source=rss"
+      },
+      {
+        "title": "Building collapses in New Delhi, some people rescued, more feared trapped",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/building-collapses-in-new-delhi-some-people-rescued-more-feared-trapped?traffic_source=rss"
+      },
+      {
+        "title": "US measure to deepen Israel military cooperation faces bipartisan pushback",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss"
+      },
+      {
+        "title": "US Congress moves to deepen military ties with Israel: Why it matters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters?traffic_source=rss"
+      },
+      {
+        "title": "The largest Israeli advance into Lebanon in years",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-largest-israeli-advance-into-lebanon-in-years?traffic_source=rss"
+      },
+      {
+        "title": "Polls open in Colombia’s pivotal presidential election",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/polls-open-in-colombias-pivotal-presidential-election?traffic_source=rss"
+      },
+      {
+        "title": "Dozens killed in explosives depot blast in northeast Myanmar",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/dozens-killed-in-blast-at-explosives-depot-in-northeastern-myanmar?traffic_source=rss"
+      },
+      {
+        "title": "The Bazaar of Return in Aida Refugee Camp",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/the-bazaar-of-return-in-aida-refugee-camp?traffic_source=rss"
+      },
+      {
+        "title": "Ethiopia’s election: Parties, coalitions and candidates explained",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss"
+      },
+      {
+        "title": "Iran ⁠restores some gas production at South Pars facility",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-01T03:30:15.647Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
