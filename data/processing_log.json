@@ -1,5 +1,405 @@
 [
   {
+    "run_at": "2026-06-01T15:06:18.124Z",
+    "discarded_untrusted": [
+      {
+        "title": "Day 1,558 of WW3: Russia has begun forming its third and largest outer air defense ring encompassing Moscow. Gee... think they're getting nervous? This is your Sunday Ukraine conversation [News]",
+        "source": "Fark.com",
+        "url": "https://www.fark.com/comments/14084474/Day-1558-of-WW3-Russia-has-begun-forming-its-third-largest-outer-air-defense-ring-encompassing-Moscow-Gee-think-theyre-getting-nervous-This-is-your-Sunday-Ukraine-conversation"
+      },
+      {
+        "title": "AI Is Great At Analyzing The Past. Venture Capital Bets On The Future",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/annademeo/2026/05/31/ai-is-great-at-analyzing-the-past-venture-capital-bets-on-the-future/"
+      },
+      {
+        "title": "SoftBank is investing €75 billion to build 5 gigawatts of AI data centres in France. It’s Son’s biggest European bet.",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/softbank-75-billion-ai-data-centres-france-macron/"
+      },
+      {
+        "title": "SpaceX Vow To Loft 1 Million AI Satellites Could Spark Doomsday Dive",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/05/31/spacex-vow-to-loft-1-million-ai-satellites-could-spark-doomsday-dive/"
+      },
+      {
+        "title": "10 Classic Sci-Fi Books You Should Read In 2026",
+        "source": "Screen Rant",
+        "url": "https://screenrant.com/classic-sci-fi-books-worth-reading-2026/"
+      },
+      {
+        "title": "Revisiting Saturated Fat's Role in Cardiovascular Disease — The Case for C15:0",
+        "source": "Mercola.com",
+        "url": "https://articles.mercola.com/sites/articles/archive/2026/05/31/saturated-fat-c15-cardiovascular-disease.aspx"
+      },
+      {
+        "title": "Iranian missile fired at Americans intercepted, but wreckage still leaves injuries",
+        "source": "Wnd.com",
+        "url": "https://www.wnd.com/2026/05/iranian-missile-fired-americans-intercepted-wreckage-still-leaves/"
+      },
+      {
+        "title": "How ‘Project Plowshare’ Planned to Use Nuclear Bombs for Excavation",
+        "source": "Laughingsquid.com",
+        "url": "https://laughingsquid.com/project-plowshare-nuclear-bomb-excavation/"
+      },
+      {
+        "title": "80,000 Hours: The Book",
+        "source": "Marginalrevolution.com",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/05/80000-hours-the-book.html"
+      },
+      {
+        "title": "Links 5/30/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/05/links-5-30-2026.html"
+      },
+      {
+        "title": "Cutting-edge underwater tech for AUKUS forces to be developed through landmark partnership",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/news/cutting-edge-underwater-tech-for-aukus-forces-to-be-developed-through-landmark-partnership"
+      },
+      {
+        "title": "Russian nuclear-capable Oreshnik missile fired in January was 9 years old, Ukrainian experts say",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/30/world-news/russian-nuclear-capable-oreshnik-missile-fired-in-january-was-9-years-old-ukrainian-experts-say/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "NABARD Development Assistant 2026: Mains results out soon; here's how to check",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/education/news/nabard-development-assistant-2026-mains-results-out-soon-heres-how-to-check/articleshow/131423261.cms"
+      },
+      {
+        "title": "Pete Hegseth’s silence on Taiwan is exactly what Xi Jinping wants",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/pete-hegseths-silence-on-taiwan-is-exactly-what-xi-jinping-wants/articleshow/131422227.cms"
+      },
+      {
+        "title": "Concerns mount that Belarus could be a launchpad for a new Russian offensive in Ukraine",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/International/wireStory/concerns-mount-belarus-launchpad-new-russian-offensive-ukraine-133460131"
+      },
+      {
+        "title": "Cutting-edge underwater tech for AUKUS forces to be developed through landmark partnership",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260530-ukmod01.htm"
+      },
+      {
+        "title": "IP University admission 2026: GGSIPU application window closing today, check direct link to apply here",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/education/news/ip-university-admission-2026-ggsipu-application-window-closing-today-check-direct-link-to-apply-here/articleshow/131404719.cms"
+      },
+      {
+        "title": "SC allows Vinesh Phogat to participate in Asiad trials today",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/more-sports/wrestling/sc-allows-vinesh-phogat-to-participate-in-asiad-trials-today/articleshow/131403978.cms"
+      },
+      {
+        "title": "CBI chief vows logical end to NEET probe, NTA says computer-based test will curb leaks",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/cbi-chief-vows-logical-end-to-neet-probe-nta-says-comp-based-test-will-curb-leaks/articleshow/131399059.cms"
+      },
+      {
+        "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cglp7p787njo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Five patients recover from Ebola in DR Congo and leave hospital",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cz928xq588no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria police warn against reprisal attacks against South Africans",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Litterbugs now face on-the-spot fines in Tokyo's tourist hotspot",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr7py513njmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Voting suspended in parts of Ethiopia over security concerns ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0pngz2rego?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa made to look like fools over World Cup visa issues, says minister",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dead whale towed ashore in Denmark ahead of autopsy",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpwpl9vn0yqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nicaraguan indigenous leader dies after three years in prison",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Laos cave survivors help with plan to find last two missing men",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump seeking edits to US-Iran deal, US media report",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil monitors two patients for possible Ebola infection  ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy72z48zd7po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Cancel it', Trump says after artists drop out of US Freedom 250 festival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2z23122zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A year of grief after Air India crash: What remains when a plane falls from the sky",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The drivers risking death on Ukraine's most dangerous bus routes",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Caribbean hot sauce producers warn of shortages and higher prices",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Putin became master of the image",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's like a decaying body': Australian farmers battle mouse plague ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c794g80lw74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's doctor says he's in excellent health - but are US presidents' health checks a PR exercise?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q39dx778zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Fans break glass door trying to see TV star",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Between celebration and confrontation: Paris after PSG victory",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I will sleep with fear': Romanians shaken after block of flats hit by drone",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g5kxl9k1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/indian-pm-modi-meets-myanmar-military-govt-leader-in-new-delhi?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon latest: Israel captures more land in the south",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/lebanon-latest-israel-captures-more-land-in-the-south?traffic_source=rss"
+      },
+      {
+        "title": "Egypt’s new monorail offers a modern ride, but Cairo is still not convinced",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/1/egypts-new-monorail-offers-a-modern-ride-but-cairo-is-still-not-convinced?traffic_source=rss"
+      },
+      {
+        "title": "Sacked Arsenal staffer doesn’t regret speaking out for Palestine",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/sacked-arsenal-staffer-doesnt-regret-speaking-out-for-palestine?traffic_source=rss"
+      },
+      {
+        "title": "Huge explosion at Malta fireworks factory",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/huge-explosion-at-malta-fireworks-factory?traffic_source=rss"
+      },
+      {
+        "title": "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/spoiled-insulin-sudan-war-disrupts-drug-supplies-fuelling-smuggling?traffic_source=rss"
+      },
+      {
+        "title": "Hungary’s Magyar to amend the constitution to remove President Tamas Sulyok",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/hungarys-magyar-to-amend-the-constitution-to-remove-president-tamas-sulyok?traffic_source=rss"
+      },
+      {
+        "title": "How the world failed Ryan and Yaman",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine’s forcibly transferred children must not be a bargaining chip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/6/1/ukraines-forcibly-transferred-children-must-not-be-a-bargaining-chip?traffic_source=rss"
+      },
+      {
+        "title": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss"
+      },
+      {
+        "title": "How could El Nino reshape tropical storms around the world this year?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/how-could-el-nino-reshape-tropical-storms-around-the-world-this-year?traffic_source=rss"
+      },
+      {
+        "title": "Greece reopens Syrian and Afghan asylum cases, hoping for returns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/greece-reopens-syrian-and-afghan-asylum-cases-hoping-for-returns?traffic_source=rss"
+      },
+      {
+        "title": "England World Cup 2026 team preview: Players to watch, group and squad list",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/1/england-world-cup-2026-team-preview-players-to-watch-group-and-squad-list?traffic_source=rss"
+      },
+      {
+        "title": "French Navy seizes Russian oil tanker",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/french-navy-seizes-russian-oil-tanker?traffic_source=rss"
+      },
+      {
+        "title": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss"
+      },
+      {
+        "title": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/kuwait-condemns-iranian-attack-as-iran-us-trade-new-strikes?traffic_source=rss"
+      },
+      {
+        "title": "French navy, backed by the UK, intercepts Russian oil tanker",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss"
+      },
+      {
+        "title": "Ethiopia holds elections with PM Abiy’s party expected to dominate",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/ethiopia-holds-elections-with-pm-abiys-party-expected-to-dominate?traffic_source=rss"
+      },
+      {
+        "title": "Israel bombs a beloved Lebanese landmark, chef Husen Fayad’s restaurant",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-bombs-a-beloved-lebanese-landmark-chef-husen-fayads-restaurant?traffic_source=rss"
+      },
+      {
+        "title": "US, Iran trade new attacks amid talks: Here’s what we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss"
+      },
+      {
+        "title": "Which football rule changes will be implemented during the World Cup?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/1/which-football-rule-changes-will-be-implemented-during-the-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s IRGC launches retaliatory strike after US attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Political commentators Cenk, Piker say UK bars them over Israel remarks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/1/political-commentators-cenk-piker-say-uk-bars-them-over-israel-remarks?traffic_source=rss"
+      },
+      {
+        "title": "Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/1/vinicius-brings-maracana-curtain-raiser-to-life-as-brazil-rout-panama-6-2?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-01T15:05:17.814Z",
     "discarded_untrusted": [
       {
