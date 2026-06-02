@@ -1,5 +1,395 @@
 [
   {
+    "run_at": "2026-06-02T16:50:20.077Z",
+    "discarded_untrusted": [
+      {
+        "title": "Can You Stop a Hypersonic Missile?",
+        "source": "Github.io",
+        "url": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/"
+      },
+      {
+        "title": "Israel just crossed a Red Line in Lebanon nobody noticed",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4381869/posts"
+      },
+      {
+        "title": "Targeting BRD2 and BRD4 inhibit the growth of KSHV-infected immortalized endothelial cells through suppression of LANA translation",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014288"
+      },
+      {
+        "title": "Bisphenol BPAF and BPC are agonists for estrogen receptor ERα but antagonists for N-terminal domain-lacking ERα",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350499"
+      },
+      {
+        "title": "Canalization of neural dynamics by δ-protocadherins in the developing zebrafish optic tectum",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012171"
+      },
+      {
+        "title": "Multi-omics and pan-cancer analysis revealed common molecular signatures to disclose multitargeted anticancer agents through network pharmacology approach",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350614"
+      },
+      {
+        "title": "A designed peptide disrupting viral protease cleavage restores cGAS-DNA phase separation and type I interferon responses",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014291"
+      },
+      {
+        "title": "Trump Tested For Camel-Identification Dementia Every Doctor Visit Now, We Guess",
+        "source": "Wonkette.com",
+        "url": "https://www.wonkette.com/p/trump-tested-for-camel-identification"
+      },
+      {
+        "title": "My husband's family has run the same company for 170 years. I married into it at 24, and now my role is 'family president.'",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/woman-leading-multigenerational-family-busines-2026-6"
+      },
+      {
+        "title": "Mo Gawdat: AI’s impact is shaped by human choices, ethical concerns in warfare are critical, and job disruption is imminent | The Diary of a CEO",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/mo-gawdat-ais-impact-is-shaped-by-human-choices-ethical-concerns-in-warfare-are-critical-and-job-disruption-is-imminent-the-diary-of-a-ceo/"
+      },
+      {
+        "title": "How China keeps North Korea's economy alive",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/how-china-keeps-north-koreas-economy-alive/a-77295494"
+      },
+      {
+        "title": "Why China keeps North Korea's economy alive",
+        "source": "DW (English)",
+        "url": "https://www.dw.com/en/why-china-keeps-north-koreas-economy-alive/a-77295494"
+      },
+      {
+        "title": "Putin's 'unstoppable' hypersonic missile 'strikes RUSSIAN targets in humiliating blunder'",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15863365/Putins-unstoppable-hypersonic-missile-strikes-RUSSIAN-targets-humiliating-blunder.html"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "WATCH: Marilyn Monroe's lasting impact on Hollywood",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133479913/"
+      },
+      {
+        "title": "WATCH: Celebrating Marilyn Monroe on her 100th birthday",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133477438/"
+      },
+      {
+        "title": "US-Iran conflict flares again: American strikes trigger missile retaliation as peace talks falter",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-iran-conflict-flares-again-american-strikes-trigger-missile-retaliation-as-peace-talks-falter/articleshow/131444248.cms"
+      },
+      {
+        "title": "WATCH: Countdown to NBA Finals: Spurs to face Knicks",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133478973/"
+      },
+      {
+        "title": "WATCH: Preview of 'History's Greatest Machines'",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133480948/"
+      },
+      {
+        "title": "WATCH: Horror film 'Backrooms' makes box office history",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133477690/"
+      },
+      {
+        "title": "WATCH: Hundreds arrested in violent clashes after Champions League win",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133472033/"
+      },
+      {
+        "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "British couple lose Iran jail sentence appeal, family says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada formally requests renewal of North American free trade pact",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Maga influencer admits London Tube station assault",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa police investigate killing of two Mozambican men ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sabrina Carpenter gets restraining order against man who showed up at her home",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7v9p9yy370o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Steph Curry signs with Chinese brand after Under Armour split",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Missing lab worker found dead in New Mexico nearly a year after disappearing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0723mr8j3po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Italians bemused by Milan bull mosaic restoration",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgp72v8q0wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Six people killed in Iowa domestic dispute, police say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg4p7e6301do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "He was a reality show villain. Can he be the mayor of one of America's largest cities?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c775x852rk1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Mornings and nights no longer exist' at 47C:  A day in the hottest place in India",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crmp0krp98ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Myanmar president's India visit is being closely watched",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckgplnj1wexo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump inserts himself into the centre of America's 250th birthday celebrations",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clypkj2e349o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy5222wn410o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Cornish miners brought football to Mexico",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How health workers in DR Congo are treating Ebola and staying safe",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgepl7ler5eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Explosion at fireworks factory in Malta",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Between celebration and confrontation: Paris after PSG victory",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UN tells world to brace for extreme weather as El Nino looms",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms?traffic_source=rss"
+      },
+      {
+        "title": "China opens its markets to African exports. Who benefits?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits?traffic_source=rss"
+      },
+      {
+        "title": "Intisar Shanib becomes first woman to head football club in Libya",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/intisar-shanib-first-woman-to-become-president-of-libyan-sports-club?traffic_source=rss"
+      },
+      {
+        "title": "Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap?traffic_source=rss"
+      },
+      {
+        "title": "The Horn of Africa needs reconciliation, not new borders",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/6/2/the-horn-of-africa-needs-reconciliation-not-new-borders?traffic_source=rss"
+      },
+      {
+        "title": "Could Trump’s government be influencing Canada’s separatist movement?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/could-trumps-government-be-influencing-canadas-separatist-movement?traffic_source=rss"
+      },
+      {
+        "title": "Is the Taliban-Russia MoU good for Afghanistan?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/6/2/is-the-taliban-russia-mou-good-for-afghanistan?traffic_source=rss"
+      },
+      {
+        "title": "Albanians protest Kushner plan for Sazan Island luxury resort",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/albanians-protest-kushner-plan-for-sazan-island-luxury-resort?traffic_source=rss"
+      },
+      {
+        "title": "‘Encroached territory’: Why India-Nepal border dispute is heating up again",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/encroached-territory-why-india-nepal-border-dispute-is-heating-up?traffic_source=rss"
+      },
+      {
+        "title": "‘Trapped’: Gaza patients flown to Iraq stuck in administrative limbo",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/2/trapped-gaza-patients-flown-to-iraq-stuck-in-administrative-limbo?traffic_source=rss"
+      },
+      {
+        "title": "Belgian NGO urges India to arrest Israeli reservist over alleged war crimes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/belgian-ngo-urges-india-to-arrest-israeli-reservist-over-alleged-war-crimes?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks on Lebanon continue after Trump saying they’d stop",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-attacks-on-lebanon-continue-after-trump-saying-theyd-stop?traffic_source=rss"
+      },
+      {
+        "title": "World Cup delay for Switzerland’s Embolo while US reviews travel document",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-switzerland-embolo-not-travelling-to-us-travel-authorisation-under-review?traffic_source=rss"
+      },
+      {
+        "title": "UK Athletics fined over death of UAE Paralympian Abdullah Hayayei",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/uk-athletics-fined-over-death-of-uae-paralympic-athlete-abdullah-hayayei?traffic_source=rss"
+      },
+      {
+        "title": "Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/southampton-back-spygate-eckert-despite-worlds-most-lucrative-game-miss?traffic_source=rss"
+      },
+      {
+        "title": "Mamdani signs ‘executive order’ letting kids stay up late for NBA Finals",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/mamdani-signs-executive-order-letting-kids-stay-up-late-for-nba-finals?traffic_source=rss"
+      },
+      {
+        "title": "What are the FIFA World Cup 2026 squads for all 48 teams?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-full-squads-48-teams-players?traffic_source=rss"
+      },
+      {
+        "title": "Underground drug smuggling tunnel discovered from Tijuana to San Diego",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/underground-drug-smuggling-tunnel-discovered-from-tijuana-to-san-diego?traffic_source=rss"
+      },
+      {
+        "title": "Every world leader who has visited China in 2026 in one chart",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss"
+      },
+      {
+        "title": "Israel kills 8 in attacks on Lebanon after Trump announces de-escalation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Israel, Hezbollah to stop fighting: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "How social media is turning African life into content at a cost",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss"
+      },
+      {
+        "title": "Refugee women in CAR face childbirth risks amid US funding cuts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/6/2/refugee-women-in-car-face-childbirth-risks-amid-us-funding-cuts?traffic_source=rss"
+      },
+      {
+        "title": "How the war has made Iran’s water crisis worse",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss"
+      },
+      {
+        "title": "US gunman kills six family members and takes his own life",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-gunman-kills-six-family-members-and-takes-his-own-life?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-02T16:45:27.129Z",
     "discarded_untrusted": [
       {
