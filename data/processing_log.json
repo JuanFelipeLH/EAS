@@ -1,5 +1,400 @@
 [
   {
+    "run_at": "2026-06-04T04:20:14.431Z",
+    "discarded_untrusted": [
+      {
+        "title": "US Petro-State Fades: Will China’s Electrostate Rise?",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/06/petro-chinas-electrostate.html"
+      },
+      {
+        "title": "The American Missile Crisis",
+        "source": "Contrary.com",
+        "url": "https://research.contrary.com/deep-dive/the-american-missile-crisis"
+      },
+      {
+        "title": "CNBC Daily Open: Nvidia stars at Computex as markets hit records",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/03/cnbc-daily-open-nvidia-computex-market-record.html"
+      },
+      {
+        "title": "Single-cell multi-omic atlas and morphogen screening informs midbrain and hindbrain organoid engineering",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41593-026-02316-x"
+      },
+      {
+        "title": "Single-cell spatial pharmacobiology identifies conserved stromal barriers to therapeutic antibody delivery in human solid tumors",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41587-026-03152-x"
+      },
+      {
+        "title": "Centromeric footprints preserve telomere integrity in ALT cancers",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41586-026-10598-1"
+      },
+      {
+        "title": "Important Update: Weaponization Fund is Dead, Insurrectionist Hired to Lead Counterterrorism Effort, Trump Health Questions Swirl, and More",
+        "source": "Substack.com",
+        "url": "https://aaronparnas.substack.com/p/important-update-weaponization-fund"
+      },
+      {
+        "title": "What Hormuz Is Teaching Traders About Utilities",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/What-Hormuz-Is-Teaching-Traders-About-Utilities.html"
+      },
+      {
+        "title": "Fallout 76 PS5 and Xbox Series Versions Set for Summer Launch",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/fallout-76-ps5-and-xbox-series-versions-set-for-summer-launch"
+      },
+      {
+        "title": "Rubio says U.S. is in talks with Iran over nuclear program as senators press for war endgame",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html"
+      },
+      {
+        "title": "Identification and characterization of two new markers for differentiating fall armyworm strains across the Western Hemisphere",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350388"
+      },
+      {
+        "title": "Presentation: The Human Toll of Incidents & Ways To Mitigate It",
+        "source": "InfoQ.com",
+        "url": "https://www.infoq.com/presentations/incident-response-mitigate/"
+      },
+      {
+        "title": "Book Review “The Outlawed Ocean” by Ian Urbina",
+        "source": "Energyskeptic.com",
+        "url": "https://energyskeptic.com/2026/book-review-the-outlawed-ocean/"
+      },
+      {
+        "title": "The Abundance Paradigm: The AI Revolution: Where Capitalism Meets Socialism — Part II",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/abundance-paradigm-ai-revolution-part-2/5928502"
+      },
+      {
+        "title": "Strategic Stability, Structural Strain | Sinification: May 2026",
+        "source": "Sinocism.com",
+        "url": "https://sinocism.com/p/strategic-stability-structural-strain"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump’s Iran gamble gets riskier as a new player enters the room",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/defence/trumps-iran-gamble-gets-riskier-as-a-new-player-enters-the-room/articleshow/131467518.cms"
+      },
+      {
+        "title": "Bangladesh foreign minister Khalilur Rahman elected President of 81st session of UNGA",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-foreign-minister-khalilur-rahman-elected-president-of-81st-session-of-unga/articleshow/131467319.cms"
+      },
+      {
+        "title": "WATCH: Hurricanes, Golden Knights face off in Stanley Cup finals",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133511905/"
+      },
+      {
+        "title": "WATCH: Countdown to NBA Finals",
+        "source": "Abcnews.com",
+        "url": "https://abcnews.com/video/133510560/"
+      },
+      {
+        "title": "Republicans chase breakthroughs in multiple state primary elections and more top headlines",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/us/republicans-chase-breakthroughs-multiple-state-primary-elections-more-top-headlines"
+      },
+      {
+        "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Grab what you can while you can: The new reality in the South China Sea ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China bans four New Zealand MPs over Taiwan visit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Foreign nationals among at least 21 killed in Delhi fire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Director Wim Wenders withdraws 1975 film over actress's teen topless scene",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c99legznj8do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US announces new tariffs over forced labour concerns",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four sentenced to death for killing worshippers at Catholic church in Nigeria",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Norwegian teen was in UK to 'undertake a hit', court hears",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2pjk8ggrdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shell pumped oil through Nigeria pipeline for years despite pollution evidence, documents show",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdrp8v7407ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man shot dead by FBI after taking hostages at California bank ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0pdrgy623o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "CBS News fires correspondent Scott Pelley from 60 Minutes ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62rpdkem0mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Celine Dion 'heartbroken' by death of Beauty and the Beast singer Peabo Bryson",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy826nlp158o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump-backed candidate in Iowa loses primary",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g8nd48jxro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Man attacked by bear at steel works in Japan",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Canada has generic Ozempic, and the US doesn't",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From butterflies to breast milk, Uber's list of lost items reveals wild backseat discoveries",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czr25k7g7d7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The end of Trump's 'anti-weaponisation' fund is another sign Republicans are fighting back",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "She watched a wildfire destroy her town, so she's building fire-proof bunkers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78qgdpwx6eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Explosion at fireworks factory in Malta",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marilyn Monroe 'lookalikes' gather to celebrate her 100th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cj4p7vwxr05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Between celebration and confrontation: Paris after PSG victory",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UK far-right accused of exploiting killing of Henry Nowak",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/uk-far-right-accused-of-exploiting-killing-of-henry-nowak?traffic_source=rss"
+      },
+      {
+        "title": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo?traffic_source=rss"
+      },
+      {
+        "title": "Rubio distances himself from Netanyahu’s Gaza plan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rubio-distances-himself-from-netanyahus-gaza-plan?traffic_source=rss"
+      },
+      {
+        "title": "Nigeria’s second-chance schools: women balancing study and survival",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/4/nigerias-second-chance-schools-women-balancing-study-and-survival?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss"
+      },
+      {
+        "title": "London activists try to erect statue of jailed Palestinian leader",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/london-activists-try-to-erect-statue-of-jailed-palestinian-leader?traffic_source=rss"
+      },
+      {
+        "title": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss"
+      },
+      {
+        "title": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss"
+      },
+      {
+        "title": "Real Madrid will bring Mourinho back if Perez is re-elected",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/3/real-madrid-will-bring-mourinho-back-if-perez-is-re-elected?traffic_source=rss"
+      },
+      {
+        "title": "US House passes Iran war powers resolution in rare pushback against Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss"
+      },
+      {
+        "title": "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/3/who-is-adam-hamawy-doctor-who-served-in-gaza-is-on-the-path-to-us-congress?traffic_source=rss"
+      },
+      {
+        "title": "Kuwait labels Iran attack ‘heinous aggression’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss"
+      },
+      {
+        "title": "Deadly fire rips through New Delhi hotel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss"
+      },
+      {
+        "title": "Japan’s football team sports cowboy hats ahead of World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/japans-football-team-sports-cowboy-hats-ahead-of-world-cup-2?traffic_source=rss"
+      },
+      {
+        "title": "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/3/does-israel-have-nukes-most-of-world-assesses-they-do-says-rubio?traffic_source=rss"
+      },
+      {
+        "title": "Ten years on, world remembers Muhammad Ali ‘the Greatest’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ten-years-on-world-remembers-muhammad-ali-the-greatest?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s decades-long history of invading Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israels-decades-long-history-of-invading-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Israeli strikes near Tyre hospital put youngest patient at risk",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss"
+      },
+      {
+        "title": "Dalai Lama receives Grammy award for spoken-word album",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss"
+      },
+      {
+        "title": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss"
+      },
+      {
+        "title": "Iran faces a new energy imbalance, but its options are limited",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss"
+      },
+      {
+        "title": "Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss"
+      },
+      {
+        "title": "US cites forced labour concerns as grounds for new tariffs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-04T04:15:16.269Z",
     "discarded_untrusted": [
       {
