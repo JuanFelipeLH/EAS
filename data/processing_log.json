@@ -1,5 +1,405 @@
 [
   {
+    "run_at": "2026-06-04T19:55:16.109Z",
+    "discarded_untrusted": [
+      {
+        "title": "Congress Prepares for a Consequential Iran Vote",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/03/congress-iran-war-powers-house-vote-concurrent-resolution-trump/"
+      },
+      {
+        "title": "UNDERLAND Review: A Sensorial and Philosophical Experience",
+        "source": "Screenanarchy.com",
+        "url": "https://screenanarchy.com/2026/06/underland-review.html"
+      },
+      {
+        "title": "MAVS is important for antiviral defense against influenza A virus in a human respiratory epithelium model",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350839"
+      },
+      {
+        "title": "Barrier-to-autointegration factor protects against the cGAS-STING response to chromatin bridges",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012191"
+      },
+      {
+        "title": "ATAD3 megadalton complex in Plasmodium falciparum is essential for mitochondrial and cellular viability",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014317"
+      },
+      {
+        "title": "Identification of potential key genes that respond to capsaicin treatment in ER-positive breast cancer: An integrated analysis",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350841"
+      },
+      {
+        "title": "Russian nuclear sub conducts missile test (VIDEO)",
+        "source": "RT",
+        "url": "https://www.rt.com/russia/640908-arkhangelsk-submarine-missile-test/"
+      },
+      {
+        "title": "Finland to open world’s first nuclear waste tomb | Al Bawaba",
+        "source": "Al-Bawaba",
+        "url": "https://www.albawaba.com/business/finland-open-worlds-first-nuclear-waste-1629103"
+      },
+      {
+        "title": "Robert Zemeckis Has No Regrets About Back To The Future's Ending, Despite The Studio Making Him Change It",
+        "source": "CinemaBlend",
+        "url": "https://www.cinemablend.com/movies/robert-zemeckis-no-regrets-about-back-to-the-future-ending-despite-studio-making-change-it"
+      },
+      {
+        "title": "Iran has agreed not to have a nuke, Trump says as he reveals he'll 'probably meet' the new Ayatollah",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15870399/Iran-agreed-not-nuclear-weapon-Trump-says-reveals-Ayatollahs-involvement-peace-talks.html"
+      },
+      {
+        "title": "Can Diplomacy Survive? Analyst Dania Arayssi On Iran, Hezbollah, And The Struggle For A Deal",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/can-diplomacy-survive-analyst-dania-arayssi-on-iran-hezbollah-and-the-struggle-for-a-deal/33771631.html"
+      },
+      {
+        "title": "Nuclear propulsion – UK Maritime Innovation Hub",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/guidance/nuclear-propulsion-uk-maritime-innovation-hub"
+      },
+      {
+        "title": "After America",
+        "source": "CounterPunch",
+        "url": "https://www.counterpunch.org/2026/06/03/after-america/"
+      },
+      {
+        "title": "France Restricts Israeli Weapons Display at Paris Defense Expo, Citing Offensive Systems Ban",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-03-france-restricts-israeli-weapons-display-paris-defense-expo.html"
+      },
+      {
+        "title": "Big Tech's AI ambitions pose a major power test for Europe",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/03/big-techs-ai-power-test-europe-softbank-france.html"
+      },
+      {
+        "title": "US Petro-State Fades: Will China’s Electrostate Rise?",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/06/petro-chinas-electrostate.html"
+      },
+      {
+        "title": "The American Missile Crisis",
+        "source": "Contrary.com",
+        "url": "https://research.contrary.com/deep-dive/the-american-missile-crisis"
+      },
+      {
+        "title": "CNBC Daily Open: Nvidia stars at Computex as markets hit records",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/03/cnbc-daily-open-nvidia-computex-market-record.html"
+      },
+      {
+        "title": "Single-cell multi-omic atlas and morphogen screening informs midbrain and hindbrain organoid engineering",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41593-026-02316-x"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Can Diplomacy Survive? Analyst Dania Arayssi On Iran, Hezbollah, And The Struggle For A Deal",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260603-rferl02.htm"
+      },
+      {
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dutch police investigate suspected drugging and sexual assault of multiple women",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8p8e1gnx7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marilyn Monroe auction features star's make-up and gowns on 100th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzgd2xe2zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kushner-backed luxury resort plan sparks protests in Albania",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Heavy gunfire in Somali capital as row over election delay escalates",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Charges dropped against Budapest mayor over 2025 Pride march",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "John Bolton expected to plead guilty in classified documents case, sources confirm",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c2e2e71xyjzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why is this teen fashion brand closing its fitting rooms? ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1k2knwgy3eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine accused of killing four in occupied Crimea",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bondi Beach shooting hero charged with assault",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump to nominate Blanche for attorney general on permanent basis",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian film union drops boycott call against Bollywood star Ranveer Singh",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3r2g0013xpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China bans four New Zealand MPs over Taiwan visit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Foreign nationals among at least 21 killed in Delhi fire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Grab what you can while you can: The new reality in the South China Sea ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Uneasy neighbours: Can three World Cup hosts put differences aside for a month?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgz2081y8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Canadians can now get cheaper generic Ozempic - and Americans can't",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c142y4p2eyxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Costly fuel pushes more Indians to buy electric cars but challenges remain ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: New footage shows moment Iranian drone struck Kuwait airport",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Robodogs and helicopters: One Mexican city's approach to World Cup security",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Explosion at fireworks factory in Malta",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c5y0n0qvkkxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Glass doors break as fans scramble to see Pursuit of Jade star",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr7pye93n1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss"
+      },
+      {
+        "title": "History-making qualifier Chwalinska sets up Andreeva French Open final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/4/qualifier-chwalinska-sets-up-andreeva-french-open-final?traffic_source=rss"
+      },
+      {
+        "title": "Liverpool appoint Spaniard Iraola as new manager in place of Slot",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/4/liverpool-appoint-spaniard-iraola-as-new-manager-in-place-of-slot?traffic_source=rss"
+      },
+      {
+        "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "Hundreds protest in Libya outside UN agency against undocumented migrants",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/hundreds-protest-in-libya-outside-un-agency-against-undocumented-migrants?traffic_source=rss"
+      },
+      {
+        "title": "Sherpa found alive on Mount Everest after six days missing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/sherpa-found-alive-on-mount-everest-after-six-days-missing?traffic_source=rss"
+      },
+      {
+        "title": "Saudi energy minister calls for ‘stable energy sector’ during Russia visit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/saudi-energy-minister-call-for-stable-energy-sector-on-russia-visit?traffic_source=rss"
+      },
+      {
+        "title": "Marjane Satrapi, the author of ‘Persepolis,’ dies at 56",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/marjane-satrapi-the-author-of-persepolis-dies-at-56?traffic_source=rss"
+      },
+      {
+        "title": "Ecuador’s disappeared: Inside one family’s search for answers",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/longform/2026/6/4/ecuadors-disappeared-inside-one-familys-search-for-answers?traffic_source=rss"
+      },
+      {
+        "title": "Trump official-turned-foe John Bolton accepts plea deal in documents case",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/trump-official-turned-foe-john-bolton-accepts-plea-deal-in-documents-case?traffic_source=rss"
+      },
+      {
+        "title": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo, Messi at World Cup: Who else is playing their final tournament?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/4/ronaldo-messi-at-world-cup-who-else-is-playing-their-final-tournament?traffic_source=rss"
+      },
+      {
+        "title": "Russia’s Andreeva beats Ukraine’s Kostyuk in no-handshake French Open semi",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/4/russias-andreeva-beats-ukraines-kostyuk-in-no-handshake-french-open-semi?traffic_source=rss"
+      },
+      {
+        "title": "The making of Sudan’s RSF",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rise-of-the-devils-of-horseback-the-making-of-sudans-rsf?traffic_source=rss"
+      },
+      {
+        "title": "Pro-Palestinian badges should not be worn by NHS staff, UK review suggests",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/pro-palestinian-badges-should-not-be-worn-by-nhs-staff-uk-review-suggests?traffic_source=rss"
+      },
+      {
+        "title": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss"
+      },
+      {
+        "title": "MAHA moms test their influence in US glyphosate fight",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/4/maha-moms-test-their-influence-in-us-glyphosate-fight?traffic_source=rss"
+      },
+      {
+        "title": "Black Lung Rising",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/fault-lines/2026/6/4/black-lung-rising?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s latest truce: What is different from the April agreement?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement?traffic_source=rss"
+      },
+      {
+        "title": "Thousands protest in Albania against coastal resort linked to Jared Kushner",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/thousands-protest-kushner-linked-coastal-resort-project-in-albania?traffic_source=rss"
+      },
+      {
+        "title": "Iran footballers describe how war with US-Israel affects their World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Shark predicts winning start for Brazil at FIFA World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/shark-predicts-winning-start-for-brazil-at-fifa-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Why is a US Ebola facility in Kenya sparking protests?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/why-is-a-us-ebola-facility-in-kenya-sparking-protests?traffic_source=rss"
+      },
+      {
+        "title": "Fearful foreign nationals in South Africa forced out of their homes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/fearful-foreign-nationals-in-south-africa-forced-out-of-their-homes?traffic_source=rss"
+      },
+      {
+        "title": "Rights group sues South African government over US arms exports",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/4/rights-group-sues-south-african-government-over-us-arms-exports?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-04T19:50:19.067Z",
     "discarded_untrusted": [
       {
