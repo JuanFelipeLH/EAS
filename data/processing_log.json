@@ -1,5 +1,374 @@
 [
   {
+    "run_at": "2026-06-10T13:20:23.204Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump and Iran trade new threats after strikes exchanged",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "First charges laid over deadly Hong Kong fire",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine says missiles hit military plant deep inside Russia",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Growing backlash in Japan over Trump's use of anime characters",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c992r4kn5j9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nasa names next astronauts for Artemis Moon programme",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Alleged Bondi Beach gunman charged with another 19 offences ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg0l7g7n9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "World's largest chipmaker does not rule out price rises as costs increase",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "I have right papers and visa - barred referee Artan",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Version of AI tool 'too powerful for public' released to public",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Scrapping of Franco-German fighter jet leaves allies at odds on defence future",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Williams rolls back the years on return at Queen's",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ariana Grande and Ethan Slater split after three years",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "ICC suspends top prosecutor after investigating misconduct allegations",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man accused of killing mother-in-law with poison-laced satay",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fifa working to resolve revoked Iran tickets",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Air India crash pilot's father vows to defend son's reputation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj0gj911060o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Does referee case show Fifa has lost control of its own World Cup?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How one of India's most successful female politicians is losing her party",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Eriksen's heart device kicked into action",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We don't look at the sky any more': The Air India crash victims who were not on the plane",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump tells BBC Netanyahu did not defy him",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US truck carrying fireworks catches fire, sparking spectacular display",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Southern Lights timelapse filmed from space",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Has Trump lost control of the Iran war?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/west-bank-ethnic-cleansing-settler-attacks-israels-state-policy-amnesty?traffic_source=rss"
+      },
+      {
+        "title": "7-month-old baby shot by Israeli soldier in Hebron",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss"
+      },
+      {
+        "title": "Pakistan military helicopter crashes in Kashmir, all on board killed",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed?traffic_source=rss"
+      },
+      {
+        "title": "Kashmiri rights activist wins partial court victory but remains behind bars",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss"
+      },
+      {
+        "title": "Hero’s welcome for Somali referee denied entry to US World Cup tournament",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/heros-welcome-for-somali-referee-denied-entry-to-us-world-cup-tournament?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss"
+      },
+      {
+        "title": "Apache down, fighting up: What the latest US-Iran attacks mean",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/apache-down-fighting-up-what-the-latest-us-iran-attacks-mean?traffic_source=rss"
+      },
+      {
+        "title": "Satellite images show Israel’s destruction of historical city of Tyre",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/satellite-images-show-israels-destruction-of-historical-city-of-tyre?traffic_source=rss"
+      },
+      {
+        "title": "What’s happening at the World Cup one day before tournament starts?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/10/whats-happening-at-the-world-cup-one-day-before-tournament-starts?traffic_source=rss"
+      },
+      {
+        "title": "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack?traffic_source=rss"
+      },
+      {
+        "title": "Who pays for a supersized World Cup?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/6/10/who-pays-for-a-supersized-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Graham Platner wins Maine primary election: Results and key takeaways",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/graham-platner-wins-maine-primary-election-results-and-key-takeaways?traffic_source=rss"
+      },
+      {
+        "title": "A four-year-old’s recovery from the trauma of war in Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/a-four-year-olds-recovery-from-the-trauma-of-war-in-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Why is the FIFA World Cup 2026 being held in three countries?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/10/why-is-the-fifa-world-cup-2026-being-held-in-three-countries?traffic_source=rss"
+      },
+      {
+        "title": "Iran fires missiles at US bases carrying images of killed commanders",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss"
+      },
+      {
+        "title": "India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/indias-bengal-pushes-out-muslim-bangladeshis-deepening-religious-tensions?traffic_source=rss"
+      },
+      {
+        "title": "Argentina World Cup 2026 preview: Players to watch, group matches and squad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/10/argentina-world-cup-2026-preview-players-to-watch-group-matches-squad?traffic_source=rss"
+      },
+      {
+        "title": "Anti-immigration protests break out in Belfast after knife attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss"
+      },
+      {
+        "title": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss"
+      },
+      {
+        "title": "Spidercam crashes onto pitch during Hungary match",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/spidercam-crashes-onto-pitch-during-hungary-match?traffic_source=rss"
+      },
+      {
+        "title": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss"
+      },
+      {
+        "title": "Baltic states fear Russia-Ukraine war spillover after drone incursions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup 2026 explained in maps and charts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/10/fifa-world-cup-2026-explained-in-maps-and-charts?traffic_source=rss"
+      },
+      {
+        "title": "Explosion in Bahrain as Iran attacks US bases",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-10T13:15:20.762Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
@@ -33298,594 +33667,6 @@
         "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-06-09T13:20:15.374Z",
-    "discarded_untrusted": [],
-    "discarded_no_keywords": [
-      {
-        "title": "Trump tells BBC Netanyahu did not defy him",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "ICC suspends top prosecutor after investigating misconduct allegations",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man accused of killing mother-in-law with poison-laced satay",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kenyan police fire tear gas at protest against US Ebola quarantine centre plan",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Tickets for Iran fans revoked, says federation",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ariana Grande and Ethan Slater split after three years",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Black bear caught in Japan after days of sightings",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Eriksen at home and 'doing well' after collapse",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Somali referee Artan barred from entering US",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How one of India's most successful female politicians is losing her party",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How Eriksen's heart device kicked into action",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We don't look at the sky any more': The Air India crash victims who were not on the plane",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US truck carrying fireworks catches fire, sparking spectacular display",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Southern Lights timelapse filmed from space",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Has Trump lost control of the Iran war?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran's World Cup football team arrives in Mexico amid US visa row",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cz6vw0deq09o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "World Cup opening ceremony: Who’s performing, when it starts, how to watch",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/world-cup-opening-ceremony-whos-performing-when-it-starts-how-to-watch?traffic_source=rss"
-      },
-      {
-        "title": "Venezuelans flood capital Caracas streets, demanding free elections",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss"
-      },
-      {
-        "title": "Mamdani scores goal at World Cup presser",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/mamdani-scores-goal-at-world-cup-presser?traffic_source=rss"
-      },
-      {
-        "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss"
-      },
-      {
-        "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/italys-foreign-minister-slams-israels-ben-gvir-over-flip-flop-comments?traffic_source=rss"
-      },
-      {
-        "title": "New video of great white shark in Mediterranean goes viral",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/new-video-of-great-white-shark-in-mediterranean-goes-viral?traffic_source=rss"
-      },
-      {
-        "title": "Israel attacks Tyre in Lebanon, tells all residents to leave",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israel-attacks-tyre-in-lebanon-tells-all-residents-to-leave?traffic_source=rss"
-      },
-      {
-        "title": "Trump booed ‘thunderously’ at NBA Finals: What we know",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/trump-booed-thunderously-at-nba-finals-what-we-know?traffic_source=rss"
-      },
-      {
-        "title": "Hundred days of Israel’s latest war on Lebanon",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "‘Historic’ wave of Palestinian solidarity grows at universities in Germany",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/historic-wave-of-palestinian-solidarity-grows-at-universities-in-germany?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss"
-      },
-      {
-        "title": "Are Ronaldo, Messi still the largest World Cup draws, or is Mbappe bigger?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/ronaldo-messi-still-the-largest-world-cup-draws-or-is-mbappe-bigger?traffic_source=rss"
-      },
-      {
-        "title": "Trump courts boos at historic New York NBA Finals appearance",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/gallery/2026/6/9/trump-courts-boos-at-historic-new-york-nba-finals-appearance?traffic_source=rss"
-      },
-      {
-        "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss"
-      },
-      {
-        "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/iran-says-us-have-revoked-world-cup-ticket-allocation-for-their-supporters?traffic_source=rss"
-      },
-      {
-        "title": "Ranking the Middle East and North African teams at World Cup 2026",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/ranking-the-middle-east-and-north-african-teams-at-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Indian crew rescued after attack on oil tanker off Oman",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss"
-      },
-      {
-        "title": "Deschamps backs hat-trick hero Olise to shine for France at World Cup",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/deschamps-backs-hat-trick-hero-olise-to-shine-for-france-at-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/protests-erupt-in-kenya-over-us-ebola-quarantine-centre-in-nanyuki?traffic_source=rss"
-      },
-      {
-        "title": "World Cup 2026: What time can fans in Europe, Middle East and Africa watch?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/world-cup-2026-what-time-can-fans-in-europe-middle-east-and-africa-watch?traffic_source=rss"
-      },
-      {
-        "title": "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran deal in ‘final throes’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-says-iran-deal-in-final?traffic_source=rss"
-      },
-      {
-        "title": "Spain cruise past Peru in final World Cup 2026 warm-up match",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/spain-cruise-past-peru-in-final-world-cup-2026-warm-up-match?traffic_source=rss"
-      },
-      {
-        "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-06-09T13:15:21.562Z",
-    "discarded_untrusted": [],
-    "discarded_no_keywords": [
-      {
-        "title": "Trump tells BBC Netanyahu did not defy him",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "ICC suspends top prosecutor after investigating misconduct allegations",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man accused of killing mother-in-law with poison-laced satay",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/crkvd376jxno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kenyan police fire tear gas at protest against US Ebola quarantine centre plan",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Tickets for Iran fans revoked, says federation",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ariana Grande and Ethan Slater split after three years",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cn0ve7952jqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Black bear caught in Japan after days of sightings",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "All 24 Indian crew rescued from tanker set ablaze off Oman after US strike",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Eriksen at home and 'doing well' after collapse",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Somali referee Artan barred from entering US",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How one of India's most successful female politicians is losing her party",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How Eriksen's heart device kicked into action",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Friendship or leverage: Why is Xi Jinping in North Korea?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'We don't look at the sky any more': The Air India crash victims who were not on the plane",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cwy2y9n11pyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US truck carrying fireworks catches fire, sparking spectacular display",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Southern Lights timelapse filmed from space",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Has Trump lost control of the Iran war?",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/ckg8nke01g5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Schoolchildren run from collapsing roof as ground shakes in Philippines quake",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Iran's World Cup football team arrives in Mexico amid US visa row",
-        "source": "BBC News",
-        "url": "https://www.bbc.com/news/videos/cz6vw0deq09o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "World Cup opening ceremony: Who’s performing, when it starts, how to watch",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/world-cup-opening-ceremony-whos-performing-when-it-starts-how-to-watch?traffic_source=rss"
-      },
-      {
-        "title": "Venezuelans flood capital Caracas streets, demanding free elections",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/venezuelans-flood-capital-caracas-streets-demanding-free-elections?traffic_source=rss"
-      },
-      {
-        "title": "Mamdani scores goal at World Cup presser",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/mamdani-scores-goal-at-world-cup-presser?traffic_source=rss"
-      },
-      {
-        "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/video-captures-russian-attack-in-ukraines-zaporizhzhia?traffic_source=rss"
-      },
-      {
-        "title": "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/italys-foreign-minister-slams-israels-ben-gvir-over-flip-flop-comments?traffic_source=rss"
-      },
-      {
-        "title": "New video of great white shark in Mediterranean goes viral",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/new-video-of-great-white-shark-in-mediterranean-goes-viral?traffic_source=rss"
-      },
-      {
-        "title": "Israel attacks Tyre in Lebanon, tells all residents to leave",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/israel-attacks-tyre-in-lebanon-tells-all-residents-to-leave?traffic_source=rss"
-      },
-      {
-        "title": "Trump booed ‘thunderously’ at NBA Finals: What we know",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/trump-booed-thunderously-at-nba-finals-what-we-know?traffic_source=rss"
-      },
-      {
-        "title": "Hundred days of Israel’s latest war on Lebanon",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/features/2026/6/9/hundred-days-of-israels-latest-war-on-lebanon?traffic_source=rss"
-      },
-      {
-        "title": "‘Historic’ wave of Palestinian solidarity grows at universities in Germany",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/historic-wave-of-palestinian-solidarity-grows-at-universities-in-germany?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss"
-      },
-      {
-        "title": "Are Ronaldo, Messi still the largest World Cup draws, or is Mbappe bigger?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/ronaldo-messi-still-the-largest-world-cup-draws-or-is-mbappe-bigger?traffic_source=rss"
-      },
-      {
-        "title": "Trump courts boos at historic New York NBA Finals appearance",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/gallery/2026/6/9/trump-courts-boos-at-historic-new-york-nba-finals-appearance?traffic_source=rss"
-      },
-      {
-        "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss"
-      },
-      {
-        "title": "Iran says US has revoked World Cup ticket allocation for their supporters",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/iran-says-us-have-revoked-world-cup-ticket-allocation-for-their-supporters?traffic_source=rss"
-      },
-      {
-        "title": "Ranking the Middle East and North African teams at World Cup 2026",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/ranking-the-middle-east-and-north-african-teams-at-world-cup-2026?traffic_source=rss"
-      },
-      {
-        "title": "Indian crew rescued after attack on oil tanker off Oman",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/indian-crew-rescued-after-attack-on-oil-tanker-off-oman?traffic_source=rss"
-      },
-      {
-        "title": "Deschamps backs hat-trick hero Olise to shine for France at World Cup",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/deschamps-backs-hat-trick-hero-olise-to-shine-for-france-at-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/protests-erupt-in-kenya-over-us-ebola-quarantine-centre-in-nanyuki?traffic_source=rss"
-      },
-      {
-        "title": "World Cup 2026: What time can fans in Europe, Middle East and Africa watch?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/world-cup-2026-what-time-can-fans-in-europe-middle-east-and-africa-watch?traffic_source=rss"
-      },
-      {
-        "title": "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons?traffic_source=rss"
-      },
-      {
-        "title": "Trump says Iran deal in ‘final throes’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/trump-says-iran-deal-in-final?traffic_source=rss"
-      },
-      {
-        "title": "Spain cruise past Peru in final World Cup 2026 warm-up match",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/9/spain-cruise-past-peru-in-final-world-cup-2026-warm-up-match?traffic_source=rss"
-      },
-      {
-        "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss"
-      },
-      {
-        "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss"
       }
     ],
     "passed_filters": [],
