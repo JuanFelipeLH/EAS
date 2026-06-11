@@ -1,5 +1,365 @@
 [
   {
+    "run_at": "2026-06-11T17:15:18.208Z",
+    "discarded_untrusted": [
+      {
+        "title": "US, Iran trade airstrikes for second straight day as Trump warns of more attacks",
+        "source": "investing_ph",
+        "url": "https://ph.investing.com/news/economy-news/us-iran-trade-airstrikes-for-second-straight-day-as-trump-warns-of-more-attacks-2445339"
+      },
+      {
+        "title": "US, Iran trade airstrikes for second straight day as Trump warns of more attacks",
+        "source": "investing_au",
+        "url": "https://au.investing.com/news/economy-news/us-iran-trade-airstrikes-for-second-straight-day-as-trump-warns-of-more-attacks-4481743"
+      },
+      {
+        "title": "US, Iran trade airstrikes for second straight day as Trump warns of more attacks",
+        "source": "investing_ca",
+        "url": "https://ca.investing.com/news/economy-news/us-iran-trade-airstrikes-for-second-straight-day-as-trump-warns-of-more-attacks-4685420"
+      },
+      {
+        "title": "US, Iran trade airstrikes for second straight day as Trump warns of more attacks",
+        "source": "investing_ng",
+        "url": "https://ng.investing.com/news/economy-news/us-iran-trade-airstrikes-for-second-straight-day-as-trump-warns-of-more-attacks-2553075"
+      },
+      {
+        "title": "US, Iran trade airstrikes for second straight day as Trump warns of more attacks",
+        "source": "investing_us",
+        "url": "https://www.investing.com/news/economy-news/us-iran-trade-airstrikes-for-second-straight-day-as-trump-warns-of-more-attacks-4736486"
+      },
+      {
+        "title": "Trump Rages He Will ‘Bomb the S**t’ Out of Iran in Hours",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/trump-rages-he-will-bomb-the-s-t-out-of-iran-in-hours-84373176"
+      },
+      {
+        "title": "Moscow car bomb kills Russian missile chief",
+        "source": "independent",
+        "url": "https://www.independent.ie/world-news/moscow-car-bomb-kills-russian-missile-chief/a/156713623.html"
+      },
+      {
+        "title": "Trump Rages He Will ‘Bomb the S**t’ Out of Iran in Hours",
+        "source": "thedailybeast",
+        "url": "https://www.thedailybeast.com/donald-trump-rages-he-will-bomb-the-st-out-of-iran-in-hours/"
+      },
+      {
+        "title": "US, Iran exchange attacks as Trump threatens further escalation",
+        "source": "ariananews",
+        "url": "https://www.ariananews.af/us-iran-exchange-attacks-as-trump-threatens-further-escalation/"
+      },
+      {
+        "title": "Ceasefire Frays as U.S. and Iran Exchange Fresh Strikes",
+        "source": "gcaptain",
+        "url": "https://gcaptain.com/ceasefire-frays-as-u-s-and-iran-exchange-fresh-strikes/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "El Niño under way and threatens weather extremes, scientists say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Deadly Sudan drone strike targets funeral procession",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US and Iran exchange strikes across Middle East for second day in a row",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The furious dispute over what caused Air India flight 171 to crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Artan to referee Uefa Super Cup after losing World Cup spot",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French singer Patrick Bruel under formal investigation for rape",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Whale graveyard dating back five million years discovered",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we know about US sea drone used in helicopter crew rescue mission",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "An Everest guide's miraculous survival raises questions for tourism industry",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Family of British toddler criticises police as Australian inquiry into cold case murders begins",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0rygl7y1l0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Social media on trial: Four important cases to watch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I will never get over watching my home burn': Belfast residents reel after night of unrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Air India crash pilot's father vows to defend son's reputation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj0gj911060o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Does referee case show Fifa has lost control of its own World Cup?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/clyr6drdl79o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we learned from Bill Gates' deposition on Epstein",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cly828v3l24o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump tells BBC Netanyahu did not defy him",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gold is now the top reserve asset. Is dollar dominance at risk?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss"
+      },
+      {
+        "title": "Stephen Miller’s War",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/fault-lines/2026/6/11/stephen-millers-war?traffic_source=rss"
+      },
+      {
+        "title": "Bahrain releases footage of damage caused by intercepted Iranian drones",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/bahrain-releases-footage-of-damage-caused-by-intercepted-iranian-drones?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon Latest: Ceasefire talks continue under fire",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/lebanon-latest-ceasefire-talks-continue-under-fire?traffic_source=rss"
+      },
+      {
+        "title": "Firefighters on scene at Pentagon during ‘hazardous materials incident’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/firefighters-on-scene-at-pentagon-during-hazardous-materials-incident?traffic_source=rss"
+      },
+      {
+        "title": "Trailer: Israel’s Darkest Weapon | Al Jazeera Originals",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/2026/6/11/trailer-israels-darkest-weapon-al-jazeera-originals?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: Mexico vs South Africa – World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/11/live-mexico-vs-south-africa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Trump says US will ‘be taking’ Kharg Island in latest Iran war threat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/trump-says-us-will-be-taking-kharg-island-in-latest-iran-war-threat?traffic_source=rss"
+      },
+      {
+        "title": "Israel’s Darkest Weapon | Al Jazeera Originals",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/2026/6/11/israels-darkest-weapon-al-jazeera-originals?traffic_source=rss"
+      },
+      {
+        "title": "Somali referee banned by US to officiate European Super Cup, UEFA says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/somali-referee-banned-by-us-to-officiate-european-super-cup-uefa-says?traffic_source=rss"
+      },
+      {
+        "title": "Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250: All to know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250-all-to-know?traffic_source=rss"
+      },
+      {
+        "title": "I saw Kushner’s Albania resort up close — it is an environmental disaster",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/6/11/i-saw-kushners-albania-resort-up-close-it-is-an-environmental?traffic_source=rss"
+      },
+      {
+        "title": "Argentina fans denied US visas get free TVs to watch World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/argentina-fans-denied-us-visas-get-free-tvs-to-watch-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "World chess body suspends Russia over activities in occupied-Ukraine",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/world-chess-body-suspends-russia-over-activities-in-occupied-ukraine?traffic_source=rss"
+      },
+      {
+        "title": "Palestine Action activists could face UK ‘terror’ sentences: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/palestine-action-activists-could-face-uk-terror-sentences-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Iran shuts Hormuz strait: But wasn’t it already closed?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed?traffic_source=rss"
+      },
+      {
+        "title": "‘Dignity has no passport’: Pope makes appeal for migrants in Canary Islands",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/pope-leo-lands-in-spains-canary-islands-on-mission-to-help-migrants?traffic_source=rss"
+      },
+      {
+        "title": "At least 22 killed as Pakistani military helicopter crashes in Kashmir",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/at-least-22-killed-as-pakistani-military-helicopter-crashes-in-kashmir?traffic_source=rss"
+      },
+      {
+        "title": "Video shows aftermath of Iranian attack in Bahrain",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/video-shows-aftermath-of-iranian-attack-in-bahrain?traffic_source=rss"
+      },
+      {
+        "title": "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/did-us-sneak-100-million-barrels-of-oil-out-of-hormuz-as-trump-claims?traffic_source=rss"
+      },
+      {
+        "title": "Massive Neymar mural unveiled on Brazil street",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/massive-neymar-mural-unveiled-on-brazil-street?traffic_source=rss"
+      },
+      {
+        "title": "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/arwa-elrayyess-oxford?traffic_source=rss"
+      },
+      {
+        "title": "India says US hit another ship off Oman, confirms 3 dead in separate attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/11/india-says-incident-on-vessel-off-oman-confirms-3-dead-in-seperate-strike?traffic_source=rss"
+      },
+      {
+        "title": "Top five ‘must-watch’ matches of the group stage at World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/top-five-must-watch-matches-of-the-group-stage-at-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "The university must not become a supply chain for AI",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/6/11/the-university-must-not-become-a-supply-chain-for-ai?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-11T17:10:27.698Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
