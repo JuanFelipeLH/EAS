@@ -1,5 +1,435 @@
 [
   {
+    "run_at": "2026-06-12T14:25:19.193Z",
+    "discarded_untrusted": [
+      {
+        "title": "A zero-parameter first-principles gate framework for full-length TP53 missense variant interpretation",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014168"
+      },
+      {
+        "title": "SV40 exploits the Nesprin-2-SUN1-KPNA4 axis for stepwise targeting and entry into the host nucleus to promote infection",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014344"
+      },
+      {
+        "title": "The assembly of stress granules during foot-and-mouth disease virus infection is uncoupled from activation of cellular intrinsic antiviral signalling",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013722"
+      },
+      {
+        "title": "Small-reactor startup Antares Nuclear achieves self-sustaining nuclear reaction at Idaho lab",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/antares-nuclear-reactor-criticality-milestone/"
+      },
+      {
+        "title": "Thursday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/06/11/thursday-hili-dialogue-591/"
+      },
+      {
+        "title": "Links 6/11/2026",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/links-6-11-2026.html"
+      },
+      {
+        "title": "Transcript: Trump Iran Rants Get So Crazy that Adviser Visibly Rattled",
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/article/211670/transcript-trump-iran-rants-get-crazy-adviser-visibly-rattled"
+      },
+      {
+        "title": "Ghost Particles? Underground Detector in China Takes a Look",
+        "source": "Newser",
+        "url": "https://www.newser.com/story/390827/ghost-particles-underground-detector-in-china-takes-a-look.html"
+      },
+      {
+        "title": "Why China is betting on big nuclear reactors",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
+      },
+      {
+        "title": "U.S. Seeks Detailed Information on Iranâs Enriched Uranium Through IAEA Board Report",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-11-us-seeks-information-iran-enriched-uranium-iaea.html"
+      },
+      {
+        "title": "Russia and China forging energy alliance to bypass Western financial control",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-11-russia-china-energy-alliance-western-control.html"
+      },
+      {
+        "title": "UPSC Quiz – 2026 : IASbaba’s Daily Current Affairs Quiz 10th June 2026",
+        "source": "Iasbaba.com",
+        "url": "https://iasbaba.com/2026/06/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-10th-june-2026/"
+      },
+      {
+        "title": "UPSC Quiz – 2026 : IASbaba’s Daily Current Affairs Quiz 9th June 2026",
+        "source": "Iasbaba.com",
+        "url": "https://iasbaba.com/2026/06/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-9th-june-2026/"
+      },
+      {
+        "title": "Large-scale, spatially resolved panoramic CRISPR screening in native tissue environments using Perturb-DBiT",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41587-026-03127-y"
+      },
+      {
+        "title": "TEAD1 condensates are transcriptionally inactive storage sites on the pericentromeric heterochromatin in cancer cells",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41556-026-01985-x"
+      },
+      {
+        "title": "Why Record-High Conflicts Threaten The Global Banking System",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/06/10/why-record-high-conflicts-threaten-the-global-banking-system/"
+      },
+      {
+        "title": "The Centre Daily Times unionizes after backlash to McClatchy’s AI tool",
+        "source": "Niemanlab.org",
+        "url": "https://www.niemanlab.org/2026/06/the-centre-daily-times-unionizes-after-backlash-to-mcclatchys-ai-tool/"
+      },
+      {
+        "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/news/joint-statement-from-uk-and-australia-on-the-australia-uk-ministerial-consultations-10-june-2026"
+      },
+      {
+        "title": "Fable won’t answer basic biology questions",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "The limits of self-funding: From the Politics Desk",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/limits-self-funding-politics-desk-rcna349496"
+      },
+      {
+        "title": "More time needed for deadly Air India crash inquiry, officials say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa trolled by African fans in wake of World Cup loss",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why the economics make this the craziest World Cup ever",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Artan to referee Uefa Super Cup after losing World Cup role",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/c2kyx0l0499o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cr47lyzr4q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly83elvz70o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thai court sentences two men to death over Bangkok shrine bombing ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg8v51g9lno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "French singer Patrick Bruel under formal investigation for rape",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3ey8d3jwglo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The furious dispute over what caused Air India flight 171 to crash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q2lq3vv7zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Whale graveyard dating back five million years discovered",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The World Cup of adverts: How brands are competing to entertain, not simply sell",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c992v43m71do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-UK political aide Steve Hilton would overhaul California as governor, he tells BBC ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd95x25e2nqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The unknown man in my mother's coffin: A year after Air India crash, families still waiting for answers",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c15y9g2ndkno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we know about US sea drone used in helicopter crew rescue mission",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx2xvnd5eqwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "An Everest guide's miraculous survival raises questions for tourism industry",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c1ly4p25jyvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Family of British toddler criticises police as Australian inquiry into cold case murders begins",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0rygl7y1l0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Social media on trial: Four important cases to watch",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Historic US-Canada border library gets new Quebec-only entrance",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/clyrvrde160o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I will never get over watching my home burn': Belfast residents reel after night of unrest",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Air India crash pilot's father vows to defend son's reputation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj0gj911060o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Three things to know about SpaceX's stock market debut",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A sneak peek inside Mexico’s iconic Azteca Stadium before World Cup kickoff",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cvgekz5q06po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What we learned from Bill Gates' deposition on Epstein",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cly828v3l24o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss"
+      },
+      {
+        "title": "Indonesian students protest gov’t policies amid economic strain",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/indonesian-students-protest-govt-policies-amid-economic-strain?traffic_source=rss"
+      },
+      {
+        "title": "Video: AI models predict World Cup results",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-ai-models-predict-world-cup-results?traffic_source=rss"
+      },
+      {
+        "title": "Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/backlash-after-us-actor-jerry-seinfeld-says-palestine-doesnt?traffic_source=rss"
+      },
+      {
+        "title": "Are Iran, US really close to a breakthrough ‘deal’?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal?traffic_source=rss"
+      },
+      {
+        "title": "London mayor slams event touting illegal Israeli settlement land sales",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss"
+      },
+      {
+        "title": "Renowned British artist David Hockney dies aged 88",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/renowned-british-artist-david-hockney-dies-aged-88?traffic_source=rss"
+      },
+      {
+        "title": "Thai Princess Bajrakitiyabha dies after years in coma",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/thai-princess-bajrakitiyabha-dies-after-years-in-coma?traffic_source=rss"
+      },
+      {
+        "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss"
+      },
+      {
+        "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss"
+      },
+      {
+        "title": "A year after Air India crash killed 260: Do we know what happened?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss"
+      },
+      {
+        "title": "France-Germany jet plans crash: Can Europe end reliance on US for security?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/12/france-germany-jet-plans-crash-can-europe-ever-end-us-security-reliance?traffic_source=rss"
+      },
+      {
+        "title": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss"
+      },
+      {
+        "title": "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss"
+      },
+      {
+        "title": "New Zealand great Kane Williamson retires from international cricket",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/new-zealand-great-kane-williamson-retires-from-international-cricket?traffic_source=rss"
+      },
+      {
+        "title": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss"
+      },
+      {
+        "title": "Family mourn Indian sailor killed in US strike on oil tanker",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss"
+      },
+      {
+        "title": "‘Torture isn’t new to Palestinians’: How Israel learned from colonialism",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/12/torture-isnt-new-to-palestinians-how-israel-learned-from-colonialism?traffic_source=rss"
+      },
+      {
+        "title": "USA vs Paraguay: World Cup 2026 group match – Trump, schedule, lineups",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-2026-group-match-trump-schedule-lineups?traffic_source=rss"
+      },
+      {
+        "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss"
+      },
+      {
+        "title": "Video: What Iran’s football fans think about the World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "China arrests US researcher it says is suspected of ‘spying’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/china-arrests-us-researcher-it-says-is-suspected-of-spying?traffic_source=rss"
+      },
+      {
+        "title": "One in 17 children is working: Here are the industries driving child labour",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/one-in-17-children-is-working-here-are-the-industries-driving-child-labour?traffic_source=rss"
+      },
+      {
+        "title": "World Cup 2026 opening day takeaways: Red cards, VAR and hydration breaks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/12/world-cup-2026-day-1-key-takeaways-var-hydration-breaks-red-cards-son-heung-min-zwane?traffic_source=rss"
+      },
+      {
+        "title": "Air India crash: Grieving families say justice remains elusive a year later",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/12/air-india-flight-171-crash-grieving-families-wait-for-justice-a-year-later?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-12T14:20:32.067Z",
     "discarded_untrusted": [
       {
