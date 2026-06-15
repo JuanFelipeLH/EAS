@@ -1,5 +1,435 @@
 [
   {
+    "run_at": "2026-06-15T18:30:38.330Z",
+    "discarded_untrusted": [
+      {
+        "title": "Iran agrees not to build a nuke, will reopen Strait of Hormuz — and US to release $25B in assets in Trump peace deal: Tehran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4383737/posts"
+      },
+      {
+        "title": "Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6#article"
+      },
+      {
+        "title": "Israel strikes Hezbollah in Lebanon as US and Iran prepare to sign deal",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15898783/Israel-strikes-Hezbollah-Lebanon-US-Iran-prepare-sign-deal.html"
+      },
+      {
+        "title": "AI is code – and can't be prompted into being smarter",
+        "source": "Theregister.com",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141"
+      },
+      {
+        "title": "Our War against Iran Makes Sense",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/articles/2026/06/our_war_against_iran_makes_sense.html"
+      },
+      {
+        "title": "When diplomacy becomes identity politics",
+        "source": "Americanthinker.com",
+        "url": "https://www.americanthinker.com/blog/2026/06/when_diplomacy_becomes_identity_politics.html"
+      },
+      {
+        "title": "India successfully demonstrates BMD capability to take down hostile ballistic missiles",
+        "source": "Thehillstimes.in",
+        "url": "https://thehillstimes.in/national/india-successfully-demonstrates-bmd-capability-to-take-down-hostile-ballistic-missiles"
+      },
+      {
+        "title": "The History of Greenpeace: The Evolution of Green Extremism",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/06/13/the-history-of-greenpeace-the-evolution-of-green-extremism/"
+      },
+      {
+        "title": "One year ago, the Middle East changed. Nobody knows what comes next.",
+        "source": "RT",
+        "url": "https://www.rt.com/news/641497-middle-east-iran-war/"
+      },
+      {
+        "title": "France Begins Work on ASN4G Hypersonic Nuclear Missile",
+        "source": "Theaviationist.com",
+        "url": "https://theaviationist.com/2026/06/13/france-asn4g-hypersonic-nuclear-missile/"
+      },
+      {
+        "title": "America's new nuclear future underway: Microreactors ready for full testing",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4383612/posts"
+      },
+      {
+        "title": "German commander warns Russia may take nuclear threat into space",
+        "source": "POLITICO.eu",
+        "url": "https://www.politico.eu/article/german-commander-warns-russia-may-take-nuclear-threat-into-space/"
+      },
+      {
+        "title": "Saturday: Hili dialogue",
+        "source": "Whyevolutionistrue.com",
+        "url": "https://whyevolutionistrue.com/2026/06/13/saturday-hili-dialogue-586/"
+      },
+      {
+        "title": "This Week in Science: World's Biggest Scorpion, a Whale Graveyard, And More!",
+        "source": "ScienceAlert",
+        "url": "https://www.sciencealert.com/this-week-in-science-worlds-biggest-scorpion-a-whale-graveyard-and-more"
+      },
+      {
+        "title": "Trump wants Iran’s uranium. Tehran buried it behind collapsed tunnels and mines: Report",
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/iran-buried-uranium-behind-collapsed-tunnels-and-mines-cnn-report-10737881/"
+      },
+      {
+        "title": "Paying Tehran to keep the bomb",
+        "source": "worldisraelnews",
+        "url": "https://worldisraelnews.com/paying-tehran-to-keep-the-bomb/"
+      },
+      {
+        "title": "THE ECONOMIST: Australia locked out of Anthropic’s most advanced AI models as Trump tightens security",
+        "source": "thewest",
+        "url": "https://thewest.com.au/business/the-economist/the-economist-australia-locked-out-of-anthropics-most-advanced-ai-models-as-trump-tightens-security-c-22431764"
+      },
+      {
+        "title": "THE ECONOMIST: Australia locked out of Anthropic’s most advanced AI models as Trump tightens security",
+        "source": "thenightly_au",
+        "url": "https://thenightly.com.au/business/the-economist-australia-locked-out-of-anthropics-most-advanced-ai-models-as-trump-tightens-security-c-22431764"
+      },
+      {
+        "title": "A history of Iran's nuclear program and tensions with the US as an interim deal is reached",
+        "source": "ctinsider",
+        "url": "https://www.ctinsider.com/news/article/a-history-of-iran-s-nuclear-program-and-tensions-22305258.php"
+      },
+      {
+        "title": "A history of Iran's nuclear program and tensions with the US as an interim deal is reached",
+        "source": "houstonchronicle",
+        "url": "https://www.houstonchronicle.com/news/article/a-history-of-iran-s-nuclear-program-and-tensions-22305258.php"
+      },
+      {
+        "title": "G7 leaders meet in France after US and Iran declare agreement to end war",
+        "source": "ariananews",
+        "url": "https://www.ariananews.af/g7-leaders-meet-in-france-after-us-and-iran-declare-agreement-to-end-war/"
+      },
+      {
+        "title": "The New Middle East: Power, Perception, and Order After the Iran War",
+        "source": "smallwarsjournal",
+        "url": "https://smallwarsjournal.com/2026/06/15/the-new-middle-east-after-the-iran-war/"
+      },
+      {
+        "title": "Terms of Capitulation: How Trump’s Peace Plan Hands Iran a Decisive Victory",
+        "source": "naturalnews",
+        "url": "https://www.naturalnews.com/2026-06-15-trump-peace-plan-hands-iran-decisive-victory.html"
+      },
+      {
+        "title": "Iran, US agree to halt war and reopen Hormuz, sending oil prices tumbling",
+        "source": "reuters_com",
+        "url": "https://www.reuters.com/world/asia-pacific/iran-us-agree-halt-war-reopen-hormuz-sending-oil-prices-tumbling-2026-06-15/"
+      },
+      {
+        "title": "A history of Iran's nuclear programme and tensions with the US as an interim deal is reached",
+        "source": "cnbctv18",
+        "url": "https://www.cnbctv18.com/world/a-history-of-irans-nuclear-programme-and-tensions-with-the-us-as-an-interim-deal-is-reached-ws-l-19925443.htm"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Big yard, iron fences: Why India must chase AI sovereignty now",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/big-yard-iron-fences-why-india-must-chase-ai-sovereignty-now/articleshow/131727269.cms"
+      },
+      {
+        "title": "Trump condemns Israel attack on Beirut, says Iran deal still close",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close"
+      },
+      {
+        "title": "Amid war, inflation and sinking approval ratings, Trump takes comfort in giving D.C. a face-lift",
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/donald-trump/war-inflation-sinking-approval-ratings-trump-washington-rcna349603"
+      },
+      {
+        "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us"
+      },
+      {
+        "title": "Germany pledges to build Europe's strongest army as NATO allies answer Trump pressure",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/germany-pledges-build-europes-strongest-army-nato-allies-answer-trump-pressure"
+      },
+      {
+        "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Norwegian crown princess's son found guilty of two counts of rape",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South African jazz legend Abdullah Ibrahim dies at 91",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fifa seeks explanation over VAR official's hand gesture",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China detains two leaders of influential underground church",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Swiss voters reject 10 million population cap",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump and thousands of others watch UFC fight on White House lawn",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran deal presents political nightmare for Netanyahu",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Is the convertible heading into the sunset?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why I sold my business to my staff",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Olé, olé, olé, olé - What makes a memorable World Cup song?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yz434v7nro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why the US economy keeps defying the odds",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Delhi's temperature showed 43.5C. Why did it feel hotter?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c62173jqd4wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The college scam that promised students fleeing war a new life in Finland",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Protesters clash with police ahead of G7 summit in France",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'The greatest day of my life' - Knicks fans celebrate in San Antonio",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c0ey470le3no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The costs and challenges facing the 2026 World Cup",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/c24ynjvm43qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss"
+      },
+      {
+        "title": "Spain held to shock draw by Cape Verde in their World Cup opener",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/spain-held-to-shock-draw-by-cape-verde-in-their-world-cup-opener?traffic_source=rss"
+      },
+      {
+        "title": "As deal is agreed with US, not all in Iran are convinced that peace is here",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/15/as-deal-is-agreed-with-us-not-all-in-iran-are-convinced-that-peace-is-here?traffic_source=rss"
+      },
+      {
+        "title": "Police, mourners clash over coffin of suspected Ebola victim in DRC",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/police-mourners-clash-over-coffin-of-suspected-ebola-victim-in-drc?traffic_source=rss"
+      },
+      {
+        "title": "US visa rules leave Iraq’s World Cup fans behind",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_us-visa-rules-leave-iraqs-world-cup-fans-behind-150626?traffic_source=rss"
+      },
+      {
+        "title": "Singer Oliver Tree among six killed in Brazil helicopter collision",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/singer-oliver-tree-among-six-killed-in-brazil-helicopter-collision?traffic_source=rss"
+      },
+      {
+        "title": "Bus crash in Ethiopian mountains kills at least 31",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/15/bus-crash-in-ethiopian-mountains-kills-at-least-31?traffic_source=rss"
+      },
+      {
+        "title": "Mass return to southern Lebanon following US-Iran agreement",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/mass-return-to-southern-lebanon-following-us-iran-agreement?traffic_source=rss"
+      },
+      {
+        "title": "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/iran-vs-new-zealand-world-cup-team-news-start-lineups-and-where-to-watch?traffic_source=rss"
+      },
+      {
+        "title": "Trump says Iran deal ‘all signed’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss"
+      },
+      {
+        "title": "UK court convicts two over PM-targeting plot run by mysterious Russian",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/15/uk-court-convicts-two-over-pm-targeting-plot-run-by-mysterious-russian?traffic_source=rss"
+      },
+      {
+        "title": "Drone warfare kills over 1,000 in Sudan in 2026 as strikes multiply: UN",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/15/drone-warfare-kills-over-1000-in-sudan-in-2026-as-strikes-multiply-un?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon Latest: Cautious optimism after ceasefire deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-aje_onl_lebanon_wrap-150626?traffic_source=rss"
+      },
+      {
+        "title": "Inside Albania’s protests over Jared Kushner’s resort",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/15/inside-albanias-protests-over-jared-kushners-resort?traffic_source=rss"
+      },
+      {
+        "title": "Does the G7 still shape the global economy?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/15/does-the-g7-still-shape-the-global-economy?traffic_source=rss"
+      },
+      {
+        "title": "UK Court upholds ban on Palestine Action as ‘terrorist’ group",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-court-upholds-ban-on-palestine-action-as-terrorist-group?traffic_source=rss"
+      },
+      {
+        "title": "Belgium v Egypt live: World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/belgium-v-egypt-live-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup 2026: Day four",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/fifa-world-cup-2026-day-four?traffic_source=rss"
+      },
+      {
+        "title": "Iran says Lebanon, assets release key parts of peace deal with US",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/iran-says-lebanon-assets-release-key-parts-of-peace-deal-with-us?traffic_source=rss"
+      },
+      {
+        "title": "Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/15/is-lebanon-included-country-hopeful-for-us-iran-ceasefire-despite-doubts?traffic_source=rss"
+      },
+      {
+        "title": "Oxford Union’s first Palestinian president faces down smear campaign",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/oxford-unions-first-palestinian-president-faces-down-smear-campaign?traffic_source=rss"
+      },
+      {
+        "title": "World welcomes US-Iran ‘peace deal’ criticised by Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/world-welcomes-us-iran-peace-deal-criticised-by-israel?traffic_source=rss"
+      },
+      {
+        "title": "US says Iran signed deal to end war, ships moving through Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss"
+      },
+      {
+        "title": "What a UK court’s backing of the Palestine Action ‘terror’ ban means",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/15/what-a-uk-courts-backing-of-the-palestine-action-terror-ban-means?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-15T18:25:26.646Z",
     "discarded_untrusted": [
       {
