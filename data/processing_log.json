@@ -1,5 +1,365 @@
 [
   {
+    "run_at": "2026-06-16T09:50:22.473Z",
+    "discarded_untrusted": [
+      {
+        "title": "Trump says U.S.-Iran peace deal is done, but hard questions still loom",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/15/trump-us-iran-peace-deal-questions/"
+      },
+      {
+        "title": "Live updates: Trump and Iran say agreement to be signed on Friday - CNN",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183886276"
+      },
+      {
+        "title": "US and Iran reach interim agreement to reopen Strait of Hormuz, Bitcoin rallies on easing tensions",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/us-iran-strait-hormuz-bitcoin-rallies/"
+      },
+      {
+        "title": "A SpaceX alum says wealth managers tried to woo him with swag and handwritten letters before the IPO",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/spacex-former-employee-wealth-managers-swag-ipo-2026-6#article"
+      },
+      {
+        "title": "Weekly Climate and Energy News Roundup #694",
+        "source": "Wattsupwiththat.com",
+        "url": "https://wattsupwiththat.com/2026/06/15/weekly-climate-and-energy-news-roundup-694/"
+      },
+      {
+        "title": "US Air Force fast-tracks B-21 testing timeline by combining test phases",
+        "source": "New Atlas",
+        "url": "https://newatlas.com/military/us-air-force-b21-nuclear-bomber-accelerate-testing/"
+      },
+      {
+        "title": "LNG Tanker Heads for Hormuz Amid News of Reopening",
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Tanker-Heads-for-Strait-of-Hormuz-After-US-Iran-Deal-Announcement.html"
+      },
+      {
+        "title": "Iran and US agree to halt war and reopen Strait of Hormuz, sending oil prices tumbling",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/iran-us-hormuz-deal-oil-prices-tumble/"
+      },
+      {
+        "title": "Inflation Worries Keep Markets Wary Even After Iran Peace Deal",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-pmn/inflation-worries-keep-markets-wary-even-after-iran-peace-deal"
+      },
+      {
+        "title": "Morning Bid: Markets celebrate MOU on SoH",
+        "source": "Yahoo Entertainment",
+        "url": "https://ca.finance.yahoo.com/news/morning-bid-markets-celebrate-mou-043429280.html"
+      },
+      {
+        "title": "The End of the U.S.-Israel Alliance",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/06/15/israel-united-states-special-relationship-palestine-netanyahu-trump/"
+      },
+      {
+        "title": "Building on the Moon: NASA's Architectural Strategy for Permanent Lunar Habitation",
+        "source": "ArchDaily",
+        "url": "https://www.archdaily.com/1042350/building-on-the-moon-nasas-architectural-strategy-for-permanent-lunar-habitation"
+      },
+      {
+        "title": "80 most unhinged things he has said...",
+        "source": "Themirror.com",
+        "url": "https://www.themirror.com/news/us-news/donald-trump-80-unhinged-things-1886258"
+      },
+      {
+        "title": "STEPHEN DAISLEY: This is a chance to put the SNP on notice... to attach a painful electoral price to their neglect of Aberdeen",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/news/article-15899041/STEPHEN-DAISLEY-SNP-Aberdeen-byelection.html"
+      },
+      {
+        "title": "Iran agrees not to build a nuke, will reopen Strait of Hormuz — and US to release $25B in assets in Trump peace deal: Tehran",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-news/4383737/posts"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "3 held in ration diversion racket in Maharashtra; corporator's kin among two wanted",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/aurangabad/3-held-in-ration-diversion-racket-in-maharashtra-corporators-kin-among-two-wanted/articleshow/131736975.cms"
+      },
+      {
+        "title": "Lucknow's RMLIMS to get UP's second level-1 trauma centre",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/lucknows-rmlims-to-get-ups-second-level-1-trauma-centre/articleshow/131737445.cms"
+      },
+      {
+        "title": "Supply recovery, not demand, will be oil market's key test: Vandana Hari",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/supply-recovery-not-demand-will-be-oil-markets-key-test-vandana-hari/articleshow/131736006.cms"
+      },
+      {
+        "title": "Russia is the test of Europe's strategic autonomy",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/russia-is-the-test-of-europes-strategic-autonomy/articleshow/131733282.cms"
+      },
+      {
+        "title": "Big yard, iron fences: Why India must chase AI sovereignty now",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/big-yard-iron-fences-why-india-must-chase-ai-sovereignty-now/articleshow/131727269.cms"
+      },
+      {
+        "title": "Trump may release US-Iran deal before Friday, Vance says",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran deal presents political nightmare for Netanyahu",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Eight dead after US Air Force B-52 bomber crashes in California",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Japan raises interest rate to highest for 31 years",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India temporarily bans Telegram over exam paper leak concerns ",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cn074j04l3eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tunisia sack head coach just one game into World Cup",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/sport/football/articles/cp8rldpky7wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigerian army frees widow of ex-general who died in captivity",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia to probe assault claims by Gaza flotilla activists against Israeli forces",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyx4eny41zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trust in news hits a new low, research suggests",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cvgq1py92eko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Norwegian crown princess's son found guilty of two counts of rape",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South African jazz legend Abdullah Ibrahim dies at 91",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "MSF staff abused Sudanese refugees in sex-for-food scandal",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c74ykjl8mx3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What one country's experiment says about attempts to boost birth rates",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c5yzdr4ygdno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Greatest feeling ever': Cape Verdeans tell BBC of joy at holding Spain to draw",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cp3xyvww1lqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A year on, six questions still haunt the Air India crash investigation",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: California wildfires rage near passing vehicles",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn8q909jld2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iranian-Americans protest against Iran team at World Cup",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cm20yglrgjlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What did Trump do differently to Obama on Iran?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cn94vqzev5lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What does the US-Iran deal to end war mean for Lebanon and Israel?",
+        "source": "BBC News",
+        "url": "https://www.bbc.com/news/videos/cg4wk2z6n74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "World Cup: Can Senegal stun France again? Predictions, schedule on Day 6",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/16/world-cup-can-senegal-stun-france-again-predictions-schedule-on-day-6?traffic_source=rss"
+      },
+      {
+        "title": "Iran says Israeli occupation in Lebanon would breach US deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss"
+      },
+      {
+        "title": "G7 leaders meet in France with Iran and Ukraine high on agenda",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss"
+      },
+      {
+        "title": "Iran fans react to team’s first World Cup match amid political schisms",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-fans-react-to-teams-first-world-cup-match-amid-political-schisms?traffic_source=rss"
+      },
+      {
+        "title": "What to know about this week’s US primary elections",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/what-to-know-about-this-weeks-us-primary-elections?traffic_source=rss"
+      },
+      {
+        "title": "Football fans celebrate the World Cup across continents and cultures",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/6/16/football-fans-celebrate-the-world-cup-across-continents-and-cultures?traffic_source=rss"
+      },
+      {
+        "title": "Former CAR president on trial in absentia over crimes against humanity",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/former-car-president-on-trial-in-absentia-over-crimes-against-humanity?traffic_source=rss"
+      },
+      {
+        "title": "Eight people killed in US Air Force B-52 bomber crash: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/us-b-52-bomber-crashes-in-california-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "Palestine weekly wrap: World sanctions settlers, Israel funds settlements",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/palestine-weekly-wrap-world-sanctions-settlers-israel-funds-settlements?traffic_source=rss"
+      },
+      {
+        "title": "Israel uses ‘battlefield evidence’ to prosecute Palestinians abroad",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/israel-uses-battlefield-evidence-to-prosecute-palestinians-abroad?traffic_source=rss"
+      },
+      {
+        "title": "‘My voice is being heard’: A month of India’s Cockroach Janta Party",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/my-voice-is-being-heard-a-month-of-indias-cockroach-janta-party?traffic_source=rss"
+      },
+      {
+        "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss"
+      },
+      {
+        "title": "Japan’s central bank raises interest rates to highest level since 1995",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/16/japans-central-bank-raises-interest-rates-to-highest-level-since-1995?traffic_source=rss"
+      },
+      {
+        "title": "Venezuela signs power deal with US energy giant",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/venezuela-signs-power-deal-with-us-energy-giant?traffic_source=rss"
+      },
+      {
+        "title": "Football upstages politics as Iranians rally behind their team at World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/football-upstages-politics-as-iranians-rally-behind-their-team-at-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "UK seizes Russian ‘shadow fleet’ tanker – what that means",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/uk-seizes-russian-shadow-fleet-tanker-what-that-means?traffic_source=rss"
+      },
+      {
+        "title": "US says Iran nuclear talks begin after framework deal signing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-says-iran-nuclear-talks-begin-after-framework-deal-signing?traffic_source=rss"
+      },
+      {
+        "title": "Iran draw 2-2 with New Zealand in politically charged World Cup match",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/16/iran-draw-2-2-with-new-zealand-in-politically-charged-world-cup-match?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine starts negotiations to join EU",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukraine-starts-negotiations-to-join-eu?traffic_source=rss"
+      },
+      {
+        "title": "Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos?traffic_source=rss"
+      },
+      {
+        "title": "Saudi Arabia draw 1–1 against Uruguay in World Cup opening game",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/16/saudi-arabia-draw-1-1-against-uruguay-in-world-cup-opening?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss"
+      },
+      {
+        "title": "South Sudan’s Jonglei: Who burned homes and silenced hospitals?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/16/south-sudans-jonglei-who-burned-homes-and-silenced-hospitals?traffic_source=rss"
+      },
+      {
+        "title": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-16T09:45:19.143Z",
     "discarded_untrusted": [
       {
