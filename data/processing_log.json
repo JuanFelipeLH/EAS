@@ -1,5 +1,314 @@
 [
   {
+    "run_at": "2026-06-23T22:40:16.569Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Germany rail network comes to complete halt nationwide due to IT malfunction",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spider which uses spring trap to capture prey discovered in Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Irish government to contribute £197m to cross-border rail services",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump anticipates better relationship with Colombia under new leader",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Montreal shooting leaves officer, civilian and suspect dead",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ransom note claims Nancy Guthrie died after abduction",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Inquiry ordered after building fire kills 15 in north India city",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyde73w680o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Myanmar army killed over 700 civilians in six months, UN says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tesla crash that killed a woman under US federal investigation",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kenya minister halts construction of US-backed Ebola quarantine centre ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy6vk44pwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Largest ever cocaine bust in Australia after police raid underground bunker",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c14ygjzr8j7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0ly6786px4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Have World Cup changes made final group stage games unfair?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdejryxlkxro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A brutal gang rape in India revives painful memories of 2012 Delhi assault",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cewqyn2p1lno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Is Germany looking again at coal-powered electricity?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Temperatures hit record levels in western Europe",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c30y6qe2qqno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We're begging' - Savannah Guthrie pleads for help as details of her mother’s case emerge",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cjdg1enzrk5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why was JD Vance in a luxury Swiss resort for talks with Iran?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Parisians cool off in canal amid 'red alert' heatwave",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "England held by Ghana at World Cup as pair close on last-32 passage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/23/england-held-by-ghana-at-world-cup-as-pair-seal-last-32-passage?traffic_source=rss"
+      },
+      {
+        "title": "Donald Trump to attend World Cup final, present trophy: Infantino",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/23/donald-trump-to-attend-world-cup-final-present-trophy-infantino?traffic_source=rss"
+      },
+      {
+        "title": "UN: Israel committed genocide by targeting Gaza children",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-israel-committed-genocide-by-targeting-gaza-children?traffic_source=rss"
+      },
+      {
+        "title": "Paraguay’s Almiron suspended for one game after red card for covering mouth",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/23/paraguays-almiron-suspended-for-one-game-after-red-card-for-covering-mouth?traffic_source=rss"
+      },
+      {
+        "title": "Trump allies reassure Israelis amid tensions on US-Iran deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss"
+      },
+      {
+        "title": "Massive fire rips through Indonesia sandal factory",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/massive-fire-rips-through-indonesia-sandal-factory?traffic_source=rss"
+      },
+      {
+        "title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Alibaba sues US military over labelling it a ‘Chinese military company’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss"
+      },
+      {
+        "title": "Trump disputes Iran’s rejection of nuclear inspectors",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss"
+      },
+      {
+        "title": "India prepares contingency plans due to weak monsoon season",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/india-prepares-contingency-plans-due-to-weak-monsoon-season?traffic_source=rss"
+      },
+      {
+        "title": "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/rubio-begins-gulf-visit-in-the-uae-to-advance-us-iran-peace-deal?traffic_source=rss"
+      },
+      {
+        "title": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss"
+      },
+      {
+        "title": "Iran’s president arrives in Pakistan for peace talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss"
+      },
+      {
+        "title": "US Senate votes to pass Iran war powers resolution in blow to Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss"
+      },
+      {
+        "title": "US says Iran can stay for two days before Egypt World Cup game",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-scores-twice-as-portugal-thrash-uzbekistan-5-0-at-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Displaced Lebanese return south under fragile ceasefire deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss"
+      },
+      {
+        "title": "Video: Israeli troops seen patrolling Syrian countryside",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/video-israeli-troops-seen-patrolling-syrian-countryside?traffic_source=rss"
+      },
+      {
+        "title": "US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/23/us-supreme-court-oks-exxonmobil-lawsuit-over-castro-era-property-seizure?traffic_source=rss"
+      },
+      {
+        "title": "US Supreme Court backs Trump policy on green card holder rights",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/us-supreme-court-backs-trump-policy-on-green-card-holder-rights?traffic_source=rss"
+      },
+      {
+        "title": "Who’s being left out of the World Cup?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/23/whos-being-left-out-of-the-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Why do the UK’s prime ministers keep resigning?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/6/23/why-do-the-uks-prime-ministers-keep-resigning?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces set olive trees on fire in occupied West Bank",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "EU hosts Taliban officials for the first time in talks on deportations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss"
+      },
+      {
+        "title": "US appeals court says Trump can proceed with fast-track deportation efforts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/23/us-appeals-court-says-trump-can-proceed-with-fast-track-deportation-efforts?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-23T22:35:17.798Z",
     "discarded_untrusted": [
       {
