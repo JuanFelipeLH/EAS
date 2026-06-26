@@ -1,5 +1,470 @@
 [
   {
+    "run_at": "2026-06-26T20:10:20.264Z",
+    "discarded_untrusted": [
+      {
+        "title": "Skeptical Science New Research for Week #26 2026",
+        "source": "Skepticalscience.com",
+        "url": "https://skepticalscience.com/new_research_2026_26.html"
+      },
+      {
+        "title": "From $0 to $15 Million a Month: Breaking Down the Best Online Business Offers in the Market",
+        "source": "Addicted2success.com",
+        "url": "https://addicted2success.com/success-advice/best-business-offers-scale-15m-month/"
+      },
+      {
+        "title": "O-GlcNAcylation licenses RNF166 to degrade the M protein of porcine coronaviruses",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014301"
+      },
+      {
+        "title": "Angptl5 restricts primitive hematopoiesis by promoting retinoic acid signaling in zebrafish",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003858"
+      },
+      {
+        "title": "Investigation of correlation between cholesterol intake, apolipoprotein B and Parkinson’s disease related genes in guinea pigs feeding a high-fat diet containing cholesterol",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352642"
+      },
+      {
+        "title": "Splicing deficiency is driven by genomic erosion in non-recombining algal mating-type chromosomes",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003823"
+      },
+      {
+        "title": "Engineered bipaternal mice reveal the consequences of life without a maternal genomic contribution",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003871"
+      },
+      {
+        "title": "Hadron Energy Expands Engineering, Operations, and Finance Team with Six Strategic Hires Ahead of Microreactor Commercialization",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hadron-energy-expands-engineering-operations-and-finance-team-with-six-strategic-hires-ahead-of-microreactor-commercialization"
+      },
+      {
+        "title": "Initial Lightbridge Fuel™ Material Samples Removed from Idaho National Laboratory’s Advanced Test Reactor",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/06/25/3317399/24486/en/Initial-Lightbridge-Fuel-Material-Samples-Removed-from-Idaho-National-Laboratory-s-Advanced-Test-Reactor.html"
+      },
+      {
+        "title": "LakeDrops Drupal Consulting, Development and Hosting: Three Players, One Direction: ECA, FlowDrop, and Maestro",
+        "source": "Lakedrops.com",
+        "url": "https://www.lakedrops.com/en/blog/three-players-one-direction-eca-flowdrop-and-maestro"
+      },
+      {
+        "title": "Iran War: Omani Route Tests Iran Control of Strait of Hormuz as Rubio, GCC States Reject Controlled Passage; Iran Yet to Respond to Israel Ceasefire Violations, Intent to Stay in Lebanon; More Doubts about $300 Billion Fund",
+        "source": "Nakedcapitalism.com",
+        "url": "https://www.nakedcapitalism.com/2026/06/iran-war-omani-route-tests-iran-control-of-strait-of-hormuz-as-rubio-gcc-states-reject-iran-management-iran-yet-to-respond-to-israel-ceasefire-violations-intent-to-stay-in-lebanon-more-doubts.html"
+      },
+      {
+        "title": "Beyond Denial: How Oil Execs Shaped a Landmark Climate Study",
+        "source": "ProPublica",
+        "url": "https://www.propublica.org/article/wedges-climate-research-bp-fossil-fuel-princeton"
+      },
+      {
+        "title": "UK military medics strengthen NATO medical readiness in Estonia",
+        "source": "Www.gov.uk",
+        "url": "https://www.gov.uk/government/news/uk-military-medics-strengthen-nato-medical-readiness-in-estonia"
+      },
+      {
+        "title": "U.S.-Iran Talks Leave Strait of Hormuz Stuck in a Dangerous Gray Zone",
+        "source": "Naturalnews.com",
+        "url": "https://www.naturalnews.com/2026-06-25-us-iran-talks-strait-hormuz-gray-zone.html"
+      },
+      {
+        "title": "The Practical Bankruptcy of Ideological Purity: Political Will and Historical Blindness",
+        "source": "Globalresearch.ca",
+        "url": "https://www.globalresearch.ca/ideological-purity-political-will-historical-blindness/5930755"
+      },
+      {
+        "title": "New High-Grade Uranium Discovery Identified at PLS Project",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/06/25/3317247/0/en/New-High-Grade-Uranium-Discovery-Identified-at-PLS-Project.html"
+      },
+      {
+        "title": "Persona 5 Royal Infiltrates Call of Duty: Mobile Season 6 - Take Your Heart",
+        "source": "Anime News Network",
+        "url": "https://www.animenewsnetwork.com/press-release/2026-06-24/persona-5-royal-infiltrates-call-of-duty-mobile-season-6-take-your-heart/.238899"
+      },
+      {
+        "title": "'Very strong' nuclear verification needed in Iran after war: IAEA head",
+        "source": "economictimes_indiatimes",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/very-strong-nuclear-verification-needed-in-iran-after-war-iaea-head/articleshow/132010384.cms"
+      },
+      {
+        "title": "'Very strong' nuclear verification needed in Iran after war: IAEA head",
+        "source": "japantoday",
+        "url": "https://japantoday.com/category/politics/'very-strong'-nuclear-verification-needed-in-iran-after-war-iaea-head"
+      },
+      {
+        "title": "‘Very strong’ nuclear verification needed in Iran after war: IAEA head",
+        "source": "straitstimes",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-deal-grants-access-to-nuclear-inspectors-iaea-chief-says"
+      },
+      {
+        "title": "'Very strong' nuclear verification needed in Iran after war: IAEA head",
+        "source": "cnbctv18",
+        "url": "https://www.cnbctv18.com/world/very-strong-nuclear-verification-needed-in-iran-after-war-iaea-head-19932995.htm"
+      },
+      {
+        "title": "'Very strong' nuclear verification needed in Iran, IAEA head says",
+        "source": "naharnet",
+        "url": "https://www.naharnet.com/stories/en/320939-very-strong-nuclear-verification-needed-in-iran-iaea-head-says"
+      },
+      {
+        "title": "Mr President, take a leaf out of the Desert Storm playbook",
+        "source": "spectator_au",
+        "url": "https://www.spectator.com.au/2026/06/mr-president-take-a-leaf-out-of-the-desert-storm-playbook/"
+      },
+      {
+        "title": "IAEA Head: 'Very Strong' Nuclear Verification Needed in Iran after War",
+        "source": "aawsat",
+        "url": "https://english.aawsat.com/node/5288759"
+      },
+      {
+        "title": "'Very strong' nuclear verification needed in Iran after war: IAEA head",
+        "source": "almonitor",
+        "url": "https://www.al-monitor.com/originals/2026/06/very-strong-nuclear-verification-needed-iran-after-war-iaea-head"
+      },
+      {
+        "title": "Deadly plutonium and families don’t mix — Gail Rieger",
+        "source": "ttownmedia",
+        "url": "https://www.ttownmedia.com/tracy_press/deadly-plutonium-and-families-don-t-mix-gail-rieger/article_d5e7fc6d-ab90-4525-903c-3db7e027ac0e.html"
+      },
+      {
+        "title": "Fears of Russian ‘provocation’ in Baltic region as pressure mounts on Kremlin",
+        "source": "irishtimes",
+        "url": "https://www.irishtimes.com/world/europe/2026/06/26/fears-of-russian-provocation-in-baltic-region-as-pressure-mounts-on-kremlin/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "India outlines energy storage, nuclear targets at BRICS meet",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/india/india-outlines-energy-storage-nuclear-targets-at-brics-meet/articleshow/132000771.cms"
+      },
+      {
+        "title": "Iran's Nuclear Deal Faces Its Toughest Test: Verification",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260625-rferl04.htm"
+      },
+      {
+        "title": "‘America is back’: Trump kicks off Great American State Fair with flyovers, patriotic National Mall speech",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/america-back-trump-kicks-off-great-american-state-fair-flyovers-patriotic-national-mall-speech"
+      },
+      {
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "DR Congo takes Rwanda to international court over decades of conflict",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Christmas market attacker jailed for life for murdering six in Germany",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada eligible to join Eurovision competition",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Asia stock markets slide as tech shares slump",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Housing board votes to freeze New York rents in victory for Mamdani",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Row over alleged theft of donations from India's landmark Ram temple",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn07gl6wx6go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Oil price falls back to pre-Iran war levels",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Key figure in South Africa police corruption scandal pleads guilty",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Philippines bans video game played by alleged high school shooter",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Independent MPs launch new Australian centrist party ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg76mgz0m1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty  ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The abundant but expensive energy source that's under your feet",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why the trail went cold in Nancy Guthrie case",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A Chinese box office hit sparks a debate about identity in Singapore",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzv23g75eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Could a Madison Square Garden wedding be the love story of Taylor Swift's wildest dreams?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy73e5xek8xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Debris falls after plane hits Beijing's tallest building",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Moment woman pulled from rubble alive after Venezuela earthquake",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Aerial footage reveals destruction in coastal Venezuela",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rescues and prayers a day after Venezuelan earthquakes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cz6vny382q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli attack on car in central Gaza kills three Palestinians",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss"
+      },
+      {
+        "title": "How much disaster aid will the US provide to Venezuela?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/6/26/how-much-disaster-aid-will-the-u-s-provide-to-venezuela?traffic_source=rss"
+      },
+      {
+        "title": "Trump threatens tariffs for countries that levy digital tax on US firms",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss"
+      },
+      {
+        "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Is the AfD a threat to Germany? Mehdi Hasan & Maximilian Krah",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/head-to-head/2026/6/26/is-the-afd-a-threat-to-germany-mehdi-hasan-maximilian-krah?traffic_source=rss"
+      },
+      {
+        "title": "Israel, Lebanon sign framework deal after US-mediated talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/israel-lebanon-sign-framework-deal-after-us-mediated-talks?traffic_source=rss"
+      },
+      {
+        "title": "Advocates warn of wide-ranging implications of US Supreme Court TPS ruling",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/advocates-warn-of-wide-ranging-implications-of-us-supreme-court-tps-ruling?traffic_source=rss"
+      },
+      {
+        "title": "Rescuers race to find survivors of Venezuelan earthquakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_inside-venezuelas-race-to-find-earthquake-survivors-260626?traffic_source=rss"
+      },
+      {
+        "title": "Israeli prosecutors charge six settlers after West Bank mosque attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/israeli-prosecutors-charge-six-settlers-after-west-bank-mosque-attack?traffic_source=rss"
+      },
+      {
+        "title": "Why did these World Cup ads strike a nerve in Egypt?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt-2?traffic_source=rss"
+      },
+      {
+        "title": "US announces framework agreement between Israel and Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Nine people killed in building collapse in Lagos, Nigeria",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss"
+      },
+      {
+        "title": "New York City freezes rents for one million regulated apartments",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss"
+      },
+      {
+        "title": "DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/dr-congo-files-case-against-rwanda-at-icj-over-decades-of-alleged-abuses?traffic_source=rss"
+      },
+      {
+        "title": "How did Colombia’s election split a nation in two?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-take-2/2026/6/26/how-did-colombias-election-split-a-nation-in-two?traffic_source=rss"
+      },
+      {
+        "title": "‘This time’: The World Cup commercials capturing Egypt’s soaring hopes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/this-time-the-world-cup-commercials-capturing-egypts-soaring-hopes?traffic_source=rss"
+      },
+      {
+        "title": "Hezbollah: Israel must ‘unconditionally’ leave Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah_israel-must-unconditionally-leave-lebanon-260626?traffic_source=rss"
+      },
+      {
+        "title": "Why did these World Cup ads strike a nerve in Egypt?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt?traffic_source=rss"
+      },
+      {
+        "title": "Norway vs France LIVE: FIFA World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/26/norway-vs-france-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "EU targets Somalia with visa curbs as president pushes back on returns",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/eu-targets-somalia-with-visa-curbs-as-president-pushes-back-on-returns?traffic_source=rss"
+      },
+      {
+        "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Morocco jails 29, including politicians and sports figures, in drug trial",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/morocco-jails-29-including-politicians-and-sports-figures-in-drug-trial?traffic_source=rss"
+      },
+      {
+        "title": "Ex-Trump adviser Bolton pleads guilty in classified documents case",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/ex-trump-adviser-bolton-pleads-guilty-in-classified-documents-case?traffic_source=rss"
+      },
+      {
+        "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss"
+      },
+      {
+        "title": "South Korean court jails former first lady for seven years in bribery case",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/26/south-korean-court-jails-former-first-lady-for-seven-years-in-bribery-case?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-26T20:05:13.092Z",
     "discarded_untrusted": [
       {
