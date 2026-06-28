@@ -1,5 +1,259 @@
 [
   {
+    "run_at": "2026-06-28T21:30:18.904Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fourteen killed in Saudi Arabia helicopter crash ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Uganda's leading media outlets shut down by army chief",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia to double maximum penalty for platforms in breach of social media ban",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's face is added to select US passports for America's 250th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Budapest's first Pride since Orban left power",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What news reports from 1600s tell us about life in Mughal India",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bad Bunny lights up London with history-making stadium show",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Newborn baby rescued from Venezuela earthquake rubble",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Protesters in Serbia doubt Vucic resignation will bring change",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss"
+      },
+      {
+        "title": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss"
+      },
+      {
+        "title": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss"
+      },
+      {
+        "title": "Hope of finding more Venezuela quake survivors fades despite late rescues",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/hope-of-finding-more-venezuela-quake-survivors-fades-despite-late-rescues?traffic_source=rss"
+      },
+      {
+        "title": "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-top-matches-to-watch-in-the-round-of-32-knockout-stage?traffic_source=rss"
+      },
+      {
+        "title": "Gaza’s displaced families face worsening living conditions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gazas-displaced-families-face-worsening-living-conditions?traffic_source=rss"
+      },
+      {
+        "title": "Can the ICJ help end the war in the eastern DRC?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/6/28/can-the-icj-help-end-the-war-in-the-eastern-drc?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces bulldoze olive groves in the occupied West Bank",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/israeli-forces-bulldoze-olive-groves-in-the-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "title": "Starmer couldn’t master the media. Can Burnham?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/28/starmer-couldnt-master-the-media-can-burnham?traffic_source=rss"
+      },
+      {
+        "title": "US and Iran trade strikes days after peace agreement",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss"
+      },
+      {
+        "title": "Serbia’s protesters press on even after Vucic promises to step aside",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/serbias-protesters-press-on-even-after-vucic-promises-to-step-aside?traffic_source=rss"
+      },
+      {
+        "title": "Why do reports of domestic abuse increase during World Cups?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/why-do-reports-of-domestic-abuse-increase-during-world-cups?traffic_source=rss"
+      },
+      {
+        "title": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss"
+      },
+      {
+        "title": "The aftermath of Venezuela’s deadly earthquake",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss"
+      },
+      {
+        "title": "The match that changed the World Cup forever",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-match-that-changed-the-world-cup-forever?traffic_source=rss"
+      },
+      {
+        "title": "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/drone-captures-ongoing-rescue-efforts-after-venezuela-earthquakes?traffic_source=rss"
+      },
+      {
+        "title": "Louisiana primary win puts Trump endorsee Letlow on path to US Senate",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/louisiana-primary-win-puts-trump-endorsee-letlow-on-path-to-us-senate?traffic_source=rss"
+      },
+      {
+        "title": "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/russell-beats-verstappen-at-austrian-grand-prix-to-boost-f1-title-hopes?traffic_source=rss"
+      },
+      {
+        "title": "Israel strikes Lebanon, testing days-old peace deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
+      },
+      {
+        "title": "LIVE: South Africa vs Canada: FIFA World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/6/28/south-africa-vs-canada-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Iraq arrests senior officials in anti-corruption raids",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
+      },
+      {
+        "title": "Three firefighters killed in US wildfires along Colorado–Utah border",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss"
+      },
+      {
+        "title": "Ben Stokes, England test captain, to retire from international cricket",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/ben-stokes-england-test-captain-to-retire-from-international-cricket?traffic_source=rss"
+      },
+      {
+        "title": "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/28/qa-why-humanitarian-aid-is-crucial-to-stopping-the-ebola-outbreak?traffic_source=rss"
+      },
+      {
+        "title": "If USMCA is not renewed, analysts expect uncertainty for businesses",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/6/28/if-usmca-is-not-renewed-analysts-expect-uncertainty-for-businesses?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-28T21:25:40.650Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
