@@ -1,5 +1,320 @@
 [
   {
+    "run_at": "2026-06-30T23:40:16.861Z",
+    "discarded_untrusted": [
+      {
+        "title": "America 250 road trip: The greatest bet in sports history -- 157 years ago",
+        "source": "espn",
+        "url": "https://www.espn.com/espn/story/_/id/49107413/america-250-espn-road-trip-utah-crossroads-looking-connection-sports-aj-dybantsa-utah-mammoth"
+      },
+      {
+        "title": "'I'm not willing to do' what it'd take to get Iran surrender: Marshall",
+        "source": "cjonline",
+        "url": "https://www.cjonline.com/story/news/politics/government/2026/06/30/kansas-senator-roger-marshall-backs-trump-peace-plan-for-iran-war/90663256007/"
+      },
+      {
+        "title": "Britain has a grand plan to defend against Putin. But two major new threats loom",
+        "source": "inews",
+        "url": "https://inews.co.uk/news/world/britain-unmanned-force-concept-defend-against-putin-4612430"
+      },
+      {
+        "title": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
+        "source": "newspub_live",
+        "url": "https://newspub.live/world/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths/"
+      },
+      {
+        "title": "After killing Rick Sanchez, how fast would you need to go to avoid the nukes in his body?",
+        "source": "htxt",
+        "url": "https://htxt.co.za/2026/06/after-killing-rick-sanchez-how-fast-would-you-need-to-go-to-avoid-the-nukes-in-his-body/"
+      },
+      {
+        "title": "Scorching hot bikini facts as two-piece turns 80 - from real name to nude wear",
+        "source": "dailystar",
+        "url": "https://www.dailystar.co.uk/news/exclusive/scorching-hot-bikini-facts-two-37362853"
+      },
+      {
+        "title": "'Years to build, a moment to destroy': US-Israeli air campaign devastates some of Iran's most cherished monuments",
+        "source": "dawn",
+        "url": "https://www.dawn.com/news/2011843/years-to-build-a-moment-to-destroy-us-israeli-air-campaign-devastates-some-of-irans-most-cherished-monuments"
+      },
+      {
+        "title": "'Years to build, a moment to destroy': US and Israeli air campaign devastates some of Iran's most cherished monuments",
+        "source": "dawn",
+        "url": "https://www.dawn.com/news/2011843/years-to-build-a-moment-to-destroy-us-and-israeli-air-campaign-devastates-some-of-irans-most-cherished-monuments"
+      },
+      {
+        "title": "Iranian, US presidents sign peace MoU digitally",
+        "source": "iol",
+        "url": "https://www.iol.co.za/news/world/iranian-us-presidents-sign-peace-mou-digitally-b8629561-0dce-427a-923f-df174cb0e944"
+      },
+      {
+        "title": "Reuters journalists observed damage at 11 historic buildings during rare March access",
+        "source": "tbsnews_net",
+        "url": "https://www.tbsnews.net/node/1475846"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Firefighters struggle to contain deadly Greek wildfire",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Senegalese MPs move to clip presidential powers as tensions mount",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgl352xjgngo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Missing US congressman explains mysterious four-month absence",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Supreme Court's birthright ruling is major blow to Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why $20 durians are now being sold at half price - or given away for free",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What to know about the looming  deadline on North American free trade ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Americans react to Supreme Court upholding birthright citizenship",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canadians share hopes and wishes for America's 250th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are South Korean fans so angry at their football coach?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Young bald eagle takes first flight in California",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Donald Trump reports $1.4bn in cryptocurrency income in government filing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/donald-trump-reports-1-4bn-in-cryptocurrency-income-in-government-filing?traffic_source=rss"
+      },
+      {
+        "title": "Venezuelans the US deported hours before earthquakes still missing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/venezuelans-the-us-deported-hours-before-earthquakes-still-missing?traffic_source=rss"
+      },
+      {
+        "title": "France beat Sweden as Mbappe draws level with Messi in World Cup goal chart",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/30/mbappe-and-barcola-score-as-france-shine-in-2-0-world-cup-defeat-of-sweden?traffic_source=rss"
+      },
+      {
+        "title": "“WhatsApp Privacy Changes”",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/whatsapp-privacy?traffic_source=rss"
+      },
+      {
+        "title": "Mexico fans blast horns outside Ecuador hotel the night before World Cup clash",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/30/mexico-fans-blast-horns-outside-ecuador-hotel-the-night-before-world-cup-clash?traffic_source=rss"
+      },
+      {
+        "title": "Why India’s viral youth party is still protesting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/why-indias-viral-youth-party-is-still-protesting?traffic_source=rss"
+      },
+      {
+        "title": "Valiant Serena beaten on Wimbledon return, Swiatek survives scare",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/30/valiant-serena-beaten-on-wimbledon-return-swiatek-survives-scare?traffic_source=rss"
+      },
+      {
+        "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss"
+      },
+      {
+        "title": "Emergency crews search rubble after Athens building collapse",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/emergency-crews-search-rubble-after-athens-building-collapse?traffic_source=rss"
+      },
+      {
+        "title": "More than 30 students remain missing after Nigeria school attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack?traffic_source=rss"
+      },
+      {
+        "title": "Rescuers find more bodies under rubble as Venezuela death toll rises",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/rescuers-find-more-bodies-under-rubble-as-venezuela-death-toll-rises?traffic_source=rss"
+      },
+      {
+        "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss"
+      },
+      {
+        "title": "Norway edge Ivory Coast 2–1 to enter World Cup Round of 16",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/30/norway-edge-ivory-coast-2-1-to-enter-world-cup-round-of?traffic_source=rss"
+      },
+      {
+        "title": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss"
+      },
+      {
+        "title": "Cuba’s foreign minister observes ‘no progress’ in US negotiations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/cubas-foreign-minister-observes-no-progress-in-us-negotiations?traffic_source=rss"
+      },
+      {
+        "title": "German heatwave melts tram tracks, triggers travel disruptions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/german-heatwave-melts-tram-tracks-triggers-travel-disruptions?traffic_source=rss"
+      },
+      {
+        "title": "How much of your life do you spend on social media?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/how-much-of-your-life-do-you-spend-on-social-media-2?traffic_source=rss"
+      },
+      {
+        "title": "Healthcare situation in DR Congo improves amidst Ebola crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/healthcare-situation-in-dr-congo-improves-amidst-ebola-crisis?traffic_source=rss"
+      },
+      {
+        "title": "What happened on South Africa’s anti-migrant ‘deadline day’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/what-happened-on-south-africas-anti-migrant-deadline?traffic_source=rss"
+      },
+      {
+        "title": "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s fragile ceasefire: 3 months later",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/lebanons-fragile-ceasefire-3-months-later?traffic_source=rss"
+      },
+      {
+        "title": "Birthright citizenship ruling: US officials, lawmakers and advocates react",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/birthright-citizenship-ruling-us-officials-lawmakers-and-advocates-react?traffic_source=rss"
+      },
+      {
+        "title": "England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/6/30/england-vs-dr-congo-world-cup-round-of-32-kane-match-prediction-lineups?traffic_source=rss"
+      },
+      {
+        "title": "How is South Africa dealing with immigration?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/6/30/how-is-south-africa-dealing-with-immigration?traffic_source=rss"
+      },
+      {
+        "title": "At least 14 children killed after roof of Pakistan tuition centre collapses",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/at-least-14-children-killed-after-roof-of-pakistan-tuition-centre-collapses?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-06-30T23:35:11.981Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
