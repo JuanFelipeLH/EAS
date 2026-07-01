@@ -1,5 +1,325 @@
 [
   {
+    "run_at": "2026-07-01T06:30:21.965Z",
+    "discarded_untrusted": [
+      {
+        "title": "'I survived deadliest tsunami ever but will never forget the gruesome scene I saw on beach'",
+        "source": "dailystar",
+        "url": "https://www.dailystar.co.uk/news/world-news/i-survived-deadliest-tsunami-ever-37369269"
+      },
+      {
+        "title": "On This Day in History, July 1: Terminator 2 premiers, Dominion of Canada is formed, Bretton Woods Conference opens, Hong Kong returns to China, Sony Walkman debuts, Princess Diana is born and other key events",
+        "source": "economictimes_indiatimes",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/on-this-day-in-history-july-1-terminator-2-premiers-dominion-of-canada-is-formed-bretton-woods-conference-opens-hong-kong-returns-to-china-sony-walkman-debuts-princess-diana-is-born-and-other-key-events/articleshow/132098206.cms"
+      },
+      {
+        "title": "5 Forgotten '90s Sci-Fi TV Shows That Still Hold Up Today",
+        "source": "slashfilm",
+        "url": "https://www.slashfilm.com/2205107/forgotten-90s-sci-fi-tv-shows-still-hold-up-today/"
+      },
+      {
+        "title": "Apple’s Hit 90% RT Sci-Fi Masterpiece Returns This Week",
+        "source": "comicbook",
+        "url": "https://comicbook.com/tv-shows/news/silo-season-3-returns-streaming-apple-tv-this-week-sci-fi-masterpiece/"
+      },
+      {
+        "title": "Analyst claims Donald Trump called to bomb Iran before Benjamin Netanyahu did",
+        "source": "bundle_app",
+        "url": "https://www.bundle.app/en/breaking-news/analyst-claims-donald-trump-called-to-bomb-iran-before-benjamin-netanyahu-did-E4B011A4-282D-488E-B0A6-C1DACE59B594"
+      },
+      {
+        "title": "Three Models of Sino-American Competition for the Soul of AI",
+        "source": "hudson_org",
+        "url": "https://www.hudson.org/technology/three-models-sino-american-competition-soul-ai-bill-drexel"
+      },
+      {
+        "title": "Trump called to bomb Iran before Netanyahu did, Harley Lippman says",
+        "source": "jpost",
+        "url": "https://www.jpost.com/podcast/article-900977"
+      },
+      {
+        "title": "Star Wars Monopoly Is Fun, Unless You Are Playing Against Chewbacca Who Is An Overpowered Nuclear Bomb",
+        "source": "kotakugamerguide",
+        "url": "https://kotaku.com/star-wars-monopoly-is-fun-unless-you-are-playing-against-chewbacca-who-is-a-overpowered-nuclear-bomb-2000711507"
+      },
+      {
+        "title": "How Russia’s Neighbors Learned to Stop Worrying and Love the Bomb",
+        "source": "themoscowtimes",
+        "url": "https://www.themoscowtimes.com/2026/06/30/how-russias-neighbors-learned-to-stop-worrying-and-love-the-bomb-a93134"
+      },
+      {
+        "title": "U.S. B-2 Bombers Now a Major Threat to Enemy Aircraft Carriers. Fires AGM-158C LRASM During Live-Fire Drills",
+        "source": "eurasiantimes",
+        "url": "https://www.eurasiantimes.com/u-s-b-2-bomber-now-a-major-threat-to-enemy-aircraft-carriers-fires-agm-158c-lrasm-during-live-fire-drills/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump made more than $1bn from crypto in first year back in office",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Roof collapse kills 14 children at Pakistan tuition centre",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Anthropic says US lifts export ban on its advanced AI tools",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Absolute madness': Row over plan to demolish Nazi bunker under Berlin",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwy09753nq3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Firefighters struggle to contain deadly Greek wildfire",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qy3nkex0qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Supreme Court's birthright ruling is major blow to Trump",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why $20 durians are now being sold at half price - or given away for free",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What to know about the looming  deadline on North American free trade ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Americans react to Supreme Court upholding birthright citizenship",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canadians share hopes and wishes for America's 250th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are South Korean fans so angry at their football coach?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Young bald eagle takes first flight in California",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss"
+      },
+      {
+        "title": "‘I did nothing wrong’: Sweden’s migration regime hardens, upending lives",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/i-did-nothing-wrong-swedens-migration-regime-hardens-upending-lives?traffic_source=rss"
+      },
+      {
+        "title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss"
+      },
+      {
+        "title": "Gojek co-founder, turned Indonesian Education Minister jailed for 10 years",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/gojek-co-founder-turned-indonesian-education-minister-jailed-for-10-years?traffic_source=rss"
+      },
+      {
+        "title": "Tutoring centre roof collapses killing 14 children in Pakistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss"
+      },
+      {
+        "title": "Supreme Court’s divided ruling on birthright citizenship may be revisited",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/supreme-courts-divided-ruling-on-birthright-citizenship-may-be-revisited?traffic_source=rss"
+      },
+      {
+        "title": "World’s oceans experience hottest June ever, scientists say more heat ahead",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead?traffic_source=rss"
+      },
+      {
+        "title": "Mexico beat Ecuador 2-0 to reach World Cup last-16 and break 40-year curse",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/mexico-ecuador-fifa-world-cup-2026-score-jimenez-quinones-hincapie?traffic_source=rss"
+      },
+      {
+        "title": "NASA astronauts spacewalk to fix robotic arm",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/nasa-astronauts-spacewalk-to-fix-robotic-arm-2?traffic_source=rss"
+      },
+      {
+        "title": "USA face Bosnia in World Cup knockouts, with pride, credentials on the line",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/1/usa-face-bosnia-in-world-cup-knockouts-with-pride-credentials-on-the-line?traffic_source=rss"
+      },
+      {
+        "title": "Mercury’s Thomas says received online abuse following WNBA suspension",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/1/mercurys-thomas-says-received-online-abuse-following-wnba-suspension?traffic_source=rss"
+      },
+      {
+        "title": "UN chief fears for ‘millions’ of Palestinians amid UNRWA funding shortfall",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/un-chief-fears-for-millions-of-palestinians-amid-unrwa-funding-shortfall?traffic_source=rss"
+      },
+      {
+        "title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-says-it-couldnt-export-a-single-barrel-of-oil-during-us-blockade?traffic_source=rss"
+      },
+      {
+        "title": "US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says?traffic_source=rss"
+      },
+      {
+        "title": "Southeast Asia’s homegrown artists are knocking K-pop off its pedestal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/southeast-asias-homegrown-artists-are-knocking-k-pop-off-its-pedestal?traffic_source=rss"
+      },
+      {
+        "title": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/1/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award?traffic_source=rss"
+      },
+      {
+        "title": "Algeria to vote in test of post-Hirak political landscape",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/algeria-to-vote-in-test-of-post-hirak-political-landscape?traffic_source=rss"
+      },
+      {
+        "title": "LeBron James thanks LA Lakers ahead of free agency exit for 24th season",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/1/lebron-james-thanks-la-lakers-ahead-of-free-agency-exit-for-24th-season?traffic_source=rss"
+      },
+      {
+        "title": "Iran leaves World Cup with warm send-off from Mexican fans",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-leaves-world-cup-with-warm-send-off-from-mexican-fans?traffic_source=rss"
+      },
+      {
+        "title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss"
+      },
+      {
+        "title": "Mbappe, Deschamps break World Cup records in Sweden thrashing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/1/mbappe-deschamps-break-world-cup-records-in-sweden-thrashing?traffic_source=rss"
+      },
+      {
+        "title": "Mexican fans keep Ecuador’s team awake before World Cup showdown",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/mexican-fans-keep-ecuadors-team-awake-before-world-cup-showdown?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran says Hormuz is its ‘greatest instrument of power’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/1/iran-war-live-qatars-pm-meets-us-envoys-tehran-holds-firm-on-conditions?traffic_source=rss"
+      },
+      {
+        "title": "‘A rally like none other’: Trump unveils 2026 Republican midterm convention",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/a-rally-like-no-other-trump-announces-2026-midterm-convention?traffic_source=rss"
+      },
+      {
+        "title": "Donald Trump made $1.4bn in crypto income in 2025, raising his net worth",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/6/30/donald-trump-reports-1-4bn-in-cryptocurrency-income-in-government-filing?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-01T06:25:13.463Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
@@ -119301,966 +119621,6 @@
       },
       {
         "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Chinese tycoon sentenced to 30 years in US jail",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Six people shot dead at centre for mothers and children in Germany",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Indian journalists condemn 'denial' of voting and passport rights of prominent editor",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpv37jwd3zzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event ",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Senior South African police officer survives assassination attempt",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "First dinosaur bone from Antarctica found in a drawer",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why $20 durians are now being sold at half price - or given away for free",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What to know about the looming  deadline on North American free trade ",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How population decline is exposing Germany's old divides",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c24ylyv40y5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Loved and loathed: The making of India's viral liver doctor",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c39y7w901vdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Young bald eagle takes first flight in California",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What do we know about the shooting in Stade, Germany?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anger directed at Venezuela's official response to earthquake recovery",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss"
-      },
-      {
-        "title": "Moment drone hits vehicle in Zaporizhzhia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/moment-drone-hits-vehicle-in-zaporizhzhia?traffic_source=rss"
-      },
-      {
-        "title": "Paraguay declares holiday after beating Germany in World Cup upset",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/paraguay-declares-holiday-after-beating-germany-in-world-cup-upset?traffic_source=rss"
-      },
-      {
-        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud?traffic_source=rss"
-      },
-      {
-        "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan-administered Kashmir returns to daily life after deadly protests",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/pakistan-administered-kashmir-returns-to-daily-life-after-deadly-protests?traffic_source=rss"
-      },
-      {
-        "title": "Nerves and tears as Germany exits World Cup on penalties",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/nerves-and-tears-as-germany-exits-world-cup-on-penalties?traffic_source=rss"
-      },
-      {
-        "title": "Trump tells US petrol retailers to reduce prices ‘immediately’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/6/30/trump-tells-us-petrol-retailers-to-reduce-prices-immediately?traffic_source=rss"
-      },
-      {
-        "title": "Morocco beat Netherlands in dramatic World Cup shootout to reach last 16",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo?traffic_source=rss"
-      },
-      {
-        "title": "How Germany were handed a World Cup humbling and what it means to Paraguay",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/how-germany-were-handed-a-world-cup-humbling-and-what-it-means-to-paraguay?traffic_source=rss"
-      },
-      {
-        "title": "US education faces ‘a crisis for low-wealth students’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss"
-      },
-      {
-        "title": "Police hunt for suspect after three wounded in Monaco blast",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss"
-      },
-      {
-        "title": "Mourners light candles after deadly German shelter shooting",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/mourners-light-candles-after-deadly-german-shelter-shooting?traffic_source=rss"
-      },
-      {
-        "title": "Trump: US envoys enroute to Doha for ‘perhaps important’ Iran meeting",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss"
-      },
-      {
-        "title": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss"
-      },
-      {
-        "title": "Fears for people deported from US to Venezuela hours before earthquakes hit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/fears-for-people-deported-from-us-to-venezuela-hours-before-earthquakes-hit?traffic_source=rss"
-      },
-      {
-        "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss"
-      },
-      {
-        "title": "Paraguay coach salutes ‘extraordinary’ World Cup win over Germany",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany?traffic_source=rss"
-      },
-      {
-        "title": "Families hold out hope for survivors five days after Venezuela earthquakes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/aje-onl-nf_families-hold-out-hope-after-venezuela-earthquakes-290626?traffic_source=rss"
-      },
-      {
-        "title": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/keiko-fujimori-leads-in-peruvian-presidential-race-as-vote-count-concludes?traffic_source=rss"
-      },
-      {
-        "title": "Migrants in South Africa fear violence ahead of June 30 deadline",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/migrants-in-south-africa-fear-violence-ahead-of-june-30-deadline?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss"
-      },
-      {
-        "title": "Sixty-six years on: The promise of DRC independence remains unfulfilled",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/29/sixty-six-years-on-the-promise-of-drc-independence-remains-unfulfilled?traffic_source=rss"
-      },
-      {
-        "title": "Anxiety turns to joy as Brazil qualifies for the Final 16",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/anxiety-turns-to-joy-as-brazil-qualifies-for-the-final-16?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-06-30T06:30:19.109Z",
-    "discarded_untrusted": [
-      {
-        "title": "Launch of Akkuyu NPP's Unit 1 in Turkiye Scheduled for Fall 2026 - Rosatom CEO",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260629/launch-of-akkuyu-npps-unit-1-in-turkiye-scheduled-for-fall-2026---rosatom-ceo-1124372645.html"
-      },
-      {
-        "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
-        "source": "Scottaaronson.blog",
-        "url": "https://scottaaronson.blog/?p=9881"
-      },
-      {
-        "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
-        "source": "Phantafield.com",
-        "url": "https://www.phantafield.com/whitepaper"
-      },
-      {
-        "title": "Mapping histologic and functional maturation of human endocrine pancreas across early postnatal periods",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41467-026-73854-y"
-      },
-      {
-        "title": "Allosteric disordering of eIF2B regulates the integrated stress response",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41589-026-02256-4"
-      },
-      {
-        "title": "MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4385855/posts"
-      },
-      {
-        "title": "Silicon Valley’s Reactor Projects",
-        "source": "Lawyersgunsmoneyblog.com",
-        "url": "https://www.lawyersgunsmoneyblog.com/2026/06/silicon-valleys-reactor-projects"
-      },
-      {
-        "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-        "source": "Blogger.com",
-        "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/6264947694886887540/6128667078814016380"
-      },
-      {
-        "title": "The Climate Crisis Won't Let the Political Cycle Ignore It for Too Long",
-        "source": "Substack.com",
-        "url": "https://billmckibben.substack.com/p/and-so-climate-returns"
-      },
-      {
-        "title": "Trump Threatens to 'Complete the Job' in Iran as US and Iran Trade Strikes Near the Strait of Hormuz",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/tensions-escalate-trump-threatens-iran-ceasefire-violations-1871455"
-      },
-      {
-        "title": "Stabilizing Cell Membranes to Mitigate Cancer Risk — The Role of C15:0 and Choline",
-        "source": "Mercola.com",
-        "url": "https://articles.mercola.com/sites/articles/archive/2026/06/28/c150-pentadecanoic-acid-choline-cancer-risk.aspx"
-      },
-      {
-        "title": "US Navy develops portable DNA test to ID bioweapons in the field",
-        "source": "New Atlas",
-        "url": "https://newatlas.com/military/us-navy-develops-dna-tests-id-bioweapons/"
-      },
-      {
-        "title": "Since the first Japanese bullet train left Tokyo Station on October 1, 1964 — just nine days before the opening of the Tokyo Olympics — the Shinkansen has carried more than 10 billion passengers across 60 years of continuous high-speed operation, and has never had a single passenger fatality caused by derailment or collision in its entire history",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/d-since-the-first-japanese-bullet-train-left-tokyo-station-on-october-1-1964-just-nine-days-before-the-opening-of-the-tokyo-olympics-the-shinkansen-has-carried-more-than-10-billion/"
-      },
-      {
-        "title": "Saturday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/06/27/saturday-hili-dialogue-588/"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "CBSE issues revised Class 12 result for Vedant Srivastava; Physics marks unchanged after answer sheet mix-up",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/education/news/cbse-issues-revised-class-12-result-for-vedant-srivastava-physics-marks-unchanged-after-answer-sheet-mix-up/articleshow/132049420.cms"
-      },
-      {
-        "title": "Matritva, Shishu Evam Baalika Madad Yojana: What it means for women and children in Uttar Pradesh",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/lucknow/matritva-shishu-evam-baalika-madad-yojana-what-it-means-for-women-and-children-in-uttar-pradesh/articleshow/132048840.cms"
-      },
-      {
-        "title": "UP Home Guard result 2026 released at uppbpb.gov.in; 1,07,221 candidates shortlisted for PST: Direct link here",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/education/news/up-home-guard-result-2026-released-at-uppbpb-gov-in-107221-candidates-shortlisted-for-pst-direct-link-here/articleshow/132048829.cms"
-      },
-      {
-        "title": "Rajokri Flyover hit-and-run: Techie was driving Thar that killed biker 2 days ago; arrested in Delhi",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/delhi/rajokri-flyover-hit-and-run-techie-was-driving-thar-that-killed-biker-2-days-ago-arrested-in-delhi/articleshow/132044572.cms"
-      },
-      {
-        "title": "IGCAR Kalpakkam Hydrogen Plant: India inaugurates world’s first hydrogen plant that uses nuclear reactor heat instead of electricity",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/igcar-kalpakkam-hydrogen-plant-india-inaugurates-worlds-first-hydrogen-plant-that-uses-nuclear-reactor-heat-instead-of-electricity/articleshow/132041337.cms"
-      },
-      {
-        "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o"
-      },
-      {
-        "title": "Angry Venezuelans accuse government of negligence and apathy",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Parcel bomb injures Ukrainian oligarch and family in Monaco - reports",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Chinese tycoon sentenced to 30 years in US jail",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Osaka pays 'love and respect to Japan' in Wimbledon kimono",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cd0mymk9d70o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Six people shot dead at centre for mothers and children in Germany",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "DR Congo bans mass gatherings in the  capital to prevent spread of Ebola",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "South Korea football coach quits as president calls for probe into World Cup loss",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Indian journalists condemn 'denial' of voting and passport rights of prominent editor",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpv37jwd3zzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event ",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Senior South African police officer survives assassination attempt",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "First dinosaur bone from Antarctica found in a drawer",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why $20 durians are now being sold at half price - or given away for free",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What to know about the looming  deadline on North American free trade ",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How population decline is exposing Germany's old divides",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c24ylyv40y5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Loved and loathed: The making of India's viral liver doctor",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c39y7w901vdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bad Bunny lights up London with history-making stadium show",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and Enola Holmes",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Sort Your Life Out: The four most common cluttering mistakes and how to fix them",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Young bald eagle takes first flight in California",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What do we know about the shooting in Stade, Germany?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cdx7j0wn9lvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Anger directed at Venezuela's official response to earthquake recovery",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "In pictures: Venezuela earthquakes death toll surpasses 1,700",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/gallery/2026/6/30/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700?traffic_source=rss"
-      },
-      {
-        "title": "Moment drone hits vehicle in Zaporizhzhia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/moment-drone-hits-vehicle-in-zaporizhzhia?traffic_source=rss"
-      },
-      {
-        "title": "Paraguay declares holiday after beating Germany in World Cup upset",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/paraguay-declares-holiday-after-beating-germany-in-world-cup-upset?traffic_source=rss"
-      },
-      {
-        "title": "Chinese billionaire Guo Wengui gets 30 years in US prison for huge fraud",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud?traffic_source=rss"
-      },
-      {
-        "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss"
-      },
-      {
-        "title": "Pakistan-administered Kashmir returns to daily life after deadly protests",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/pakistan-administered-kashmir-returns-to-daily-life-after-deadly-protests?traffic_source=rss"
-      },
-      {
-        "title": "Nerves and tears as Germany exits World Cup on penalties",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/nerves-and-tears-as-germany-exits-world-cup-on-penalties?traffic_source=rss"
-      },
-      {
-        "title": "Trump tells US petrol retailers to reduce prices ‘immediately’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/6/30/trump-tells-us-petrol-retailers-to-reduce-prices-immediately?traffic_source=rss"
-      },
-      {
-        "title": "Morocco beat Netherlands in dramatic World Cup shootout to reach last 16",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/morocco-netherlands-world-cup-knockout-penalty-shootout-saibari-diop-gakpo?traffic_source=rss"
-      },
-      {
-        "title": "How Germany were handed a World Cup humbling and what it means to Paraguay",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/how-germany-were-handed-a-world-cup-humbling-and-what-it-means-to-paraguay?traffic_source=rss"
-      },
-      {
-        "title": "US education faces ‘a crisis for low-wealth students’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/quotable/2026/6/30/us-education-faces-a-crisis-for-low-wealth?traffic_source=rss"
-      },
-      {
-        "title": "Police hunt for suspect after three wounded in Monaco blast",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss"
-      },
-      {
-        "title": "Mourners light candles after deadly German shelter shooting",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/mourners-light-candles-after-deadly-german-shelter-shooting?traffic_source=rss"
-      },
-      {
-        "title": "Trump: US envoys enroute to Doha for ‘perhaps important’ Iran meeting",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss"
-      },
-      {
-        "title": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss"
-      },
-      {
-        "title": "Fears for people deported from US to Venezuela hours before earthquakes hit",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/fears-for-people-deported-from-us-to-venezuela-hours-before-earthquakes-hit?traffic_source=rss"
-      },
-      {
-        "title": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss"
-      },
-      {
-        "title": "Paraguay coach salutes ‘extraordinary’ World Cup win over Germany",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany?traffic_source=rss"
-      },
-      {
-        "title": "Families hold out hope for survivors five days after Venezuela earthquakes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/aje-onl-nf_families-hold-out-hope-after-venezuela-earthquakes-290626?traffic_source=rss"
-      },
-      {
-        "title": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/keiko-fujimori-leads-in-peruvian-presidential-race-as-vote-count-concludes?traffic_source=rss"
-      },
-      {
-        "title": "Migrants in South Africa fear violence ahead of June 30 deadline",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/30/migrants-in-south-africa-fear-violence-ahead-of-june-30-deadline?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss"
-      },
-      {
-        "title": "Sixty-six years on: The promise of DRC independence remains unfulfilled",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/6/29/sixty-six-years-on-the-promise-of-drc-independence-remains-unfulfilled?traffic_source=rss"
-      },
-      {
-        "title": "Anxiety turns to joy as Brazil qualifies for the Final 16",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/anxiety-turns-to-joy-as-brazil-qualifies-for-the-final-16?traffic_source=rss"
-      },
-      {
-        "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-06-30T06:25:17.473Z",
-    "discarded_untrusted": [
-      {
-        "title": "Launch of Akkuyu NPP's Unit 1 in Turkiye Scheduled for Fall 2026 - Rosatom CEO",
-        "source": "Sputnikglobe.com",
-        "url": "https://sputnikglobe.com/20260629/launch-of-akkuyu-npps-unit-1-in-turkiye-scheduled-for-fall-2026---rosatom-ceo-1124372645.html"
-      },
-      {
-        "title": "Spreading the Gospel of Theoretical Computer Science to an Omega(1) Fraction of Humanity: My Trevisan Award Acceptance Speech at STOC",
-        "source": "Scottaaronson.blog",
-        "url": "https://scottaaronson.blog/?p=9881"
-      },
-      {
-        "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
-        "source": "Phantafield.com",
-        "url": "https://www.phantafield.com/whitepaper"
-      },
-      {
-        "title": "Mapping histologic and functional maturation of human endocrine pancreas across early postnatal periods",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41467-026-73854-y"
-      },
-      {
-        "title": "Allosteric disordering of eIF2B regulates the integrated stress response",
-        "source": "Nature.com",
-        "url": "https://www.nature.com/articles/s41589-026-02256-4"
-      },
-      {
-        "title": "MAHA feels betrayed after Supreme Court ruling on Monsanto, glyphosate",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4385855/posts"
-      },
-      {
-        "title": "Silicon Valley’s Reactor Projects",
-        "source": "Lawyersgunsmoneyblog.com",
-        "url": "https://www.lawyersgunsmoneyblog.com/2026/06/silicon-valleys-reactor-projects"
-      },
-      {
-        "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-        "source": "Blogger.com",
-        "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/6264947694886887540/6128667078814016380"
-      },
-      {
-        "title": "The Climate Crisis Won't Let the Political Cycle Ignore It for Too Long",
-        "source": "Substack.com",
-        "url": "https://billmckibben.substack.com/p/and-so-climate-returns"
-      },
-      {
-        "title": "Trump Threatens to 'Complete the Job' in Iran as US and Iran Trade Strikes Near the Strait of Hormuz",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/tensions-escalate-trump-threatens-iran-ceasefire-violations-1871455"
-      },
-      {
-        "title": "Stabilizing Cell Membranes to Mitigate Cancer Risk — The Role of C15:0 and Choline",
-        "source": "Mercola.com",
-        "url": "https://articles.mercola.com/sites/articles/archive/2026/06/28/c150-pentadecanoic-acid-choline-cancer-risk.aspx"
-      },
-      {
-        "title": "US Navy develops portable DNA test to ID bioweapons in the field",
-        "source": "New Atlas",
-        "url": "https://newatlas.com/military/us-navy-develops-dna-tests-id-bioweapons/"
-      },
-      {
-        "title": "Since the first Japanese bullet train left Tokyo Station on October 1, 1964 — just nine days before the opening of the Tokyo Olympics — the Shinkansen has carried more than 10 billion passengers across 60 years of continuous high-speed operation, and has never had a single passenger fatality caused by derailment or collision in its entire history",
-        "source": "Space Daily",
-        "url": "https://spacedaily.com/d-since-the-first-japanese-bullet-train-left-tokyo-station-on-october-1-1964-just-nine-days-before-the-opening-of-the-tokyo-olympics-the-shinkansen-has-carried-more-than-10-billion/"
-      },
-      {
-        "title": "Saturday: Hili dialogue",
-        "source": "Whyevolutionistrue.com",
-        "url": "https://whyevolutionistrue.com/2026/06/27/saturday-hili-dialogue-588/"
-      },
-      {
-        "title": "Europe Heatwave: Over 1,300 Dead As 'Omega Block' Worsens Already Severe Conditions; France Faces Highest Impact",
-        "source": "english_jagran",
-        "url": "https://www.thedailyjagran.com/world/europe-heatwave-over-1300-dead-as-omega-block-worsens-already-severe-conditions-france-faces-highest-impact-10318494"
-      },
-      {
-        "title": "Evasive Peace: How the US-Iran Ceasefire is unravelling each day continuing conflict",
-        "source": "thenorthlines",
-        "url": "https://thenorthlines.com/evasive-peace-how-the-us-iran-ceasefire-is-unravelling-each-day-continuing-conflict/"
-      },
-      {
-        "title": "AI agents are not your “coworkers”",
-        "source": "technologyreview",
-        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
-      },
-      {
-        "title": "The 5-week US and Israeli air campaign shattered some of Iran’s most cherished monuments",
-        "source": "bdnews24",
-        "url": "https://bdnews24.com/lifestyle/22d19a30edfd"
-      },
-      {
-        "title": "Trump Claims Iran Agreed to Peace Talks in Doha as Tehran Denies Any Meeting Scheduled",
-        "source": "headtopics",
-        "url": "https://us.headtopics.com/news/trump-claims-iran-agreed-to-peace-talks-in-doha-as-tehran-85042559"
-      },
-      {
-        "title": "The 10 highest-grossing biopics of all time might surprise you – as Michael tops list, beating two multi-Oscar winners",
-        "source": "radiotimes",
-        "url": "https://www.radiotimes.com/movies/the-10-highest-grossing-biopics-list/"
-      },
-      {
-        "title": "Is Trump's America complicit in Russia's attempt to destroy Ukraine?",
-        "source": "headtopics",
-        "url": "https://us.headtopics.com/news/is-trump-s-america-complicit-in-russia-s-attempt-to-destroy-85041527"
-      },
-      {
-        "title": "Contradictory Claims on Iran-US Talks Follow Weekend of Strikes in Gulf",
-        "source": "headtopics",
-        "url": "https://us.headtopics.com/news/contradictory-claims-on-iran-us-talks-follow-weekend-of-85039837"
-      },
-      {
-        "title": "How U.S. and Israeli Strikes Shattered Iran’s Iconic Monuments",
-        "source": "moderndiplomacy",
-        "url": "https://moderndiplomacy.eu/2026/06/29/how-u-s-and-israeli-strikes-shattered-irans-iconic-monuments/"
-      },
-      {
-        "title": "'No Choice But the Atomic Bomb': MAGA Expert Slams Trump's Foreign Policy as Iran Rushes for Nuclear Weapon",
-        "source": "bundle_app",
-        "url": "https://www.bundle.app/en/technology/no-choice-but-the-atomic-bomb-maga-expert-slams-trumps-foreign-policy-as-iran-rushes-for-nuclear-weapon-EFD4981F-A956-4253-A8E7-9C242A583F7C"
-      }
-    ],
-    "discarded_no_keywords": [
-      {
-        "title": "CBSE issues revised Class 12 result for Vedant Srivastava; Physics marks unchanged after answer sheet mix-up",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/education/news/cbse-issues-revised-class-12-result-for-vedant-srivastava-physics-marks-unchanged-after-answer-sheet-mix-up/articleshow/132049420.cms"
-      },
-      {
-        "title": "Matritva, Shishu Evam Baalika Madad Yojana: What it means for women and children in Uttar Pradesh",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/lucknow/matritva-shishu-evam-baalika-madad-yojana-what-it-means-for-women-and-children-in-uttar-pradesh/articleshow/132048840.cms"
-      },
-      {
-        "title": "UP Home Guard result 2026 released at uppbpb.gov.in; 1,07,221 candidates shortlisted for PST: Direct link here",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/education/news/up-home-guard-result-2026-released-at-uppbpb-gov-in-107221-candidates-shortlisted-for-pst-direct-link-here/articleshow/132048829.cms"
-      },
-      {
-        "title": "Rajokri Flyover hit-and-run: Techie was driving Thar that killed biker 2 days ago; arrested in Delhi",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/city/delhi/rajokri-flyover-hit-and-run-techie-was-driving-thar-that-killed-biker-2-days-ago-arrested-in-delhi/articleshow/132044572.cms"
-      },
-      {
-        "title": "IGCAR Kalpakkam Hydrogen Plant: India inaugurates world’s first hydrogen plant that uses nuclear reactor heat instead of electricity",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/igcar-kalpakkam-hydrogen-plant-india-inaugurates-worlds-first-hydrogen-plant-that-uses-nuclear-reactor-heat-instead-of-electricity/articleshow/132041337.cms"
-      },
-      {
-        "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o"
-      },
-      {
-        "title": "Angry Venezuelans accuse government of negligence and apathy",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Three people injured after explosion in Monaco",
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
       },
