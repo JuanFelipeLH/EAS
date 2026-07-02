@@ -1,5 +1,445 @@
 [
   {
+    "run_at": "2026-07-02T18:30:26.143Z",
+    "discarded_untrusted": [
+      {
+        "title": "Markets take a breather amid concerns over increase in Fed rates",
+        "source": "The Irish Times",
+        "url": "https://www.irishtimes.com/business/markets/2026/07/01/markets-take-a-breather-amid-concerns-over-increase-in-fed-rates/"
+      },
+      {
+        "title": "Japanese Submarines Have Now Sunk The US Navy’s ‘USS Juneau’ Twice",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/petersuciu/2026/07/01/japanese-submarines-have-now-sunk-the-us-navys-uss-juneau-twice/"
+      },
+      {
+        "title": "NASA's Moon Base Update: All's Well Despite the Blue Origin New Glenn Explosion",
+        "source": "CNET",
+        "url": "https://www.cnet.com/science/space/nasas-moon-base-update-still-using-new-glenn/"
+      },
+      {
+        "title": "NASA Wants To Send Spare Nuclear-Powered Mars Rover To the Moon",
+        "source": "Slashdot.org",
+        "url": "https://science.slashdot.org/story/26/07/01/0613245/nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-moon"
+      },
+      {
+        "title": "Nuclear Mars Rover Will Conquer Deadly Nights At NASA Moon Base",
+        "source": "Hot Hardware",
+        "url": "https://hothardware.com/news/nuclear-mars-rover-conquer-nights-nasa-moon-base"
+      },
+      {
+        "title": "Air conditioning is the EU’s freedom test",
+        "source": "RT",
+        "url": "https://www.rt.com/news/642437-air-conditioning-eu-freedom/"
+      },
+      {
+        "title": "A fully built, fully tested lunar rover named VIPER faced dismantlement for parts after its 2024 cancellation, and NASA is now considering sending a Mars engineering testbed that has spent its working life in a JPL rock yard to the Moon instead",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/n-viper-nearly-scrapped-now-nasa-eyes-a-mars-testbed-for-the-moon/"
+      },
+      {
+        "title": "Lactiplantibacillus plantarum GUANKE alleviates Zearalenone-induced intestinal dysfunction by modulating oxidative stress and inflammation",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351300"
+      },
+      {
+        "title": "Administrative Delays Push Back Nuclear Test Deadline; Oklo Stock Rises",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5720e065f689b88d"
+      },
+      {
+        "title": "The Young Republicans Who Think Trump Hasn’t Gone Far Enough",
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/07/young-republicans-trump-iran/687746/"
+      },
+      {
+        "title": "Leveraged stock bets are ‘very concentrated in the AI ecosystem,’ Goldman Sachs warns",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/01/leverage-stock-in-ai-goldman-sachs/"
+      },
+      {
+        "title": "Bombs for Bargains: Can a Treaty Imposed on Iran Through Military Coercion Be Valid Under International Law?",
+        "source": "Opiniojuris.org",
+        "url": "http://opiniojuris.org/2026/07/01/bombs-for-bargains-can-a-treaty-imposed-on-iran-through-military-coercion-be-valid-under-international-law/"
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "source": "Radio Free Europe/ Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-us-military-option-talks-cfr-vance/33793182.html"
+      },
+      {
+        "title": "NASA Wants To Send Spare Nuclear-Powered Mars Rover To the Moon",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/submission/17348660/nasa-wants-to-send-spare-nuclear-powered-mars-rover-to-the-moon"
+      },
+      {
+        "title": "Most of NASA’s first Moon-base robots will depend on solar power, which makes the two-week lunar night one of the whole project’s nastiest problems — but NASA is now considering an odd workaround: sending PROMISE, a JPL engineering twin of its nuclear-powered Mars rovers, to the lunar south pole.",
+        "source": "Space Daily",
+        "url": "https://spacedaily.com/t-most-of-nasas-first-moon-base-robots-will-depend-on-solar-power-which-makes-the-two-week-lunar-night-one-of-the-whole-projects-nastiest-problems-but-nasa-is-now-considerin/"
+      },
+      {
+        "title": "Ukraine expands missile strikes inside Russia, targeting key infrastructure",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/ukraine-expands-missile-strikes-inside-russia-targeting-key-infrastructure/"
+      },
+      {
+        "title": "US govt lifts restrictions on powerful AI models, Anthropic says",
+        "source": "Digital Journal",
+        "url": "https://www.digitaljournal.com/article/us-govt-lifts-restrictions-on-powerful-ai-models-anthropic-says/"
+      },
+      {
+        "title": "Delhi Police apprehends Ghaziabad man over hoax bomb threat emails sent to prominent organisations",
+        "source": "economictimes_indiatimes",
+        "url": "https://economictimes.indiatimes.com/news/india/delhi-police-apprehends-ghaziabad-man-over-hoax-bomb-threat-emails-sent-to-prominent-organisations/articleshow/132129968.cms"
+      },
+      {
+        "title": "Delhi Police apprehends Ghaziabad man over hoax bomb threat emails to multiple organisations",
+        "source": "newindianexpress",
+        "url": "https://www.newindianexpress.com/states/delhi/2026/Jul/02/delhi-police-apprehends-ghaziabad-man-over-hoax-bomb-threat-emails-to-multiple-organisations"
+      },
+      {
+        "title": "Nevada Test Site shaped U.S. nuclear history, Southern Nevada’s growth",
+        "source": "newspub_live",
+        "url": "https://newspub.live/west/nevada/nevada-test-site-shaped-u-s-nuclear-history-southern-nevadas-growth/"
+      },
+      {
+        "title": "Iran says the IAEA cannot visit nuclear sites bombed by the US | LIVE BLOG",
+        "source": "i24news_tv",
+        "url": "https://www.i24news.tv/en/news/analysis-opinion/artc-iran-says-the-iaea-cannot-visit-nuclear-sites-bombed-by-the-us-live-blog"
+      },
+      {
+        "title": "Nevada Test Site shaped U.S. nuclear history, Southern Nevada’s growth",
+        "source": "fox5vegas",
+        "url": "https://www.fox5vegas.com/2026/07/02/nevada-test-site-shaped-us-nuclear-history-southern-nevadas-growth/"
+      },
+      {
+        "title": "A tactical pause?",
+        "source": "thestatesman",
+        "url": "https://www.thestatesman.com/opinion/a-tactical-pause-1503612165.html"
+      },
+      {
+        "title": "Vance: We have options if Iran tries to restart its nuclear program",
+        "source": "israelnationalnews",
+        "url": "https://www.israelnationalnews.com/news/429506"
+      },
+      {
+        "title": "The Agreement with Iran: This Lemon Is Sour, but Israel Can – and Must –Make Lemonade",
+        "source": "jewishjournal",
+        "url": "https://jewishjournal.com/commentary/opinion/389631/the-agreement-with-iran-this-lemon-is-sour-but-israel-can-and-must-make-lemonade/"
+      },
+      {
+        "title": "US B-2 Bomber Showcases Ability To Launch Stealth Anti-Ship Missile For First Time",
+        "source": "zerohedge",
+        "url": "https://www.zerohedge.com/military/us-b-2-bomber-showcases-ability-launch-stealth-anti-ship-missile-first-time"
+      },
+      {
+        "title": "Ukraine-Russia war latest: Putin unleashes ‘night of horror’ on Kyiv in response to strikes on energy plants",
+        "source": "inkl",
+        "url": "https://www.inkl.com/news/ukraine-russia-war-latest-poland-scrambles-jets-as-two-killed-in-putins-major-aerial-attack-on-kyiv"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Russian generals' assassinations expose growing rift inside Putin's security apparatus",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/russian-generals-assassinations-expose-growing-rift-inside-putins-security-apparatus"
+      },
+      {
+        "title": "US Keeps Military Option Alive As Iran Talks Near A Critical Test",
+        "source": "Globalsecurity.org",
+        "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260701-rferl03.htm"
+      },
+      {
+        "title": "US gov't lifts restrictions on powerful AI models, Anthropic says",
+        "source": "Hurriyet Daily News",
+        "url": "https://www.hurriyetdailynews.com/us-govt-lifts-restrictions-on-powerful-ai-models-anthropic-says-223876"
+      },
+      {
+        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Most massive' Russian attack on Kyiv kills at least 22",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Vatican excommunicates followers of global Catholic sect",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nine Thai monks killed after 11-year-old driver collides with procession",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c23y90lygpzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Alleged Scattered Spider hacker arrested in Finland",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0we4yw1lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ryanair warns of 'queue chaos' from new EU border system",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US blocks long-term renewal of North American trade deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Four die in Mexico City World Cup celebrations",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukrainian charged in Germany over Nord Stream blasts",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The US deported them to Venezuela - hours later earthquakes struck",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Banned by Beijing, this comedian is taking his act to Chinese speakers abroad",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2x01q21wlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cheers and applause as security guard rescued from rubble",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0lye4xr651o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Did this AI anti-drug video make drugs look appealing?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Beautiful and terrible' - the world's thoughts on the US at 250",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cvgmv2rmjqno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Americans react to Supreme Court upholding birthright citizenship",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canadians share hopes and wishes for America's 250th birthday",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cjeg1g82gz8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are South Korean fans so angry at their football coach?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss"
+      },
+      {
+        "title": "How the North American heatwave could impact the FIFA World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/how-the-north-american-heatwave-could-impact-the-fifa-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss"
+      },
+      {
+        "title": "Rally for Luxembourg teacher fired over pro-Gaza posts",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/rally-for-luxembourg-teacher-fired-over-pro-gaza-posts?traffic_source=rss"
+      },
+      {
+        "title": "Amid the World Cup, the new pan-Africanism is conditional",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/2/amid-the-world-cup-the-new-pan-africanism-is-conditional?traffic_source=rss"
+      },
+      {
+        "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss"
+      },
+      {
+        "title": "What’s behind the deadly bombing of a crowded Damascus cafe?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/whats-behind-the-deadly-bombing-of-a-crowded-damascus-cafe?traffic_source=rss"
+      },
+      {
+        "title": "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/us-wants-intervention-syria-signals-diplomacy-after-fm-lebanon-trip?traffic_source=rss"
+      },
+      {
+        "title": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss"
+      },
+      {
+        "title": "Spain immigration scheme sees 1.2 million apply for legal status",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/spain-immigration-scheme-sees-1-2-million-apply-for-legal-status?traffic_source=rss"
+      },
+      {
+        "title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss"
+      },
+      {
+        "title": "Why is Prada facing pro-Israeli backlash?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss"
+      },
+      {
+        "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its members",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss"
+      },
+      {
+        "title": "Spain vs Austria LIVE: FIFA World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/2/spain-vs-austria-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "Into the Darkness",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss"
+      },
+      {
+        "title": "US job growth slows in June; hospitality sheds roles despite World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "UK’s Starmer apologises for the state’s role in decades of forced adoptions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/uks-starmer-apologises-for-the-states-role-in-decades-of-forced-adoptions?traffic_source=rss"
+      },
+      {
+        "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Man City sign Elliot Anderson from Forest in record British transfer",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/2/man-city-sign-elliot-anderson-from-forest-in-record-british-transfer?traffic_source=rss"
+      },
+      {
+        "title": "With Hormuz reopened, has the oil shortage turned into a glut?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut?traffic_source=rss"
+      },
+      {
+        "title": "Gaza’s first women’s amputee football team reclaims the pitch after war",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/gazas-first-womens-amputee-football-team-reclaims-the-pitch-after-war?traffic_source=rss"
+      },
+      {
+        "title": "Explosion in Damascus cafe causes casualties",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss"
+      },
+      {
+        "title": "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/gaza-wars-1000-days-90-of-strip-destroyed-80-seized-by-israel?traffic_source=rss"
+      },
+      {
+        "title": "Why has Trump refused to renew the USMCA, and what will that mean?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss"
+      },
+      {
+        "title": "German football has a bigger problem than a World Cup loss: Scapegoating",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/2/german-football-has-a-bigger-problem-than-a-world-cup-loss-scapegoating?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-02T18:25:15.941Z",
     "discarded_untrusted": [
       {
