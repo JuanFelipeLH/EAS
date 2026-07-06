@@ -1,5 +1,315 @@
 [
   {
+    "run_at": "2026-07-06T04:15:17.526Z",
+    "discarded_untrusted": [
+      {
+        "title": "Richard D. Fisher, Jr. On Taiwan: Boiling Frogs Can Jump",
+        "source": "taipeitimes",
+        "url": "https://www.taipeitimes.com/News/editorials/archives/2026/07/06/2003860285"
+      },
+      {
+        "title": "Bomb the Arctic, dam the Mediterranean and build a second moon: five outlandish plans to remodel our climate",
+        "source": "bundle_app",
+        "url": "https://www.bundle.app/en/breaking-news/bomb-the-arctic-dam-the-mediterranean-and-build-a-second-moon-five-outlandish-plans-to-remodel-our-climate-C59273C2-AF86-468E-8058-7E82618C362E"
+      },
+      {
+        "title": "Bomb the Arctic, dam the Mediterranean and build a second moon: five outlandish plans to remodel our climate",
+        "source": "theguardian",
+        "url": "https://www.theguardian.com/environment/2026/jul/06/five-outlandish-plans-to-remodel-earth-climate"
+      },
+      {
+        "title": "250 Years of the US & Nuclear Weapons",
+        "source": "consortiumnews",
+        "url": "https://consortiumnews.com/2026/07/05/250-years-of-the-us-nuclear-weapons/"
+      },
+      {
+        "title": "China and the Iran War",
+        "source": "tribune_pk",
+        "url": "https://tribune.com.pk/story/2616667/china-and-the-iran-war"
+      },
+      {
+        "title": "KF-21 Boramae vs. MiG-29 Fulcrum: Which Is the Greatest Korean Fighter Jet?",
+        "source": "nationalinterest",
+        "url": "https://nationalinterest.org/blog/buzz/kf-21-boramae-vs-mig-29-fulcrum-which-is-greatest-korean-fighter-jet-hk-070526"
+      },
+      {
+        "title": "From Vietnam to Iran: Has America repeated its greatest strategic mistake?",
+        "source": "organiser",
+        "url": "https://organiser.org/2026/07/05/360770/world/from-vietnam-to-iran-has-america-repeated-its-greatest-strategic-mistake/"
+      },
+      {
+        "title": "Major European country sends huge nuke warning to Russia as invasion fears soar",
+        "source": "express",
+        "url": "https://www.the-express.com/news/politics/210929/Lithuania-sends-huge-nuke-warning-russia-invasion-fears-soar"
+      },
+      {
+        "title": "Reject proposed road through Corkscrew Swamp | Opinion letters",
+        "source": "newspress",
+        "url": "https://www.news-press.com/story/opinion/2026/07/05/reject-proposed-road-through-corkscrew-swamp-opinion-letters/90744558007/"
+      },
+      {
+        "title": "Experts: Without the return of inspections, Iran’s nuclear program remains impossible to fully verify",
+        "source": "albeu",
+        "url": "https://albeu.com/english/experts-without-the-return-of-inspections-irans-nuclear-program-remains-impossible-to-fully-verify/912409/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia space agency has found 'likely source' of mystery space balls",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The African fishermen who blame Chinese trawlers for their woes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bangladesh courts China even as ties with India improve",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How Iran's new regime is very different to what came before",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Scorching heat and delays: How Washington DC marked America 250",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cwyk2ypj014o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Funeral of Iran's former supreme leader 'intensely political moment'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "BBC in Tehran as mourners gather for former supreme leader's funeral",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cewqpdgqj0ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Cheers and applause as security guard rescued from rubble",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0lye4xr651o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Did this AI anti-drug video make drugs look appealing?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cx2xw52ng5do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bellingham inspires 10-man England in 3-2 last-16 thriller to beat Mexico",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/6/bellingham-inspires-ten-man-england-in-3-2-last-16-thriller-against-mexico?traffic_source=rss"
+      },
+      {
+        "title": "OPEC+ countries say they will expand monthly oil production",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss"
+      },
+      {
+        "title": "Sports stadium becomes home for victims of the Venezuela earthquakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo’s last World Cup? We will see, says Portugal star before Spain clash",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/6/ronaldos-last-world-cup-we-will-see-says-portugal-star-before-spain-clash?traffic_source=rss"
+      },
+      {
+        "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss"
+      },
+      {
+        "title": "Tuareg fighters claim to have shot down a Russian helicopter in Mali",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_mali-rebels-claim-to-have-shot-down-russian-helicop-050726?traffic_source=rss"
+      },
+      {
+        "title": "Neymar quits international football after Brazil’s World Cup knockout loss",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss?traffic_source=rss"
+      },
+      {
+        "title": "Belgium ‘astonished’ at FIFA’s U-turn on Balogun red card for USA match",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/6/belgium-astonished-at-fifas-u-turn-on-balogun-red-card-for-usa-match?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss"
+      },
+      {
+        "title": "How a son rescued his father from the rubble of Venezuela’s earthquakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/longform/2026/7/5/how-a-son-rescued-his-father-from-the-rubble-of-venezuelas-earthquakes?traffic_source=rss"
+      },
+      {
+        "title": "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/5/haaland-scores-twice-as-norway-stun-brazil-2-1-in-world-cup-2026-last-16?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss"
+      },
+      {
+        "title": "Turkiye gears up for its first NATO summit in 22 years",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/turkiye-gears-up-for-its-first-nato-summit-in-22-years?traffic_source=rss"
+      },
+      {
+        "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss"
+      },
+      {
+        "title": "Mexico 2-3 England LIVE: FIFA World Cup 2026 – last 16",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/5/mexico-vs-england-live-fifa-world-cup-2026-last-16?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup: All to know as Ronaldo’s Portugal play Spain in the last 16",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/5/world-cup-portugal-vs-spain-key-talking-points-ronaldo-yamal-prediction?traffic_source=rss"
+      },
+      {
+        "title": "10,000 people evacuated as wildfire tears through southern France",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/10000-people-evacuated-as-wildfire-tears-through-southern-france?traffic_source=rss"
+      },
+      {
+        "title": "How will the rise of right-wing populism affect Latin America?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/5/how-will-the-rise-of-right-wing-populism-affect-latin-america?traffic_source=rss"
+      },
+      {
+        "title": "8 injured, including 4 children, in New York City Fourth of July shooting",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss"
+      },
+      {
+        "title": "Volunteers vow to keep searching for Venezuela earthquake survivors",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/volunteers-vow-to-keep-searching-for-venezuela-earthquake-survivors?traffic_source=rss"
+      },
+      {
+        "title": "Australia thrash England to win record seventh Women’s T20 World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/5/australia-thrash-england-to-win-record-seventh-womens-t20-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "12-tonne whale removed from DR Congo beach",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/12-tonne-whale-removed-from-dr-congo-beach?traffic_source=rss"
+      },
+      {
+        "title": "America at 250: Democracy’s greatest experiment?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/5/america-at-250-democracys-greatest-experiment?traffic_source=rss"
+      },
+      {
+        "title": "Russia says Ukraine rejects local ceasefire in dispute over Kostiantynivka",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/5/russia-says-ukraine-rejects-local-ceasefire-in-dispute-over-kostiantynivka?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-06T04:10:35.238Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
