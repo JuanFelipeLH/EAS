@@ -1,5 +1,269 @@
 [
   {
+    "run_at": "2026-07-07T05:25:14.708Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump confirms he asked Fifa to review Balogun ban",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Charlie Kirk's family attends hearing for suspect charged with his murder ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wildfire in southern France forces evacuation of 10,000 people",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More than 1,000 arrested as part of global human trafficking crackdown",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australia space agency has found 'likely source' of mystery space balls",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why some African nations are turning down Trump aid money",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Can China repeat its EV success with robotaxis?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why a Diljit Dosanjh film vanished from streaming after two days ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cly99z1w4gdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Is this a breakthrough moment for soccer in the US?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fatal Typhoon Maysak floods burst dam wall in China",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'It's a very sad day' - Mexican fans react to loss to England",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cn5999n95epo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Girl trapped in Venezuela quake 'survived on ketchup and cheese' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why Ukrainian strikes on annexed Crimea are a blow to Putin ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c2dy21549w1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Egyptians dream of toppling Argentina in historic World Cup match",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/chk_egyptians-dream-of-toppling-argentina-in-historic-world-cup-match?traffic_source=rss"
+      },
+      {
+        "title": "Khamenei’s coffin arrives in holy city of Qom",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_khameneis-coffin-arrives-in-holy-city-of-qom-070726?traffic_source=rss"
+      },
+      {
+        "title": "Cuba loses power across nation for third time this year",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cuba-loses-power-across-nation-for-third-time-this-year?traffic_source=rss"
+      },
+      {
+        "title": "US budget slashing risks losing global scientific edge to China",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china?traffic_source=rss"
+      },
+      {
+        "title": "Cristiano Ronaldo’s World Cup career ends as Spain defeat Portugal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/cristiano-ronaldos-world-cup-career-ends-as-spain-defeat-portugal?traffic_source=rss"
+      },
+      {
+        "title": "At least 16 people buried following landslide in China",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china?traffic_source=rss"
+      },
+      {
+        "title": "Tanker on fire off coast of Oman after being hit by projectile",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss"
+      },
+      {
+        "title": "Hamas dissolves civilian governing body in Gaza after 20 years",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss"
+      },
+      {
+        "title": "Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss"
+      },
+      {
+        "title": "Cuba sees nationwide power blackout for third time in six months",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss"
+      },
+      {
+        "title": "Russia sends weapons to help Mali’s government hold off rebel siege",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss"
+      },
+      {
+        "title": "FIFA defends Balogun red card referee after Trump calls him ‘a bit suspect’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/fifa-defends-balogun-red-card-referee-after-trump-calls-him-a-bit-suspect?traffic_source=rss"
+      },
+      {
+        "title": "Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/usa-cant-make-most-of-balogun-reprieve-as-belgium-set-up-spain-quaterfinal?traffic_source=rss"
+      },
+      {
+        "title": "Venezuela earthquakes death toll jumps to more than 3,500",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss"
+      },
+      {
+        "title": "‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/maga-agenda-on-display-fifa-trump-slammed-amid-balogun-red-card-row?traffic_source=rss"
+      },
+      {
+        "title": "Mbappe calls Paraguayan lawmaker ‘despicable’ over racist attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/mbappe-calls-paraguayan-lawmaker-despicable-over-racist-attack?traffic_source=rss"
+      },
+      {
+        "title": "Why el-Obeid matters as Sudan’s war enters a new phase",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase?traffic_source=rss"
+      },
+      {
+        "title": "Gambian mothers fear for their daughters as court weighs FGM ban",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/7/gambian-mothers-fear-for-their-daughters-as-court-weighs-fgm-ban?traffic_source=rss"
+      },
+      {
+        "title": "Trevor Noah mocks Trump-FIFA World Cup red card controversy",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trevor-noah-mocks-trump-fifa-world-cup-red-card-controversy?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: Khamenei’s funeral under way in Qom; ship attacked in Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo says his last World Cup is over but Portugal decision can wait",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/6/ronaldo-says-his-last-world-cup-is-over-but-portugal-decision-can-wait?traffic_source=rss"
+      },
+      {
+        "title": "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/6/over-5500-children-displaced-by-fighting-in-sudans-el-obeid-charity-says?traffic_source=rss"
+      },
+      {
+        "title": "Leading US Democrats withdraw support for Platner after assault allegations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/6/leading-us-democrats-withdraw-support-for-platner-after-assault-allegations?traffic_source=rss"
+      },
+      {
+        "title": "All to know about Ronaldo’s World Cup career as it ends in Spain loss",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/6/all-to-know-about-ronaldos-world-cup-career-as-it-ends-in-spain-loss?traffic_source=rss"
+      },
+      {
+        "title": "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/6/late-spain-goal-eliminates-portugal-ends-ronaldos-international-career?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-07T05:20:33.200Z",
     "discarded_untrusted": [
       {
