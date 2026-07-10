@@ -1,5 +1,249 @@
 [
   {
+    "run_at": "2026-07-10T16:54:23.231Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boxy forms and odd lights: US declassifies more UFO files",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zulu king expresses regret after video captures tirade against his wife",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China lands reusable rocket for first time, state media says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How an app in South Korea will let victims track their stalkers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pressure builds on Europe's biggest port to be greener",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What's next for Iran after the funeral of their late supreme leader?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Gaza football fans watch World Cup from rubble",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss"
+      },
+      {
+        "title": "Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/10/spain-vs-belgium-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss"
+      },
+      {
+        "title": "Trump refuses to sign US housing bill over voting act standoff",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss"
+      },
+      {
+        "title": "Family mourns baby after Israeli forces blocked journey to hospital",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss"
+      },
+      {
+        "title": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss"
+      },
+      {
+        "title": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss"
+      },
+      {
+        "title": "Israeli drones strike Lebanon despite US-brokered framework deal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/israeli-drones-strike-lebanon-despite-us-brokered-framework-deal?traffic_source=rss"
+      },
+      {
+        "title": "Super typhoon as wide as France heads to East Asia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia?traffic_source=rss"
+      },
+      {
+        "title": "Ukrainian court detains alleged killers of Monaco bomb attack suspect",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/ukrainian-court-detains-alleged-killers-of-monaco-bomb-attack-suspect?traffic_source=rss"
+      },
+      {
+        "title": "Death, silence, and survival inside New Jersey State Prison",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/longform/2026/7/10/death-silence-and-survival-inside-new-jersey-state-prison?traffic_source=rss"
+      },
+      {
+        "title": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss"
+      },
+      {
+        "title": "Police probe donations to Britain’s far-right Reform party",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/police-probe-donations-to-britains-far-right-reform-party?traffic_source=rss"
+      },
+      {
+        "title": "Sudan’s El Obeid faces intensifying RSF drone attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/sudans-el-obeid-faces-intensifying-rsf-drone-attacks?traffic_source=rss"
+      },
+      {
+        "title": "Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/norway-vs-england-world-cup-quarterfinal-haaland-kane-prediction-news?traffic_source=rss"
+      },
+      {
+        "title": "Philippines landslides kill 15 as Typhoon Bavi threatens region",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/philippines-landslides-kill-15-as-typhoon-bavi-threatens-region?traffic_source=rss"
+      },
+      {
+        "title": "Paramount-Warner merger: could it reshape the media?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/paramount-warner-merger-could-it-reshape-the-media?traffic_source=rss"
+      },
+      {
+        "title": "First Palestinian legislative elections in 20 years announced",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/first-palestinian-legislative-elections-in-20-years-announced?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss"
+      },
+      {
+        "title": "US-Iran war: Will peace talks resume, and when?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss"
+      },
+      {
+        "title": "Condemned ex-PM Hasina plans December return to Bangladesh",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/condemned-ex-pm-hasina-plans-december-return-to-bangladesh?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup 2026: Day 29",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/fifa-world-cup-2026-day-29?traffic_source=rss"
+      },
+      {
+        "title": "Pride despite defeat as Morocco’s World Cup run ends",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/pride-despite-defeat-as-moroccos-world-cup-run-ends?traffic_source=rss"
+      },
+      {
+        "title": "Conor McGregor vs Max Holloway 2 at UFC 329: All you need to know",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/conor-mcgregor-vs-max-holloway-2-at-ufc-329-all-you-need-to-know?traffic_source=rss"
+      },
+      {
+        "title": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss"
+      },
+      {
+        "title": "Fall in funding cuts aid to 1 million women: UN",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-10T16:50:33.301Z",
     "discarded_untrusted": [
       {
