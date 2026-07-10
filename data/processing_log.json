@@ -1,5 +1,239 @@
 [
   {
+    "run_at": "2026-07-10T23:20:30.715Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Zulu king expresses regret after video captures tirade against his wife",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boxy forms and odd lights: US declassifies more UFO files",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China lands reusable rocket for first time, state media says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Superb Sinner ends Djokovic's latest bid for history",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How an app in South Korea will let victims track their stalkers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "All the best looks from Paris Haute Couture Week 2026",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "We've saved £6,000 on holidays by swapping homes with strangers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Pressure builds on Europe's biggest port to be greener",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Inside the 30-hour dating retreat run by monks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What's next for Iran after the funeral of their late supreme leader?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss"
+      },
+      {
+        "title": "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/colombias-jaminton-campaz-receives-death-threats-after-world-cup-exit?traffic_source=rss"
+      },
+      {
+        "title": "Under Lula, Amazon deforestation falls to lowest level in a decade",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss"
+      },
+      {
+        "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss"
+      },
+      {
+        "title": "Spain leave it late to book semifinal date with France",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss"
+      },
+      {
+        "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon historic sites destroyed by Israeli strikes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
+      },
+      {
+        "title": "How Wong Kim Ark’s legacy reignited the fight for birthright citizenship",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/longform/2026/7/10/how-wong-kim-arks-legacy-reignited-the-fight-for-birthright-citizenship?traffic_source=rss"
+      },
+      {
+        "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss"
+      },
+      {
+        "title": "Donald Trump removes final members of independent US election commission",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss"
+      },
+      {
+        "title": "Egypt World Cup team return home to hero’s welcome after historic run",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/egypt-world-cup-team-return-home-to-heros-welcome-after-historic-run?traffic_source=rss"
+      },
+      {
+        "title": "Why are politicians and sanctioned states embracing crypto?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
+      },
+      {
+        "title": "What happened at France v Morocco",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/what-happened-at-france-v-morocco?traffic_source=rss"
+      },
+      {
+        "title": "EU says ‘addictive’ features on Instagram and Facebook breach its rules",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss"
+      },
+      {
+        "title": "Witnesses contest the Trump administration’s account of Texas ICE killing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing?traffic_source=rss"
+      },
+      {
+        "title": "Can the agreement between Iran and the US be rescued?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
+      },
+      {
+        "title": "Eliminated Morocco turn attention to cohosting 2030 World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/eliminated-morocco-turn-attention-to-co-hosting-2030-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Sinner demolishes Djokovic to set up Wimbledon final with Zverev",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/clinical-sinner-demolishes-djokovic-to-set-up-wimbledon-final-with-zverev?traffic_source=rss"
+      },
+      {
+        "title": "Indian cricket board to review T20 team’s ‘bad phase’ after England defeats",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/indian-cricket-board-to-review-t20-teams-bad-phase-after-england-defeats?traffic_source=rss"
+      },
+      {
+        "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss"
+      },
+      {
+        "title": "Peru’s President-elect Fujimori says she wants to restore ties with Mexico",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss"
+      },
+      {
+        "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss"
+      },
+      {
+        "title": "Ronaldo still has Portugal future if he wants it, says new coach Jesus",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/ronaldo-still-has-portugal-future-if-he-wants-it-says-new-coach-jesus?traffic_source=rss"
+      },
+      {
+        "title": "FIFA has nearly 1,200 tickets still on sale for World Cup final at $7,380",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/10/fifa-has-nearly-1200-tickets-still-on-sale-for-world-cup-final-at-7380?traffic_source=rss"
+      },
+      {
+        "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-10T23:15:17.394Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
