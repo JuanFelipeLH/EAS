@@ -1,5 +1,289 @@
 [
   {
+    "run_at": "2026-07-11T22:35:12.068Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "China's second typhoon in a week makes landfall",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran supreme leader calls for revenge for father's killing",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa World Cup midfielder Adams dies aged 25",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Landmark US housing bill becomes law despite Trump protest",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australian killer's final police interview footage released",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meta pulls new AI image feature after days of backlash",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Small plane crash in Bahamas kills 10 people",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New species named after Cape Verde goalkeeper Vozinha",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meet the crypto billionaires building a world where money buys you a vote",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The photo that shows who's really on top in Le Pen's party",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dating can be hard in South Korea - so the monks stepped in",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Will Trump Accounts deliver for American children?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Newly-released video shows Peter Falconio's killer questioned",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Inside the 30-hour dating retreat run by monks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boxy forms and odd lights: US declassifies more UFO files",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss"
+      },
+      {
+        "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "UK police investigate murder of politician Ann Widdecombe",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss"
+      },
+      {
+        "title": "What’s behind Pakistan’s mass deportation of Afghans?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss"
+      },
+      {
+        "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss"
+      },
+      {
+        "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss"
+      },
+      {
+        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times reporters over coverage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss"
+      },
+      {
+        "title": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss"
+      },
+      {
+        "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss"
+      },
+      {
+        "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss"
+      },
+      {
+        "title": "England vs Norway LIVE: FIFA World Cup 2026 quarterfinal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss"
+      },
+      {
+        "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss"
+      },
+      {
+        "title": "FIFA is not an independent sporting organisation; it is a political tool.",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss"
+      },
+      {
+        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss"
+      },
+      {
+        "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss"
+      },
+      {
+        "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss"
+      },
+      {
+        "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss"
+      },
+      {
+        "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss"
+      },
+      {
+        "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss"
+      },
+      {
+        "title": "What is going on in Yemen?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss"
+      },
+      {
+        "title": "China prepares as Typhoon Bavi leaves Taiwan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan?traffic_source=rss"
+      },
+      {
+        "title": "Zimbabweans return home amid xenophobic violence in South Africa",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss"
+      },
+      {
+        "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-11T22:30:43.167Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
@@ -8631,235 +8915,6 @@
   },
   {
     "run_at": "2026-07-10T22:40:34.322Z",
-    "discarded_untrusted": [],
-    "discarded_no_keywords": [
-      {
-        "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Zulu king expresses regret after video captures tirade against his wife",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Boxy forms and odd lights: US declassifies more UFO files",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "China lands reusable rocket for first time, state media says",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Superb Sinner ends Djokovic's latest bid for history",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How an app in South Korea will let victims track their stalkers",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "All the best looks from Paris Haute Couture Week 2026",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Pressure builds on Europe's biggest port to be greener",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What's next for Iran after the funeral of their late supreme leader?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: Nato chief asked if there really is 'unity' in Nato",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cx2vj284415o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/economy/2026/7/10/canadas-bill-c-36-tackles-ai-privacy-is-it-enough?traffic_source=rss"
-      },
-      {
-        "title": "Spain leave it late to book semifinal date with France",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss"
-      },
-      {
-        "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss"
-      },
-      {
-        "title": "Lebanon historic sites destroyed by Israeli strikes",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss"
-      },
-      {
-        "title": "How Wong Kim Ark’s legacy reignited the fight for birthright citizenship",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/longform/2026/7/10/how-wong-kim-arks-legacy-reignited-the-fight-for-birthright-citizenship?traffic_source=rss"
-      },
-      {
-        "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss"
-      },
-      {
-        "title": "Donald Trump removes final members of independent US election commission",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss"
-      },
-      {
-        "title": "Egypt World Cup team return home to hero’s welcome after historic run",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/egypt-world-cup-team-return-home-to-heros-welcome-after-historic-run?traffic_source=rss"
-      },
-      {
-        "title": "Why are politicians and sanctioned states embracing crypto?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/counting-the-cost/2026/7/10/why-is-the-cryptocurrency-market-slumping?traffic_source=rss"
-      },
-      {
-        "title": "What happened at France v Morocco",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/what-happened-at-france-v-morocco?traffic_source=rss"
-      },
-      {
-        "title": "EU says ‘addictive’ features on Instagram and Facebook breach its rules",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss"
-      },
-      {
-        "title": "Witnesses contest the Trump administration’s account of Texas ICE killing",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing?traffic_source=rss"
-      },
-      {
-        "title": "Can the agreement between Iran and the US be rescued?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss"
-      },
-      {
-        "title": "Eliminated Morocco turn attention to cohosting 2030 World Cup",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/10/eliminated-morocco-turn-attention-to-co-hosting-2030-world-cup?traffic_source=rss"
-      },
-      {
-        "title": "Sinner demolishes Djokovic to set up Wimbledon final with Zverev",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/10/clinical-sinner-demolishes-djokovic-to-set-up-wimbledon-final-with-zverev?traffic_source=rss"
-      },
-      {
-        "title": "Indian cricket board to review T20 team’s ‘bad phase’ after England defeats",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/10/indian-cricket-board-to-review-t20-teams-bad-phase-after-england-defeats?traffic_source=rss"
-      },
-      {
-        "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss"
-      },
-      {
-        "title": "Peru’s President-elect Fujimori says she wants to restore ties with Mexico",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss"
-      },
-      {
-        "title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss"
-      },
-      {
-        "title": "Ronaldo still has Portugal future if he wants it, says new coach Jesus",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/10/ronaldo-still-has-portugal-future-if-he-wants-it-says-new-coach-jesus?traffic_source=rss"
-      },
-      {
-        "title": "FIFA has nearly 1,200 tickets still on sale for World Cup final at $7,380",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/10/fifa-has-nearly-1200-tickets-still-on-sale-for-world-cup-final-at-7380?traffic_source=rss"
-      },
-      {
-        "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
-      },
-      {
-        "title": "Hundreds give hero’s welcome to Egypt after best World Cup run",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss"
-      },
-      {
-        "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
-      },
-      {
-        "title": "Who is Fadel Shaker? Lebanese pop star released on bail",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/10/who-is-fadel-shaker-lebanese-pop-star-released-on-bail?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-07-10T22:35:11.802Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
       {
