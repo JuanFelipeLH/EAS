@@ -1,5 +1,340 @@
 [
   {
+    "run_at": "2026-07-12T00:30:32.871Z",
+    "discarded_untrusted": [
+      {
+        "title": "Iran secretly rebuilding damaged nuclear facilities in US strikes? Satellite images spark questions",
+        "source": "firstpost",
+        "url": "https://www.firstpost.com/world/iran-secretly-rebuilding-damaged-nuclear-facilities-in-us-strikes-satellite-images-spark-questions-14030690.html"
+      },
+      {
+        "title": "Outlook Explains | Is Iran Rebuilding Its Nuclear Programme After US Strikes",
+        "source": "outlookindia",
+        "url": "https://www.outlookindia.com/international/outlook-explains-is-iran-rebuilding-its-nuclear-programme-after-us-strikes"
+      },
+      {
+        "title": "For peace in Ukraine, don’t give Putin an off-ramp — force him into a dead end",
+        "source": "nypost",
+        "url": "https://nypost.com/2026/07/11/opinion/for-peace-in-ukraine-we-must-force-putin-into-a-dead-end/"
+      },
+      {
+        "title": "The U.S. war of choice against Iran has now become the War of Hormuz",
+        "source": "mondoweiss",
+        "url": "https://mondoweiss.net/2026/07/the-u-s-war-of-choice-against-iran-has-now-become-the-war-of-hormuz/"
+      },
+      {
+        "title": "Bomb threat at Delhi's Red Fort declared hoax after extensive security sweep",
+        "source": "mid_day",
+        "url": "https://www.mid-day.com/news/india-news/article/bomb-threat-at-delhis-red-fort-triggers-massive-security-operation-no-explosives-found-23639290"
+      },
+      {
+        "title": "Hidden study casts doubt on need for nuclear weapons factories in SC, NM, critics say",
+        "source": "myrtlebeachonline",
+        "url": "https://www.myrtlebeachonline.com/e-edition/livefeed-news/article316464008.html"
+      },
+      {
+        "title": "Hidden study casts doubt on need for nuclear weapons factories in SC, NM, critics say",
+        "source": "islandpacket",
+        "url": "https://www.islandpacket.com/e-edition/livefeed-news/article316464008.html"
+      },
+      {
+        "title": "New plot to kill Trump? A US ally believes so",
+        "source": "economictimes_indiatimes",
+        "url": "https://economictimes.indiatimes.com/news/defence/a-new-plot-to-kill-trump-one-us-ally-believes-iran-was-behind-it-report/articleshow/132326750.cms"
+      },
+      {
+        "title": "‘Just bomb them’: Trump warns ‘1000 missiles are locked and loaded’ if Iran acts on assassination threat",
+        "source": "financialexpress",
+        "url": "https://www.financialexpress.com/world-news/us-news/just-bomb-them-trump-warns-1000-missiles-are-locked-and-loaded-if-iran-acts-on-assassination-threat/4288924/"
+      },
+      {
+        "title": "Trump has ‘left instructions’ in case of Iran assassination & doubles down on vow to ‘decimate’ regime if he’s killed",
+        "source": "thesun",
+        "url": "https://www.thesun.co.uk/news/39723092/trump-iran-assassination-vow-decimate-regime/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "China's second typhoon in a week makes landfall",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists' ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Africa World Cup midfielder Adams dies aged 25",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Landmark US housing bill becomes law despite Trump protest",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn8qwj611qxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Australian killer's final police interview footage released",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meta pulls new AI image feature after days of backlash",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Small plane crash in Bahamas kills 10 people",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How men with female surnames are standing up to ridicule in Kenya",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c75ygy71wdgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Meet the crypto billionaires building a world where money buys you a vote",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "The photo that shows who's really on top in Le Pen's party",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dating can be hard in South Korea - so the monks stepped in",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Will Trump Accounts deliver for American children?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How a viral seal called Neil caused mayhem in Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'We escaped Spanish wildfire, but our friends lost their lives'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Newly-released video shows Peter Falconio's killer questioned",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Inside the 30-hour dating retreat run by monks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cpq300nx85wo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boxy forms and odd lights: US declassifies more UFO files",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss"
+      },
+      {
+        "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: IRGC declares Strait of Hormuz closed over US interference",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss"
+      },
+      {
+        "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss"
+      },
+      {
+        "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss"
+      },
+      {
+        "title": "FIFA to sell pieces of World Cup final stadium pitch, could earn millions",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/11/fifa-to-sell-pieces-of-world-cup-final-stadium-pitch-could-earn-millions?traffic_source=rss"
+      },
+      {
+        "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss"
+      },
+      {
+        "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss"
+      },
+      {
+        "title": "UK police investigate murder of politician Ann Widdecombe",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss"
+      },
+      {
+        "title": "What’s behind Pakistan’s mass deportation of Afghans?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss"
+      },
+      {
+        "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss"
+      },
+      {
+        "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss"
+      },
+      {
+        "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss"
+      },
+      {
+        "title": "Trump administration subpoenas New York Times reporters over coverage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss"
+      },
+      {
+        "title": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/us-lebanese-delegations-meet-to-discuss-israeli-pilot-zones-withdrawal?traffic_source=rss"
+      },
+      {
+        "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss"
+      },
+      {
+        "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss"
+      },
+      {
+        "title": "England vs Norway 2-1 (aet): FIFA World Cup 2026 – as it happened",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss"
+      },
+      {
+        "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss"
+      },
+      {
+        "title": "FIFA is not an independent sporting organisation; it is a political tool.",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/11/fifa-is-not-an-independent-sporting-organisation-it-is-a-political-tool?traffic_source=rss"
+      },
+      {
+        "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss"
+      },
+      {
+        "title": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss"
+      },
+      {
+        "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss"
+      },
+      {
+        "title": "Algeria and Mali restore diplomatic ties following yearlong rift",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/11/algeria-and-mali-restore-diplomatic-ties-following-yearlong-rift?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-12T00:25:12.553Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
