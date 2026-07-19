@@ -1,5 +1,345 @@
 [
   {
+    "run_at": "2026-07-19T02:10:20.333Z",
+    "discarded_untrusted": [
+      {
+        "title": "Russia Ukraine War Latest Update: CEO of Russian Retail Giant Wildberries Condemns Deadly Warehouse Attack; Protesters Call For Dismissal of Ukrainian Commander in Chief Syrski",
+        "source": "thesundayguardian",
+        "url": "https://sundayguardianlive.com/world/russia-ukraine-war-latest-update-ceo-of-russian-retail-giant-wildberries-condemns-deadly-warehouse-attack-protesters-call-for-dismissal-of-ukrainian-commander-in-chief-syrski-240088/"
+      },
+      {
+        "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/prompt-injection-attacks-are-thwarting-ai-hacking-agents-85704017"
+      },
+      {
+        "title": "Jon Stewart Has A Theory About The Odyssey Being A ‘Sequel’ To Oppenheimer, And I Think He Makes Great Points",
+        "source": "cinemablend",
+        "url": "https://www.cinemablend.com/movies/jon-stewart-drops-theory-about-the-odyssey-being-sequel-to-oppenheimer"
+      },
+      {
+        "title": "OFFSIDE | Third-Place World Cup Showdown: Why England vs France is a 900-year-old derby",
+        "source": "toi",
+        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/offside-the-900-year-derby-england-and-france-meet-at-world-cups-unwanted-afterparty/articleshow/132479661.cms"
+      },
+      {
+        "title": "Trump is edging towards another American ‘forever war’ in Iran",
+        "source": "egypttoday",
+        "url": "https://www.egyptindependent.com/trump-is-edging-towards-another-american-forever-war-in-iran/"
+      },
+      {
+        "title": "Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign off",
+        "source": "headtopics",
+        "url": "https://us.headtopics.com/news/nuclear-deal-that-would-permit-uranium-enrichment-by-saudi-85702268"
+      },
+      {
+        "title": "Why Agamemnon In Christopher Nolan's The Odyssey Looks So Familiar",
+        "source": "slashfilm",
+        "url": "https://www.slashfilm.com/2217876/agamemnon-christopher-nolan-the-odyssey-actor-benny-safdie/"
+      },
+      {
+        "title": "\"I Wish There Was An Internet Back Then\": Older People Are Getting Real About Life In The 1950s, And It Will Make You Wonder How Your Grandparents Actually Survived",
+        "source": "buzzfeeduk",
+        "url": "https://www.buzzfeed.com/jennaguillaume/life-in-the-1950s"
+      },
+      {
+        "title": "Older People Are Revealing What The 1950s Were Really Like",
+        "source": "yahoo",
+        "url": "https://ca.style.yahoo.com/older-people-revealing-1950s-were-103104446.html"
+      },
+      {
+        "title": "Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign off",
+        "source": "abc17news",
+        "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/07/18/nuclear-deal-that-would-permit-uranium-enrichment-by-saudi-arabia-in-limbo-awaiting-trump-admin-sign-off/"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tate brothers arrested in US after more charges laid against them in UK",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hungary's president agrees to stand down after parliament backs removal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "New EU border system tripling time at passport control, airport boss says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "German politician resigns over surrogacy child controversy",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Laos says it can't determine cause of  tourist deaths linked to methanol ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "White House defends Argentina team over Falklands banner",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump Media to sell instant access to 'market-moving' social posts",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why the World Cup half-time show may be a taste of things to come",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What this desert city can teach the world about tackling heat deaths",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "He made history in Congress - then the Supreme Court changed its mind",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Helicopters dump water as huge Norway fire destroys homes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What we know about newly discovered monkey species",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What to know as Genoa bridge disaster trial ends",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "WNBA coach Brondello suspended over inappropriate comment at Angel Reese",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/19/wnba-coach-brondello-suspended-over-inappropriate-comment-at-angel-reese?traffic_source=rss"
+      },
+      {
+        "title": "FIFA admits hydration breaks may not continue after World Cup criticism",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/19/fifa-admits-hydration-breaks-may-not-continue-after-world-cup-criticism?traffic_source=rss"
+      },
+      {
+        "title": "Argentina fans flood NYC’s Times Square before World Cup final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/argentina-fans-flood-nycs-times-square-before-world-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss"
+      },
+      {
+        "title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss"
+      },
+      {
+        "title": "Netanyahu declares support for Argentina ahead of World Cup final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss"
+      },
+      {
+        "title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss"
+      },
+      {
+        "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss"
+      },
+      {
+        "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss"
+      },
+      {
+        "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss"
+      },
+      {
+        "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss"
+      },
+      {
+        "title": "Drone video shows scale of major wildfire in northern Spain",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss"
+      },
+      {
+        "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss"
+      },
+      {
+        "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss"
+      },
+      {
+        "title": "Thousands rally in London in support of Gaza, demand new PM take action",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/thousands-rally-in-london-in-support-of-gaza-demand-new-pm-take-action?traffic_source=rss"
+      },
+      {
+        "title": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss"
+      },
+      {
+        "title": "Israeli attacks on residential areas in Gaza kill eight",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss"
+      },
+      {
+        "title": "New York’s Mamdani says looking into Netanyahu arrest during city visit",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss"
+      },
+      {
+        "title": "Damage visible at Iran bridges and water plant after US attacks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss"
+      },
+      {
+        "title": "US military says two service members killed in Iranian strike in Jordan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss"
+      },
+      {
+        "title": "England 6-4 France: FIFA World Cup 2026 – as it happened",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss"
+      },
+      {
+        "title": "UK’s Josh Kerr smashes longstanding world mile record in London",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-19T02:05:15.089Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
@@ -111646,664 +111986,6 @@
         "title": "At least three killed and hundreds displaced by heavy rain in Chile",
         "source": "Al Jazeera English",
         "url": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-07-18T02:10:13.780Z",
-    "discarded_untrusted": [],
-    "discarded_no_keywords": [
-      {
-        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "White House defends Argentina team over Falklands banner",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "China hits out at British Steel nationalisation",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Uganda suspends school trips after 20 pupils die in bus crash",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump Media to sell instant access to 'market-moving' social posts",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Canada fires prompt US air quality alerts as smoke blankets major cities ",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Philippines condemns monkey video on Chinese media as racist",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kris Jenner's mother Mary Jo dies aged 91",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "At least two dead in Texas floods ravaging same area where campers died",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What this desert city can teach the world about tackling heat deaths",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "He made history in Congress - then the Supreme Court changed its mind",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What to know about the Canadian and US wildfires and their impact",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "More than 500 Rohingya vanished at sea - what happened?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What we know about newly discovered monkey species",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What to know as Genoa bridge disaster trial ends",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What if Bluey spoke one of the world's oldest living languages?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c07y7r91vz9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Israeli army destroys three schools in southern Lebanon, minister says",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss"
-      },
-      {
-        "title": "Targets of latest US strikes on Iran signal strategic shift",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss"
-      },
-      {
-        "title": "Analyst questions Trump’s renewed focus on US election integrity",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss"
-      },
-      {
-        "title": "Landslide in southwest China kills eight and leaves 34 missing",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss"
-      },
-      {
-        "title": "Trump Media reportedly mulling fee for first access to social media posts",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss"
-      },
-      {
-        "title": "UK by-election sees record 34 candidates as Farage seeks return",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss"
-      },
-      {
-        "title": "Homeland Security Secretary Mullin reiterates Trump threats about elections",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/homeland-security-secretary-mullin-reiterates-trump-threats-about-elections?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US and Iran exchange deadly attacks for 7th night",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss"
-      },
-      {
-        "title": "EU urges Israel to halt settlement expansion as settlers attack children",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
-      },
-      {
-        "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss"
-      },
-      {
-        "title": "US launches seventh straight night of strikes on Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss"
-      },
-      {
-        "title": "Herbert leads British Open golf, equals record lowest score at a major",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/herbert-leads-british-open-golf-equals-record-lowest-score-at-a-major?traffic_source=rss"
-      },
-      {
-        "title": "Star speedcubers square off at European championship",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/star-speedcubers-square-off-at-european-championship?traffic_source=rss"
-      },
-      {
-        "title": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss"
-      },
-      {
-        "title": "Food emergency deepens across Uganda’s Karamoja",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/food-emergency-deepens-across-ugandas-karamoja?traffic_source=rss"
-      },
-      {
-        "title": "World Cup winners to receive US-style championship rings, FIFA says",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/world-cup-winners-to-receive-us-style-championship-rings-fifa-says?traffic_source=rss"
-      },
-      {
-        "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss"
-      },
-      {
-        "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings?traffic_source=rss"
-      },
-      {
-        "title": "Top IRS lawyer to resign post amid disagreements with Trump administration",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/top-irs-lawyer-to-resign-post-amid-disagreements-with-trump-administration?traffic_source=rss"
-      },
-      {
-        "title": "Israel, Gaza and the future of US power",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss"
-      },
-      {
-        "title": "How an Italian sculptor created the iconic World Cup trophy",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/how-an-italian-sculptor-created-the-iconic-world-cup-trophy?traffic_source=rss"
-      },
-      {
-        "title": "At least two dead as heavy rains, floods strike central Texas",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss"
-      },
-      {
-        "title": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss"
-      }
-    ],
-    "passed_filters": [],
-    "ai_result": null,
-    "final_status": "NONE"
-  },
-  {
-    "run_at": "2026-07-18T02:05:15.881Z",
-    "discarded_untrusted": [],
-    "discarded_no_keywords": [
-      {
-        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "White House defends Argentina team over Falklands banner",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "One anti-war critic fined, another held as Russia clamps down on opponents",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "China hits out at British Steel nationalisation",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Uganda suspends school trips after 20 pupils die in bus crash",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Trump Media to sell instant access to 'market-moving' social posts",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Canada fires prompt US air quality alerts as smoke blankets major cities ",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Philippines condemns monkey video on Chinese media as racist",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Pele's 1958 World Cup final shirt sells for $4.9m",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Taco Bell removes lettuce from menu in US after links to explosive diarrhoea parasite",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gnglyv0jo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "JD Vance accuses Israel of 'manipulating' US public opinion to prolong Iran war",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kris Jenner's mother Mary Jo dies aged 91",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "At least two dead in Texas floods ravaging same area where campers died",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What this desert city can teach the world about tackling heat deaths",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "He made history in Congress - then the Supreme Court changed its mind",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What to know about the Canadian and US wildfires and their impact",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cx2ln9l60g5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "More than 500 Rohingya vanished at sea - what happened?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What we know about newly discovered monkey species",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Watch: What to know as Genoa bridge disaster trial ends",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cgewd07ee3go?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "What if Bluey spoke one of the world's oldest living languages?",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/c07y7r91vz9o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "title": "Analyst questions Trump’s renewed focus on US election integrity",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/analyst-questions-trumps-renewed-focus-on-us-election-integrity?traffic_source=rss"
-      },
-      {
-        "title": "Landslide in southwest China kills eight and leaves 34 missing",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss"
-      },
-      {
-        "title": "Trump Media reportedly mulling fee for first access to social media posts",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss"
-      },
-      {
-        "title": "UK by-election sees record 34 candidates as Farage seeks return",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss"
-      },
-      {
-        "title": "Homeland Security Secretary Mullin reiterates Trump threats about elections",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/18/homeland-security-secretary-mullin-reiterates-trump-threats-about-elections?traffic_source=rss"
-      },
-      {
-        "title": "Iran war live: US and Iran exchange deadly attacks for 7th night",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss"
-      },
-      {
-        "title": "EU urges Israel to halt settlement expansion as settlers attack children",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/eu-urges-israel-to-halt-settlement-expansion-as-settlers-attack-children?traffic_source=rss"
-      },
-      {
-        "title": "Trump threatens Canada with steeper tariff costs over wildfire smoke",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/trump-threatens-canada-with-steeper-tariff-costs-over-wildfire-smoke?traffic_source=rss"
-      },
-      {
-        "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss"
-      },
-      {
-        "title": "US launches seventh straight night of strikes on Iran",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss"
-      },
-      {
-        "title": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss"
-      },
-      {
-        "title": "Herbert leads British Open golf, equals record lowest score at a major",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/herbert-leads-british-open-golf-equals-record-lowest-score-at-a-major?traffic_source=rss"
-      },
-      {
-        "title": "Star speedcubers square off at European championship",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/star-speedcubers-square-off-at-european-championship?traffic_source=rss"
-      },
-      {
-        "title": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss"
-      },
-      {
-        "title": "Food emergency deepens across Uganda’s Karamoja",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/food-emergency-deepens-across-ugandas-karamoja?traffic_source=rss"
-      },
-      {
-        "title": "World Cup winners to receive US-style championship rings, FIFA says",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/world-cup-winners-to-receive-us-style-championship-rings-fifa-says?traffic_source=rss"
-      },
-      {
-        "title": "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/houthi-supporters-rally-in-sanaa-against-saudi-led?traffic_source=rss"
-      },
-      {
-        "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings?traffic_source=rss"
-      },
-      {
-        "title": "Top IRS lawyer to resign post amid disagreements with Trump administration",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/top-irs-lawyer-to-resign-post-amid-disagreements-with-trump-administration?traffic_source=rss"
-      },
-      {
-        "title": "Israel, Gaza and the future of US power",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss"
-      },
-      {
-        "title": "How an Italian sculptor created the iconic World Cup trophy",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/how-an-italian-sculptor-created-the-iconic-world-cup-trophy?traffic_source=rss"
-      },
-      {
-        "title": "At least two dead as heavy rains, floods strike central Texas",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss"
-      },
-      {
-        "title": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss"
-      },
-      {
-        "title": "At least three killed and hundreds displaced by heavy rain in Chile",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss"
-      },
-      {
-        "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
-        "source": "Al Jazeera English",
-        "url": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89?traffic_source=rss"
       }
     ],
     "passed_filters": [],
