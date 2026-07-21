@@ -1,5 +1,309 @@
 [
   {
+    "run_at": "2026-07-21T14:00:32.923Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Row escalates in Ukraine over army chief's future",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India's 'cockroach' protest continues a day after police crackdown ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tate brothers appear in US court for extradition proceedings",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rare identical quadruplets born in Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boy, 13, dies during World Cup celebrations in Spain ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Paramount and Warner Bros mega merger paused by judge",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hamas names Khalil al-Hayya as new overall leader",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Utah firefighter and four family members killed in flash flooding",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are thousands protesting for education reform in India?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What this desert city can teach the world about tackling heat deaths",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch Texas police officer pull man from burning car",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are Ukraine's military recruiters facing violence in their own country?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Clashes between police and people protesting Italy arrest death",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss"
+      },
+      {
+        "title": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss"
+      },
+      {
+        "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Trump’s new 50 percent Canada tariffs: What products are affected and why?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss"
+      },
+      {
+        "title": "Bodycam shows Florida student tased and arrested by campus police",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/bodycam-shows-florida-student-tased-and-arrested-by-campus-police?traffic_source=rss"
+      },
+      {
+        "title": "Baby trafficking ringleader jailed for 7 years",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss"
+      },
+      {
+        "title": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss"
+      },
+      {
+        "title": "Iran war: Look beyond stocks to understand state of economy, experts say",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say?traffic_source=rss"
+      },
+      {
+        "title": "How a 64-team World Cup could transform football’s economics",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/how-a-64-team-world-cup-could-transform-footballs-economics?traffic_source=rss"
+      },
+      {
+        "title": "India’s ‘cockroach’ protest movement halts marches after police violence",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence?traffic_source=rss"
+      },
+      {
+        "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss"
+      },
+      {
+        "title": "Hamas’s new leader must bridge a movement divided over Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss"
+      },
+      {
+        "title": "‘Won’t back down’: Indian student protesters return after police crackdown",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss"
+      },
+      {
+        "title": "Arizona’s primary elections: Which US races to watch and why they matter",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup 2026: Who had the most goals and assists at the tournament?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss"
+      },
+      {
+        "title": "Can AI systems make moral decisions in war?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss"
+      },
+      {
+        "title": "Andy Burnham to cut taxes on electricity bills, announces new UK cabinet",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/andy-burnham-to-cut-taxes-on-electricity-bills-announces-new-uk-cabinet?traffic_source=rss"
+      },
+      {
+        "title": "Australian MP interrupts tough interview to yell at dog",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/australian-mp-interrupts-tough-interview-to-yell-at-dog?traffic_source=rss"
+      },
+      {
+        "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss"
+      },
+      {
+        "title": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss"
+      },
+      {
+        "title": "Philippine Foreign Secretary says ASEAN must work together",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss"
+      },
+      {
+        "title": "Philippine Foreign Secretary says ASEAN must work together",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together?traffic_source=rss"
+      },
+      {
+        "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-21T13:55:13.529Z",
     "discarded_untrusted": [
       {
