@@ -1,5 +1,169 @@
 [
   {
+    "run_at": "2026-07-21T19:10:17.935Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Row escalates in Ukraine over army chief's future",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India's 'cockroach' protest continues a day after police crackdown ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 41 dead after ferry capsizes off Guyana",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tate brothers appear in US court for extradition proceedings",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boy, 13, dies during World Cup celebrations in Spain ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are thousands protesting for education reform in India?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What this desert city can teach the world about tackling heat deaths",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch Texas police officer pull man from burning car",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are Ukraine's military recruiters facing violence in their own country?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-21T19:05:11.663Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
