@@ -1,5 +1,294 @@
 [
   {
+    "run_at": "2026-07-21T21:40:14.532Z",
+    "discarded_untrusted": [],
+    "discarded_no_keywords": [
+      {
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India's 'cockroach' protest continues a day after police crackdown ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police officers arrested for allegedly seeking roadside bribe from Nigeria's anti-corruption boss",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 41 dead after ferry capsizes off Guyana",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tate brothers appear in US court for extradition proceedings",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boy, 13, dies during World Cup celebrations in Spain ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are thousands protesting for education reform in India?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What this desert city can teach the world about tackling heat deaths",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch Texas police officer pull man from burning car",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are Ukraine's military recruiters facing violence in their own country?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Iran holds funerals for children killed in Minab school strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss"
+      },
+      {
+        "title": "How will Khalil al-Hayya’s leadership shape Hamas?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss"
+      },
+      {
+        "title": "Guyana reports ferry disaster death toll rises to 41",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/guyana-reports-ferry-disaster-death-toll-rises-to-41?traffic_source=rss"
+      },
+      {
+        "title": "Daytime Russian strike kills three in Zaporizhzhia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss"
+      },
+      {
+        "title": "French parliament passes social media ban for under-15s",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s?traffic_source=rss"
+      },
+      {
+        "title": "US funding cuts deal blow to global HIV treatment: Report",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/us-funding-cuts-deal-blow-to-global-hiv-treatment-report?traffic_source=rss"
+      },
+      {
+        "title": "Deposed Turkish opposition leader plans new party",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party?traffic_source=rss"
+      },
+      {
+        "title": "Carney says he and Trump have agreed to ‘intensify’ trade negotiations",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/21/carney-says-he-and-trump-have-agreed-to-intensify-trade-negotiations?traffic_source=rss"
+      },
+      {
+        "title": "Spain battles latest in series of major wildfires near Madrid",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/spain-battles-latest-in-series-of-major-wildfires-near-madrid?traffic_source=rss"
+      },
+      {
+        "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss"
+      },
+      {
+        "title": "US judge blocks Trump bid to strip work permits from immigrants",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/us-judge-blocks-trump-bid-to-strip-work-permits-from-immigrants?traffic_source=rss"
+      },
+      {
+        "title": "India tunnel collapse kills 10 as toxic gases hamper rescue",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss"
+      },
+      {
+        "title": "US agency proposes ending racial and gender workforce data collection",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/21/us-agency-proposes-ending-racial-and-gender-workforce-data-collection?traffic_source=rss"
+      },
+      {
+        "title": "Can mediators broker a truce between the US and Iran?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss"
+      },
+      {
+        "title": "Rescuers search for flood survivors in Afghanistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/rescuers-search-for-flood-survivors-in-afghanistan?traffic_source=rss"
+      },
+      {
+        "title": "Trump says he’s open to talks with Hezbollah, vows to help Lebanon",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/trump-says-hes-open-to-talks-with-hezbollah-vows-to-help-lebanon?traffic_source=rss"
+      },
+      {
+        "title": "Instagram on trial for allegedly harming kids",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/instagram-on-trial-for-allegedly-harming-kids?traffic_source=rss"
+      },
+      {
+        "title": "Netherlands to sanction trade with illegal Israeli settlements",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/netherlands-to-sanction-trade-with-illegal-israeli-settlements?traffic_source=rss"
+      },
+      {
+        "title": "The Houthis may soon discover the limits of Saudi strategic patience",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss"
+      },
+      {
+        "title": "Liverpool FC in talks to sell minority stake to Mittal-backed consortium",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/liverpool-fc-in-talks-to-sell-minority-stake-to-mittal-backed-consortium?traffic_source=rss"
+      },
+      {
+        "title": "Iranians struggle to get by amid US war and domestic woes",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss"
+      },
+      {
+        "title": "Police detain Rahul Gandhi at protest outside PM Modi’s home",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/police-detain-rahul-gandhi-at-protest-outside-pm-modis-home?traffic_source=rss"
+      },
+      {
+        "title": "Rescuers search for survivors amid risk of fresh floods in Afghanistan",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/rescuers-search-for-survivors-amid-risk-of-fresh-floods-in-afghanistan?traffic_source=rss"
+      },
+      {
+        "title": "Where will LeBron James go next? NBA star ‘not rushed’ to make a decision",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/where-will-lebron-james-go-next-nba-star-not-rushed-to-make-a-decision?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s goal to end hostilities with Israel ‘forever’, says president",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/lebanons-goal-to-end-hostilities-with-israel-forever-says-president?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-21T21:35:12.798Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
