@@ -1,5 +1,340 @@
 [
   {
+    "run_at": "2026-07-21T12:00:20.504Z",
+    "discarded_untrusted": [
+      {
+        "title": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes",
+        "source": "inkl",
+        "url": "https://www.inkl.com/news/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying-airstrikes"
+      },
+      {
+        "title": "The red/green axis flexes its muscles in the Democratic Party",
+        "source": "wnd",
+        "url": "https://www.wnd.com/2026/07/red-green-axis-flexes-its-muscles-democratic-party/"
+      },
+      {
+        "title": "Facing the fallout: Downwinders push to expand nuclear compensation law",
+        "source": "dchieftain",
+        "url": "https://www.dchieftain.com/news/facing-the-fallout-downwinders-push-to-expand-nuclear-compensation-law/3086283"
+      },
+      {
+        "title": "Retired Navy officer makes grim Iran prediction as conflict reignites",
+        "source": "express",
+        "url": "https://www.the-express.com/news/world-news/212284/retired-navy-officer-makes-grim"
+      },
+      {
+        "title": "Dire warning as Trump makes 'world's worst nightmare' worse: 'Future looks pretty grim'",
+        "source": "rawstory",
+        "url": "https://www.rawstory.com/trump-nuclear-war-2677247929/"
+      },
+      {
+        "title": "Exclusive: ‘The Republic of Balochistan is no longer a dream’ — Mir Yar Baloch explains why Pakistan has lost control",
+        "source": "weeklyblitz",
+        "url": "https://weeklyblitz.net/2026/07/21/mir-yar-baloch-exclusive-interview-balochistan-independence/"
+      },
+      {
+        "title": "‘No deal’: JD Vance’s Iran fantasy could cost America everything",
+        "source": "washingtonexaminer",
+        "url": "https://www.washingtonexaminer.com/op-eds/4655620/jd-vance-iran-deal-fantasy-negotiations/"
+      },
+      {
+        "title": "US greenlights Saudi nuclear enrichment without safeguards: Report",
+        "source": "middleeasteye",
+        "url": "https://www.middleeasteye.net/news/us-greenlights-saudi-nuclear-enrichment-without-safeguards-report"
+      },
+      {
+        "title": "The Iran War Is Back, Sort Of",
+        "source": "reason",
+        "url": "https://reason.com/2026/07/20/the-iran-war-is-back-sort-of/"
+      },
+      {
+        "title": "Readers’ letters: Britain is living on borrowed time, ideas and money",
+        "source": "scotsman",
+        "url": "https://www.scotsman.com/news/opinion/letters/readers-letters-britain-is-living-on-borrowed-time-ideas-and-money-8811932"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tate brothers appear in US court for extradition proceedings",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rare identical quadruplets born in Australia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Boy, 13, dies during World Cup celebrations in Spain ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Paramount and Warner Bros mega merger paused by judge",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hamas names Khalil al-Hayya as new overall leader",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Utah firefighter and four family members killed in flash flooding",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are thousands protesting for education reform in India?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "This farmer wanted to quit the cocaine industry - he couldn't",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Private jets flock to Montana - but locals can't afford the trailer park",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "What this desert city can teach the world about tackling heat deaths",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Flooded towns and evacuations as Chile hit by heavy rain",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Why are Ukraine's military recruiters facing violence in their own country?",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Spanish and Argentinian fans react outside World Cup final",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/czxqr9rl9r0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Hunger is falling but is still higher than pre-COVID levels: UN report",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/hunger-is-falling-but-is-still-higher-than-pre-covid-levels-un-report?traffic_source=rss"
+      },
+      {
+        "title": "Hamas’s new leader must bridge a movement divided over Iran",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss"
+      },
+      {
+        "title": "‘Won’t back down’: Indian student protesters return after police crackdown",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/wont-back-down-indian-student-protesters-return-after-police-crackdown?traffic_source=rss"
+      },
+      {
+        "title": "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/lebanese-president-set-to-meet-trump-as-beirut-seeks-israeli-withdrawal?traffic_source=rss"
+      },
+      {
+        "title": "Arizona’s primary elections: Which US races to watch and why they matter",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss"
+      },
+      {
+        "title": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss"
+      },
+      {
+        "title": "Can AI systems make moral decisions in war?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss"
+      },
+      {
+        "title": "Australian MP interrupts tough interview to yell at dog",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/australian-mp-interrupts-tough-interview-to-yell-at-dog?traffic_source=rss"
+      },
+      {
+        "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss"
+      },
+      {
+        "title": "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/argentina-grapple-with-world-cup-villainy-amid-samuel-l-jackson-led-slant?traffic_source=rss"
+      },
+      {
+        "title": "Philippine Foreign Secretary says ASEAN must work together",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss"
+      },
+      {
+        "title": "Philippine Foreign Secretary says ASEAN must work together",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together?traffic_source=rss"
+      },
+      {
+        "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss"
+      },
+      {
+        "title": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss"
+      },
+      {
+        "title": "Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/farage-reform-in-trouble-as-uk-braces-for-crypto-influence-in-politics?traffic_source=rss"
+      },
+      {
+        "title": "Israeli forces open fire on children in Syrian village",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israeli-forces-open-fire-on-children-in-syrian-village?traffic_source=rss"
+      },
+      {
+        "title": "Bangladesh face Australia Test might as Cummins, Hazlewood and Lyon return",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/bangladesh-face-australia-test-might-as-cummins-hazlewood-and-lyon-return?traffic_source=rss"
+      },
+      {
+        "title": "Moment terrifying floodwaters sweep through Afghan village",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/moment-terrifying-floodwaters-sweep-through-afghan-village?traffic_source=rss"
+      },
+      {
+        "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss"
+      },
+      {
+        "title": "World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss"
+      },
+      {
+        "title": "‘Active in BDS’: Document reveals how Israel scrutinised global NGOs",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss"
+      },
+      {
+        "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss"
+      },
+      {
+        "title": "Many Christian voters in the US see Trump as ‘chosen’ by God to lead",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_trump-as-chosen-by-god-to-lead-210726?traffic_source=rss"
+      },
+      {
+        "title": "Argentina players receive heroes’ welcome home despite World Cup defeat",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/argentina-players-receive-heroes-welcome-home-despite-world-cup-defeat?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-21T11:55:12.325Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
