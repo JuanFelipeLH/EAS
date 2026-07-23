@@ -1,5 +1,370 @@
 [
   {
+    "run_at": "2026-07-23T12:20:11.880Z",
+    "discarded_untrusted": [
+      {
+        "title": "The Iran war could consume the Trump presidency",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/opinion/the-iran-war-could-consume-the-trump-presidency-11784716419048.html"
+      },
+      {
+        "title": "China demands Australia stop 'inciting confrontation' over South China Sea",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-22/china-australia-south-china-sea-philippines-tension/106946822"
+      },
+      {
+        "title": "Stop Judging Airpower Against Missions It Was Never Assigned",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/davedeptula/2026/07/22/stop-judging-airpower-against-missions-it-was-never-assigned/"
+      },
+      {
+        "title": "AI world stunned by OpenAI model that secretly escaped secure environment and hacked into a rival company",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/07/22/openai-model-secretly-escaped-hacked-into-hugging-face/"
+      },
+      {
+        "title": "Indian Army’s Integrated Battle Groups Are Crystallizing ‘Cold Start’ Doctrine",
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/07/indian-armys-integrated-battle-groups-are-crystallizing-cold-start-doctrine/"
+      },
+      {
+        "title": "Global Heating: Trump Is a Human Atomic Bomb",
+        "source": "Juancole.com",
+        "url": "https://www.juancole.com/2026/07/global-heating-atomic.html"
+      },
+      {
+        "title": "Genetic background sets the trajectory of experimental cancer evolution",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41586-026-10821-z"
+      },
+      {
+        "title": "Subnuclear genome compartmentalization controls bivalent chromatin activity",
+        "source": "Nature.com",
+        "url": "https://www.nature.com/articles/s41586-026-10832-w"
+      },
+      {
+        "title": "The biggest atomic blast in Australia happened 70 years ago – mysteries about its impact linger",
+        "source": "The Conversation Africa",
+        "url": "https://theconversation.com/the-biggest-atomic-blast-in-australia-happened-70-years-ago-mysteries-about-its-impact-linger-286442"
+      },
+      {
+        "title": "Walkatjurra 2023 1080P WEB H264-GRASHOPR",
+        "source": "Rlsbb.cc",
+        "url": "https://post.rlsbb.cc/walkatjurra-2023-1080p-web-h264-grashopr/"
+      },
+      {
+        "title": "Where to stream Christopher Nolan’s movies as ‘The Odyssey’ rules the box office",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/07/21/entertainment/how-to-stream-the-odyssey-director-christopher-nolans-other-movies/"
+      },
+      {
+        "title": "Donald Trump: An Atomic Bomb of a President",
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/opinion/donald-trump-atomic-bomb"
+      },
+      {
+        "title": "The Iran Expert Trump Fired",
+        "source": "Foreign Policy",
+        "url": "http://foreignpolicy.com/2026/07/21/nate-swanson-iran-war-mou-memorandum-understanding/"
+      },
+      {
+        "title": "Christopher Nolan and ‘The Odyssey’ Cast Break Down Ties to ‘Oppenheimer,’ Elevating Homer’s Female Characters and Why Nolan Avoided Yelling ‘Cut!’ on Set",
+        "source": "Variety",
+        "url": "https://variety.com/2026/film/news/christopher-nolan-explains-odyssey-oppenheimer-feminism-1236817097/"
+      },
+      {
+        "title": "Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash",
+        "source": "SiliconANGLE News",
+        "url": "https://siliconangle.com/2026/07/21/google-expands-gemini-cheaper-models-bug-hunter-keeps-leash/"
+      },
+      {
+        "title": "Dealing with war stress",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/opinion/dealing-with-war-stress/article71246201.ece"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "China is building a massive ship that should scare Americans about the future",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/china-building-massive-ship-scare-americans-future"
+      },
+      {
+        "title": "Japanese company unveils futuristic cooling box that blasts cold air at users in bizarre way to beat the heat",
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/outkick-culture/japanese-company-unveils-futuristic-cooling-box-blasts-cold-air-users-bizarre-way-beat-heat"
+      },
+      {
+        "title": "Naveen calls for Dharmendra’s resignation; ex-CM should check his govt’s track record: BJP",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/naveen-calls-for-dharmendras-resignation-ex-cm-should-check-his-govts-track-record-bjp/articleshow/132543781.cms"
+      },
+      {
+        "title": "KLE students excel in medical entrance test",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/hubballi/kle-students-excel-in-medical-entrance-test/articleshow/132542443.cms"
+      },
+      {
+        "title": "US signs landmark nuclear deal with Saudi Arabia",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Tankers make sharp U-turns after Houthi shipping threat",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Google burning through cash with spiralling AI costs",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fire kills 10 members of same family in Peru, police say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police formally investigate woman after Brit stabbed to death in French village",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Modelling scout linked to Epstein found dead in Paris",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What we know about the US-Saudi nuclear deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Louvre reopens gallery after jewellery heist",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch Texas police officer pull man from burning car",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Can Iran withstand new pressure from the US?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/project-force-2/2026/7/23/can-iran-withstand-new-pressure-from-the-us?traffic_source=rss"
+      },
+      {
+        "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss"
+      },
+      {
+        "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss"
+      },
+      {
+        "title": "Israel releases 35 detainees from Gaza",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss"
+      },
+      {
+        "title": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss"
+      },
+      {
+        "title": "Women’s Africa Cup of Nations 2026: What to know about the tournament",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/23/womens-africa-cup-of-nations-2026-wafcon-what-to-know-about-the-tournament?traffic_source=rss"
+      },
+      {
+        "title": "Rubio says US policy on Iran is ‘a head for an eye’",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rubio-says-us-policy-on-iran-is-a-head-for-an?traffic_source=rss"
+      },
+      {
+        "title": "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss"
+      },
+      {
+        "title": "Norway to make formal complaint to FIFA over Balogun red card saga",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/23/norway-to-make-formal-complaint-to-fifa-over-balogun-red-card-saga?traffic_source=rss"
+      },
+      {
+        "title": "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss"
+      },
+      {
+        "title": "Thai sailors sue owners of cargo ship hit in Hormuz",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/thai-sailors-sue-owners-of-cargo-ship-hit-in-hormuz?traffic_source=rss"
+      },
+      {
+        "title": "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss"
+      },
+      {
+        "title": "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/7/23/televising-our-revolution-indias-gen-z-flips-modis-social-media-game?traffic_source=rss"
+      },
+      {
+        "title": "More than 3,200 Israelis storm Al-Aqsa Mosque in Jerusalem",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/more-than-2300-israelis-storm-al-aqsa-mosque-in-jerusalem?traffic_source=rss"
+      },
+      {
+        "title": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss"
+      },
+      {
+        "title": "Indian activist Wangchuk sets conditions to end hunger strike",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-activist-wangchuk-sets-conditions-to-end-hunger-strike?traffic_source=rss"
+      },
+      {
+        "title": "Photos: Gaza’s shelter crisis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss"
+      },
+      {
+        "title": "Travellers panic as US attacks Iran-Iraq border crossing",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss"
+      },
+      {
+        "title": "India’s Modi promises fast-track courts for exam fraud fuelling protests",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/indias-modi-promises-fast-track-courts-for-exam-fraud-fuelling-protests?traffic_source=rss"
+      },
+      {
+        "title": "Top US and Russian diplomats discuss Ukraine war in Manila",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/top-us-and-russian-diplomats-discuss-ukraine-war-in-manila?traffic_source=rss"
+      },
+      {
+        "title": "Arsenal defender Saliba sidelined for ‘extended period’ due to back injury",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/sports/2026/7/23/william-saliba-back-injury-arsenal-france-world-cup?traffic_source=rss"
+      },
+      {
+        "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss"
+      },
+      {
+        "title": "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss"
+      },
+      {
+        "title": "Thousands forced to evacuate as wildfires sweep across southern France",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss"
+      },
+      {
+        "title": "US attacks Iran for 12th night as the House approves defence spending",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-23T12:15:34.766Z",
     "discarded_untrusted": [
       {
