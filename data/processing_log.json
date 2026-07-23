@@ -1,5 +1,335 @@
 [
   {
+    "run_at": "2026-07-23T21:35:16.797Z",
+    "discarded_untrusted": [
+      {
+        "title": "Houthis say they attacked 2 Saudi oil tankers in the Red Sea as US carries out 12th night of strikes",
+        "source": "the_journal",
+        "url": "https://www.the-journal.com/articles/houthis-say-they-attacked-2-saudi-oil-tankers-in-the-red-sea-as-us-carries-out-12th-night-of-strikes/"
+      },
+      {
+        "title": "Houthis say they attacked 2 Saudi oil tankers in the Red Sea as US carries out 12th night of strikes",
+        "source": "mankatofreepress",
+        "url": "https://www.mankatofreepress.com/news/state_national_news/houthis-say-they-attacked-2-saudi-oil-tankers-in-the-red-sea-as-us-carries/article_e09813c5-0fb1-5552-b45f-09c1d0cab381.html"
+      },
+      {
+        "title": "Houthis say they attacked 2 Saudi oil tankers in Red Sea as U.S. carries out 12th night of strikes",
+        "source": "thehindu",
+        "url": "https://www.thehindu.com/news/international/houthis-say-they-attacked-2-saudi-oil-tankers-in-red-sea-as-us-carries-out-12th-night-of-strikes/article71257147.ece"
+      },
+      {
+        "title": "Houthis say they attacked 2 Saudi oil tankers in the Red Sea as US carries out 12th night of strikes",
+        "source": "wsvn",
+        "url": "https://wsvn.com/news/us-world/houthis-say-they-attacked-2-saudi-oil-tankers-in-the-red-sea-as-us-carries-out-12th-night-of-strikes/"
+      },
+      {
+        "title": "US reaches nuclear power deal with Saudi Arabia",
+        "source": "theprint_hi",
+        "url": "https://theprint.in/world/us-reaches-nuclear-power-deal-with-saudi-arabia/2994397/"
+      },
+      {
+        "title": "Houthis strike two Saudi oil tankers in Red Sea amid U.S. threat of escalation",
+        "source": "theglobeandmail",
+        "url": "https://www.theglobeandmail.com/world/article-houthis-red-sea-saudi-tankers-us-iran/"
+      },
+      {
+        "title": "Trump continues claims that Iran wants to make a deal despite 12th consecutive night of strikes",
+        "source": "wbaltv",
+        "url": "https://www.wbaltv.com/article/trump-still-claims-iran-wants-to-make-a-deal-despite-12th-night-of-strikes/73241473"
+      },
+      {
+        "title": "Yemeni Houthis say they attacked Saudi oil tankers in Red Sea as US carries out 12th night of strikes",
+        "source": "adn",
+        "url": "https://www.adn.com/nation-world/2026/07/23/yemeni-houthis-say-they-attacked-saudi-oil-tankers-in-red-sea-as-us-carries-out-12th-night-of-strikes/"
+      },
+      {
+        "title": "Iran halts three oil tankers in Strait of Hormuz amid ongoing US strikes",
+        "source": "sambadenglish",
+        "url": "https://sambadenglish.com/national-international-news/world/iran-halts-three-oil-tankers-in-strait-of-hormuz-amid-ongoing-us-strikes-12190633"
+      },
+      {
+        "title": "In signing a nuclear deal with Saudi Arabia, the US sends a 'signal' to Iran",
+        "source": "nzcity",
+        "url": "https://home.nzcity.co.nz/news/article.aspx?id=450520"
+      }
+    ],
+    "discarded_no_keywords": [
+      {
+        "title": "Oil prices hit $100 for the first time since May",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "India activist ends hunger strike after 26 days",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ukraine's ousted defence minister insists on being reinstated",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Nicaragua's legislature debates barring opposition from elections",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ex-governor convicted of murdering a pregnant student in Kenya",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "South Korea woman acquitted of murdering newborn after hospital delivery",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Google and Tesla shares plunge as AI spending rattles markets ",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Fire kills 10 members of same family in Peru, police say",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c3ek3l9gp7go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Liquor store employee narrowly escapes leopard attack",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cly893zrjgdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: What we know about the US-Saudi nuclear deal",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/cn5n725lkg7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Louvre reopens gallery after jewellery heist",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/c1m15l8kgejo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "title": "Rally attendee steals the show by mimicking Trump’s gestures",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/rally-attendee-steals-the-show-by-mimicking-trumps-gestures?traffic_source=rss"
+      },
+      {
+        "title": "France wildfires force evacuation of over 20,000 people from tourist town",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/france-wildfires-force-evacuation-of-over-20000-people-from-tourist-town?traffic_source=rss"
+      },
+      {
+        "title": "Videos show the moment police officer shoots man on street in Wisconsin",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/videos-show-the-moment-police-officer-shoots-man-on-street-in-wisconsin?traffic_source=rss"
+      },
+      {
+        "title": "White House says will not block Tate brothers’ extradition to UK",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/white-house-says-will-not-block-tate-brothers-extradition-to-uk?traffic_source=rss"
+      },
+      {
+        "title": "Deadly monsoon floods kill at least 40 in India",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/deadly-monsoon-floods-kill-at-least-40-in-india?traffic_source=rss"
+      },
+      {
+        "title": "US government cancels subpoena against three New York Times reporters",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/us-government-cancels-subpoena-against-three-new-york-times-reporters?traffic_source=rss"
+      },
+      {
+        "title": "How Sudan war is putting cancer patients at risk",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-sudan-war-is-putting-cancer-patients-at-risk?traffic_source=rss"
+      },
+      {
+        "title": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss"
+      },
+      {
+        "title": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss"
+      },
+      {
+        "title": "Journalist killed in Mexico after years of exposing corruption",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss"
+      },
+      {
+        "title": "Resumption of oil exports: Will Yemen recover its economic lifeline?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/economy/2026/7/23/resumption-of-oil-exports-will-yemen-recover-its-economic-lifeline?traffic_source=rss"
+      },
+      {
+        "title": "Can India’s youth-led protest movement bring lasting change?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/can-indias-youth-led-protest-movement-bring-lasting-change?traffic_source=rss"
+      },
+      {
+        "title": "Children wounded in Israeli strike on Khan Younis",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss"
+      },
+      {
+        "title": "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/world-bank-estimates-venezuela-earthquakes-caused-19-6bn-in-damage?traffic_source=rss"
+      },
+      {
+        "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss"
+      },
+      {
+        "title": "Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/bordeaux-wildfire-burns-3100-hectares-20000-evacuated?traffic_source=rss"
+      },
+      {
+        "title": "UK’s Burnham tells Scotland new independence vote is off limits",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/uks-burnham-tells-scotland-new-independence-vote-is-off-limits?traffic_source=rss"
+      },
+      {
+        "title": "What are the security implications of the US-Saudi nuclear deal?",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal?traffic_source=rss"
+      },
+      {
+        "title": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss"
+      },
+      {
+        "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss"
+      },
+      {
+        "title": "A Game of Double Standards",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/featured-documentaries/2026/7/23/a-game-of-double-standards?traffic_source=rss"
+      },
+      {
+        "title": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah?traffic_source=rss"
+      },
+      {
+        "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss"
+      },
+      {
+        "title": "Yemen faces a new challenge amid prospects of confrontation",
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss"
+      }
+    ],
+    "passed_filters": [],
+    "ai_result": null,
+    "final_status": "NONE"
+  },
+  {
     "run_at": "2026-07-23T21:30:16.325Z",
     "discarded_untrusted": [],
     "discarded_no_keywords": [
